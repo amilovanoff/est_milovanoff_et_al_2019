@@ -5,7 +5,7 @@ This repository contains the input data, R codes and results of the model develo
 <sup>c</sup> Department of Chemical Engineering & Applied Chemistry, University of Toronto, 200 College Street, Toronto, Ontario, M5S 3E5 Canada  
 
 # How to use this repository
-This repository is archived. It will not be updated but can be cloned and can serve new researches in the field. Feel free me to contact if you have any questions via email (alexandre.milovanoff@mail.utoronto.ca) or by GitHub @amilovanoff.
+This repository will not be updated but can be cloned and can serve new researches in the field. Feel free me to contact if you have any questions via email (alexandre.milovanoff@mail.utoronto.ca) or by GitHub @amilovanoff.
 
 # How to set up the model the first time
 * Download the model from this repository on your local computer.
