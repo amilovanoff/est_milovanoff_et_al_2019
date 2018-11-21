@@ -1,4 +1,4 @@
-#This script create the data of primary aluminum used in the different regions using the MFA of apparent consumption of primary aluminum
+###>Function: Calculates the annual life cycle GHG emission factors of primary aluminum consumption in the U.S. using apparent consumption mixes
 lca_ef_prim_alu_f<-function(fast_mode="n"){
   #Argument's reader
   source("architecture/attribute_f.R",local=TRUE)

@@ -1,3 +1,4 @@
+###>Function: Returns the absolute fuel consumption changes associated with a vehicle type (i.e., size and technology) at a particular year
 fc_impro_f<-function(size,
                      techno,
                      year,

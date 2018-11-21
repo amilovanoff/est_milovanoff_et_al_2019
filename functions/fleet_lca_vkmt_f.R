@@ -1,3 +1,4 @@
+###>Function: Calculate the total annual life cycle GHG emissions of the light-duty fleet divided the total annual fleet kilometers travelled and cumulative values from the first year of lightweigthing implementation
 fleet_lca_vkmt_f<-function(lcia_cat=NA,
                            lw_first_yr=NA,
                            fast_mode="n"){

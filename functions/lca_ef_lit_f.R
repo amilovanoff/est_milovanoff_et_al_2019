@@ -1,3 +1,4 @@
+###>Function: Returns the static GHG emission factors from literature
 lca_ef_lit_f<-function (techno="ns",
                         lcia_method = NA,
                         lcia_cat = NA,

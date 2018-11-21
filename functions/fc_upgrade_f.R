@@ -1,7 +1,4 @@
-#Function: Upgrade the FC values from size, techno, fuel type, previous FC, year, and wgt savings
-#frv_pwt_r: Specify if FRV consider powertrain resizing or not
-#fc_impro: Improvement scenario for FC
-#frv_src: Specify the source of FRV
+###>Function: Update the fuel consumptions of a vehicle type (i.e., size and technology) from year-1 and year by including technological changes and weight changes
 fc_upgrade_f<-function(size,
                        techno,
                        fuel_type, 

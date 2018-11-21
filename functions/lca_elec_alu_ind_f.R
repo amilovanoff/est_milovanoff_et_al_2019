@@ -1,4 +1,4 @@
-#Function that creates the dynamic emissions factors of the electricity production for aluminum industries per region
+###>Function: Returns the annual GHG emission factors of electricity production for aluminum industries per region
 lca_elec_alu_ind_f<-function(last_yr=NA){
   #Source
   source("architecture/attribute_f.R",local=TRUE)

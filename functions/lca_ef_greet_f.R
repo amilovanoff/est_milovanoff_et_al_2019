@@ -1,3 +1,4 @@
+###>Function: Returns the static emission factors taken from the GREET model
 lca_ef_greet_f<-function (aeo_scen = NA,
                          lcia_method = NA,
                          lcia_cat = NA,

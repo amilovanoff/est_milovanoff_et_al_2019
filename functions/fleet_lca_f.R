@@ -1,4 +1,4 @@
-###>Function: Calculate the life cycle GHG emissions of the light-duty fleet by life cycle processes, stages and total.
+###>Function: Calculate the life cycle GHG emissions of the light-duty fleet by life cycle processes, stages and total
 fleet_lca_f<-function(last_yr=NA,
                       lcia_method=NA,
                       lcia_cat=NA,

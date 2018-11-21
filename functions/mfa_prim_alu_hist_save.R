@@ -1,5 +1,5 @@
-###>Function: Creates the list of producing regions per country per year.
-#THIS FUNCTION IS NOT MEANT TO BE RAN. It creates a list of dataframe to be stored in interm_results
+###>Script: Creates the list of producing regions by country per year
+#THIS SCRIPT IS NOT MEANT TO BE RAN UNDER NORMAL SITUATION. It creates .Rdata to be stored in outputs/out_def
 mfa_prim_alu_hist_f<-function(mfa_alu_cont=NA,
                               kastner_mdl=NA){
   source("architecture/attribute_f.R",local=TRUE)

@@ -1,4 +1,4 @@
-# This script creates the dynamic inputs for primary aluminum with the historical data of energy efficiency from IAI
+###>Function: Calculate the annual inputs for primary aluminum GHG emission factor calcualtion with historical data of energy efficiency from IAI
 lca_prim_alu_inputs_f<-function(last_yr=NA,
                                 alu_eff_impro=NA){
   #Source

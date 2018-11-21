@@ -1,3 +1,4 @@
+###>Function: Returns the component material composition of a vehicle after secondary weight changes from initial component material composition and component material composition after primary weight changes
 alonso_sms_f <- function(mat_cont,
                          mat_cont_LW,
                          alonso_pwt_r=NA,

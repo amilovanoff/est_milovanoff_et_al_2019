@@ -31,6 +31,7 @@
 "fc_impro_f","fuel_type","","Implicit"
 "fc_impro_f","fc_impro",,"Explicit"
 "fc_impro_f","aeo_scen",,"Explicit"
+"fc_impro_f","fast_mode","n","Run"
 "fc_upgrade_f","size","","Implicit"
 "fc_upgrade_f","techno","","Implicit"
 "fc_upgrade_f","fuel_type","","Implicit"

@@ -1,4 +1,4 @@
-#Create the recovery rates per material 
+###>Function: Returns the annual recovery rates by material from scrapped vehicles
 rec_rate_f<-function(rec_scen=NA){
   #Assign the default values of arguments
   source("architecture/attribute_f.R",local = TRUE)

@@ -1,49 +1,49 @@
-Attribute,Type,Value,Default,All,Description
-adj_stock,cha,y,y,y;n,Prospective fleet stock adjustement
-aeo_scen,cha,REF,REF,REF;REF_EV;REF_BAU;LOP;LOP_EV;LOP_BAU;HOP;HOP_EV;HOP_BAU,AEO scenario
-alonso_pwt_r,cha,n,n,y;n,Powertrain resizing model (Alonso)
-alonso_sms_ratio,num,1,1,0;1,Secondary savings ratio
-alonso_svg,cha,y,y,y;n,Secondary savings model (Alonso)
-alu_eff_impro,cha,y,y,y;n,Prospective aluminum production energy efficiency improvement
-bat_impro,cha,y,y,y;n,Prospective battery technology improvement
-bat_resz_ratio,num,1,1,0;1,Battery resizing ratio
-BEV_bat_t,cha,Li_ion LMO,Li_ion LMO,Li_ion LMO;Ni_MH,Battery chemistry for BEV
-country,cha,United States,United States,United States;Canada;China,Primary aluminum consumption country
-ef_bat_mdl,cha,def,def,low;def;high,Emission factor for battery production
-ef_elec_impro,cha,y,y,y;n,Prospective U.S. electricity mixes for BEV and PHEV
-ef_hss_mdl,cha,def,def,def;high,Emission factor for HSS production
-ef_steel_mdl,cha,def,def,low;def;high,Emission factor for conventional steel production
-ev_bat_size_mdl,cha,def,def,low;high;def,Initial electric  battery capacity of BEV 
-fc_dr_city,num,0.55,0.55,0.55,Ratio of city driving
-fc_ev_mdl,cha,def,def,low;def;high,Fuel consumption of EV model
-fc_impro,cha,Med,Med,n;High;Med,Fuel consumption improvement level
-FCV_bat_t,cha,Li_ion LMO,Li_ion LMO,Li_ion LMO;Ni_MH,Battery chemistry for FCV
-feature_wgt,cha,def,def,def;n;high,Annual weight increase due to feature content
-frv_impro,cha,Med,Med,n;High;Med,Prospective improvements in FRV calculations
-frv_pwt_r,num,0.5,0.5,0;0.5;1,Ratio of powertrain adjustments in FRV calculations
-frv_src,cha,Kim,Kim,Kim,Source of FRV
-HEV_bat_t,cha,Ni_MH,Ni_MH,Li_ion LMO;Ni_MH,Battery chemistry for HEV
-kastner_mdl,cha,n,n,y;n,Apply Kastner model to consumption of primary aluminum
-last_yr,num,2050,2050,2050,Last year of the model simulations
-lcia_cat,cha,GWP100,GWP100,GWP100,LCIA category
-lcia_method,cha,ipcc_2013,ipcc_2013,ipcc_2013,LCIA method
-lw_first_yr,num,2016,2016,2016,First-year of lightweighting implementation
-lw_last_yr,num,2030,2030,2030,Last-year of lightweighting implementation
-LWscen_tbc,cha,own,own,own,Lightweighting scenario to run
-mackenzie_svg,cha,y,y,y;n,Powertrain secondary savings (MacKenzie equations)
-mat_cont_adj,cha,y,y,y;n,Adjustment of initial vehicle material content
-mfa_alu_cont,cha,low,low,low;high,Aluminum products to consider (resources.trades)
-mfa_alu_proj,cha,constant,constant,constant;local;trends,Prospective U.S. consumption mixes of primary aluminum
-mod_scen_GREET,cha,1,1,1;2,GREET scenario for initial alternative vehicle curb weight
-PHEV_bat_t,cha,Li_ion LMO,Li_ion LMO,Li_ion LMO;Ni_MH,Battery chemistry for PHEV
-pwtr_resz_ratio,num,1,1,0;1,Secondary mass savings due to powertrain resizing
-range_BEV,cha,all,all,100;300;all,2015-range for BEV
-range_PHEV,cha,all,all,20;40;all,2015-range for PHEV
-rec_scen,cha,BAU,BAU,BAU;CL100,Automotive material recovery
-sms_coef_rand,cha,n,n,n,Generates randome values for SMS coefficients (Alonso)
-sms_cutoff,num,0.5,0.5,0.5,Cut-off for SMS calculations
-sub_fac_fun,cha,mean,mean,min;mean;max,Substitution factor model
-survival_rate_mdl,num,1,1,1;2;3;4,Vehicle survival function
-vh_lca_yrs,cha,2015 2030,2015 2030,2015 2030,Years to generate LCA results
-vkmt_model,cha,Growth,Growth,Constant;Growth,Prospective VKMT model
-wgt_scen_GREET,cha,3,3,1;2;3;4,GREET size for vehicle category
+"Attribute","Type","Value","Default","All","Description"
+"adj_stock","cha","y","y","y;n","Prospective fleet stock adjustement"
+"aeo_scen","cha","REF","REF","REF;REF_EV;REF_BAU;LOP;LOP_EV;LOP_BAU;HOP;HOP_EV;HOP_BAU","AEO scenario"
+"alonso_pwt_r","cha","n","n","y;n","Powertrain resizing model (Alonso)"
+"alonso_sms_ratio","num","1","1","0;1","Secondary savings ratio"
+"alonso_svg","cha","y","y","y;n","Secondary savings model (Alonso)"
+"alu_eff_impro","cha","y","y","y;n","Prospective aluminum production energy efficiency improvement"
+"bat_impro","cha","y","y","y;n","Prospective battery technology improvement"
+"bat_resz_ratio","num","1","1","0;1","Battery resizing ratio"
+"BEV_bat_t","cha","Li_ion LMO","Li_ion LMO","Li_ion LMO;Ni_MH","Battery chemistry for BEV"
+"country","cha","United States","United States","United States;Canada;China","Primary aluminum consumption country"
+"ef_bat_mdl","cha","def","def","low;def;high","Emission factor for battery production"
+"ef_elec_impro","cha","y","y","y;n","Prospective U.S. electricity mixes for BEV and PHEV"
+"ef_hss_mdl","cha","def","def","def;high","Emission factor for HSS production"
+"ef_steel_mdl","cha","def","def","low;def;high","Emission factor for conventional steel production"
+"ev_bat_size_mdl","cha","def","def","low;high;def","Initial electric  battery capacity of BEV "
+"fc_dr_city","num","0.55","0.55","0.55","Ratio of city driving"
+"fc_ev_mdl","cha","def","def","low;def;high","Fuel consumption of EV model"
+"fc_impro","cha","Med","Med","n;High;Med","Fuel consumption improvement level"
+"FCV_bat_t","cha","Li_ion LMO","Li_ion LMO","Li_ion LMO;Ni_MH","Battery chemistry for FCV"
+"feature_wgt","cha","def","def","def;n;high","Annual weight increase due to feature content"
+"frv_impro","cha","Med","Med","n;High;Med","Prospective improvements in FRV calculations"
+"frv_pwt_r","num","0.5","0.5","0;0.5;1","Ratio of powertrain adjustments in FRV calculations"
+"frv_src","cha","Kim","Kim","Kim","Source of FRV"
+"HEV_bat_t","cha","Ni_MH","Ni_MH","Li_ion LMO;Ni_MH","Battery chemistry for HEV"
+"kastner_mdl","cha","n","n","y;n","Apply Kastner model to consumption of primary aluminum"
+"last_yr","num","2050","2050","2050","Last year of the model simulations"
+"lcia_cat","cha","GWP100","GWP100","GWP100","LCIA category"
+"lcia_method","cha","ipcc_2013","ipcc_2013","ipcc_2013","LCIA method"
+"lw_first_yr","num","2016","2016","2016","First-year of lightweighting implementation"
+"lw_last_yr","num","2030","2030","2030","Last-year of lightweighting implementation"
+"LWscen_tbc","cha","own","own","own","Lightweighting scenario to run"
+"mackenzie_svg","cha","y","y","y;n","Powertrain secondary savings (MacKenzie equations)"
+"mat_cont_adj","cha","y","y","y;n","Adjustment of initial vehicle material content"
+"mfa_alu_cont","cha","low","low","low;high","Aluminum products to consider (resources.trades)"
+"mfa_alu_proj","cha","constant","constant","constant;local;trends","Prospective U.S. consumption mixes of primary aluminum"
+"mod_scen_GREET","cha","1","1","1;2","GREET scenario for initial alternative vehicle curb weight"
+"PHEV_bat_t","cha","Li_ion LMO","Li_ion LMO","Li_ion LMO;Ni_MH","Battery chemistry for PHEV"
+"pwtr_resz_ratio","num","1","1","0;1","Secondary mass savings due to powertrain resizing"
+"range_BEV","cha","all","all","100;300;all","2015-range for BEV"
+"range_PHEV","cha","all","all","20;40;all","2015-range for PHEV"
+"rec_scen","cha","BAU","BAU","BAU;CL100","Automotive material recovery"
+"sms_coef_rand","cha","n","n","n","Generates randome values for SMS coefficients (Alonso)"
+"sms_cutoff","num","0.5","0.5","0.5","Cut-off for SMS calculations"
+"sub_fac_fun","cha","mean","mean","min;mean;max","Substitution factor model"
+"survival_rate_mdl","num","1","1","1;2;3;4","Vehicle survival function"
+"vh_lca_yrs","cha","2015 2030","2015 2030","2015 2030","Years to generate LCA results"
+"vkmt_model","cha","Growth","Growth","Constant;Growth","Prospective VKMT model"
+"wgt_scen_GREET","cha","3","3","1;2;3;4","GREET size for vehicle category"

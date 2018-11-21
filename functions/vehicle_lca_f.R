@@ -1,4 +1,4 @@
-#Build the classic data of the vehicles included in the model
+###>Function: Calculates the single-vehicle life cycle GHG emissions by vehicle with and without temporal distributions
 vehicle_lca_f<-function(aeo_scen = NA,
                         lcia_method=NA,
                         lcia_cat=NA,

@@ -1,4 +1,4 @@
-###>Function: Resize the EV batteries according to other resizments and changes in FC
+###>Function: Resize the electric vehicle batteries according to weight changes, and technological improvements
 battery_r_f<-function(year,
                       size,
                       techno,

@@ -1,4 +1,4 @@
-#This script applies the Kastner's model for primary aluminum products
+###>Function: Calculates the prospective consumption mixes of primary aluminum from the historic consumption mixes
 mfa_prim_alu_f<-function(mfa_alu_proj=NA,
                          last_yr=NA,
                          country=NA,

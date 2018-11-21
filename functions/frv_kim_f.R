@@ -1,4 +1,4 @@
-#Function: Give the FRV based on Kim's model
+###>Function: Calculates the fuel reduction value (FRV) of a vehicle type (i.e., size and technology) at a particular year based on Kim and Wallington's model
 frv_kim_f <-function(year,
                      size,
                      techno,

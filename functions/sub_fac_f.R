@@ -1,4 +1,4 @@
-#Aggregates the subsitution factors by considering the mean of the factors for the different component, and materials
+###>Function: Returns the subsitution factors by component, replaced and replacing materials
 sub_fac_f <- function (rpd_mat, 
                        rpg_mat, 
                        component,

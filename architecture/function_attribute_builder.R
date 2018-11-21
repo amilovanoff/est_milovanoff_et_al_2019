@@ -1,4 +1,4 @@
-#Create a data frame with all the functions (scripts finishing with _f.R), their arguments and default values
+###>Script: Creates a .csv file with all the model's functions (scripts finishing with _f.R in the function folder), all their attributes (exogenous and endogenous) and the default values taken from the function's script
 #List all the scripts including functions
 f_list<-list.files(path="functions",pattern = "_f.R",full.names = TRUE)
 #Run the functions

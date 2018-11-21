@@ -1,3 +1,4 @@
+###>Function: Returns the annual life cycle GHG emission factors of electricity production for BEV and PHEV in the U.S. [kg CO2 eq. / kWh]
 lca_ef_elec_f<-function(aeo_scen=NA,
                         lcia_method=NA,
                         lcia_cat=NA,

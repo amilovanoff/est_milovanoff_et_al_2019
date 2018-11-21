@@ -1,3 +1,4 @@
+###>Function: Calculate the survival rate distributions by vehicle size
 fleet_survival_rate_f<-function(survival_rate_mdl=NA,
                                 cumulative_rate="n",
                                 scrappage_rate="n"){

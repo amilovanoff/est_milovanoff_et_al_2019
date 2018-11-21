@@ -1,4 +1,4 @@
-#This script creates the data of primary aluminum based on the processes defined, the inputs and the LCIA of the processes (IPCC) dynamically.
+###>Function: Calculates the annual primary aluminum production GHG emission factors by producing region
 lca_prod_prim_alu_f<-function(last_yr=NA){
   #Source
   source("architecture/attribute_f.R",local=TRUE)

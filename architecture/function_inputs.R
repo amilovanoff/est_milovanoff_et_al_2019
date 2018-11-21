@@ -1,4 +1,5 @@
-#script_inputs_f read a list of scripts and find .csv, .xlsx or list-files inputs in the scripts
+###>Script: Creates a .csv file with the model's functions inputs (exogenous or indogenous to the model)
+###>Function: Reads a list of scripts and find .csv, .xlsx or list-files inputs in the scripts.
 script_inputs_f <- function(script_list){
   #Ouputs
   dt_col<-c("Function","Input","Type")
@@ -79,7 +80,7 @@ script_inputs_f <- function(script_list){
 #Get list of inputs of all functions
 f_list <- list.files(path="functions",pattern = "_f.R",full.names = TRUE)
 function_inputs_res <- script_inputs_f(script_list=f_list)
-write.csv(function_inputs_res[["input_dt"]],"architecture/function_inputs_dt.csv",row.names = FALSE,na="")
+write.csv(function_inputs_res[["input_dt"]],"architecture/function_inputs.csv",row.names = FALSE,na="")
 write.csv(function_inputs_res[["matrix_inputs"]],"architecture/function_inputs_matrix.csv",row.names = TRUE,na="")
 write.csv(function_inputs_res[["matrix_sources"]],"architecture/function_sources_matrix.csv",row.names = TRUE,na="")
 

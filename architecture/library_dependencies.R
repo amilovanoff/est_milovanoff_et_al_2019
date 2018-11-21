@@ -1,4 +1,4 @@
-#Set of libraries used at some point in the model
+###>Script: List and install the set of libraries used at some point in the model
 install.packages("ggplot2")
 install.packages("knitr")
 install.packages("readxl")
