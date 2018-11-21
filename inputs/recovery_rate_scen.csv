@@ -1,0 +1,25 @@
+Scenario,Scrapped material,Year,Data,Recovered material,Value
+All,Wrought Aluminum,2050,Total recovery,All,0.95
+All,Cast Aluminum,2050,Total recovery,All,0.95
+All,Cast Iron,2050,Total recovery,All,0.95
+All,Mild steel and other steels,2050,Total recovery,All,0.95
+All,HSS/AHSS,2050,Total recovery,All,0.95
+BAU,Wrought Aluminum,2050,Material contribution,Cast Aluminum,1
+BAU,Cast Aluminum,2050,Material contribution,Cast Aluminum,1
+BAU,Cast Iron,2050,Material contribution,Construction steel,1
+BAU,Mild steel and other steels,2050,Material contribution,Construction steel,1
+BAU,HSS/AHSS,2050,Material contribution,Construction steel,1
+CL50,Wrought Aluminum,2050,Material contribution,Cast Aluminum,0.5
+CL50,Wrought Aluminum,2050,Material contribution,Wrought Aluminum,0.5
+CL50,Cast Aluminum,2050,Material contribution,Cast Aluminum,1
+CL50,Cast Iron,2050,Material contribution,Construction steel,0.5
+CL50,Cast Iron,2050,Material contribution,Cast Iron,0.5
+CL50,Mild steel and other steels,2050,Material contribution,Construction steel,0.5
+CL50,Mild steel and other steels,2050,Material contribution,Mild steel and other steels,0.5
+CL50,HSS/AHSS,2050,Material contribution,Construction steel,0.5
+CL50,HSS/AHSS,2050,Material contribution,HSS/AHSS,0.5
+CL100,Wrought Aluminum,2050,Material contribution,Wrought Aluminum,1
+CL100,Cast Aluminum,2050,Material contribution,Cast Aluminum,1
+CL100,Cast Iron,2050,Material contribution,Cast Iron,1
+CL100,Mild steel and other steels,2050,Material contribution,Mild steel and other steels,1
+CL100,HSS/AHSS,2050,Material contribution,HSS/AHSS,1

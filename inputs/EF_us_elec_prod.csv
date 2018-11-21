@@ -1,0 +1,47 @@
+name,location,functional unit,lca score,lcia unit
+"electricity production, hydro, run-of-river","MRO, US only",kilowatt hour,0.004382536887855965,kg CO2-Eq
+"electricity production, photovoltaic, 3kWp slanted-roof installation, multi-Si, panel, mounted","WECC, US only",kilowatt hour,0.05883898182539492,kg CO2-Eq
+"electricity production, natural gas, combined cycle power plant","MRO, US only",kilowatt hour,0.4239495984840922,kg CO2-Eq
+"electricity production, hard coal","NPCC, US only",kilowatt hour,1.1657507106533886,kg CO2-Eq
+"electricity production, hydro, pumped storage","MRO, US only",kilowatt hour,1.1088514913552874,kg CO2-Eq
+"electricity production, hydro, reservoir, alpine region","WECC, US only",kilowatt hour,0.006934501095875541,kg CO2-Eq
+"electricity production, nuclear, pressure water reactor","MRO, US only",kilowatt hour,0.012089790879202459,kg CO2-Eq
+"electricity production, wind, 1-3MW turbine, onshore","NPCC, US only",kilowatt hour,0.012828106203244491,kg CO2-Eq
+"electricity production, photovoltaic, 3kWp slanted-roof installation, multi-Si, panel, mounted","NPCC, US only",kilowatt hour,0.07075448965581227,kg CO2-Eq
+"electricity production, photovoltaic, 570kWp open ground installation, multi-Si","WECC, US only",kilowatt hour,0.06247107148398229,kg CO2-Eq
+"electricity production, lignite","NPCC, US only",kilowatt hour,1.2466190515183813,kg CO2-Eq
+"electricity production, natural gas, combined cycle power plant","WECC, US only",kilowatt hour,0.39998069936841546,kg CO2-Eq
+"electricity production, wind, >3MW turbine, onshore","NPCC, US only",kilowatt hour,0.020257558353214737,kg CO2-Eq
+"electricity production, natural gas, conventional power plant","WECC, US only",kilowatt hour,0.5726074903084682,kg CO2-Eq
+"electricity production, natural gas, conventional power plant","NPCC, US only",kilowatt hour,0.6317415752921811,kg CO2-Eq
+"electricity production, nuclear, pressure water reactor","NPCC, US only",kilowatt hour,0.012089790879202367,kg CO2-Eq
+"electricity production, oil","WECC, US only",kilowatt hour,1.9349049889217595,kg CO2-Eq
+"electricity production, lignite","WECC, US only",kilowatt hour,1.238994810859016,kg CO2-Eq
+"electricity production, hard coal","MRO, US only",kilowatt hour,1.2145714662366571,kg CO2-Eq
+"electricity production, nuclear, boiling water reactor","WECC, US only",kilowatt hour,0.012802311000707294,kg CO2-Eq
+"electricity production, hydro, reservoir, alpine region","MRO, US only",kilowatt hour,0.006934501095875541,kg CO2-Eq
+"electricity production, lignite","MRO, US only",kilowatt hour,1.254338556524251,kg CO2-Eq
+"electricity production, nuclear, boiling water reactor","NPCC, US only",kilowatt hour,0.012802311000707597,kg CO2-Eq
+"electricity production, wind, >3MW turbine, onshore","WECC, US only",kilowatt hour,0.020257558353214737,kg CO2-Eq
+"electricity production, wind, <1MW turbine, onshore","NPCC, US only",kilowatt hour,0.01222809030866128,kg CO2-Eq
+"electricity production, hard coal","WECC, US only",kilowatt hour,1.0022573122797567,kg CO2-Eq
+"electricity production, wind, >3MW turbine, onshore","MRO, US only",kilowatt hour,0.020257558353214737,kg CO2-Eq
+"electricity production, wind, 1-3MW turbine, onshore","MRO, US only",kilowatt hour,0.012828106203244491,kg CO2-Eq
+"electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted","NPCC, US only",kilowatt hour,0.08323702983877024,kg CO2-Eq
+"electricity production, natural gas, combined cycle power plant","NPCC, US only",kilowatt hour,0.41923904144554797,kg CO2-Eq
+"electricity production, photovoltaic, 570kWp open ground installation, multi-Si","NPCC, US only",kilowatt hour,0.07512211808141316,kg CO2-Eq
+"electricity production, deep geothermal","WECC, US only",kilowatt hour,0.0797319058975639,kg CO2-Eq
+"electricity production, natural gas, conventional power plant","MRO, US only",kilowatt hour,0.6486632572528069,kg CO2-Eq
+"electricity production, hydro, reservoir, alpine region","NPCC, US only",kilowatt hour,0.006934501095875539,kg CO2-Eq
+"electricity production, oil","MRO, US only",kilowatt hour,1.3186018916244826,kg CO2-Eq
+"electricity production, hydro, run-of-river","WECC, US only",kilowatt hour,0.004382536887855965,kg CO2-Eq
+"electricity production, hydro, run-of-river","NPCC, US only",kilowatt hour,0.0043825368878559635,kg CO2-Eq
+"electricity production, oil","NPCC, US only",kilowatt hour,1.2276638860863547,kg CO2-Eq
+"electricity production, wind, <1MW turbine, onshore","WECC, US only",kilowatt hour,0.012228090308661276,kg CO2-Eq
+"electricity production, photovoltaic, 3kWp slanted-roof installation, single-Si, panel, mounted","WECC, US only",kilowatt hour,0.06921938253959245,kg CO2-Eq
+"electricity production, wind, 1-3MW turbine, onshore","WECC, US only",kilowatt hour,0.012828106203244493,kg CO2-Eq
+"electricity production, nuclear, boiling water reactor","MRO, US only",kilowatt hour,0.012802311000707296,kg CO2-Eq
+"electricity production, wind, <1MW turbine, onshore","MRO, US only",kilowatt hour,0.012228090308661276,kg CO2-Eq
+"electricity production, hydro, pumped storage","WECC, US only",kilowatt hour,0.687908613908898,kg CO2-Eq
+"electricity production, hydro, pumped storage","NPCC, US only",kilowatt hour,0.44751086558772474,kg CO2-Eq
+"electricity production, nuclear, pressure water reactor","WECC, US only",kilowatt hour,0.012089790879202459,kg CO2-Eq

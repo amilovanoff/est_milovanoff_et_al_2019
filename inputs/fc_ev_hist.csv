@@ -1,0 +1,227 @@
+Year,Size,Technology,Fuel type,Range,Data,Unit,Source,value
+2012,Car,BEV,Electricity,100,Combined,kWh/100km,EPA,20.91811498
+2012,Car,BEV,Electricity,100,City,kWh/100km,EPA,19.68080651
+2012,Car,BEV,Electricity,100,Highway,kWh/100km,EPA,22.77679464
+2013,Car,BEV,Electricity,100,Combined,kWh/100km,EPA,18.21762026
+2013,Car,BEV,Electricity,100,City,kWh/100km,EPA,16.46629238
+2013,Car,BEV,Electricity,100,Highway,kWh/100km,EPA,20.55778541
+2014,Car,BEV,Electricity,100,Combined,kWh/100km,EPA,18.52515008
+2014,Car,BEV,Electricity,100,City,kWh/100km,EPA,16.92729246
+2014,Car,BEV,Electricity,100,Highway,kWh/100km,EPA,20.31696089
+2015,Car,BEV,Electricity,100,Combined,kWh/100km,EPA,18.30877499
+2015,Car,BEV,Electricity,100,City,kWh/100km,EPA,16.80728049
+2015,Car,BEV,Electricity,100,Highway,kWh/100km,EPA,20.24129765
+2012,Car,BEV,Electricity,300,Combined,kWh/100km,EPA,23.6121053
+2012,Car,BEV,Electricity,300,City,kWh/100km,EPA,23.6121053
+2012,Car,BEV,Electricity,300,Highway,kWh/100km,EPA,22.9907341
+2013,Car,BEV,Electricity,300,Combined,kWh/100km,EPA,21.74799172
+2013,Car,BEV,Electricity,300,City,kWh/100km,EPA,22.36936291
+2013,Car,BEV,Electricity,300,Highway,kWh/100km,EPA,21.74799172
+2014,Car,BEV,Electricity,300,Combined,kWh/100km,EPA,23.6121053
+2014,Car,BEV,Electricity,300,City,kWh/100km,EPA,23.6121053
+2014,Car,BEV,Electricity,300,Highway,kWh/100km,EPA,22.9907341
+2015,Car,BEV,Electricity,300,Combined,kWh/100km,EPA,23.6121053
+2015,Car,BEV,Electricity,300,City,kWh/100km,EPA,23.6121053
+2015,Car,BEV,Electricity,300,Highway,kWh/100km,EPA,22.9907341
+2012,Car,BEV,Electricity,all,Combined,kWh/100km,EPA,21.42296679
+2012,Car,BEV,Electricity,all,City,kWh/100km,EPA,20.41752902
+2012,Car,BEV,Electricity,all,Highway,kWh/100km,EPA,22.81688674
+2013,Car,BEV,Electricity,all,Combined,kWh/100km,EPA,19.6060131
+2013,Car,BEV,Electricity,all,City,kWh/100km,EPA,18.78779905
+2013,Car,BEV,Electricity,all,Highway,kWh/100km,EPA,21.02585908
+2014,Car,BEV,Electricity,all,Combined,kWh/100km,EPA,19.73348276
+2014,Car,BEV,Electricity,all,City,kWh/100km,EPA,18.51517312
+2014,Car,BEV,Electricity,all,Highway,kWh/100km,EPA,20.95207707
+2015,Car,BEV,Electricity,all,Combined,kWh/100km,EPA,19.80926749
+2015,Car,BEV,Electricity,all,City,kWh/100km,EPA,18.73259685
+2015,Car,BEV,Electricity,all,Highway,kWh/100km,EPA,21.01920673
+2012,Car,PHEV,Gasoline,20,Combined,L/100km,EPA,4.704290691
+2012,Car,PHEV,Gasoline,20,Highway,L/100km,EPA,4.800296623
+2012,Car,PHEV,Gasoline,20,City,L/100km,EPA,4.612049697
+2012,Car,PHEV,Electricity,20,Combined,kWh/100km,EPA,18.01976457
+2012,Car,PHEV,Electricity,20,City,kWh/100km,EPA,16.15565099
+2012,Car,PHEV,Electricity,20,Highway,kWh/100km,EPA,20.50524934
+2013,Car,PHEV,Gasoline,20,Combined,L/100km,EPA,5.48094158
+2013,Car,PHEV,Gasoline,20,Highway,L/100km,EPA,5.706536086
+2013,Car,PHEV,Gasoline,20,City,L/100km,EPA,5.275121738
+2013,Car,PHEV,Electricity,20,Combined,kWh/100km,EPA,20.61857826
+2013,Car,PHEV,Electricity,20,City,kWh/100km,EPA,18.75446468
+2013,Car,PHEV,Electricity,20,Highway,kWh/100km,EPA,23.42891474
+2014,Car,PHEV,Gasoline,20,Combined,L/100km,EPA,5.72913795
+2014,Car,PHEV,Gasoline,20,Highway,L/100km,EPA,5.924832125
+2014,Car,PHEV,Gasoline,20,City,L/100km,EPA,5.536743458
+2014,Car,PHEV,Electricity,20,Combined,kWh/100km,EPA,21.33831412
+2014,Car,PHEV,Electricity,20,City,kWh/100km,EPA,19.59204985
+2014,Car,PHEV,Electricity,20,Highway,kWh/100km,EPA,24.03474951
+2015,Car,PHEV,Gasoline,20,Combined,L/100km,EPA,6.23393461
+2015,Car,PHEV,Gasoline,20,Highway,L/100km,EPA,6.442898612
+2015,Car,PHEV,Gasoline,20,City,L/100km,EPA,6.017787511
+2015,Car,PHEV,Electricity,20,Combined,kWh/100km,EPA,22.72589714
+2015,Car,PHEV,Electricity,20,City,kWh/100km,EPA,21.19348777
+2015,Car,PHEV,Electricity,20,Highway,kWh/100km,EPA,25.25585247
+2012,Car,PHEV,Gasoline,40,Combined,L/100km,EPA,6.357149582
+2012,Car,PHEV,Gasoline,40,Highway,L/100km,EPA,5.880363363
+2012,Car,PHEV,Gasoline,40,City,L/100km,EPA,6.720415272
+2012,Car,PHEV,Electricity,40,Combined,kWh/100km,EPA,22.36936291
+2012,Car,PHEV,Electricity,40,City,kWh/100km,EPA,22.36936291
+2012,Car,PHEV,Electricity,40,Highway,kWh/100km,EPA,22.9907341
+2013,Car,PHEV,Gasoline,40,Combined,L/100km,EPA,6.357149582
+2013,Car,PHEV,Gasoline,40,Highway,L/100km,EPA,5.880363363
+2013,Car,PHEV,Gasoline,40,City,L/100km,EPA,6.720415272
+2013,Car,PHEV,Electricity,40,Combined,kWh/100km,EPA,21.74799172
+2013,Car,PHEV,Electricity,40,City,kWh/100km,EPA,20.50524934
+2013,Car,PHEV,Electricity,40,Highway,kWh/100km,EPA,22.36936291
+2014,Car,PHEV,Gasoline,40,Combined,L/100km,EPA,6.407332942
+2014,Car,PHEV,Gasoline,40,Highway,L/100km,EPA,5.935072188
+2014,Car,PHEV,Gasoline,40,City,L/100km,EPA,6.776888897
+2014,Car,PHEV,Electricity,40,Combined,kWh/100km,EPA,21.99079448
+2014,Car,PHEV,Electricity,40,City,kWh/100km,EPA,20.7480521
+2014,Car,PHEV,Electricity,40,Highway,kWh/100km,EPA,22.61216567
+2015,Car,PHEV,Gasoline,40,Combined,L/100km,EPA,6.405212999
+2015,Car,PHEV,Gasoline,40,Highway,L/100km,EPA,5.93276107
+2015,Car,PHEV,Gasoline,40,City,L/100km,EPA,6.774503228
+2015,Car,PHEV,Electricity,40,Combined,kWh/100km,EPA,21.98053753
+2015,Car,PHEV,Electricity,40,City,kWh/100km,EPA,20.73779515
+2015,Car,PHEV,Electricity,40,Highway,kWh/100km,EPA,22.60190872
+2012,Car,PHEV,Gasoline,all,Combined,L/100km,EPA,5.775587274
+2012,Car,PHEV,Gasoline,all,Highway,L/100km,EPA,5.500339328
+2012,Car,PHEV,Gasoline,all,City,L/100km,EPA,5.978581861
+2012,Car,PHEV,Electricity,all,Combined,kWh/100km,EPA,20.83894645
+2012,Car,PHEV,Electricity,all,City,kWh/100km,EPA,20.18305369
+2012,Car,PHEV,Electricity,all,Highway,kWh/100km,EPA,22.11621041
+2013,Car,PHEV,Gasoline,all,Combined,L/100km,EPA,5.898807302
+2013,Car,PHEV,Gasoline,all,Highway,L/100km,EPA,5.789434736
+2013,Car,PHEV,Gasoline,all,City,L/100km,EPA,5.964385732
+2013,Car,PHEV,Electricity,all,Combined,kWh/100km,EPA,21.15719828
+2013,Car,PHEV,Electricity,all,City,kWh/100km,EPA,19.58941813
+2013,Car,PHEV,Electricity,all,Highway,kWh/100km,EPA,22.9236119
+2014,Car,PHEV,Gasoline,all,Combined,L/100km,EPA,5.976090255
+2014,Car,PHEV,Gasoline,all,Highway,L/100km,EPA,5.928560856
+2014,Car,PHEV,Gasoline,all,City,L/100km,EPA,5.988319742
+2014,Car,PHEV,Electricity,all,Combined,kWh/100km,EPA,21.57590291
+2014,Car,PHEV,Electricity,all,City,kWh/100km,EPA,20.01298693
+2014,Car,PHEV,Electricity,all,Highway,kWh/100km,EPA,23.51674162
+2015,Car,PHEV,Gasoline,all,Combined,L/100km,EPA,6.301785517
+2015,Car,PHEV,Gasoline,all,Highway,L/100km,EPA,6.240810681
+2015,Car,PHEV,Gasoline,all,City,L/100km,EPA,6.317555909
+2015,Car,PHEV,Electricity,all,Combined,kWh/100km,EPA,22.43062739
+2015,Car,PHEV,Electricity,all,City,kWh/100km,EPA,21.01296787
+2015,Car,PHEV,Electricity,all,Highway,kWh/100km,EPA,24.20450855
+2015,Light truck,PHEV,Gasoline,20,Combined,L/100km,EPA-not def,10.69156975
+2015,Light truck,PHEV,Gasoline,20,Highway,L/100km,EPA-not def,9.800605605
+2015,Light truck,PHEV,Gasoline,20,City,L/100km,EPA-not def,11.20069212
+2015,Light truck,PHEV,Electricity,20,Combined,kWh/100km,EPA-not def,42.87461225
+2015,Light truck,PHEV,Electricity,20,City,kWh/100km,EPA-not def,43.49598344
+2015,Light truck,PHEV,Electricity,20,Highway,kWh/100km,EPA-not def,42.87461225
+2015,Light truck,PHEV,Gasoline,all,Combined,L/100km,EPA-not def,10.69156975
+2015,Light truck,PHEV,Gasoline,all,Highway,L/100km,EPA-not def,9.800605605
+2015,Light truck,PHEV,Gasoline,all,City,L/100km,EPA-not def,11.20069212
+2015,Light truck,PHEV,Electricity,all,Combined,kWh/100km,EPA-not def,42.87461225
+2015,Light truck,PHEV,Electricity,all,City,kWh/100km,EPA-not def,43.49598344
+2015,Light truck,PHEV,Electricity,all,Highway,kWh/100km,EPA-not def,42.87461225
+,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,GREET,20.84175701
+,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,GREET,24.73831541
+,Car,PHEV,Electricity,10,Fuel consumption,kWh/100km,GREET,13.84105573
+,Car,PHEV,Electricity,20,Fuel consumption,kWh/100km,GREET,13.36980782
+,Car,PHEV,Electricity,30,Fuel consumption,kWh/100km,GREET,20.99669181
+,Car,PHEV,Electricity,40,Fuel consumption,kWh/100km,GREET,21.26673973
+,Car,PHEV,Gasoline,10,Fuel consumption,L/100km,GREET,6.431587187
+,Car,PHEV,Gasoline,20,Fuel consumption,L/100km,GREET,6.570330582
+,Car,PHEV,Gasoline,30,Fuel consumption,L/100km,GREET,6.588997361
+,Car,PHEV,Gasoline,40,Fuel consumption,L/100km,GREET,6.629343337
+,SUV,BEV,Electricity,100,Fuel consumption,kWh/100km,GREET,21.52997607
+,SUV,BEV,Electricity,300,Fuel consumption,kWh/100km,GREET,28.54745235
+,SUV,PHEV,Electricity,10,Fuel consumption,kWh/100km,GREET,13.48483705
+,SUV,PHEV,Electricity,20,Fuel consumption,kWh/100km,GREET,14.16435914
+,SUV,PHEV,Electricity,30,Fuel consumption,kWh/100km,GREET,21.66286245
+,SUV,PHEV,Electricity,40,Fuel consumption,kWh/100km,GREET,21.87556242
+,SUV,PHEV,Gasoline,10,Fuel consumption,L/100km,GREET,8.195546888
+,SUV,PHEV,Gasoline,20,Fuel consumption,L/100km,GREET,8.352775632
+,SUV,PHEV,Gasoline,30,Fuel consumption,L/100km,GREET,8.572379018
+,SUV,PHEV,Gasoline,40,Fuel consumption,L/100km,GREET,8.688487885
+,PUT,BEV,Electricity,100,Fuel consumption,kWh/100km,GREET,22.54498227
+,PUT,BEV,Electricity,300,Fuel consumption,kWh/100km,GREET,29.89328948
+,PUT,PHEV,Electricity,10,Fuel consumption,kWh/100km,GREET,15.42007873
+,PUT,PHEV,Electricity,20,Fuel consumption,kWh/100km,GREET,16.20962926
+,PUT,PHEV,Electricity,30,Fuel consumption,kWh/100km,GREET,24.72567491
+,PUT,PHEV,Electricity,40,Fuel consumption,kWh/100km,GREET,24.82570147
+,PUT,PHEV,Gasoline,10,Fuel consumption,L/100km,GREET,9.627358331
+,PUT,PHEV,Gasoline,20,Fuel consumption,L/100km,GREET,9.807238973
+,PUT,PHEV,Gasoline,30,Fuel consumption,L/100km,GREET,10.19744255
+,PUT,PHEV,Gasoline,40,Fuel consumption,L/100km,GREET,10.36829782
+,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,AEO,21.49359641
+,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,AEO,22.42932262
+,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,AEO,29.41853424
+,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,AEO,29.41853424
+2000,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,26.81548107
+2001,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,26.62793638
+2002,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,26.44299681
+2003,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,26.17526146
+2004,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,26.16544942
+2005,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,25.64316577
+2006,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,25.89046633
+2007,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,24.94961178
+2008,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,13.92828277
+2009,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,13.54884204
+2010,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,18.20887754
+2011,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,16.37248534
+2012,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,15.95822241
+2013,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,15.91315442
+2014,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,20.18333414
+2015,Car,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,21.49359641
+2000,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,22.34623423
+2001,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,22.18994698
+2002,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,22.03583067
+2003,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,21.81271789
+2004,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,21.80454118
+2005,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,21.36930481
+2006,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,21.57538861
+2007,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,20.79134315
+2008,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,11.60690231
+2009,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,11.2907017
+2010,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,15.17406462
+2011,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,13.87454838
+2012,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,13.85033876
+2013,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,16.72748653
+2014,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,23.01121887
+2015,Car,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,22.42932263
+2000,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,25.29010769
+2001,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,25.49952408
+2002,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,25.49952408
+2003,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,25.42521755
+2004,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,25.54930353
+2005,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,24.83421391
+2006,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,23.29796303
+2007,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,22.89047789
+2008,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,19.46693643
+2009,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,17.73627851
+2010,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,17.02883288
+2011,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,15.90092807
+2012,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,31.96978499
+2013,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,27.5529068
+2014,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,27.5529068
+2015,Light truck,BEV,Electricity,100,Fuel consumption,kWh/100km,VISION,29.41853425
+2000,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,28.10011966
+2001,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,28.33280453
+2002,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,28.33280453
+2003,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,28.25024172
+2004,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,28.38811503
+2005,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,27.59357101
+2006,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,25.88662559
+2007,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,25.43386432
+2008,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,21.62992937
+2009,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,19.70697613
+2010,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,18.92092542
+2011,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,17.66769786
+2012,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,35.52198333
+2013,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,30.61434089
+2014,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,19.84054643
+2015,Light truck,BEV,Electricity,300,Fuel consumption,kWh/100km,VISION,18.34638475
+2015,Car,PHEV,Gasoline,20,Fuel consumption,L/100km,VISION,4.404123348
+2015,Car,PHEV,Electricity,20,Fuel consumption,kWh/100km,VISION,33.07670637
+2015,Car,PHEV,Gasoline,40,Fuel consumption,L/100km,VISION,4.404123348
+2015,Car,PHEV,Electricity,40,Fuel consumption,kWh/100km,VISION,26.31921848
+2015,Light truck,PHEV,Gasoline,20,Fuel consumption,L/100km,VISION,5.304038467
+2015,Light truck,PHEV,Electricity,20,Fuel consumption,kWh/100km,VISION,25.33199788
+2015,Light truck,PHEV,Gasoline,40,Fuel consumption,L/100km,VISION,6.990293471
+2015,Light truck,PHEV,Electricity,40,Fuel consumption,kWh/100km,VISION,19.20705582

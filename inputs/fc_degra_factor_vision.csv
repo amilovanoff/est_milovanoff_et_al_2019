@@ -1,0 +1,25 @@
+Data,Source,Technology,Size,Fuel type,Degradation factor
+On-road degradation factor,VISION,ICEV-G,Car,Gasoline,0.817
+On-road degradation factor,VISION,BEV100,Car,Electricity,0.7
+On-road degradation factor,VISION,BEV300,Car,Electricity,0.7
+On-road degradation factor,VISION,FFV,Car,Ethanol,0.817
+On-road degradation factor,VISION,ICEV-D,Car,Diesel,0.817
+On-road degradation factor,VISION,CNG,Car,CNG & LPG,0.817
+On-road degradation factor,VISION,HEV,Car,Gasoline,0.85
+On-road degradation factor,VISION,PHEV20,Car,Gasoline,0.817
+On-road degradation factor,VISION,PHEV20,Car,Electricity,1
+On-road degradation factor,VISION,PHEV40,Car,Gasoline,0.817
+On-road degradation factor,VISION,PHEV40,Car,Electricity,1
+On-road degradation factor,VISION,FCV,Car,Hydrogen,0.85
+On-road degradation factor,VISION,ICEV-G,Light truck,Gasoline,0.8
+On-road degradation factor,VISION,BEV100,Light truck,Electricity,0.7
+On-road degradation factor,VISION,BEV300,Light truck,Electricity,0.7
+On-road degradation factor,VISION,FFV,Light truck,Ethanol,0.8
+On-road degradation factor,VISION,ICEV-D,Light truck,Diesel,0.8
+On-road degradation factor,VISION,CNG,Light truck,CNG & LPG,0.8
+On-road degradation factor,VISION,HEV,Light truck,Gasoline,0.85
+On-road degradation factor,VISION,PHEV20,Light truck,Gasoline,0.8
+On-road degradation factor,VISION,PHEV20,Light truck,Electricity,1
+On-road degradation factor,VISION,PHEV40,Light truck,Gasoline,0.8
+On-road degradation factor,VISION,PHEV40,Light truck,Electricity,1
+On-road degradation factor,VISION,FCV,Light truck,Hydrogen,0.85

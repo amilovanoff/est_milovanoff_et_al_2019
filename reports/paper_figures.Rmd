@@ -1,0 +1,1033 @@
+---
+title: "Paper's figure: A dynamic fleet model of U.S light-duty vehicle lightweighting and associated greenhouse gas emissions from 2016-2050"
+output:
+  word_document:
+    reference_docx: reference_style_rmarkedown.docx
+fig_caption: TRUE
+---
+*Alexandre Milovanoff^a^, Hyung Chul Kim^b^, Robert De Kleine^b^, Timothy J. Wallington^b^, I. Daniel Posen^a^, Heather L. MacLean^a,c^  
+^a^: Department of Civil & Mineral Engineering, University of Toronto, 35 St. George Street, Toronto, Ontario, M5S 1A4 Canada  
+^b^: Materials & Manufacturing R&A Department, Ford Motor Company, Dearborn, Michigan 48121-2053, United States  
+^c^: Department of Chemical Engineering & Applied Chemistry, University of Toronto, 200 College Street, Toronto, Ontario, M5S 3E5 Canada  
+Corresponding Author: alexandre.milovanoff@mail.utoronto.ca* 
+
+```{r setup, include=FALSE}
+fig_num<-0
+tab_num<-0
+fig_name<-TRUE
+tab_name<-TRUE
+knitr::opts_chunk$set(
+	echo = FALSE,
+	fig.keep = "all",
+	fig.show = "asis",
+	message = FALSE,
+	warning = FALSE,
+	dev='png',
+	dpi=300
+)
+knitr::opts_knit$set(root.dir = '../')
+#Libraries
+library(knitr)
+library(ggplot2)
+library(cowplot)
+library(ggrepel)
+library(ggthemes)
+library(reshape2)
+library(scales)
+#Define default plot themes
+theme_milovanoff <- function(base_size=12) {
+  (theme_foundation(base_size=base_size)
+    + theme(plot.title = element_text(face = "bold",
+                                      size = rel(1.2), hjust = 0.5),
+            text = element_text(),
+            panel.background = element_rect(colour = NA),
+            plot.background = element_rect(colour = NA),
+            panel.border = element_rect(colour = NA),
+            axis.title = element_text(face = "bold",size = rel(1)),
+            axis.title.y = element_text(angle=90,vjust = 0),
+            axis.title.x = element_text(vjust = 0.5),
+            axis.text = element_text(), 
+            axis.line = element_line(colour="black"),
+            axis.ticks = element_line(),
+            panel.grid.major = element_line(colour="#f0f0f0"),
+            panel.grid.minor = element_blank(),
+            legend.box = "horizontal",
+            legend.box.just="bottom",
+            legend.box.spacing = unit(0.1, "cm"),
+            legend.key = element_rect(colour = NA),
+            legend.position = "bottom",
+            legend.direction = "vertical",
+            legend.key.height = unit(0.5, "cm"),
+            legend.key.width = unit(0.5, "cm"),
+            legend.margin = margin(t=0.1,r=0.1,b=0.1,l=0.1, "cm"),
+            legend.title = element_text(face="italic",size=rel(1)),
+            legend.title.align = 0.5,
+            legend.text = element_text(size = rel(0.8)),
+            legend.text.align = 0,
+            legend.spacing.x = unit(0.2, "cm"),
+            legend.spacing.y = unit(0.2, "cm"),
+            plot.margin=unit(c(1,1,1,1),"mm"),
+            strip.background=element_rect(colour="#f0f0f0",fill="#f0f0f0"),
+            strip.text = element_text(face="bold"),
+            panel.spacing.x = unit(0.2, "cm"),
+            panel.spacing.y =unit(0.2, "cm")
+    ))
+}
+palette_milovanoff <- c("#009E73","#ec7014","#0072B2","#F0E442","#ef3b2c","#999999","#c5631b","#56B4E9","#fdb462","#CC79A7","#c51b7d","#999999")
+colorblind_f_palette1 <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+scale_fill_milovanoff <- function(...){
+  discrete_scale("fill","milovanoff",manual_pal(values = palette_milovanoff), ...)
+  
+}
+
+scale_colour_milovanoff <- function(...){
+  discrete_scale("colour","milovanoff",manual_pal(values = palette_milovanoff), ...)
+  
+}
+```
+
+
+#TOC
+
+```{r toc1, fig.height=0.9, fig.width=1.1}
+
+source("functions/plots/delta_long_dtf_f.R")
+source("functions/plots/cum_long_dtf_f.R")
+source("outputs/functions/read_f.R")
+
+#Extract results of the simulation: Ranges
+
+dyn_LCI_tot<-do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc="sim29",dts_names="dyn_LCI_tot"))
+
+cum_dyn_tot<-do.call(cum_long_dtf_f,list(dtf=subset(dyn_LCI_tot),cum_variable="GWP100",cum_param="Year"))
+years_tbc<-c(2050)
+delta_tot<-do.call(delta_long_dtf_f,list(dtf=subset(cum_dyn_tot,Year%in%years_tbc),x_axis="Year",y_axis="GWP100",ref_var="LWscen",ref_case="BAU",out_var=NULL))
+#Parameters
+lwscen_tbc <- c("Aluminum Maximum")
+
+delta_tot<-subset(delta_tot,Year%in%years_tbc & LWscen%in%lwscen_tbc & Case!="Alternative powertrain/fuel penetration")
+
+delta_tot[,"rel"] <- delta_tot[,"delta_GWP100"]/(delta_tot[,"GWP100"]-delta_tot[,"delta_GWP100"])
+
+case_order <- delta_tot$Case[with(delta_tot,order(rel))]
+plot_col <- delta_tot
+plot_col$Case <- factor(plot_col$Case,levels=case_order)
+
+ggplot(plot_col)+
+  geom_line(data=plot_col,
+            aes(x=1:3,y=-rel*100),
+            linetype=1,
+            colour=palette_milovanoff[3],
+            size=1,
+            arrow = arrow(angle=25,length=unit(0.10,"inches"),end="last"))+
+  scale_x_continuous(expand = c(0.05,0))+
+  scale_y_continuous(expand = c(0.01,0),breaks=c(0,3,6),limits = c(4,7))+
+  labs(y="GHG emission \n reductions from \n lightweighing",x="Powertrain \n efficiency",title=NULL)+
+  theme(axis.ticks.x = element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.text.x = element_blank(),
+        axis.text.y = element_blank(),
+        axis.title.x = element_text(size=7,face="bold",margin = unit(c(-1,0,1,0),"mm")),
+        axis.title.y = element_text(size=7,face="bold",hjust=0.6,margin = unit(c(0,0,0,0),"mm")),
+        axis.line.x = element_line(size=0.5,arrow=arrow(angle=25,length=unit(0.05,"inches"),end="last")),
+        axis.line.y = element_line(size=0.5,arrow=arrow(angle=25,length=unit(0.05,"inches"),end="last")),
+        plot.margin=unit(c(2.5,1,0,0),"mm"),
+        plot.background=element_rect(fill="grey90"))
+
+
+ggsave("outputs/plots/paper_toc1.png",width=1.1,height=0.9,units=c("in"),dpi=300)    
+```
+
+```{r toc2, fig.height=1.875, fig.width=3.33}
+
+source("functions/plots/arrows_ribbon_f.R")
+y_limits<-c(NA,2)
+x_limits<-c(2016,2050)
+label_years<-c(2040)
+emi_inv<-"GWP100"
+lwscen_to_delete<-c("BAU","Aluminum Intensive","Adapted Aluminum Maximum","Steel Intensive")
+tot_colors<-palette_milovanoff[3:5]
+sim="sim1"
+dyn_LCI_tot <- do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc=sim,dts_names="dyn_LCI_tot"))
+#Rename LWscen
+dyn_LCI_tot$LWscen[dyn_LCI_tot$LWscen=="BAU"&dyn_LCI_tot$Case=="No Change"] <- "Baseline without technological changes"
+dyn_LCI_tot$LWscen[dyn_LCI_tot$LWscen=="BAU"&dyn_LCI_tot$Case=="Fuel consumption improvements"] <- "Baseline with technological changes"
+dyn_LCI_tot$Case[dyn_LCI_tot$Case=="Fuel consumption improvements"] <- "Technological changes"
+dyn_LCI_tot$Case[dyn_LCI_tot$Case=="Alternative powertrain/fuel penetration"] <- "Alternative vehicles"
+#plot_line
+plot_line<-subset(dyn_LCI_tot,!LWscen%in%lwscen_to_delete)
+if (length(which(dyn_LCI_tot$LWscen%in%lwscen_to_delete&grepl("lightweighting",dyn_LCI_tot$Case,ignore.case = TRUE)))!=0){
+  dyn_LCI_tot<-dyn_LCI_tot[-which(dyn_LCI_tot$LWscen%in%lwscen_to_delete&grepl("lightweighting",dyn_LCI_tot$Case,ignore.case = TRUE)),]
+}
+plot_ribbon<-arrows_ribbon_f(dtf=dyn_LCI_tot,x_axis="Year",y_axis=emi_inv,var_color="Case",ref_var="order")
+
+
+cum_dyn_tot<-do.call(cum_long_dtf_f,list(dtf=dyn_LCI_tot,cum_variable="GWP100",cum_param="Year"))
+delta_cum_tot<-arrows_ribbon_f(dtf=cum_dyn_tot,x_axis="Year",y_axis=emi_inv,var_color="Case",ref_var="order")
+y_val<-emi_inv
+plot_ribbon[,"cum_GWP100"]<-delta_cum_tot[,"delta_y"]
+cum_val<-format(as.numeric(subset(delta_cum_tot,grepl("lightweighting",Case)&Year==2050,delta_y))/10^12,digits = 2) 
+label_text<-paste0("Delta[cumulative]*`= `*bold(",cum_val,")*` Gt CO`[2]*` eq.`")
+#Format
+colors<-tot_colors[c((6-length(unique(as.character(plot_ribbon$Case)))):3,1)]
+case_limit_legend<-setdiff(unique(plot_ribbon$Case),"No Change")
+#Plot the total annual Fleet GHG emissions for all scenarios
+
+ggplot(data=plot_ribbon)+
+    geom_ribbon(data=subset(plot_ribbon,Case%in%case_limit_legend),
+                aes(x=Year,ymin=y_end/10^12,ymax=y_start/10^12,fill=Case),
+                alpha=0.6)+
+    geom_line(data=subset(plot_line,!grepl("Baseline",LWscen)),
+              aes(x=Year,y=get(y_val)/10^12,colour=LWscen),
+              size=1.1,
+              alpha=0.75)+
+    geom_line(data=subset(plot_line,grepl("Baseline",LWscen)),
+              aes(x=Year,y=get(y_val)/10^12,linetype=LWscen),
+              colour="black",
+              size=1.1,
+              alpha=0.75)+
+    theme_milovanoff()+
+    labs(y=expression("Gt CO"[2]*" eq. per year"),title=NULL)+
+    scale_x_continuous(limits = x_limits,expand = c(0.01,0))+
+    scale_y_continuous(limits=y_limits,expand = c(0.01,0))+
+    scale_color_manual(values=palette_milovanoff[3],
+                       guide="none")+
+    scale_fill_manual(values=colors,
+                      guide=guide_legend(title=NULL))+
+    scale_linetype_manual(values=c(4,1),
+                   breaks=c("Baseline without technological changes"),
+                   labels=c("No changes"),
+                   guide = guide_legend(title=NULL))+
+  theme(plot.title = element_blank(),
+        axis.title.x = element_blank(),
+        axis.title.y = element_text(vjust=0.5,margin=margin(b=0,unit="cm")),
+        axis.text.x = element_text(hjust=0.9),
+        axis.text.y = element_text(vjust=0.9),
+        plot.margin=unit(c(0,0,0,0),"mm"),
+        legend.margin=unit(c(0,0,0,0),"mm"),
+        legend.box = "vertical",
+        legend.box.just = "left",
+        legend.background = element_blank(),
+        legend.text = element_text(size=8,vjust=0.5),
+        legend.position = c(0.61,0.85),
+        legend.key.width=unit(0.3, "cm"),
+        legend.key.height=unit(0.2, "cm"),
+        legend.spacing.x = unit(0, "cm"),
+        legend.spacing.y = unit(0, "cm"),
+        legend.box.spacing = unit(0, "cm"),
+        legend.box.margin = margin(0,0,0,0,unit="cm"))
+
+ggsave("outputs/plots/paper_toc2.png",width= 3.33,height=1.875,units=c("in"),dpi=300)
+
+```
+
+
+#Paper
+
+##Material composition
+```{r mat_comp_2030}
+#source
+source("outputs/functions/read_f.R")
+fleet_mc_proj_f_res <- do.call(fun_res_f,list(fun_name="fleet_mc_proj_f",fast_mode="y"))
+#Input files
+Fleet_mat_comp_15to50 <- fleet_mc_proj_f_res[["fleet_mt_comp_proj"]]
+vehicle_technology <- read.csv("inputs/vehicle_technology.csv", stringsAsFactors = FALSE, check.names = FALSE)
+lwscen_l<-setdiff(unique(Fleet_mat_comp_15to50$Scenario),"Adapted Aluminum Maximum")
+
+table_dt<-data.frame("Material"=unique(Fleet_mat_comp_15to50$Material),stringsAsFactors = FALSE)
+for (lwscen in lwscen_l){
+  table_dt[lwscen]<-subset(Fleet_mat_comp_15to50,Scenario==lwscen & Size=="Car"&Technology=="ICEV-G",select=c(`2030`))
+}
+table_dt["BAU 2016"]<-subset(Fleet_mat_comp_15to50,Scenario=="BAU" & Size=="Car"&Technology=="ICEV-G",select=c(`2016`))
+
+table_dt[nrow(table_dt)+1:2,1]<-c("Weight savings (kg)","Weight savings (%)")
+table_dt[8,2:4]<-table_dt[7,"BAU"]-table_dt[7,2:4]
+table_dt[9,2:4]<-(table_dt[7,"BAU"]-table_dt[7,2:4])/table_dt[7,"BAU"]*100
+knitr::kable(table_dt,row.names = FALSE,caption = "ICEV-G Car",digits=0)
+
+# table_dt<-data.frame("Material"=unique(Fleet_mat_comp_15to50$Material))
+# for (lwscen in lwscen_l){
+#   table_dt[lwscen]<-subset(Fleet_mat_comp_15to50,Scenario==lwscen&Size=="Car"&Technology=="BEV300",select=c(`2030`))
+# }
+# table_dt["BAU 2016"]<-subset(Fleet_mat_comp_15to50,Scenario=="BAU" & Size=="Car"&Technology=="BEV300",select=c(`2016`))
+# knitr::kable(table_dt,row.names = FALSE,caption = "BEV")
+```
+
+##Fleet GHGs emissions
+###Panel (a)
+
+```{r fig_fleet_ghg_lw, fig.width=3.5, fig.height=3.5}
+#Plot functions
+#Extract results of the simulation
+source("functions/plots/arrows_ribbon_f.R")
+source("outputs/functions/read_f.R")
+sim="sim1"
+dyn_LCI_tot <- do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc=sim,dts_names="dyn_LCI_tot"))
+emi_inv<-"GWP100"
+#Create datasets of lines
+plot_line_case<-c("No Change","Lightweighting")
+dyn_LCI_tot<-subset(dyn_LCI_tot, Case=="Lightweighting")
+LWscen_tbc<-setdiff(unique(dyn_LCI_tot$LWscen),"Adapted Aluminum Maximum")
+#LWscen_tbc<-unique(dyn_LCI_tot$LWscen)
+plot_line<-subset(dyn_LCI_tot,LWscen%in%LWscen_tbc & Case%in%plot_line_case)
+#Format
+plot_line$LWscen[plot_line$LWscen=="BAU"&plot_line$Case=="Lightweighting"]<-"Baseline with technological changes"
+#Order the legend
+order_lw<-plot_line$LWscen[plot_line$Year=="2050"][order(plot_line$GWP100[plot_line$Year=="2050"],decreasing = TRUE)]
+plot_line$LWscen<-factor(plot_line$LWscen,levels=order_lw)
+
+y_limits<-c(0,2)
+x_limits<-c(2016,2050)
+ggplot()+
+  geom_line(data=subset(plot_line,LWscen%in%LWscen_tbc),
+            aes(x=Year,y=get(emi_inv)/10^12,colour=LWscen),
+            size=1.1)+
+  geom_line(data=subset(plot_line,!LWscen%in%LWscen_tbc),
+            aes(x=Year,y=get(emi_inv)/10^12,linetype="Baseline with technological changes"),
+            colour="black",
+            size=1.1)+
+  theme_milovanoff()+
+  labs(y=expression("Gt CO"[2]*" eq. per year"),title=NULL)+
+  scale_colour_milovanoff(guide = guide_legend(title=NULL,
+                                               order=2))+
+  scale_linetype_manual(values=c(4),guide = guide_legend(title=NULL,
+                                      order=1))+
+  scale_x_continuous(limits = x_limits,expand = c(0.01,0),breaks =c(2020,2030,2040,2050))+
+  scale_y_continuous(limits = y_limits,expand = c(0,0))+
+  theme(plot.title = element_blank(),
+        axis.title.x = element_blank(),
+        axis.title.y = element_text(vjust=0.5,margin=margin(b=0,unit="cm")),
+        axis.text.x = element_text(hjust=0.8),
+        legend.box = "vertical",
+        legend.box.just = "left",
+        legend.background = element_blank(),
+        legend.position = c(0.5,0.2),
+        legend.key.width=unit(0.7, "cm"),
+        plot.margin=unit(c(1,1,1,1),"mm"))
+
+ggsave("outputs/plots/paper_fig2a.png",width=3.5,height=3.5,units=c("in"),dpi=300)
+
+#Numerical results
+#subset(plot_line,LWscen=="Baseline with technological changes")[which.min(subset(plot_line,LWscen=="Baseline with technological changes")[,"GWP100"]),]
+#View(subset(plot_line,Year==2025))
+# (as.numeric(subset(plot_line,Year==2050&LWscen=="Baseline with technological changes",select=GWP100))-as.numeric(subset(plot_line,Year==2050&LWscen=="Aluminum Maximum",select=GWP100)))/10^12
+# (as.numeric(subset(plot_line,Year==2050&LWscen=="Baseline with technological changes",select=GWP100))-as.numeric(subset(plot_line,Year==2050&LWscen=="Aluminum Maximum",select=GWP100)))/as.numeric(subset(plot_line,Year==2050&LWscen=="Baseline with technological changes",select=GWP100))
+
+
+```
+###Panel (b)
+
+```{r fig_2_b,fig.width=3.5,fig.height=3.5}
+#Functions to plot
+source("functions/plots/arrows_ribbon_f.R")
+source("functions/plots/cum_long_dtf_f.R")
+#Extract and compile simulation
+source("outputs/functions/read_f.R")
+
+y_limits<-c(0,2)
+x_limits<-c(2016,2050)
+label_years<-c(2040)
+emi_inv<-"GWP100"
+lwscen_to_delete<-c("BAU","Aluminum Intensive","Adapted Aluminum Maximum","Steel Intensive")
+tot_colors<-palette_milovanoff[3:5]
+sim="sim1"
+dyn_LCI_tot <- do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc=sim,dts_names="dyn_LCI_tot"))
+#Rename LWscen
+dyn_LCI_tot$LWscen[dyn_LCI_tot$LWscen=="BAU"&dyn_LCI_tot$Case=="No Change"] <- "Baseline without technological changes"
+dyn_LCI_tot$LWscen[dyn_LCI_tot$LWscen=="BAU"&dyn_LCI_tot$Case=="Fuel consumption improvements"] <- "Baseline with technological changes"
+dyn_LCI_tot$Case[dyn_LCI_tot$Case=="Lightweighting"] <- "Aluminum Maximum lightweighting"
+#plot_line
+plot_line<-subset(dyn_LCI_tot,!LWscen%in%lwscen_to_delete)
+if (length(which(dyn_LCI_tot$LWscen%in%lwscen_to_delete&grepl("lightweighting",dyn_LCI_tot$Case,ignore.case = TRUE)))!=0){
+  dyn_LCI_tot<-dyn_LCI_tot[-which(dyn_LCI_tot$LWscen%in%lwscen_to_delete&grepl("lightweighting",dyn_LCI_tot$Case,ignore.case = TRUE)),]
+}
+plot_ribbon<-arrows_ribbon_f(dtf=dyn_LCI_tot,x_axis="Year",y_axis=emi_inv,var_color="Case",ref_var="order")
+
+
+cum_dyn_tot<-do.call(cum_long_dtf_f,list(dtf=dyn_LCI_tot,cum_variable="GWP100",cum_param="Year"))
+delta_cum_tot<-arrows_ribbon_f(dtf=cum_dyn_tot,x_axis="Year",y_axis=emi_inv,var_color="Case",ref_var="order")
+y_val<-emi_inv
+plot_ribbon[,"cum_GWP100"]<-delta_cum_tot[,"delta_y"]
+cum_val<-format(as.numeric(subset(delta_cum_tot,grepl("lightweighting",Case)&Year==2050,delta_y))/10^12,digits = 2) 
+label_text<-paste0("Delta[cumulative]*`= `*bold(",cum_val,")*` Gt CO`[2]*` eq.`")
+#Format
+colors<-tot_colors[c((6-length(unique(as.character(plot_ribbon$Case)))):3,1)]
+case_limit_legend<-setdiff(unique(plot_ribbon$Case),"No Change")
+#Plot the total annual Fleet GHG emissions for all scenarios
+
+ggplot(data=plot_ribbon)+
+    geom_ribbon(data=subset(plot_ribbon,Case%in%case_limit_legend),
+                aes(x=Year,ymin=y_end/10^12,ymax=y_start/10^12,fill=Case),
+                alpha=0.75)+
+  geom_line(data=subset(plot_line,!grepl("Baseline",LWscen)),
+              aes(x=Year,y=get(y_val)/10^12,colour=LWscen),
+              size=1.1,
+              alpha=0.75)+
+    geom_line(data=subset(plot_line,grepl("Baseline",LWscen)),
+              aes(x=Year,y=get(y_val)/10^12,linetype=LWscen),
+              colour="black",
+              size=1.1,
+              alpha=0.75)+
+    
+    geom_label_repel(data=na.omit(subset(plot_ribbon,Year%in%c(label_years)&grepl("lightweighting",Case))),
+                     aes(x=label_years,y=(y_end+y_start)/(2*10^12),label=label_text),
+                     color=palette_milovanoff[3],
+                     parse=TRUE,
+                     segment.alpha=0.5,
+                     segment.size = 0.5,
+                     size=4,
+                     fill="white",
+                     box.padding=0.15,
+                     arrow = arrow(length = unit(0.01, 'npc')),
+                     nudge_x=-10,
+                     nudge_y = -0.2,
+                     angle=0,
+                     show.legend = FALSE)+
+    theme_milovanoff()+
+    labs(y=expression("Gt CO"[2]*" eq. per year"),title=NULL)+
+    scale_x_continuous(limits = x_limits,expand = c(0.01,0))+
+    scale_y_continuous(limits=y_limits,expand = c(0.01,0))+
+    scale_color_manual(values=palette_milovanoff[3],
+                       guide="none")+
+    scale_fill_manual(values=colors,
+                      guide=guide_legend(title=NULL,
+                                         order=2))+
+    scale_linetype_manual(values=c(4,1),
+                   breaks=c("Baseline without technological changes","Baseline with technological changes"),
+                   guide = guide_legend(title=NULL,
+                                        order=1))+
+  theme(plot.title = element_blank(),
+        axis.title.x = element_blank(),
+        axis.title.y = element_text(vjust=0.5,margin=margin(b=0,unit="cm")),
+        axis.text.x = element_text(hjust=0.8),
+        plot.margin=unit(c(1,1,1,1),"mm"),
+        legend.box = "vertical",
+        legend.box.just = "left",
+        legend.background = element_blank(),
+        legend.position = c(0.5,0.25),
+        legend.key.width=unit(0.5, "cm"))
+
+ggsave("outputs/plots/paper_fig2b.png",width=3.5,height=3.5,units=c("in"),dpi=300)
+
+
+#Fleet GHG emissions in baseline without changes  
+#(subset(plot_line,LWscen=="Baseline without technological changes"&Year==2025,GWP100)-subset(plot_line,LWscen=="Baseline without technological changes"&Year==2015,GWP100))/10^9
+
+#subset(plot_ribbon,LWscen=="Aluminum Maximum"&Year==2025,delta_y)/10^9
+```
+
+###Panel (c)
+
+```{r fig_fleet_ghg_lw_phase, fig.height=3, fig.width=6}
+#Plot functions
+source("functions/plots/delta_long_dtf_f.R")
+source("functions/plots/cum_long_dtf_f.R")
+source("outputs/functions/read_f.R")
+#Extract results of the simulation
+fleet_lca_f_res <- do.call(fun_res_f,list(fun_name="fleet_lca_f",fast_mode="y"))
+dyn_LCI_phase<-fleet_lca_f_res[["dyn_LCI_phase"]]
+emi_inv<-"GWP100"
+cum_dyn_phase<-do.call(cum_long_dtf_f,list(dtf=dyn_LCI_phase,cum_variable="GWP100",cum_param="Year"))
+year_tbc<-c(2050)
+cum_dyn_phase<-subset(cum_dyn_phase,Year%in%year_tbc)
+#Format dyn_LCI
+cum_dyn_phase$LWscen[cum_dyn_phase$LWscen=="BAU"]<-"No Lightweigting"
+#Create data frame with changes by process by lightweighting scenario
+delta_phase<-do.call(delta_long_dtf_f,list(dtf=cum_dyn_phase,x_axis="Year",y_axis="GWP100",ref_var="LWscen",ref_case="No Lightweigting",out_var=NULL))
+#Aggregate
+agg.formula<-reformulate(termlabels = setdiff(colnames(dyn_LCI_phase),c("Process","Phase",emi_inv)),response = emi_inv)
+dyn_LCI_tot<-aggregate(data = cum_dyn_phase,agg.formula,FUN=sum)
+delta_tot<-do.call(delta_long_dtf_f,list(dtf=dyn_LCI_tot,x_axis="Year",y_axis="GWP100",ref_var="LWscen",ref_case="No Lightweigting",out_var=NULL))
+
+#Parameters to consider
+LWscen_tbc<-setdiff(unique(dyn_LCI_tot$LWscen),"Adapted Aluminum Maximum")
+#LWscen_tbc<-unique(dyn_LCI_tot$LWscen)
+
+lw_order<-dyn_LCI_tot$LWscen[dyn_LCI_tot$Year=="2050"][order(dyn_LCI_tot$GWP100[dyn_LCI_tot$Year=="2050"],decreasing = TRUE)]
+phase_order<-c("Primary Material Production","Secondary Material Production","Battery production and assembly","Manufacturing","Fuel Production","Fuel Use","End of Life")
+delta_phase$Phase<-factor(delta_phase$Phase,level=phase_order)
+delta_phase$LWscen<-factor(delta_phase$LWscen,level=lw_order)
+delta_tot$LWscen<-factor(delta_tot$LWscen,level=lw_order)
+
+#Plot the total annual Fleet GHG emissions for all scenarios
+plot_point<-subset(delta_tot,LWscen%in%LWscen_tbc&delta_GWP100!=0)
+plot_col<-subset(delta_phase,LWscen%in%LWscen_tbc&delta_GWP100!=0)
+
+#Aggregate phases
+plot_col[,"phase_tbp"]<-as.character(plot_col$Phase)
+plot_col[plot_col$Phase%in%c("Primary Material Production","Secondary Material Production","Battery production and assembly","Manufacturing"),"phase_tbp"]<-"Vehicle production"
+
+ggplot()+
+  geom_col(data=plot_col,
+                 aes(x=LWscen,y=delta_GWP100/10^12,fill=phase_tbp))+
+  geom_point(data=plot_point,
+             aes(x=LWscen,y=delta_GWP100/10^12,shape="Net cumulative changes"),
+             size=5)+
+  coord_flip()+
+  #facet_wrap(~Year,scales = "free_x")+
+  theme_milovanoff()+
+  labs(y=expression("2016-2050 Cumulative GHG changes (Gt CO"[2]*" eq.)"),title="(b) Cumulative GHG emission changes by phase \n due to lightweighting (2016-2050)")+
+  scale_fill_manual(values=palette_milovanoff[6:9],
+                   guide=guide_legend(title=NULL,
+                                           ncol=3,
+                                           order=2))+
+  scale_shape_manual(values=c(18),
+                     guide=guide_legend(title=NULL,
+                                        order=1))+
+  scale_y_continuous(expand = c(0.01,0))+
+  theme(plot.title = element_blank(),
+        legend.box = "horizontal",
+        legend.box.margin = margin(r=3,unit="cm"),
+        axis.title.y = element_blank(),
+        axis.title.x = element_text(margin = margin(0.2,0,0,0,unit="cm")))
+
+ggsave("outputs/plots/paper_fig2c.png",width=6.5,height=2,units=c("in"),dpi=300)
+
+#Numerical values
+#min(plot_point[,"delta_GWP100"])/plot_point[,"delta_GWP100"]
+#subset(plot_col,LWscen=="Aluminum Maximum")
+#Reductions in %
+#plot_point[,"delta_GWP100"]/(plot_point[,"GWP100"]-plot_point[,"delta_GWP100"])
+```
+
+Table
+```{r eval=FALSE, include=FALSE}
+source("functions/plots/cum_long_dtf_f.R")
+source("functions/plots/pay_back_time_f.R")
+fleet_lca_f_res <- do.call(fun_res_f,list(fun_name="fleet_lca_f",fast_mode="y"))
+dyn_LCI_tot<-fleet_lca_f_res[["dyn_LCI_tot"]]
+cum_dyn_LCI_tot<-do.call(cum_long_dtf_f,list(dtf=dyn_LCI_tot,cum_variable="GWP100",cum_param="Year"))
+#Compute the lightweighting GHG pay-back time
+lw_pay_back_dt<-pay_back_time_f(dtf=cum_dyn_LCI_tot,y_axis="GWP100",x_axis="Year",i_x_val=2016,ref_var="LWscen",ref_case="BAU")
+```
+
+
+
+
+##Impact of External factors on GHG emissions changes due to lightweighting
+
+###Panel (a)
+```{r external_factors_fig_a, fig.height=1, fig.width=4}
+
+source("functions/plots/arrows_ribbon_f.R")
+source("functions/plots/delta_long_dtf_f.R")
+source("functions/plots/cum_long_dtf_f.R")
+source("outputs/functions/read_f.R")
+
+#Extract results of the simulation: Ranges
+sim="sim20"
+dyn_LCI_tot<-do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc=sim,dts_names="dyn_LCI_tot"))
+
+cum_dyn_tot<-do.call(cum_long_dtf_f,list(dtf=dyn_LCI_tot,cum_variable="GWP100",cum_param="Year"))
+years_tbc<-c(2050)
+delta_tot<-do.call(delta_long_dtf_f,list(dtf=subset(cum_dyn_tot,Year%in%years_tbc),x_axis="Year",y_axis="GWP100",ref_var="LWscen",ref_case="BAU",out_var=NULL))
+#Parameters
+lwscen_tbc<-setdiff(unique(delta_tot$LWscen),c("BAU","Adapted Aluminum Maximum"))
+delta_tot<-subset(delta_tot,Year%in%years_tbc&LWscen%in%lwscen_tbc)
+#Old
+col_aggregate<-c("LWscen","Year","Case")
+agg.formula<-reformulate(termlabels = col_aggregate,response = "delta_GWP100")
+plot_bar<-aggregate(data = delta_tot,agg.formula,FUN=sum)[,col_aggregate]
+plot_bar[,"y_start"]<-aggregate(data = delta_tot,agg.formula,FUN=min)[,"delta_GWP100"]
+plot_bar[,"y_end"]<-aggregate(data = delta_tot,agg.formula,FUN=max)[,"delta_GWP100"]
+#Keep only relevant parameters for points
+unique(delta_tot$Case)
+param_tk=c("Fuel consumption improvements"="fc_impro","Alternative powertrain/fuel penetration"="aeo_scen","Oil prices"="aeo_scen","Automotive material recovery"="rec_scen")
+param_list=c()
+for (i in 1:nrow(delta_tot)){
+  param_list=append(param_list,delta_tot[i,param_tk[delta_tot[i,"Case"]]])
+}
+plot_point<-cbind(delta_tot[,c("LWscen","Case","delta_GWP100")],"param"=param_list,stringsAsFactors=FALSE)
+
+#Extract default results and create point
+dyn_LCI_tot<-do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc="sim6",dts_names="dyn_LCI_tot"))
+case_tbc<-"Default lightweighting"
+dyn_LCI_tot<-subset(dyn_LCI_tot,Case%in%case_tbc)
+cum_dyn_tot<-do.call(cum_long_dtf_f,list(dtf=dyn_LCI_tot,cum_variable="GWP100",cum_param="Year"))
+year_tbc<-c(2050)
+cum_dyn_tot<-subset(cum_dyn_tot,Year%in%year_tbc)
+delta_tot<-do.call(delta_long_dtf_f,list(dtf=cum_dyn_tot,x_axis="Year",y_axis="GWP100",ref_var="LWscen",ref_case="BAU",out_var=NULL))
+#Parameters to consider
+delta_tot<-subset(delta_tot,LWscen%in%lwscen_tbc)
+for (case in unique(plot_point$Case)){
+  for (scen in unique(plot_point$LWscen)){
+    def_val=as.numeric(subset(delta_tot,LWscen==scen,select=delta_GWP100))
+    if (any(plot_point[,"LWscen"]==scen&plot_point[,"Case"]==case&plot_point[,"delta_GWP100"]==def_val&plot_point[,"param"]!="Default")){
+      plot_point<-plot_point[-which(plot_point[,"LWscen"]==scen&plot_point[,"Case"]==case&plot_point[,"delta_GWP100"]==def_val&plot_point[,"param"]!="Default"),]
+    }
+    plot_point<-rbind(plot_point,data.frame('LWscen'=scen,'Case'=case,'delta_GWP100'= def_val,'param'="Default"))
+    }
+}
+#Format point names
+plot_point[plot_point=="n"]<-"No improvements"
+plot_point[plot_point=="High"]<-"High improvements"
+plot_point[plot_point=="REF_BAU"]<-"No penetration"
+plot_point[plot_point=="REF_EV"]<-"High EV"
+plot_point[plot_point=="HOP"]<-"High oil prices"
+plot_point[plot_point=="LOP"]<-"Low oil prices"
+plot_point[plot_point=="CL100"]<-"Closed loop"
+
+#Order factors
+par_order<-sort(unique(plot_bar$Case),decreasing = TRUE)
+plot_bar[,"Case"]<-factor(plot_bar[,"Case"],levels = par_order)
+lw_order=c("Steel Intensive","Aluminum Intensive","Aluminum Maximum")
+plot_bar[,"LWscen"]<-factor(plot_bar[,"LWscen"],levels = lw_order)
+plot_point[,"LWscen"]<-factor(plot_point[,"LWscen"],levels = lw_order)
+
+x_limit=c(min(plot_point$delta_GWP100)/10^12,0)
+#Plot per case
+for (case_num in 1:(length(par_order)-1)){
+  case=par_order[case_num]
+  if (nrow(unique(subset(plot_point,Case==case,param)))==3){
+    shape_values=c(15,19,18)
+  } else if (nrow(unique(subset(plot_point,Case==case,param)))==2){
+    shape_values=c(15,18)
+  }
+  plot_point_temp<-subset(plot_point,Case==case)
+  plot_point_temp$param<-factor(plot_point_temp$param,unique(plot_point_temp$param))
+  
+  plot_temp<-ggplot(subset(plot_bar,Case==case))+
+    geom_linerange(aes(x=Case,ymin=y_start/10^12,ymax=y_end/10^12,colour=LWscen),
+                            position = position_dodge(width = 1),
+                            size=1.4)+
+    geom_point(data=plot_point_temp,
+               aes(y=delta_GWP100/10^12,x=Case,group=LWscen,shape=param),
+             position = position_dodge(width = 1),
+             size=2)+
+    coord_flip()+
+    facet_wrap(~Case,scales="free_y",ncol=1)+
+    theme_milovanoff()+
+    labs(y=expression("2016-2050 Cumulative GHG changes (Gt CO"[2]*" eq.)"),x=NULL,title=NULL)+
+    scale_y_continuous(limits=x_limit,expand = c(0.02,0))+
+    scale_colour_milovanoff(guide="none")+
+    scale_shape_manual(values=shape_values,
+                       breaks=setdiff(plot_point_temp$param,"Default"),
+                       guide=guide_legend(title=NULL))+
+    theme(axis.title.x = element_blank(),
+          axis.text.y=element_blank(), 
+          axis.text.x = element_blank(),
+          axis.ticks.y = element_blank(),
+          axis.ticks.x = element_blank(),
+          plot.margin = margin(l=0.1,r=0.1,t=0,b=0,unit="cm"),
+          legend.position = "right",
+          legend.box = "vertical",
+          legend.text = element_text(margin = margin(l=0,t=0,r=0,b=0,unit="cm"),face = "plain",size=rel(0.75)),
+          panel.background = element_rect(colour = "black"),
+          legend.box.just="left")
+  
+  ggsave(paste0("outputs/plots/paper_fig3a",case_num,".png"),plot_temp+theme(legend.position = "none"),width=4,height=0.65,units=c("in"),dpi=300)
+  
+  plot_legend<-get_legend(plot_temp)
+  ggsave(paste0("outputs/plots/paper_fig3a",case_num,"_legend.png"),plot=plot_legend,width=1.5,height=0.5,units=c("in"),dpi=300)
+}
+
+case_num=length(par_order)
+case=par_order[case_num]
+plot_point_temp<-subset(plot_point,Case==case)
+plot_point_temp$param<-factor(plot_point_temp$param,unique(plot_point_temp$param))
+
+plot_temp<-ggplot(subset(plot_bar,Case==case))+
+    geom_linerange(aes(x=Case,ymin=y_start/10^12,ymax=y_end/10^12,colour=LWscen),
+                            position = position_dodge(width = 1),
+                            size=1.4)+
+    geom_point(data=plot_point_temp,
+               aes(y=delta_GWP100/10^12,x=Case,group=LWscen,shape=param),
+             position = position_dodge(width = 1),
+             size=2)+
+    coord_flip()+
+    facet_wrap(~Case,scales="free_y",ncol=1)+
+    theme_milovanoff(base_size=12)+
+    labs(y=expression("2016-2050 Cumulative GHG changes (Gt CO"[2]*" eq.)"),x=NULL,title=NULL)+
+    scale_y_continuous(limits=x_limit,expand = c(0.02,0))+
+    scale_colour_milovanoff(guide="none")+
+    scale_shape_manual(values=c(15,19,18),
+                       guide=guide_legend(title=NULL))+
+    theme(axis.title.x = element_text(margin = margin(l=0,t=0,r=0,b=0,unit="cm"),face = "plain",size=rel(0.7)),
+          axis.text.y=element_blank(), 
+          axis.ticks.y = element_blank(),
+          plot.margin = margin(l=0.1,r=0.1,t=0.1,b=0.1,unit="cm"),
+          legend.position = "right",
+          legend.box = "vertical",
+          legend.text = element_text(margin = margin(l=0,t=0,r=0,b=0,unit="cm"),face = "plain",size=rel(0.75)),
+          panel.background = element_rect(colour = "black"),
+          legend.box.just="left")
+  
+ggsave(paste0("outputs/plots/paper_fig3a",case_num,".png"),plot_temp+theme(legend.position = "none"),width=4,height=1,units=c("in"),dpi=300)
+  
+plot_legend<-get_legend(plot_temp)
+  ggsave(paste0("outputs/plots/paper_fig3a",case_num,"_legend.png"),plot=plot_legend,width=1.5,height=0.65,units=c("in"),dpi=300)
+  
+  
+plot_legend_b<-get_legend(plot_temp+guides(shape="none",colour=guide_legend(title=NULL,reverse=TRUE))+theme(legend.position = "bottom",legend.box = "horizontal",legend.direction = "horizontal",legend.key.width=unit(0.1,"cm"),legend.spacing.x =unit(0.2,"cm")))
+ggsave(paste0("outputs/plots/paper_fig3a_legend_botton.png"),plot=plot_legend_b,width=4,height=0.255,units=c("in"),dpi=300)                    
+
+```
+
+###Panels (b) and (c)
+
+```{r fig_ext_fac_b_c,fig.width=4,fig.height=4}
+#Functions to plot
+source("functions/plots/arrows_ribbon_f.R")
+source("functions/plots/pay_back_time_f.R")
+source("functions/plots/cum_long_dtf_f.R")
+#Extract and compile simulation
+source("outputs/functions/read_f.R")
+sim_tbc<-paste0("sim",c(21,8))
+fig_name_tbc<-c("(b) No alternative powertrain and \n fuel penetration",
+                "(c) High EV penetration")
+y_limits<-c(0,2)
+x_limits<-c(2016,2050)
+label_years<-c(2040)
+emi_inv<-"GWP100"
+tot_colors<-palette_milovanoff[3:5]
+for (r in 1:length(sim_tbc)){
+  sim=sim_tbc[r]
+  dyn_LCI_tot<-do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc=sim,dts_names="dyn_LCI_tot"))
+  #Rename
+  dyn_LCI_tot$Case[dyn_LCI_tot$Case=="Lightweighting"] <- "Aluminum Maximum lightweighting"
+  cum_dyn_tot<-do.call(cum_long_dtf_f,list(dtf=dyn_LCI_tot,cum_variable="GWP100",cum_param="Year"))
+  delta_cum_tot<-arrows_ribbon_f(dtf=cum_dyn_tot,x_axis="Year",y_axis=emi_inv,var_color="Case",ref_var="order")
+  y_val<-emi_inv
+  plot_ribbon<-arrows_ribbon_f(dtf=dyn_LCI_tot,x_axis="Year",y_axis=emi_inv,var_color="Case",ref_var="order")
+  plot_ribbon[,"cum_GWP100"]<-delta_cum_tot[,"delta_y"]
+  cum_val<-format(as.numeric(subset(delta_cum_tot,grepl("lightweighting",Case)&Year==2050,delta_y))/10^12,digits = 2) 
+  label_text<-paste0("Delta[cumulative]*`= `*bold(",cum_val,")*` Gt CO`[2]*` eq.`")
+  #Format
+  plot_line=subset(plot_ribbon,Case!="Alternative powertrain/fuel penetration")
+  levels(plot_line$Case)[levels(plot_line$Case)=="No Change"]="Baseline without technological changes"
+  levels(plot_line$Case)[levels(plot_line$Case)=="Fuel consumption improvements"]="Baseline with technological changes"
+  #Format
+  colors<-tot_colors[c((6-length(unique(as.character(plot_ribbon$Case)))):3,1)]
+  case_limit_legend<-setdiff(unique(plot_ribbon$Case),"No Change")
+  #Plot the total annual Fleet GHG emissions for all scenarios
+  plot_tmp<-ggplot(data=plot_ribbon)+
+    geom_ribbon(data=subset(plot_ribbon,Case%in%case_limit_legend),
+                aes(x=Year,ymin=y_end/10^12,ymax=y_start/10^12,fill=Case),
+                alpha=0.5)+
+    geom_line(data=subset(plot_line,!grepl("Baseline",Case)),
+              aes(x=Year,y=get(y_val)/10^12,colour=LWscen),
+              size=1.33,
+              alpha=0.75)+
+    geom_line(data=subset(plot_line,grepl("Baseline",Case)),
+              aes(x=Year,y=get(y_val)/10^12,linetype=Case),
+              colour="black",
+              size=1.33,
+              alpha=0.75)+
+    geom_label_repel(data=na.omit(subset(plot_ribbon,Year%in%c(label_years)&grepl("lightweighting",Case))),
+                     aes(x=label_years,y=(y_end+y_start)/(2*10^12),label=label_text),
+                     color=palette_milovanoff[3],
+                     parse=TRUE,
+                     segment.alpha=0.5,
+                     segment.size = 0.5,
+                     size=5,
+                     fill="white",
+                     box.padding=0.15,
+                     arrow = arrow(length = unit(0.01, 'npc')),
+                     nudge_x=-10,
+                     nudge_y = -0.3,
+                     angle=0,
+                     show.legend = FALSE)+
+    theme_milovanoff()+
+    labs(y=expression("Gt CO"[2]*" eq./yr"),title=NULL)+
+    scale_x_continuous(limits=x_limits,expand = c(0.02,0))+
+    scale_y_continuous(limits=y_limits,expand = c(0.01,0))+
+    scale_color_manual(values=palette_milovanoff[3],
+                       guide="none")+
+    scale_fill_manual(values=colors,
+                      guide=guide_legend(title=NULL,
+                                         ncol=1,
+                                         direction="vertical",
+                                         order=2))+
+    scale_linetype_manual(values=c(1,4),guide = guide_legend(title=NULL,
+                                                             ncol=1,
+                                                             direction="vertical",
+                                                             order=1))+
+    theme(plot.title = element_blank(),
+          plot.background = element_blank(),
+          plot.margin = margin(0.1,0.1,0.1,0.1,unit="cm"),
+          axis.text.x = element_text(face="plain",size=11,hjust=0.9),
+          axis.text.y = element_text(face="plain",size=11),
+          axis.title.x = element_blank(),
+          axis.title.y = element_text(face="plain",size=11, vjust=0.5,hjust=0.5))
+  if (r==1){
+    ggsave(paste0("outputs/plots/paper_fig3_",r,".png"),plot=plot_tmp+theme(legend.position = "none"),width=3.2,height=3,units=c("in"),dpi=300)
+  } else if (r==2){
+    ggsave(paste0("outputs/plots/paper_fig3_",r,".png"),
+           plot=plot_tmp+scale_y_continuous(position = "right",limits=y_limits,expand = c(0.01,0))+theme(axis.title.y.right = element_text(angle=90),legend.position = "none"),
+           width=3.2,height=3,units=c("in"),dpi=300)
+  }
+  plot_legend<-get_legend(plot_tmp)
+  ggsave(paste0("outputs/plots/paper_fig3_",r,"_legend.png"),plot=plot_legend,width=5.5,height=0.8,units=c("in"),dpi=300)
+}
+  
+  
+```
+
+
+##Timing and pace in ligthweighting
+
+###Panel (a) - Absolute for entire period
+
+```{r lw_timing_5,fig.width=4,fig.height=4}
+source("functions/plots/delta_long_dtf_f.R")
+source("functions/plots/cum_long_dtf_f.R")
+source("outputs/functions/read_f.R")
+dyn_tot <- do.call(read_sens_lw_timing,list(function_tbc="fleet_lca_f",sim_tbc="sim3",dts_names="dyn_LCI_tot"))
+period_tbc<-as.numeric(unique(dyn_tot$assess_period))
+#Keep only the useful years
+yr_limit=max(dyn_tot$Year)-period_tbc
+dyn_tot<-subset(dyn_tot,lw_first_yr<=yr_limit)
+cum_dyn_tot<-cum_long_dtf_f(dtf=dyn_tot,cum_variable="GWP100",cum_param="Year")
+
+plot_cum_tot<-subset(cum_dyn_tot,Year==2050)
+
+
+#Calculate GHG changes
+delta_vkt_tot<-do.call(delta_long_dtf_f,list(dtf=plot_cum_tot,x_axis="Year",y_axis="GWP100",ref_var="LWscen",ref_case="BAU",out_var=NULL))
+#Format
+lwscen_tbc<-setdiff(unique(delta_vkt_tot$LWscen),c("BAU","Adapted Aluminum Maximum"))
+delta_vkt_tot<-subset(delta_vkt_tot,LWscen%in%lwscen_tbc)
+
+order_case<-unique(delta_vkt_tot$Case[order(delta_vkt_tot$delta_GWP100,decreasing=TRUE)])
+#Create point dataset  
+plot_point<-subset(delta_vkt_tot,Case%in%c(order_case[c(1,length(order_case))],"Default technological changes"))
+plot_point$lw_first_yr<-factor(plot_point$lw_first_yr)
+plot_point$Case<-factor(plot_point$Case,levels=order_case)
+#Create range
+col_aggregate<-c("LWscen","lw_first_yr")
+agg.formula<-reformulate(termlabels = col_aggregate,response = "delta_GWP100")
+plot_bar<-aggregate(data = delta_vkt_tot,agg.formula,FUN=sum)[,col_aggregate]
+plot_bar[,"y_start"]<-aggregate(data = delta_vkt_tot,agg.formula,FUN=min)[,"delta_GWP100"]
+plot_bar[,"y_end"]<-aggregate(data = delta_vkt_tot,agg.formula,FUN=max)[,"delta_GWP100"]
+plot_bar$lw_first_yr<-factor(plot_bar$lw_first_yr)
+lw_order=c("Steel Intensive","Aluminum Intensive","Aluminum Maximum")
+plot_bar[,"LWscen"]<-factor(plot_bar[,"LWscen"],levels = lw_order)
+plot_point[,"LWscen"]<-factor(plot_point[,"LWscen"],levels = lw_order)
+plota<-ggplot(plot_point)+
+  geom_linerange(data=plot_bar,aes(x=lw_first_yr,ymin=y_start/10^12,ymax=y_end/10^12,colour=LWscen,group=LWscen),
+               position = position_dodge(width=0.6),
+                size=0.5)+
+  geom_point(data=plot_point,aes(x=lw_first_yr,y=delta_GWP100/10^12,shape=Case,group=LWscen),
+             colour="black",
+             position = position_dodge(width=0.6),
+             size=3)+
+  geom_point(data=plot_point,aes(x=lw_first_yr,y=delta_GWP100/10^12,shape=Case,group=LWscen,colour=LWscen),
+             position = position_dodge(width=0.6),
+             size=1.5)+
+  facet_wrap(~lw_first_yr,scales="free_x")+
+  theme_milovanoff()+
+  labs(y=expression(atop("2016-2050 cumulative","changes (Gt CO"[2]*" eq.)")),x="Lightweighting starting year")+
+  scale_y_continuous(limits=c(NA,0),expand = c(0.02,0))+
+  scale_colour_milovanoff(guide=guide_legend(title=NULL,
+                                             ncol=1))+
+  scale_shape_manual(values=c(15,18,20),
+                     guide=guide_legend(title=NULL,
+                                 ncol=1))+
+  theme(axis.line = element_line(),
+        plot.title = element_blank(),
+        axis.text.x = element_blank(),
+        axis.text.y = element_text(face="plain",angle=0,vjust=0,hjust=0.5),
+        axis.title.x = element_text(face="plain",size=11,vjust=1,hjust=0.5,margin=margin(t=0,unit="cm")),
+        axis.title.y = element_text(face="plain", vjust=0,hjust=0.5,margin=margin(r=0.1,unit="cm")),
+        plot.margin=unit(c(1,1,1,1),"mm"),
+        axis.ticks.x = element_blank(),
+        panel.border = element_rect(colour = "black"),
+        panel.grid.major.x=element_blank())
+  
+plota+theme(legend.position = "none")
+
+legend<-get_legend(plota)
+ggdraw(legend)
+ggsave("outputs/plots/paper_fig4a_legend.png",legend,width=5,height=0.7,units=c("in"),dpi=300)
+
+ggsave("outputs/plots/paper_fig4a.png",plota+theme(legend.position = "none"),width=3,height=2.5,units=c("in"),dpi=300)
+
+
+#Numerical values
+#subset(plot_point, LWscen=="Aluminum Maximum")
+```
+
+###Per VKT
+```{r lw_timing_3,fig.width=4,fig.height=3}
+source("functions/plots/delta_long_dtf_f.R")
+source("outputs/functions/read_f.R")
+cum_vkt_tot <- do.call(read_sens_lw_timing,list(function_tbc="fleet_lca_vkmt_f",sim_tbc="sim5",dts_names="cum_dyn_LCI_tot_vkt"))
+period_tbc<-as.numeric(unique(cum_vkt_tot$assess_period))
+#Keep only the useful years
+yr_limit=max(cum_vkt_tot$Year)-period_tbc
+cum_vkt_tot<-subset(cum_vkt_tot,lw_first_yr<=yr_limit)
+plot_cum_vkt<-NULL
+lw_first_yr_tbc<-as.numeric(unique(cum_vkt_tot$lw_first_yr))
+for (first_yr in lw_first_yr_tbc){
+  last_yr_tbc<-first_yr+period_tbc
+  plot_cum_vkt<-rbind(plot_cum_vkt,subset(cum_vkt_tot,lw_first_yr==first_yr&Year==last_yr_tbc))
+}
+#Calculate GHG changes
+delta_vkt_tot<-do.call(delta_long_dtf_f,list(dtf=plot_cum_vkt,x_axis="Year",y_axis="GWP100",ref_var="LWscen",ref_case="BAU",out_var=NULL))
+#Format
+lwscen_tbc<-setdiff(unique(delta_vkt_tot$LWscen),c("BAU","Adapted Aluminum Maximum"))
+delta_vkt_tot<-subset(delta_vkt_tot,LWscen%in%lwscen_tbc)
+
+order_case<-unique(delta_vkt_tot$Case[order(delta_vkt_tot$delta_GWP100,decreasing=TRUE)])
+#Create point dataset  
+plot_point<-subset(delta_vkt_tot,Case%in%c(order_case[c(1,length(order_case))],"Default technological changes"))
+plot_point$lw_first_yr<-factor(plot_point$lw_first_yr)
+plot_point$Case<-factor(plot_point$Case,levels=order_case)
+#Create range
+col_aggregate<-c("LWscen","lw_first_yr")
+agg.formula<-reformulate(termlabels = col_aggregate,response = "delta_GWP100")
+plot_bar<-aggregate(data = delta_vkt_tot,agg.formula,FUN=sum)[,col_aggregate]
+plot_bar[,"y_start"]<-aggregate(data = delta_vkt_tot,agg.formula,FUN=min)[,"delta_GWP100"]
+plot_bar[,"y_end"]<-aggregate(data = delta_vkt_tot,agg.formula,FUN=max)[,"delta_GWP100"]
+plot_bar$lw_first_yr<-factor(plot_bar$lw_first_yr)
+lw_order=c("Steel Intensive","Aluminum Intensive","Aluminum Maximum")
+plot_bar[,"LWscen"]<-factor(plot_bar[,"LWscen"],levels = lw_order)
+plot_point[,"LWscen"]<-factor(plot_point[,"LWscen"],levels = lw_order)
+
+plotb<-ggplot(plot_point)+
+  geom_linerange(data=plot_bar,aes(x=lw_first_yr,ymin=y_start*10^3,ymax=y_end*10^3,colour=LWscen,group=LWscen),
+               position = position_dodge(width=0.6),
+                size=0.5)+
+  geom_point(data=plot_point,aes(x=lw_first_yr,y=delta_GWP100*10^3,shape=Case,group=LWscen),
+             colour="black",
+             position = position_dodge(width=0.6),
+             size=3)+
+  geom_point(data=plot_point,aes(x=lw_first_yr,y=delta_GWP100*10^3,shape=Case,group=LWscen,colour=LWscen),
+             position = position_dodge(width=0.6),
+             size=1.5)+
+  facet_wrap(~lw_first_yr,scales="free_x")+
+  theme_milovanoff()+
+  labs(y=expression(atop("20-year cumulative changes","(g CO"[2]*" eq./Fleet KT)")),x="Lightweighting starting year")+
+  scale_y_continuous(limits=c(NA,0),expand = c(0.02,0))+
+  scale_colour_milovanoff(guide=guide_legend(title=NULL,
+                                             ncol=1))+
+  scale_shape_manual(values=c(15,18,20),
+                     guide=guide_legend(title=NULL,
+                                        ncol=1))+
+  theme(axis.line = element_line(),
+        plot.title = element_blank(),
+        axis.text.x = element_blank(),
+        axis.text.y = element_text(face="plain",angle=0,vjust=0,hjust=0.5),
+        axis.title.x = element_text(face="plain",size=11,vjust=1,hjust=0.5,margin=margin(t=0,unit="cm")),
+        axis.title.y = element_text(face="plain", vjust=0,hjust=0.5,margin=margin(r=0.1,unit="cm")),
+        plot.margin=unit(c(1,1,1,1),"mm"),
+        axis.ticks.x = element_blank(),
+        panel.border = element_rect(colour = "black"),
+        panel.grid.major.x=element_blank())
+
+plotb+theme(legend.position = "none")
+
+legend<-get_legend(plotb)
+ggdraw(legend)
+ggsave("outputs/plots/paper_fig4b_legend.png",legend,width=5,height=0.7,units=c("in"),dpi=300)
+
+ggsave("outputs/plots/paper_fig4b.png",plotb+theme(legend.position = "none"),width=3,height=2.5,units=c("in"),dpi=300)
+
+#Numerical results
+#subset(plot_point,LWscen=="Aluminum Maximum")
+
+```
+
+#Discussion
+##4.1
+
+```{r discussion_4_1, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+source("functions/plots/delta_long_dtf_f.R")
+#Extract and compile simulation
+source("outputs/functions/read_f.R")
+dyn_LCI_phase<-do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc="sim26",dts_names="dyn_LCI_phase"))
+
+#Calculate changes from baseline without changes and Aluminum max
+delta_dyn_phase<-do.call(delta_long_dtf_f,list(dtf=dyn_LCI_phase,x_axis="Year",y_axis="GWP100",ref_var="LWscen",ref_case="BAU",out_var=c("fc_impro","frv_impro","aeo_scen","Case")))
+
+#Overall changes
+sum(subset(delta_dyn_phase,Year==2025&LWscen=="Aluminum Maximum",delta_GWP100))/10^9
+#Changes in transportation sector
+sum(subset(delta_dyn_phase,Year==2025&LWscen=="Aluminum Maximum"&Phase%in%c("Fuel Production","Fuel Use"),delta_GWP100))/10^9
+#Changes in other sectors
+sum(subset(delta_dyn_phase,Year==2025&LWscen=="Aluminum Maximum"&!Phase%in%c("Fuel Production","Fuel Use"),delta_GWP100))/10^9
+
+
+#Calculate lightweighting plus other measures
+dyn_LCI_phase<-do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc="sim1",dts_names="dyn_LCI_phase"))
+dyn_LCI_phase<-subset(dyn_LCI_phase,Case%in%c("No Change","Lightweighting"))
+
+#Increases from 2016 to 2025
+(sum(subset(dyn_LCI_phase,Year==2016&LWscen=="BAU"&Case=="No Change",GWP100))-sum(subset(dyn_LCI_phase,Year==2025&LWscen=="BAU"&Case=="No Change",GWP100)))/10^9
+#Changes transportation
+(sum(subset(dyn_LCI_phase,Year==2025&LWscen=="BAU"&Case=="No Change"&Phase%in%c("Fuel Production","Fuel Use"),GWP100))-sum(subset(dyn_LCI_phase,Year==2025&LWscen=="Aluminum Maximum"&Case=="Lightweighting"&Phase%in%c("Fuel Production","Fuel Use"),GWP100)))/10^9
+#Changes in other sectors
+(sum(subset(dyn_LCI_phase,Year==2025&LWscen=="BAU"&Case=="No Change"&!Phase%in%c("Fuel Production","Fuel Use"),GWP100))-sum(subset(dyn_LCI_phase,Year==2025&LWscen=="Aluminum Maximum"&Case=="Lightweighting"&!Phase%in%c("Fuel Production","Fuel Use"),GWP100)))/10^9
+#Local production in US=57%
+#Overall changes
+(sum(subset(dyn_LCI_phase,Year==2025&LWscen=="BAU"&Case=="No Change",GWP100))-sum(subset(dyn_LCI_phase,Year==2025&LWscen=="Aluminum Maximum"&Case=="Lightweighting",GWP100)))/10^9
+
+```
+##4.2 
+
+```{r discussion_4_2, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+source("functions/plots/delta_long_dtf_f.R")
+source("functions/plots/cum_long_dtf_f.R")
+#Extract and compile simulation
+source("outputs/functions/read_f.R")
+dyn_LCI_tot<-do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc="sim26",dts_names="dyn_LCI_tot"))
+#cumulative
+cum_dyn_LCI_tot<-do.call(cum_long_dtf_f,list(dtf=dyn_LCI_tot,cum_variable="GWP100",cum_param="Year"))
+#Calculate changes from baseline without changes and Aluminum max
+delta_tot<-do.call(delta_long_dtf_f,list(dtf=cum_dyn_LCI_tot,x_axis="Year",y_axis="GWP100",ref_var="LWscen",ref_case="BAU",out_var=c("fc_impro","frv_impro","aeo_scen","Case")))
+delta_tot[,"rel_delta"] <- delta_tot[,"delta_GWP100"]/(delta_tot[,"GWP100"]-delta_tot[,"delta_GWP100"])
+
+#cumulative savings 2016-2050 for all lightweigthing scenarios
+subset(delta_tot,Year==2050)
+
+subset(delta_tot,Year==2050,delta_GWP100)/as.numeric(subset(delta_tot,Year==2050&LWscen=="BAU",GWP100))
+#Changes in transportation sector
+sum(subset(delta_dyn_phase,Year==2025&LWscen=="Aluminum Maximum"&Phase%in%c("Fuel Production","Fuel Use"),delta_GWP100))/10^9
+#Changes in other sectors
+sum(subset(delta_dyn_phase,Year==2025&LWscen=="Aluminum Maximum"&!Phase%in%c("Fuel Production","Fuel Use"),delta_GWP100))/10^9
+#Overall changes
+sum(subset(delta_dyn_phase,Year==2025&LWscen=="Aluminum Maximum",delta_GWP100))/10^9
+
+##Reductions due to High EV penetration
+dyn_LCI_tot<-do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc="sim2",dts_names="dyn_LCI_tot"))
+cum_dyn_LCI_tot<-do.call(cum_long_dtf_f,list(dtf=subset(dyn_LCI_tot,LWscen=="BAU"),cum_variable="GWP100",cum_param="Year"))
+delta_tot<-do.call(delta_long_dtf_f,list(dtf=cum_dyn_LCI_tot,x_axis="Year",y_axis="GWP100",ref_var="Case",ref_case="No Change",out_var=c("LWscen","aeo_scen")))
+#Cumulative 2016-2030 changes due to high EV penetration alone
+subset(delta_tot,Year==2050 & Case=="High EV penetration")[,"delta_GWP100"]/10^12
+#Relative change
+1-subset(delta_tot,Year==2050 & Case=="High EV penetration")[,"GWP100"]/subset(delta_tot,Year==2050 & Case=="No Change")[,"GWP100"]
+```
+
+
+```{r discussion_4_2_bis, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+source("functions/plots/cum_long_dtf_f.R")
+source("functions/plots/delta_long_dtf_f.R")
+#Extract and compile simulation
+source("outputs/functions/read_f.R")
+dyn_LCI_phase<-do.call(read_simulation_f,list(function_tbc="fleet_lca_f",sim_tbc="sim17",dts_names="dyn_LCI_phase"))
+
+#Calculate changes from baseline without changes and Aluminum max
+delta_dyn_phase<-do.call(delta_long_dtf_f,list(dtf=dyn_LCI_phase,x_axis="Year",y_axis="GWP100",ref_var="Case",ref_case="No Change",out_var=c("fc_impro","frv_impro","aeo_scen","LWscen")))
+
+#Show results in 2025 for Al Max
+#View(subset(delta_dyn_phase,Year==2025&LWscen=="Aluminum Maximum"))
+
+#Changes in transportation sector in 2025. 
+sum(subset(delta_dyn_phase,Year==2025&Case=="Lightweighting"&Phase%in%c("Fuel Production","Fuel Use"),delta_GWP100))/10^9
+#Changes in other sectors
+sum(subset(delta_dyn_phase,Year==2025&Case=="Lightweighting"&!Phase%in%c("Fuel Production","Fuel Use"),delta_GWP100))/10^9
+#Overall changes
+sum(subset(delta_dyn_phase,Year==2025&Case=="Lightweighting",delta_GWP100))/10^9
+
+
+agg.formula<-reformulate(termlabels = setdiff(colnames(dyn_LCI_phase),c("Process","Phase","GWP100")),response = "GWP100")
+dyn_LCI_tot<-aggregate(data = dyn_LCI_phase,agg.formula,FUN=sum)
+cum_dyn_LCI_tot<-do.call(cum_long_dtf_f,list(dtf=dyn_LCI_tot,cum_variable="GWP100",cum_param="Year"))
+
+delta_cum_tot<-do.call(delta_long_dtf_f,list(dtf=cum_dyn_LCI_tot,x_axis="Year",y_axis="GWP100",ref_var="Case",ref_case="No Change",out_var=c("fc_impro","frv_impro","aeo_scen","LWscen")))
+
+subset(delta_cum_tot,Year==2050)
+
+
+```
+

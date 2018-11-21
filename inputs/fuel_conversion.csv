@@ -1,0 +1,13 @@
+Unit,Data,Fuel,value
+J/L,Conversion factor,Gasoline,31270165.8
+J/L,Conversion factor,Diesel,35801112.19
+J/L,Conversion factor,Ethanol,21274417.23
+J/L,Conversion factor,Hydrogen,8500847.97
+J/L,Conversion factor,CNG & LPG,23676951.97
+J/kWh,Conversion factor,Electricity,3600000
+%,Distribution efficiency,Gasoline,1
+%,Distribution efficiency,Diesel,1
+%,Distribution efficiency,Ethanol,1
+%,Distribution efficiency,Hydrogen,1
+%,Distribution efficiency,CNG & LPG,1
+%,Distribution efficiency,Electricity,0.85

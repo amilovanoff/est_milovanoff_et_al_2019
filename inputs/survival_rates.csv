@@ -1,0 +1,115 @@
+Source,Data,Size,Age,value
+TEDB,Annual Survival rate,Car,0,1
+TEDB,Annual Survival rate,Car,1,0.997
+TEDB,Annual Survival rate,Car,2,0.996990973
+TEDB,Annual Survival rate,Car,3,0.996981891
+TEDB,Annual Survival rate,Car,4,0.992936428
+TEDB,Annual Survival rate,Car,5,0.989837398
+TEDB,Annual Survival rate,Car,6,0.986652977
+TEDB,Annual Survival rate,Car,7,0.980228928
+TEDB,Annual Survival rate,Car,8,0.976645435
+TEDB,Annual Survival rate,Car,9,0.970652174
+TEDB,Annual Survival rate,Car,10,0.965285554
+TEDB,Annual Survival rate,Car,11,0.958236659
+TEDB,Annual Survival rate,Car,12,0.953995157
+TEDB,Annual Survival rate,Car,13,0.911167513
+TEDB,Annual Survival rate,Car,14,0.853760446
+TEDB,Annual Survival rate,Car,15,0.831973899
+TEDB,Annual Survival rate,Car,16,0.81372549
+TEDB,Annual Survival rate,Car,17,0.8
+TEDB,Annual Survival rate,Car,18,0.786144578
+TEDB,Annual Survival rate,Car,19,0.777777778
+TEDB,Annual Survival rate,Car,20,0.773399015
+TEDB,Annual Survival rate,Car,21,0.76433121
+TEDB,Annual Survival rate,Car,22,0.766666667
+TEDB,Annual Survival rate,Car,23,0.760869565
+TEDB,Annual Survival rate,Car,24,0.757142857
+TEDB,Annual Survival rate,Car,25,0.754716981
+TEDB,Annual Survival rate,Car,26,0.75
+TEDB,Annual Survival rate,Car,27,0.766666667
+TEDB,Annual Survival rate,Car,28,0.565217391
+TEDB,Annual Survival rate,Car,29,0.769230769
+TEDB,Annual Survival rate,Car,30,0.7
+TEDB,Annual Survival rate,Car,31,0.285714286
+TEDB,Annual Survival rate,Light truck,0,1
+TEDB,Annual Survival rate,Light truck,1,0.991
+TEDB,Annual Survival rate,Light truck,2,0.990918264
+TEDB,Annual Survival rate,Light truck,3,0.990835031
+TEDB,Annual Survival rate,Light truck,4,0.98663926
+TEDB,Annual Survival rate,Light truck,5,0.980208333
+TEDB,Annual Survival rate,Light truck,6,0.976620616
+TEDB,Annual Survival rate,Light truck,7,0.9695321
+TEDB,Annual Survival rate,Light truck,8,0.964085297
+TEDB,Annual Survival rate,Light truck,9,0.958090803
+TEDB,Annual Survival rate,Light truck,10,0.952612394
+TEDB,Annual Survival rate,Light truck,11,0.945153061
+TEDB,Annual Survival rate,Light truck,12,0.940620783
+TEDB,Annual Survival rate,Light truck,13,0.934002869
+TEDB,Annual Survival rate,Light truck,14,0.929339478
+TEDB,Annual Survival rate,Light truck,15,0.914049587
+TEDB,Annual Survival rate,Light truck,16,0.907775769
+TEDB,Annual Survival rate,Light truck,17,0.902390438
+TEDB,Annual Survival rate,Light truck,18,0.898454746
+TEDB,Annual Survival rate,Light truck,19,0.894348894
+TEDB,Annual Survival rate,Light truck,20,0.89010989
+TEDB,Annual Survival rate,Light truck,21,0.888888889
+TEDB,Annual Survival rate,Light truck,22,0.885416667
+TEDB,Annual Survival rate,Light truck,23,0.882352941
+TEDB,Annual Survival rate,Light truck,24,0.88
+TEDB,Annual Survival rate,Light truck,25,0.878787879
+TEDB,Annual Survival rate,Light truck,26,0.879310345
+TEDB,Annual Survival rate,Light truck,27,0.869281046
+TEDB,Annual Survival rate,Light truck,28,0.879699248
+TEDB,Annual Survival rate,Light truck,29,0.871794872
+TEDB,Annual Survival rate,Light truck,30,0.87254902
+TEDB,Annual Survival rate,Light truck,31,0.303370787
+VISION,Annual Survival rate,Car,0,1
+VISION,Annual Survival rate,Car,1,1
+VISION,Annual Survival rate,Car,2,1
+VISION,Annual Survival rate,Car,3,1
+VISION,Annual Survival rate,Car,4,0.988
+VISION,Annual Survival rate,Car,5,0.963
+VISION,Annual Survival rate,Car,6,0.957
+VISION,Annual Survival rate,Car,7,0.951
+VISION,Annual Survival rate,Car,8,0.946
+VISION,Annual Survival rate,Car,9,0.94
+VISION,Annual Survival rate,Car,10,0.934
+VISION,Annual Survival rate,Car,11,0.927
+VISION,Annual Survival rate,Car,12,0.921
+VISION,Annual Survival rate,Car,13,0.914
+VISION,Annual Survival rate,Car,14,0.91
+VISION,Annual Survival rate,Car,15,0.9
+VISION,Annual Survival rate,Car,16,0.9
+VISION,Annual Survival rate,Car,17,0.89
+VISION,Annual Survival rate,Car,18,0.88
+VISION,Annual Survival rate,Car,19,0.87
+VISION,Annual Survival rate,Car,20,0.87
+VISION,Annual Survival rate,Car,21,0.858
+VISION,Annual Survival rate,Car,22,0.854
+VISION,Annual Survival rate,Car,23,0.841
+VISION,Annual Survival rate,Car,24,0.813
+VISION,Annual Survival rate,Light truck,0,1
+VISION,Annual Survival rate,Light truck,1,1
+VISION,Annual Survival rate,Light truck,2,0.99
+VISION,Annual Survival rate,Light truck,3,0.973
+VISION,Annual Survival rate,Light truck,4,0.968
+VISION,Annual Survival rate,Light truck,5,0.961
+VISION,Annual Survival rate,Light truck,6,0.955
+VISION,Annual Survival rate,Light truck,7,0.949
+VISION,Annual Survival rate,Light truck,8,0.943
+VISION,Annual Survival rate,Light truck,9,0.936
+VISION,Annual Survival rate,Light truck,10,0.929
+VISION,Annual Survival rate,Light truck,11,0.923
+VISION,Annual Survival rate,Light truck,12,0.914
+VISION,Annual Survival rate,Light truck,13,0.908
+VISION,Annual Survival rate,Light truck,14,0.901
+VISION,Annual Survival rate,Light truck,15,0.89
+VISION,Annual Survival rate,Light truck,16,0.88
+VISION,Annual Survival rate,Light truck,17,0.88
+VISION,Annual Survival rate,Light truck,18,0.87
+VISION,Annual Survival rate,Light truck,19,0.86
+VISION,Annual Survival rate,Light truck,20,0.85
+VISION,Annual Survival rate,Light truck,21,0.843
+VISION,Annual Survival rate,Light truck,22,0.837
+VISION,Annual Survival rate,Light truck,23,0.918
+VISION,Annual Survival rate,Light truck,24,0.931

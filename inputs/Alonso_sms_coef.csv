@@ -1,0 +1,14 @@
+Component,Subcomponent,Alsonso,Mass influence coef - mean,Mass influence coef - std error,Mass decompounding coef -mean,Mass decompounding coef -std error
+Glider,Chassis,Suspensions,0.128,0.014,0.25,0.04
+Glider,Body,Structure,0.11,0.017,0.22,0.04
+Transmission,Transmission,Transmission,0.07,0.01,0.14,0.03
+Powertrain,Engine,Engine,0.067,0.013,0.13,0.03
+Powertrain,Fuel storage system,Fuel,0.018,0.0025,0.035,0.005
+Powertrain,Exhaust,Exhaust,0.018,0.00125,0.0175,0.0025
+Powertrain,Fuel cell stack,Fuel (for FCV),0.018,0.0025,0.035,0.005
+Powertrain,Fuel cell auxiliaries,Exhaust (for FCV),0.018,0.00125,0.0175,0.0025
+Wheels,Tires,Tires,0.0175,0.002,0.035,0.005
+Wheels,Wheels,Wheels,0.0175,0.002,0.035,0.005
+Glider,Interior,HVAC,0.018,0.003,0.03,0.01
+Glider,Chassis,Steering and brakes,0.013,0.003,0.02,0.01
+Glider,Exterior,Exterior,0.008,0.002,0.02,0

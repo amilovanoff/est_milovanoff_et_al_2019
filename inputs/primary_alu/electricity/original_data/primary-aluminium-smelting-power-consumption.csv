@@ -1,0 +1,540 @@
+2015,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,687,000","4,469,000","1,325,000","3,001,000","7,574,000","1,982,520","5,104,000","31,672,000","1,075,480","57,890,000"
+Reporting Production (tonnes),"1,600,532","4,432,100","1,320,336","2,183,088","7,463,427","1,982,520","4,347,279","31,413,060",ND,"54,742,342"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"13,178","49,543","14,789","4,767","101,184","7,920",0,"40,444",ND,"231,825"
+Coal,"10,110","16,284",51,"28,122","7,088","21,158",0,"363,999",ND,"446,812"
+Oil,0,1,0,0,252,0,7,0,ND,260
+Natural Gas,0,582,"5,553",0,"3,055",0,"63,268",0,ND,"72,458"
+Nuclear,0,648,96,0,"11,327",0,0,0,ND,"12,071"
+Total,"23,288","67,058","20,489","32,889","122,906","29,078","63,275","404,443","50,000","763,426"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"23,573","5,785","32,758","2,349",0,"57,823","254,799",ND,"377,087"
+Purchased from Supplier(s),"23,288","43,485","15,011",131,"120,557","29,078","5,452","149,644",ND,"386,646"
+Total,"23,288","67,058","20,796","32,889","122,906","29,078","63,275","404,443","50,000","763,733"
+
+2014,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,746,000","4,585,000","1,543,000","2,429,000","7,360,000","2,036,801","4,832,000","27,517,400","1,078,000","53,127,201"
+Reporting Production (tonnes),"1,406,433","3,841,987","1,407,328","1,085,078","7,273,560","2,036,801","3,822,343","27,517,400",ND,"48,390,930"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"10,243","47,646","14,888",546,"95,382","7,766",0,"37,413",ND,"213,884"
+Coal,"10,218","8,621",52,"15,797","6,852","22,318",0,"336,714",ND,"400,572"
+Oil,0,277,316,0,335,0,28,0,ND,956
+Natural Gas,0,578,"5,720",0,"2,810",0,"57,640",0,ND,"66,748"
+Nuclear,0,7,103,0,"7,900",0,0,0,ND,"8,010"
+Total,"20,461","57,129","21,079","16,343","113,279","30,084","57,668","374,127","80,000","690,170"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"22,107","6,934","16,108","9,622",683,"57,365","235,700",ND,"348,519"
+Purchased from Supplier(s),"20,461","35,022","14,145",235,"103,657","29,401",303,"138,427",ND,"341,651"
+Total,"20,461","57,129","21,079","16,343","113,279","30,084","57,668","374,127","80,000","690,170"
+
+2013,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,811,000","4,918,000","1,905,000","2,439,000","7,520,000","2,106,020","3,887,000","24,936,070","1,080,000","50,602,090"
+Reporting Production (tonnes),"1,471,587","4,322,110","1,744,051","918,843","7,400,274","2,106,020","2,543,294","22,046,070",ND,"42,552,249"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"9,670","54,755","21,327",584,"96,604","7,701",0,"30,291",ND,"220,932"
+Coal,"13,456","9,622",51,"13,042","7,185","15,233",0,"272,622",ND,"331,211"
+Oil,0,2,309,0,155,16,6,0,ND,488
+Natural Gas,0,"2,784","5,603",0,"3,624",0,"38,832",0,ND,"50,843"
+Nuclear,0,368,101,0,"7,908",0,0,0,ND,"8,377"
+Total,"23,126","67,531","27,391","13,626","115,476","22,950","38,838","302,913","125,000","611,851"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"24,057","9,693","13,599","4,678",981,"38,780","142,369",ND,"234,157"
+Purchased from Supplier(s),"23,126","43,474","17,698",27,"110,798","21,969",58,"160,544",ND,"377,694"
+Total,"23,126","67,531","27,391","13,626","115,476","22,950","38,838","302,913","125,000","611,851"
+
+2012,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,638,717","4,851,322","2,052,106","2,535,103","7,927,638","2,186,217","3,661,866","22,153,971","780,000","47,786,940"
+Reporting Production (tonnes),"1,322,115","4,387,873","1,999,803","592,911","7,849,672","2,120,578","2,515,786","20,267,471",ND,"41,056,209"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"9,376","51,832","27,117",782,"100,737","7,722",0,"28,058",ND,"225,624"
+Coal,"10,193","15,128",0,"8,365","8,954","23,823",0,"252,525",ND,"318,988"
+Oil,0,1,0,0,322,15,3,0,ND,341
+Natural Gas,0,340,"4,689",0,"4,174",0,"37,073",0,ND,"46,276"
+Nuclear,0,404,0,0,"9,566",0,0,0,ND,"9,970"
+Total,"19,569","67,705","31,806","9,147","123,753","31,560","37,076","280,583","98,000","601,199"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"21,633","11,478","9,147","5,261","1,144","35,793","145,903",ND,"230,359"
+Purchased from Supplier(s),"19,569","46,072","20,328",0,"118,492","30,416","1,283","134,680",ND,"370,840"
+Total,"19,569","67,705","31,806","9,147","123,753","31,560","37,076","280,583","98,000","601,199"
+
+2011,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,804,741","4,968,972","2,185,396","6,016,200","8,346,055","2,306,087",ND,"19,585,725","576,000","45,789,176"
+Reporting Production (tonnes),"1,479,341","4,514,365","2,117,216","3,195,459","7,759,393","2,308,087",ND,"18,061,725",ND,"39,435,586"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"9,851","53,030","29,102","4,731","91,537","8,166",ND,"25,129",ND,"221,546"
+Coal,"11,430","15,285",0,"14,535","10,209","26,453",ND,"226,163",ND,"304,075"
+Oil,0,5,0,7,426,8,ND,0,ND,446
+Natural Gas,0,449,"4,924","28,263","8,549",0,ND,0,ND,"42,185"
+Nuclear,0,831,0,0,"5,380",0,ND,0,ND,"6,211"
+Total,"21,281","69,600","34,026","47,536","116,101","34,627",ND,"251,293","99,000","574,464"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,"1,061","24,924","11,543","47,466","9,141","1,143",ND,"125,646",ND,"220,924"
+Purchased from Supplier(s),"20,220","44,676","22,483",70,"106,960","33,484",ND,"125,646",ND,"353,539"
+Total,"21,281","69,600","34,026","47,536","116,101","34,627",ND,"251,293","99,000","574,464"
+
+2010,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,742,098","4,688,831","2,305,165","5,223,929","8,053,375","2,277,358",ND,"17,231,484","831,000","42,353,240"
+Reporting Production (tonnes),"1,440,998","4,439,931","2,210,065","1,854,599","7,981,275","1,542,358",0,"16,194,484",ND,"35,663,710"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"9,181","50,355","29,145","4,817","97,271","5,211",ND,"22,638",ND,"218,618"
+Coal,"11,844","16,095",0,"8,171","13,856","17,932",ND,"203,745",ND,"271,643"
+Oil,0,7,0,138,238,6,ND,0,ND,389
+Natural Gas,0,316,"5,591","15,510","5,015",0,ND,0,ND,"26,432"
+Nuclear,0,320,0,0,"10,677",0,ND,0,ND,"10,997"
+Total,"21,025","67,093","34,736","28,636","127,057","23,149",ND,"226,383","98,000","528,079"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"23,938","12,569","28,623","8,056","1,206",ND,"113,191.5",ND,"187,583.5"
+Purchased from Supplier(s),"21,025","43,155","22,167",13,"119,001","21,943",ND,"113,191.5",ND,"340,495.5"
+Total,"21,025","67,093","34,736","28,636","127,057","23,149",ND,"226,383","324,000","528,079"
+
+2009,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,693,694","4,759,108","2,508,104","4,400,273","7,839,566","2,222,420",ND,"13,659,000","624,000","37,706,165"
+Reporting Production (tonnes),"1,684,064","4,010,718","1,889,544","3,753,021","7,758,316","2,222,420",0,"12,964,000",ND,"34,282,083"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"4,989","44,086","23,808",602,"92,203","11,409",ND,"18,371",ND,"195,468"
+Coal,"19,788","16,485",0,"23,021","12,866","20,639",ND,"165,342",ND,"258,141"
+Oil,0,7,0,11,373,8,ND,0,ND,399
+Natural Gas,0,301,"5,451","31,744","5,388",0,ND,0,ND,"42,884"
+Nuclear,0,369,0,0,"10,849",0,ND,0,ND,"11,218"
+Total,"24,777","61,248","29,259","55,378","121,679","32,056",ND,"183,713","50,000","508,110"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"24,923","7,015","50,616","7,635","1,120",ND,"82,671",ND,"173,979"
+Purchased from Supplier(s),"24,777","36,325","22,244","4,762","114,044","30,937",ND,"101,042",ND,"334,130"
+Total,"24,777","61,248","29,259","55,378","121,679","32,056",ND,"183,713","234,000","508,110"
+
+2008,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,754,715","5,783,080","2,660,344","3,923,161","9,276,160","2,297,007",ND,"13,585,000","692,000","39,971,467"
+Reporting Production (tonnes),"1,745,315","5,444,950","2,660,344","3,343,491","9,234,590","2,297,007",0,"13,105,000",ND,"37,830,697"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"5,580","59,780","37,214","4,831","96,107","7,382",ND,"18,718",ND,"229,612"
+Coal,"19,810","24,148",0,"25,404","24,583","26,464",ND,"168,461",ND,"288,870"
+Oil,0,7,0,76,734,2,ND,0,ND,819
+Natural Gas,0,298,"4,282","26,156","9,642",0,ND,0,ND,"40,378"
+Nuclear,0,462,0,0,"14,728",0,ND,0,ND,"15,190"
+Total,"25,390","84,695","41,496","56,468","145,794","33,848",0,"187,179","25,000","574,869"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"27,755","12,275","56,179","10,097","1,086",ND,ND,ND,"107,392"
+Purchased from Supplier(s),"25,390","56,940","29,221",289,"135,697","32,762",ND,ND,ND,"280,299"
+Total,"25,390","84,695","41,496","56,468","145,794","33,848",ND,ND,"212,000","387,691"
+
+2007,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,829,619","5,642,328","2,557,706","3,716,864","8,764,596","2,315,394",ND,"12,588,000","717,000","38,131,507"
+Reporting Production (tonnes),"1,818,599","5,298,778","2,548,550","3,187,344","8,752,701","2,314,394",0,"12,588,000",ND,"36,508,366"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"13,445","60,986","36,707","4,852","88,229","7,828",ND,"18,178",ND,"230,225"
+Coal,"13,079","20,274",0,"18,728","27,865","26,587",ND,"163,605",ND,"270,138"
+Oil,0,7,0,"1,360",776,2,ND,0,ND,"2,145"
+Natural Gas,6,281,"2,457","23,686","7,523",0,ND,0,ND,"33,953"
+Nuclear,0,461,0,0,"13,637",0,ND,0,ND,"14,098"
+Total,"26,530","82,009","39,164","48,626","138,030","34,417",ND,"181,783","23,000","550,559"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"25,247","10,082","48,568","10,414","1,186",ND,ND,ND,"95,497"
+Purchased from Supplier(s),"26,530","56,762","29,082",58,"127,616","33,231",ND,ND,ND,"273,279"
+Total,"26,530","82,009","39,164","48,626","138,030","34,417",ND,ND,"205,000","368,776"
+
+2006,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,865,008","5,333,472","2,493,320","3,493,007","8,411,944","2,273,731",ND,"9,349,000","719,000","33,938,482"
+Reporting Production (tonnes),"1,865,008","5,011,732","2,485,320","3,094,697","7,877,854","2,271,731",0,"9,349,000",ND,"31,955,342"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,906","56,483","36,467","4,956","82,397","7,571",ND,"13,740",ND,"208,520"
+Coal,"19,878","20,787",0,"17,518","25,777","26,171",ND,"123,662",ND,"233,793"
+Oil,0,7,0,"2,145",985,2,ND,0,ND,"3,139"
+Natural Gas,82,286,"1,404","22,119","7,236",0,ND,0,ND,"31,127"
+Nuclear,404,436,0,0,"13,755",0,ND,0,ND,"14,595"
+Total,"27,270","77,999","37,871","46,738","130,150","33,744",ND,"137,402","25,000","491,174"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"29,122","7,651","46,672","10,657","1,353",ND,ND,ND,"95,455"
+Purchased from Supplier(s),"27,270","48,877","30,220",66,"119,493","32,391",ND,ND,ND,"258,317"
+Total,"27,270","77,999","37,871","46,738","130,150","33,744",ND,ND,"164,000","353,772"
+
+2005,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,753,567","5,382,000","2,391,000","3,139,000","8,546,000","2,254,183",ND,"7,806,000","633,000","31,904,750"
+Reporting Production (tonnes),"1,753,567","5,133,841","2,283,934","2,666,762","8,122,638","2,254,183",0,"7,806,000",ND,"30,020,925"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"5,808","55,429","33,195","3,868","88,228","7,659",ND,"11,376",ND,"205,563"
+Coal,"17,992","23,702",0,"14,182","13,840","25,618",ND,"102,388",ND,"197,722"
+Oil,0,4,0,599,"1,722",2,ND,0,ND,"2,327"
+Natural Gas,76,233,"1,412","21,572","6,704",0,ND,0,ND,"29,997"
+Nuclear,951,473,0,0,"15,697",0,ND,0,ND,"17,121"
+Total,"24,827","79,841","34,607","40,221","126,191","33,279",ND,"113,765","28,000","452,731"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"28,711","6,253","40,157","10,859","1,086",ND,ND,ND,"87,066"
+Purchased from Supplier(s),"24,827","51,130","28,354",64,"115,332","32,193",ND,ND,ND,"251,900"
+Total,"24,827","79,841","34,607","40,221","126,191","33,279",ND,ND,"142,000","338,966"
+
+2004,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,714,975","5,110,000","2,361,896","2,735,000","8,434,000","2,246,000",ND,"6,689,000","566,000","29,856,871"
+Reporting Production (tonnes),"1,714,975","4,717,730","2,361,896","2,376,875","5,649,914","2,245,337",0,"6,689,000",ND,"25,755,727"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"5,239","49,074","35,152","4,913","47,734","7,513",ND,"9,896",ND,"159,521"
+Coal,"18,898","23,836",0,"12,902","16,937","25,645",ND,"89,061",ND,"187,279"
+Oil,0,5,0,96,"1,858",2,ND,0,ND,"1,961"
+Natural Gas,76,307,"1,579","18,758","6,626",0,ND,0,ND,"27,346"
+Nuclear,375,434,0,0,"13,147",0,ND,0,ND,"13,956"
+Total,"24,588","73,656","36,731","36,669","86,302","33,160",ND,"98,957","62,000","390,063"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"29,318","6,345","34,822","10,516","1,224",ND,ND,ND,"82,225"
+Purchased from Supplier(s),"24,588","44,338","30,386","1,847","75,786","31,936",ND,ND,ND,"208,881"
+Total,"24,588","73,656","36,731","36,669","86,302","33,160",ND,ND,"161,000","291,106"
+
+2003,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,441,945","5,495,000","2,275,000","2,475,000","8,064,000","2,198,000",ND,"5,547,000","490,000","27,985,945"
+Reporting Production (tonnes),"1,441,945","5,225,413","2,257,300","1,923,617","4,476,052","2,194,721",0,"5,547,000",ND,"23,066,048"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"4,881","52,843","33,254",958,"31,704","7,382",ND,"8,335",ND,"139,357"
+Coal,"15,432","27,545",0,"11,610","16,645","25,058",ND,"75,014",ND,"171,304"
+Oil,0,5,0,106,"1,123",2,ND,0,ND,"1,236"
+Natural Gas,57,318,"1,415","16,974","6,183",0,ND,0,ND,"24,947"
+Nuclear,280,437,0,0,"12,110",0,ND,0,ND,"12,827"
+Total,"20,650","81,148","34,669","29,648","67,765","32,442",ND,"83,349","74,500","349,671"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"28,286","5,769","28,023","9,338","1,195",ND,ND,ND,"72,611"
+Purchased from Supplier(s),"20,650","52,862","28,900","1,625","58,427","31,247",ND,ND,ND,"193,711"
+Total,"20,650","81,148","34,669","29,648","67,765","32,442",ND,ND,"158,000","266,322"
+
+2002,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,377,961","5,413,000","2,230,000","2,261,000","7,753,000","2,171,495",ND,"4,321,000","629,000","26,156,456"
+Reporting Production (tonnes),"1,377,961","5,168,243","2,191,810","1,923,412","4,292,229","2,171,495",0,"4,321,000",ND,"21,446,150"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,444","50,312","32,207","3,030","29,969","7,380",ND,"6,638",ND,"135,980"
+Coal,"13,443","27,248",0,"10,080","15,773","24,120",ND,"59,741",ND,"150,405"
+Oil,0,93,0,109,"1,279",0,ND,0,ND,"1,481"
+Natural Gas,38,351,"1,343","16,336","6,199",0,ND,0,ND,"24,267"
+Nuclear,189,678,0,0,"12,672",0,ND,0,ND,"13,539"
+Total,"20,114","78,682","33,550","29,555","65,892","31,500",ND,"66,379","71,500","325,672"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"27,702","4,386","28,228","9,193","1,244",ND,ND,ND,"70,753"
+Purchased from Supplier(s),"20,114","50,980","29,164","1,327","56,699","30,256",ND,ND,ND,"188,540"
+Total,"20,114","78,682","33,550","29,555","65,892","31,500",ND,ND,"138,000","259,293"
+
+2001,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,374,473","5,222,000","2,191,810","2,234,000","7,613,000","2,123,011",ND,"3,371,000","381,000","24,510,294"
+Reporting Production (tonnes),"1,374,473","4,702,486","2,191,810","1,947,230","4,210,624","2,123,011",0,"3,371,000",ND,"19,920,634"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,955","47,105","32,207","3,621","28,755","7,202",ND,"5,215",ND,"131,060"
+Coal,"13,325","23,198",0,"9,877","16,932","24,199",ND,"46,934",ND,"134,465"
+Oil,0,149,0,405,"1,120",0,ND,0,ND,"1,674"
+Natural Gas,35,315,"1,343","16,060","5,719",0,ND,0,ND,"23,472"
+Nuclear,186,715,0,0,"11,720",0,ND,0,ND,"12,621"
+Total,"20,501","71,482","33,550","29,963","64,246","31,401",ND,"52,149","70,000","303,292"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"28,667","4,386","28,394","9,239","1,067",ND,ND,ND,"71,753"
+Purchased from Supplier(s),"20,501","42,815","29,164","1,569","55,007","30,334",ND,ND,ND,"179,390"
+Total,"20,501","71,482","33,550","29,963","64,246","31,401",ND,ND,"122,000","251,143"
+
+2000,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),"1,178,557","6,041,000","2,167,000","2,221,000","7,490,000","2,094,000",ND,"2,794,000","671,000","24,656,557"
+Reporting Production (tonnes),"1,178,557","5,527,284","2,163,593","1,863,146","4,112,541","1,977,299",0,"2,794,000",ND,"19,616,420"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,914","59,324","30,491","3,400","28,449","7,328",ND,"4,325",ND,"140,231"
+Coal,"10,844","25,292",0,"9,437","14,286","21,697",ND,"38,923",ND,"120,479"
+Oil,0,150,518,378,"1,052",0,ND,0,ND,"2,098"
+Natural Gas,0,587,"2,119","15,381","4,894",0,ND,0,ND,"22,981"
+Nuclear,0,"1,826",99,0,"14,004",0,ND,0,ND,"15,929"
+Total,"17,758","87,179","33,227","28,596","62,685","29,025",ND,"43,248","77,500","301,718"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"29,574","4,124","28,134","2,391","1,108",ND,ND,ND,"65,331"
+Purchased from Supplier(s),"17,758","57,605","29,103",462,"60,294","27,917",ND,ND,ND,"193,139"
+Total,"17,758","87,179","33,227","28,596","62,685","29,025",ND,ND,"121,500","258,470"
+
+1999,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"23,721,000"
+Reporting Production (tonnes),"1,080,888","5,657,919","2,001,491","1,753,352","4,004,141","2,048,655",0,"2,598,000","4,576,554","19,144,446"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,347","63,398","27,941","2,643","28,934","7,194",ND,"4,054",ND,"140,511"
+Coal,"9,706","22,119",0,"9,591","12,181","23,233",ND,"36,483",ND,"113,313"
+Oil,0,24,593,99,"1,434",0,ND,0,ND,"2,150"
+Natural Gas,186,0,"2,056","14,533","3,715",0,ND,0,ND,"20,490"
+Nuclear,0,"1,429",113,0,"14,571",0,ND,0,ND,"16,113"
+Total,"16,239","86,970","30,703","26,866","60,835","30,427",ND,"40,537","70,000","292,577"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,186,"31,351","4,092","25,188","8,294","1,161",ND,ND,ND,"70,272"
+Purchased from Supplier(s),"16,053","55,619","26,611","1,678","52,541","29,266",ND,ND,ND,"181,768"
+Total,"16,239","86,970","30,703","26,866","60,835","30,427",ND,ND,"110,500","252,040"
+
+1998,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"22,721,000"
+Reporting Production (tonnes),"1,036,572","6,110,539","2,071,045","1,643,199","3,828,019","1,949,604",0,"2,384,000","3,698,022","19,022,978"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"2,832","67,540","31,192","2,828","27,849","7,167",ND,"3,689",ND,"143,097"
+Coal,"9,830","28,868",0,"8,814","12,019","22,582",ND,"33,199",ND,"115,312"
+Oil,0,27,0,108,"1,282",0,ND,0,ND,"1,417"
+Natural Gas,"2,918",0,"1,742","14,264","3,744",0,ND,0,ND,"22,668"
+Nuclear,56,967,115,0,"14,625",0,ND,0,ND,"15,763"
+Total,"15,636","97,402","33,049","26,014","59,519","29,749",ND,"36,888","58,000","298,257"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,418,"30,813","3,652","23,584","8,907","1,085",ND,ND,ND,"68,459"
+Purchased from Supplier(s),"15,218","66,589","29,397","2,430","50,612","28,664",ND,ND,ND,"192,910"
+Total,"15,636","97,402","33,049","26,014","59,519","29,749",ND,ND,"95,000","261,369"
+
+1997,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"21,807,000"
+Reporting Production (tonnes),"1,104,697","5,931,360","2,111,232","1,718,847","3,474,719","1,805,387",0,"2,035,000","3,625,758","18,181,242"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,986","65,313","31,898","4,317","25,767","7,340",ND,"3,227",ND,"144,848"
+Coal,"9,530","28,555",0,"8,741","11,595","19,633",ND,"29,044",ND,"107,098"
+Oil,0,0,0,81,"1,264",0,ND,0,ND,"1,345"
+Natural Gas,0,77,"1,036","13,956","3,632",446,ND,0,ND,"19,147"
+Nuclear,200,869,116,2,"12,013",0,ND,0,ND,"13,200"
+Total,"16,716","94,814","33,050","27,097","54,271","27,419",ND,"32,271","57,000","285,638"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"29,979","3,287","25,055","9,504","1,026",ND,ND,ND,"68,851"
+Purchased from Supplier(s),"16,716","64,835","29,763","2,042","44,767","26,393",ND,ND,ND,"184,516"
+Total,"16,716","94,814","33,050","27,097","54,271","27,419",ND,ND,"89,000","253,367"
+
+1996,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"20,859,000"
+Reporting Production (tonnes),"1,017,296","5,862,513","2,104,752","1,554,260","3,405,578","1,654,934",0,"1,770,900","3,488,767","17,370,233"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,288","64,268","32,026","4,893","22,824","6,794",ND,"2,845",ND,"139,938"
+Coal,"9,214","28,473",0,"7,865","11,430","17,966",ND,"25,605",ND,"100,553"
+Oil,0,0,0,71,"1,730",0,ND,0,ND,"1,801"
+Natural Gas,0,76,860,"11,760","3,145",446,ND,0,ND,"16,287"
+Nuclear,0,887,113,1,"13,452",0,ND,0,ND,"14,453"
+Total,"15,502","93,704","32,999","24,590","52,581","25,206",ND,"28,450","55,000","273,032"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"29,669","3,337","22,572","9,138",868,ND,ND,ND,"65,584"
+Purchased from Supplier(s),"15,502","64,035","29,662","2,018","43,443","24,338",ND,ND,ND,"178,998"
+Total,"15,502","93,704","32,999","24,590","52,581","25,206",ND,ND,"83,500","244,582"
+
+1995,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"19,610,000"
+Reporting Production (tonnes),"630,081","5,553,499","2,056,572","1,632,202","3,155,883","1,565,210",0,"1,583,000","3,433,553","16,176,447"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,221","61,032","31,726","5,280","21,950","6,209",ND,"2,628",ND,"135,046"
+Coal,"3,745","27,362",0,"7,740","10,144","17,203",ND,"23,650",ND,"89,844"
+Oil,0,0,0,"1,185","2,697",0,ND,0,ND,"3,882"
+Natural Gas,0,80,309,"12,095","2,288",439,ND,0,ND,"15,211"
+Nuclear,0,649,61,2,"12,162",0,ND,0,ND,"12,874"
+Total,"9,966","89,123","32,096","26,302","49,241","23,851",ND,"26,278","54,500","256,857"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"28,269","2,785","22,079","4,737",900,ND,ND,ND,"58,770"
+Purchased from Supplier(s),"9,966","60,854","29,311","4,223","44,504","22,951",ND,ND,ND,"171,809"
+Total,"9,966","89,123","32,096","26,302","49,241","23,851",ND,ND,"81,000","230,579"
+
+1994,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"19,147,000"
+Reporting Production (tonnes),"575,188","5,559,111","1,975,213","1,578,963","3,081,481","1,582,716",0,0,"4,794,328","14,352,672"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,316","61,153","30,700","5,343","21,828","6,332",ND,ND,ND,"131,672"
+Coal,"2,749","27,184",0,"7,085","9,346","17,238",ND,ND,ND,"63,602"
+Oil,0,0,0,615,"2,705",0,ND,ND,ND,"3,320"
+Natural Gas,0,81,184,"12,162","1,733",455,ND,ND,ND,"14,615"
+Nuclear,0,458,0,2,"12,345",0,ND,ND,ND,"12,805"
+Total,"9,065","88,876","30,884","25,207","47,957","24,025",ND,ND,"75,500","226,014"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"29,524","2,912","21,228","7,133","1,022",ND,ND,ND,"61,819"
+Purchased from Supplier(s),"9,065","59,352","27,972","3,979","40,824","23,003",ND,ND,ND,"164,195"
+Total,"9,065","88,876","30,884","25,207","47,957","24,025",ND,ND,"75,500","226,014"
+
+1993,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"19,724,000"
+Reporting Production (tonnes),"616,100","5,998,860","1,950,220","1,526,372","3,237,935","1,653,222",0,0,"4,741,291","14,982,709"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,929","64,049","30,096","4,823","21,396","6,771",ND,ND,ND,"134,064"
+Coal,"2,777","30,948",0,"6,948","12,398","18,023",ND,ND,ND,"71,094"
+Oil,0,0,0,990,"2,124",0,ND,ND,ND,"3,114"
+Natural Gas,0,86,65,"11,413","2,131",496,ND,ND,ND,"14,191"
+Nuclear,0,987,0,0,"11,618",0,ND,ND,ND,"12,605"
+Total,"9,706","96,070","30,161","24,174","49,667","25,290",ND,ND,"74,500","235,068"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"29,873","3,000","18,976","6,639","1,102",ND,ND,ND,"59,590"
+Purchased from Supplier(s),"9,706","66,197","27,161","5,198","43,028","24,188",ND,ND,ND,"175,478"
+Total,"9,706","96,070","30,161","24,174","49,667","25,290",ND,ND,"74,500","235,068"
+
+1992,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"19,455,000"
+Reporting Production (tonnes),"616,566","6,013,617","1,947,908","1,370,346","3,313,773","1,487,016",0,0,"4,705,774","14,749,226"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,864","61,737","30,578","5,136","21,867","6,407",ND,ND,ND,"132,589"
+Coal,"2,646","33,988",0,"7,179","13,819","16,564",ND,ND,ND,"74,196"
+Oil,0,0,4,619,"2,192",0,ND,ND,ND,"2,815"
+Natural Gas,0,91,108,"9,287","1,866",0,ND,ND,ND,"11,352"
+Nuclear,0,"1,389",0,0,"11,295",0,ND,ND,ND,"12,684"
+Total,"9,510","97,205","30,690","22,221","51,039","22,971",ND,ND,"74,500","233,636"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"27,175","3,107","17,058","10,629","1,174",ND,ND,ND,"59,143"
+Purchased from Supplier(s),"9,510","70,030","27,583","5,163","40,410","21,797",ND,ND,ND,"174,493"
+Total,"9,510","97,205","30,690","22,221","51,039","22,971",ND,ND,"74,500","233,636"
+
+1991,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"19,650,000"
+Reporting Production (tonnes),"611,399","5,946,067","1,995,722","1,219,542","3,501,081","1,502,528",0,0,"4,873,661","14,776,339"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,834","61,324","31,054","5,010","23,711","6,185",ND,ND,ND,"134,118"
+Coal,"2,632","34,019",0,"7,112","16,030","16,980",ND,ND,ND,"76,773"
+Oil,0,0,597,71,"2,185",200,ND,ND,ND,"3,053"
+Natural Gas,0,68,174,"7,484","2,358",0,ND,ND,ND,"10,084"
+Nuclear,0,"1,352",0,6,"10,796",0,ND,ND,ND,"12,154"
+Total,"9,466","96,763","31,825","19,683","55,080","23,365",ND,ND,"78,000","236,182"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"28,124","2,785","15,577","10,413","1,184",ND,ND,ND,"58,083"
+Purchased from Supplier(s),"9,466","68,639","29,040","4,106","44,667","22,181",ND,ND,ND,"178,099"
+Total,"9,466","96,763","31,825","19,683","55,080","23,365",ND,ND,"78,000","236,182"
+
+1990,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"19,514,000"
+Reporting Production (tonnes),"601,428","5,626,389","1,788,772","1,111,261","3,560,670","1,498,752",0,0,"5,326,728","14,187,272"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,787","56,803","27,809","5,078","24,187","6,098",ND,ND,ND,"126,762"
+Coal,"2,589","34,293",0,"6,310","17,907","16,824",ND,ND,ND,"77,923"
+Oil,0,0,46,69,"2,227",155,ND,ND,ND,"2,497"
+Natural Gas,0,66,886,"6,407","2,120",0,ND,ND,ND,"9,479"
+Nuclear,0,"1,350",0,5,"10,164",0,ND,ND,ND,"11,519"
+Total,"9,376","92,512","28,741","17,869","56,605","23,077",ND,ND,"85,500","228,180"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"27,701","2,478","13,957","9,701","1,026",ND,ND,ND,"54,863"
+Purchased from Supplier(s),"9,376","64,811","26,263","3,912","46,904","22,051",ND,ND,ND,"173,317"
+Total,"9,376","92,512","28,741","17,869","56,605","23,077",ND,ND,"85,500","228,180"
+
+1989,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"19,138,000"
+Reporting Production (tonnes),"606,300","5,593,575","1,697,651","1,090,264","3,587,385","1,504,295",0,0,"5,058,530","14,079,470"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,870","57,486","25,463","5,377","24,282","6,417",ND,ND,ND,"125,895"
+Coal,"2,687","35,043",42,"6,096","19,389","16,546",ND,ND,ND,"79,803"
+Oil,0,0,855,172,"1,663",0,ND,ND,ND,"2,690"
+Natural Gas,0,190,576,"5,959","1,724",0,ND,ND,ND,"8,449"
+Nuclear,0,"1,564",0,128,"10,304",0,ND,ND,ND,"11,996"
+Total,"9,557","94,283","26,936","17,732","57,362","22,963",ND,ND,"82,000","228,833"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"28,174","2,914","13,255","11,225","1,207",ND,ND,ND,"56,775"
+Purchased from Supplier(s),"9,557","66,109","24,022","4,477","46,137","21,756",ND,ND,ND,"172,058"
+Total,"9,557","94,283","26,936","17,732","57,362","22,963",ND,ND,"82,000","228,833"
+
+1988,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"18,577,000"
+Reporting Production (tonnes),"598,459","5,482,774","1,551,901","977,137","3,490,299","1,405,935",0,0,"5,070,495","13,506,505"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,645","57,110","23,312","5,066","24,473","6,319",ND,ND,ND,"122,925"
+Coal,"2,696","31,947",0,"5,132","17,550","15,757",ND,ND,ND,"73,082"
+Oil,0,0,834,146,2957,0,ND,ND,ND,"3,937"
+Natural Gas,0,78,788,"5,681","1,739",0,ND,ND,ND,"8,286"
+Nuclear,0,"2,101",0,124,"9,674",0,ND,ND,ND,"11,899"
+Total,"9,341","91,236","24,934","16,149","56,393","22,076",ND,ND,"82,500","220,129"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"27,217","2,684","12,144","10,932","2,543",ND,ND,ND,"55,520"
+Purchased from Supplier(s),"9,341","64,019","22,250","4,005","45,461","19,533",ND,ND,ND,"164,609"
+Total,"9,341","91,236","24,934","16,149","56,393","22,076",ND,ND,"82,500","220,129"
+
+1987,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"16,497,000"
+Reporting Production (tonnes),"572,277","4,858,706","1,491,816","884,598","3,453,483","1,274,381",0,0,"3,961,739","12,535,261"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,421","52,557","22,702","4,728","23,477","6,252",ND,ND,ND,"116,137"
+Coal,"2,661","27,420",0,"4,126","17,291","13,717",ND,ND,ND,"65,215"
+Oil,0,25,720,193,"3,149",0,ND,ND,ND,"4,087"
+Natural Gas,0,9,330,"5,514","1,869",0,ND,ND,ND,"7,722"
+Nuclear,0,"1,803",0,122,"9,588",0,ND,ND,ND,"11,513"
+Total,"9,082","81,814","23,752","14,683","55,374","19,969",ND,ND,"64,500","204,674"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"26,834","2,034","11,111","11,111","1,841",ND,ND,ND,"52,931"
+Purchased from Supplier(s),"9,082","54,980","21,718","3,572","44,263","18,128",ND,ND,ND,"151,743"
+Total,"9,082","81,814","23,752","14,683","55,374","19,969",ND,ND,"64,500","204,674"
+
+1986,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"15,583,000"
+Reporting Production (tonnes),"557,465","4,430,493","1,334,015","1,044,736","3,402,077","1,116,685",0,0,"3,697,529","11,885,471"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,144","47,852","21,145","5,286","23,270","6,111",ND,ND,ND,"109,808"
+Coal,"2,738","23,764",0,"5,782","16,224","11,684",ND,ND,ND,"60,192"
+Oil,0,20,0,397,"3,332",0,ND,ND,ND,"3,749"
+Natural Gas,0,8,817,"5,603","2,923",0,ND,ND,ND,"9,351"
+Nuclear,0,"2,403",0,219,"9,429",0,ND,ND,ND,"12,051"
+Total,"8,882","74,047","21,962","17,287","55,178","17,795",ND,ND,"61,000","195,151"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"25,745","1,747","12,477","13,187","1,078",ND,ND,ND,"54,234"
+Purchased from Supplier(s),"8,882","48,302","20,215","4,810","41,991","16,717",ND,ND,ND,"140,917"
+Total,"8,882","74,047","21,962","17,287","55,178","17,795",ND,ND,"61,000","195,151"
+
+1985,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"15,486,000"
+Reporting Production (tonnes),"474,400","4,770,426","1,151,830","1,152,487","3,323,300","1,093,297",0,0,"3,520,260","11,965,740"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"5,082","49,208","18,506","6,791","23,346","6,098",ND,ND,ND,"109,031"
+Coal,"2,695","25,713",0,"5,929","17,235","11,288",ND,ND,ND,"62,860"
+Oil,0,"1,817",0,951,"2,332",0,ND,ND,ND,"5,100"
+Natural Gas,0,108,250,"5,504","3,031",0,ND,ND,ND,"8,893"
+Nuclear,0,"4,037",0,275,"8,193",0,ND,ND,ND,"12,505"
+Total,"7,777","80,883","18,756","19,450","54,137","17,386",ND,ND,"58,000","198,389"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"26,917","1,765","13,022","14,686","1,113",ND,ND,ND,"57,503"
+Purchased from Supplier(s),"7,777","53,966","16,991","6,428","39,451","16,273",ND,ND,ND,"140,886"
+Total,"7,777","80,883","18,756","19,450","54,137","17,386",ND,ND,"58,000","198,389"
+
+1984,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"15,781,000"
+Reporting Production (tonnes),"413,150","5,316,726","1,045,283","1,187,432","3,507,860","999,706",0,0,"3,310,843","12,470,157"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"4,022","54,854","16,784","6,239","25,169","6,031",ND,ND,ND,"113,099"
+Coal,"2,539","32,297",0,"5,759","17,945","9,831",ND,ND,ND,"68,371"
+Oil,0,147,0,"1,597","2,763",0,ND,ND,ND,"4,507"
+Natural Gas,0,336,314,"5,762","3,446",0,ND,ND,ND,"9,858"
+Nuclear,0,"4,478",0,310,"7,331",0,ND,ND,ND,"12,119"
+Total,"6,561","92,112","17,098","19,667","56,654","15,862",ND,ND,"55,000","207,954"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"28,691","1,984","12,814","14,378","1,131",ND,ND,ND,"58,998"
+Purchased from Supplier(s),"6,561","63,421","15,114","6,853","42,276","14,731",ND,ND,ND,"148,956"
+Total,"6,561","92,112","17,098","19,667","56,654","15,862",ND,ND,"55,000","207,954"
+
+1983,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"13,967,000"
+Reporting Production (tonnes),"437,699","4,441,242","946,594","983,389","3,321,818","687,650",0,0,"3,148,608","10,818,392"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"4,365","45,401","15,525","5,069","24,560","5,531",ND,ND,ND,"100,451"
+Coal,"2,487","26,318",0,"4,551","15,667","5,682",ND,ND,ND,"54,705"
+Oil,0,491,8,"1,336","3,122",234,ND,ND,ND,"5,191"
+Natural Gas,0,432,469,"5,442","3,869",0,ND,ND,ND,"10,212"
+Nuclear,0,"4,031",0,316,"7,113",0,ND,ND,ND,"11,460"
+Total,"6,852","76,673","16,002","16,714","54,331","11,447",ND,ND,"53,000","182,019"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"26,015","2,506","11,576","14,415","1,173",ND,ND,ND,"55,685"
+Purchased from Supplier(s),"6,852","50,658","13,496","5,138","39,916","10,274",ND,ND,ND,"126,334"
+Total,"6,852","76,673","16,002","16,714","54,331","11,447",ND,ND,"53,000","182,019"
+
+1982,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"13,544,000"
+Reporting Production (tonnes),"502,948","4,337,508","794,244","1,003,987","3,309,673","547,598",0,0,"3,048,042","10,495,958"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,412","42,453","13,470","4,069","24,580","4,759",ND,ND,ND,"95,743"
+Coal,"1,646","23,915",0,"4,396","14,928","4,259",ND,ND,ND,"49,144"
+Oil,0,850,43,"2,434","4,380",0,ND,ND,ND,"7,707"
+Natural Gas,0,"3,053",96,"5,321","3,905",0,ND,ND,ND,"12,375"
+Nuclear,0,"3,505",0,341,"6,404",0,ND,ND,ND,"10,250"
+Total,"8,058","73,776","13,609","16,561","54,197","9,018",ND,ND,"51,000","175,219"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"25,363","1,997","10,079","14,158","1,190",ND,ND,ND,"52,787"
+Purchased from Supplier(s),"8,058","48,413","11,612","6,482","40,039","7,828",ND,ND,ND,"122,432"
+Total,"8,058","73,776","13,609","16,561","54,197","9,018",ND,ND,"51,000","175,219"
+
+1981,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"15,116,000"
+Reporting Production (tonnes),"482,151","5,562,148","793,462","1,320,530","3,554,237","536,150",0,0,"2,867,322","12,248,678"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"6,544","52,066","13,217","3,970","27,818","4,544",ND,ND,ND,"108,159"
+Coal,"1,338","31,758",0,"4,103","15,304","4,085",ND,ND,ND,"56,588"
+Oil,0,871,218,"8,273","4,664",0,ND,ND,ND,"14,026"
+Natural Gas,0,"5,885",368,"4,230","4,205",0,ND,ND,ND,"14,688"
+Nuclear,0,"4,815",0,374,"6,830",0,ND,ND,ND,"12,019"
+Total,"7,882","95,395","13,803","20,950","58,821","8,629",ND,ND,"48,000","205,480"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"28,456","1,856","9,376","15,661","1,144",ND,ND,ND,"56,493"
+Purchased from Supplier(s),"7,882","66,939","11,947","11,574","43,160","7,485",ND,ND,ND,"148,987"
+Total,"7,882","95,395","13,803","20,950","58,821","8,629",ND,ND,"48,000","205,480"
+
+1980,Africa,North America,South America,Asia (ex China),Europe,Oceania,GCC,China,Estimated Unreported,World Reported
+Aluminium Production (tonnes),ND,ND,ND,ND,ND,ND,ND,ND,-,"15,390,000"
+Reporting Production (tonnes),"437,261","5,719,943","820,806","1,570,545","3,598,367","459,953",0,0,"2,783,125","12,606,875"
+POWER MIX,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Hydro,"5,877","52,430","13,334","4,435","27,782","4,516",ND,ND,ND,"108,374"
+Coal,"1,332","31,567",0,"4,112","14,326","3,155",ND,ND,ND,"54,492"
+Oil,0,"1,861",637,12871,5853,0,ND,ND,ND,"21,222"
+Natural Gas,0,"9,354",268,"2,761","4,193",0,ND,ND,ND,"16,576"
+Nuclear,0,"4,758",0,447,"7,826",0,ND,ND,ND,"13,031"
+Total,"7,209","99,970","14,239","24,626","59,980","7,671",ND,ND,"47,000","213,695"
+POWER SOURCE,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh,GWh
+Self-Generated,0,"31,201","2,137","10,525","15,380","1,197",ND,ND,ND,"60,440"
+Purchased from Supplier(s),"7,209","68,769","12,102","14,101","44,600","6,474",ND,ND,ND,"153,255"
+Total,"7,209","99,970","14,239","24,626","59,980","7,671",ND,ND,"47,000","213,695"
+

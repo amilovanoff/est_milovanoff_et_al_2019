@@ -1,0 +1,24 @@
+Own component,Own subcomponent,GREET,Modaresi
+Glider,Body,Body,Body and closures
+Glider,Exterior,Body,Body and closures
+Glider,Interior,Chassis,Interior and misc
+Glider,Chassis,Chassis,Chassis and suspension
+Glider,Weld blanks and fasteners - G,Body,Body and closures
+Powertrain,Engine,Powertrain System,Powertrain
+Powertrain,Fuel storage system,Powertrain System,Powertrain
+Powertrain,Powertrain thermal,Powertrain System,Powertrain
+Powertrain,Fuel cell stack,Fuel Cell Onboard Storage,Powertrain
+Powertrain,Fuel cell auxiliaries,Powertrain System,Powertrain
+Powertrain,Exhaust,Powertrain System,Powertrain
+Powertrain,Powertrain electrical,Powertrain System,Powertrain
+Powertrain,Emission controls,Powertrain System,Powertrain
+Powertrain,Weld blanks and fasteners - P,Powertrain System,Powertrain
+Transmission,Transmission,Transmission System,Powertrain
+Battery Lead-Acid,Battery Lead-Acid,Battery Lead-Acid,Powertrain
+EV Battery,EV Battery,Battery Li-Ion,Powertrain
+Traction Motor,Traction Motor,Traction Motor,Powertrain
+Generator,Generator,Generator,Powertrain
+Electronic Controller,Electronic Controller,Electronic Controller,Powertrain
+Fluids,Fluids,Fluids,Powertrain
+Wheels,Wheels,,
+Wheels,Tires,,

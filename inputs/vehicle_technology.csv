@@ -1,0 +1,11 @@
+own,vision,aeo,GREET1,Fuel type,Mode,Range,Fuel unit
+ICEV-G,Gasoline ICE,Gasoline ICE Vehicles;Gasoline,ICEV: Conventional Material,Gasoline,NA,NA,L
+BEV100,EV100,Electric Vehicle;100 Mile Electric Vehicle,EV: Conventional Material,Electricity,NA,100,kWh
+BEV300,EV200,200 Mile Electric Vehicle;300 Mile Electric Vehicle,EV: Conventional Material,Electricity,NA,300,kWh
+FFV,E85 FFV,Ethanol-Flex Fuel ICE;Ethanol ICE;Ethanol Flex,ICEV: Conventional Material,Ethanol,NA,NA,L
+ICEV-D,Diesel ICE,TDI Diesel ICE;TDI Diesel;Turbo Direct Injection Diesel,ICEV: Conventional Material,Diesel,NA,NA,L
+CNG,CNG,Compressed Natural Gas ICE;Compressed Natural Gas Bi-fuel;Natural Gas ICE;Natural Gas Bi-fuel;Liquefied Petroleum Gases ICE;Liquefied Petroleum Gases Bi-fuel;Propane ICE;Propane Bi-fuel;Propane;Natural Gas;Natural Gas Bi-Fuel;Propane Bi-Fuel,ICEV: Conventional Material,CNG & LPG,NA,NA,L
+HEV,SI HEV on Gas;SI HEV on E85/H2;Diesel HEV,Electric-Gasoline Hybrid;Electric-Diesel Hybrid;Gasoline-Electric Hybrid,HEV: Conventional Material,Gasoline,NA,NA,L
+PHEV20,SI PHEV 10,Plug-in 10 Gasoline Hybrid,PHEV: Conventional Material,Gasoline;Electricity,CD;CS,20,L;kWh
+PHEV40,SI PHEV 40;Diesel PHEV,Plug-in 40 Gasoline Hybrid,PHEV: Conventional Material,Gasoline;Electricity,CD;CS,40,L;kWh
+FCV,FCV,Fuel Cell Hydrogen;Fuel Cell Gasoline;Fuel Cell Methanol,FCV: Conventional Material,Hydrogen,NA,NA,L

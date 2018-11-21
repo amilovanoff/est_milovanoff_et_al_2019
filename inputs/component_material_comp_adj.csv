@@ -1,0 +1,25 @@
+"Size","Technology","Source","Component","Subcomponent","HSS/AHSS","Cast Iron","Mild steel and other steels","Wrought Aluminum","Cast Aluminum","Other"
+"LDV","Glo","Argonne","Glider","Body",0.417717784807846,0,0.393265027734942,0.0306409624820973,0.0139234679022098,0.144452757072905
+"LDV","Glo","Argonne","Glider","Exterior",0.005,0,0.00470730529124881,0,0,0.990292694708751
+"LDV","Glo","Argonne","Glider","Interior",0,0,0.320162199130254,0.03,0.0599304917343517,0.589907309135395
+"LDV","Glo","Argonne","Glider","Chassis",0.29330127957333,0.0400273745487588,0.471367006150975,0.01,0.0259952934586253,0.159309046268311
+"LDV","Glo","Argonne","Glider","Weld blanks and fasteners - G",0,0,0.583705856114853,0,0,0.416294143885147
+"LDV","Glo","Argonne","Powertrain","Engine",0,0.44272589243156,0.135391131457617,0,0.303464514732686,0.118418461378138
+"LDV","Glo","Argonne","Powertrain","Fuel storage system",0,0,0.941461058249763,0,0,0.0585389417502374
+"LDV","Glo","Argonne","Powertrain","Powertrain thermal",0,0,0.470730529124881,0,0,0.529269470875119
+"LDV","Glo","Argonne","Powertrain","Fuel cell stack",0,0,0,0,0,1
+"LDV","Glo","Argonne","Powertrain","Fuel cell auxiliaries",0,0,0.35,0.17,0,0.48
+"LDV","Glo","Argonne","Powertrain","Exhaust",0,0,0.941461058249763,0,0,0.0585389417502374
+"LDV","Glo","Argonne","Powertrain","Powertrain electrical",0,0,0,0,0,1
+"LDV","Glo","Argonne","Powertrain","Emission controls",0,0,0,0,0,1
+"LDV","Glo","Argonne","Powertrain","Weld blanks and fasteners - P",0,0,0.941461058249763,0,0,0.0585389417502374
+"LDV","ICEV-G,ICEV-D,FFV,CNG","Argonne","Transmission","Transmission",0,0.271056668835649,0.229354168664203,0.3,0.0853281899384494,0.114260972561699
+"LDV","HEV,PHEV,BEV,FCV","Argonne","Transmission","Transmission",0,0,0.61,0.2,0,0.19
+"LDV","Glo","Argonne","Battery Lead-Acid","Battery Lead-Acid",0,0,0,0,0,1
+"LDV","Glo","Argonne","EV Battery","EV Battery",0,0,0,0,0,1
+"LDV","Glo","Argonne","Traction Motor","Traction Motor",0,0,0.36,0,0.36,0.28
+"LDV","Glo","Argonne","Generator","Generator",0,0,0.36,0,0.36,0.28
+"LDV","Glo","Argonne","Electronic Controller","Electronic Controller",0,0,0.05,0,0.469,0.481
+"LDV","Glo","Argonne","Fluids","Fluids",0,0,0,0,0,1
+"LDV","Glo","Argonne","Wheels","Wheels",0,0,0,0,1,0
+"LDV","Glo","Argonne","Wheels","Tires",0,0,0.310682149222422,0,0,0.689317850777578

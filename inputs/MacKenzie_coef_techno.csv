@@ -1,0 +1,9 @@
+Source,Acceleration,Size,Technology,beta0,beta1,beta4,beta2,beta3,beta8,betaeng,betatrans,betadrive,betabody
+MacKenzie,Z97,Car,"ICEV-G,FFV,CNG",2.052,-1.088,0.044,0.665,-0.121,-0.031,-0.066,-0.045,0.005,0.019
+MacKenzie,Z97,Light truck,"ICEV-G,FFV,CNG",2.052,-1.088,0.044,0.665,-0.121,-0.031,-0.066,-0.045,0.005,0.031
+MacKenzie,Z97,Car,ICEV-D,2.052,-1.088,0.044,0.665,-0.121,-0.031,0.116,-0.045,0.005,0.019
+MacKenzie,Z97,Light truck,ICEV-D,2.052,-1.088,0.044,0.665,-0.121,-0.031,0.116,-0.045,0.005,0.031
+MacKenzie,Z97,Car,"HEV,PHEV",2.052,-1.088,0.044,0.665,-0.121,-0.031,-0.023,-0.045,0.005,0.019
+MacKenzie,Z97,Light truck,"HEV,PHEV",2.052,-1.088,0.044,0.665,-0.121,-0.031,-0.023,-0.045,0.005,0.031
+MacKenzie,Z97,Car,"BEV,FCV",2.052,-1.088,0.044,0.665,0,-0.031,-0.21,-0.185,0.005,0.019
+MacKenzie,Z97,Light truck,"BEV,FCV",2.052,-1.088,0.044,0.665,0,-0.031,-0.21,-0.185,0.005,0.031

@@ -1,0 +1,21 @@
+Data,Unit,Size,Technology,Value
+Lifetime VKMT,km per vehicle,Car,ICEV-G,278659.5
+Lifetime VKMT,km per vehicle,Car,BEV100,195061.65
+Lifetime VKMT,km per vehicle,Car,BEV300,278659.5
+Lifetime VKMT,km per vehicle,Car,FFV,278659.5
+Lifetime VKMT,km per vehicle,Car,ICEV-D,278659.5
+Lifetime VKMT,km per vehicle,Car,CNG,278659.5
+Lifetime VKMT,km per vehicle,Car,HEV,278659.5
+Lifetime VKMT,km per vehicle,Car,PHEV20,278659.5
+Lifetime VKMT,km per vehicle,Car,PHEV40,278659.5
+Lifetime VKMT,km per vehicle,Car,FCV,278659.5
+Lifetime VKMT,km per vehicle,Light truck,ICEV-G,295094.1
+Lifetime VKMT,km per vehicle,Light truck,BEV100,206565.87
+Lifetime VKMT,km per vehicle,Light truck,BEV300,295094.1
+Lifetime VKMT,km per vehicle,Light truck,FFV,295094.1
+Lifetime VKMT,km per vehicle,Light truck,ICEV-D,295094.1
+Lifetime VKMT,km per vehicle,Light truck,CNG,295094.1
+Lifetime VKMT,km per vehicle,Light truck,HEV,295094.1
+Lifetime VKMT,km per vehicle,Light truck,PHEV20,295094.1
+Lifetime VKMT,km per vehicle,Light truck,PHEV40,295094.1
+Lifetime VKMT,km per vehicle,Light truck,FCV,295094.1

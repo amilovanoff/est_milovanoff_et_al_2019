@@ -1,0 +1,74 @@
+Year,Data,Unit,Source,Size,Technology,Range,value
+2012,Sales weighted battery size,kWh,EPA,Car,BEV,100,21.74168209
+2013,Sales weighted battery size,kWh,EPA,Car,BEV,100,19.54806573
+2014,Sales weighted battery size,kWh,EPA,Car,BEV,100,21.88810579
+2015,Sales weighted battery size,kWh,EPA,Car,BEV,100,21.69580903
+2012,Sales weighted battery size,kWh,EPA,Car,BEV,300,89.51111111
+2013,Sales weighted battery size,kWh,EPA,Car,BEV,300,64.71111111
+2014,Sales weighted battery size,kWh,EPA,Car,BEV,300,89.51111111
+2015,Sales weighted battery size,kWh,EPA,Car,BEV,300,89.51111111
+2012,Sales weighted battery size,kWh,EPA,Car,BEV,all,34.44162344
+2013,Sales weighted battery size,kWh,EPA,Car,BEV,all,37.30938338
+2014,Sales weighted battery size,kWh,EPA,Car,BEV,all,37.95097321
+2015,Sales weighted battery size,kWh,EPA,Car,BEV,all,40.88306434
+2012,Sales weighted battery size,kWh,EPA,Car,PHEV,20,2.835555556
+2013,Sales weighted battery size,kWh,EPA,Car,PHEV,20,4.791982419
+2014,Sales weighted battery size,kWh,EPA,Car,PHEV,20,5.13067851
+2015,Sales weighted battery size,kWh,EPA,Car,PHEV,20,5.887703053
+2012,Sales weighted battery size,kWh,EPA,Car,PHEV,40,11.2
+2013,Sales weighted battery size,kWh,EPA,Car,PHEV,40,11.82222222
+2014,Sales weighted battery size,kWh,EPA,Car,PHEV,40,11.93047532
+2015,Sales weighted battery size,kWh,EPA,Car,PHEV,40,11.92590228
+2012,Sales weighted battery size,kWh,EPA,Car,PHEV,all,8.256950453
+2013,Sales weighted battery size,kWh,EPA,Car,PHEV,all,8.14472084
+2014,Sales weighted battery size,kWh,EPA,Car,PHEV,all,7.606700176
+2015,Sales weighted battery size,kWh,EPA,Car,PHEV,all,8.2796995
+2015,Sales weighted battery size,kWh,EPA,Light truck,PHEV,20,8.586666667
+,Conventional,kW,GREET,Car,HEV,NA,32
+,Lightweight,kW,GREET,Car,HEV,NA,27
+,Conventional,kWh,GREET,Car,FCV,NA,38
+,Lightweight,kWh,GREET,Car,FCV,NA,34
+,Conventional,kWh,GREET,Car,PHEV,10,4
+,Lightweight,kWh,GREET,Car,PHEV,10,3
+,Conventional,kWh,GREET,Car,PHEV,20,8
+,Lightweight,kWh,GREET,Car,PHEV,20,6
+,Conventional,kWh,GREET,Car,PHEV,30,11
+,Lightweight,kWh,GREET,Car,PHEV,30,9
+,Conventional,kWh,GREET,Car,PHEV,40,15
+,Lightweight,kWh,GREET,Car,PHEV,40,12
+,Conventional,kWh,GREET,Car,BEV,100,27
+,Lightweight,kWh,GREET,Car,BEV,100,22
+,Conventional,kWh,GREET,Car,BEV,300,84
+,Lightweight,kWh,GREET,Car,BEV,300,64
+,Conventional,kW,GREET,SUV,HEV,NA,45
+,Lightweight,kW,GREET,SUV,HEV,NA,38
+,Conventional,kWh,GREET,SUV,FCV,NA,45
+,Lightweight,kWh,GREET,SUV,FCV,NA,38
+,Conventional,kWh,GREET,SUV,PHEV,10,5
+,Lightweight,kWh,GREET,SUV,PHEV,10,5
+,Conventional,kWh,GREET,SUV,PHEV,20,11
+,Lightweight,kWh,GREET,SUV,PHEV,20,9
+,Conventional,kWh,GREET,SUV,PHEV,30,14
+,Lightweight,kWh,GREET,SUV,PHEV,30,11
+,Conventional,kWh,GREET,SUV,PHEV,40,19
+,Lightweight,kWh,GREET,SUV,PHEV,40,15
+,Conventional,kWh,GREET,SUV,BEV,100,35
+,Lightweight,kWh,GREET,SUV,BEV,100,29
+,Conventional,kWh,GREET,SUV,BEV,300,109
+,Lightweight,kWh,GREET,SUV,BEV,300,83
+,Conventional,kW,GREET,PUT,HEV,NA,53
+,Lightweight,kW,GREET,PUT,HEV,NA,44
+,Conventional,kWh,GREET,PUT,FCV,NA,51
+,Lightweight,kWh,GREET,PUT,FCV,NA,44
+,Conventional,kWh,GREET,PUT,PHEV,10,7
+,Lightweight,kWh,GREET,PUT,PHEV,10,5
+,Conventional,kWh,GREET,PUT,PHEV,20,13
+,Lightweight,kWh,GREET,PUT,PHEV,20,11
+,Conventional,kWh,GREET,PUT,PHEV,30,18
+,Lightweight,kWh,GREET,PUT,PHEV,30,14
+,Conventional,kWh,GREET,PUT,PHEV,40,24
+,Lightweight,kWh,GREET,PUT,PHEV,40,18
+,Conventional,kWh,GREET,PUT,BEV,100,43
+,Lightweight,kWh,GREET,PUT,BEV,100,34
+,Conventional,kWh,GREET,PUT,BEV,300,135
+,Lightweight,kWh,GREET,PUT,BEV,300,99

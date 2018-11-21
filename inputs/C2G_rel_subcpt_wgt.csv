@@ -1,0 +1,40 @@
+Size,Technology,Source,Component,Subcomponent,Subcomponent weight distribution
+LDV,"ICEV: Conventional Material,HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Glider,Body,0.41
+LDV,"ICEV: Conventional Material,HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Glider,Exterior,0.04
+LDV,"ICEV: Conventional Material,HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Glider,Interior,0.17
+LDV,"ICEV: Conventional Material,HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Glider,Chassis,0.34
+LDV,"ICEV: Conventional Material,HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Glider,Weld blanks and fasteners - G,0.04
+LDV,ICEV: Conventional Material,Argonne,Powertrain,Engine,0.56
+LDV,ICEV: Conventional Material,Argonne,Powertrain,Fuel storage system,0.15
+LDV,ICEV: Conventional Material,Argonne,Powertrain,Powertrain thermal,0.07
+LDV,ICEV: Conventional Material,Argonne,Powertrain,Exhaust,0.13
+LDV,ICEV: Conventional Material,Argonne,Powertrain,Powertrain electrical,0.03
+LDV,ICEV: Conventional Material,Argonne,Powertrain,Emission controls,0.03
+LDV,ICEV: Conventional Material,Argonne,Powertrain,Weld blanks and fasteners - P,0.03
+LDV,HEV: Conventional Material,Argonne,Powertrain,Engine,0.48
+LDV,HEV: Conventional Material,Argonne,Powertrain,Fuel storage system,0.24
+LDV,HEV: Conventional Material,Argonne,Powertrain,Powertrain thermal,0.06
+LDV,HEV: Conventional Material,Argonne,Powertrain,Exhaust,0.13
+LDV,HEV: Conventional Material,Argonne,Powertrain,Powertrain electrical,0.04
+LDV,HEV: Conventional Material,Argonne,Powertrain,Emission controls,0.01
+LDV,HEV: Conventional Material,Argonne,Powertrain,Weld blanks and fasteners - P,0.04
+LDV,PHEV: Conventional Material,Argonne,Powertrain,Engine,0.45
+LDV,PHEV: Conventional Material,Argonne,Powertrain,Fuel storage system,0.26
+LDV,PHEV: Conventional Material,Argonne,Powertrain,Powertrain thermal,0.06
+LDV,PHEV: Conventional Material,Argonne,Powertrain,Exhaust,0.12
+LDV,PHEV: Conventional Material,Argonne,Powertrain,Powertrain electrical,0.05
+LDV,PHEV: Conventional Material,Argonne,Powertrain,Emission controls,0.01
+LDV,PHEV: Conventional Material,Argonne,Powertrain,Weld blanks and fasteners - P,0.05
+LDV,EV: Conventional Material,Argonne,Powertrain,Powertrain electrical,0.5
+LDV,EV: Conventional Material,Argonne,Powertrain,Weld blanks and fasteners - P,0.5
+LDV,FCV: Conventional Material,Argonne,Powertrain,Fuel cell stack,0.29
+LDV,FCV: Conventional Material,Argonne,Powertrain,Fuel cell auxiliaries,0.71
+LDV,"ICEV: Conventional Material,HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Transmission,Transmission,1
+LDV,"ICEV: Conventional Material,HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Battery Lead-Acid,Battery Lead-Acid,1
+LDV,"HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,EV Battery,EV Battery,1
+LDV,"HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Traction Motor,Traction Motor,1
+LDV,"HEV: Conventional Material,PHEV: Conventional Material",Argonne,Generator,Generator,1
+LDV,"HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Electronic Controller,Electronic Controller,1
+LDV,"ICEV: Conventional Material,HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Fluids,Fluids,1
+LDV,"ICEV: Conventional Material,HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Wheels,Wheels,0.5
+LDV,"ICEV: Conventional Material,HEV: Conventional Material,PHEV: Conventional Material,EV: Conventional Material,FCV: Conventional Material",Argonne,Wheels,Tires,0.5

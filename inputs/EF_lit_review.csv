@@ -1,0 +1,33 @@
+Reference,LCIA_method,Functional Unit,Technology,Phase,Process,Battery type,LCI,Modele
+Notter et al,kg CO2 eq,kWh,NA,Battery production and assembly,Battery production,Li_ion LMO,53,
+Notter et al,kg CO2 eq,kg,NA,Battery production and assembly,Battery production,Li_ion LMO,6.042,
+Majeau-Bettez et al,kg CO2 eq,kWh,NA,Battery production and assembly,Battery production,Li_ion NMC,196,
+Majeau-Bettez et al,kg CO2 eq,kg,NA,Battery production and assembly,Battery production,Li_ion NMC,21.952,
+Dunn et al,kg CO2 eq,kWh,NA,Battery production and assembly,Battery production,Li_ion LMO,39,
+Dunn et al,kg CO2 eq,kg,NA,Battery production and assembly,Battery production,Li_ion LMO,5.07,
+EPA,kg CO2 eq,kWh,NA,Battery production and assembly,Battery production,Li_ion LMO,63.4,
+EPA,kg CO2 eq,kg,NA,Battery production and assembly,Battery production,Li_ion LMO,5.072,
+EPA,kg CO2 eq,kWh,NA,Battery production and assembly,Battery production,Li_ion NMC,121,
+EPA,kg CO2 eq,kg,NA,Battery production and assembly,Battery production,Li_ion NMC,12.1,
+Elligsen et al,kg CO2 eq,kWh,NA,Battery production and assembly,Battery production,Li_ion NMC,172,
+Elligsen et al,kg CO2 eq,kg,NA,Battery production and assembly,Battery production,Li_ion NMC,18.92,
+ecoInvent,kg CO2 eq,kg,NA,Battery production and assembly,Battery production,Li_ion LMO,6.35,
+ecoInvent,kg CO2 eq,kg,NA,Battery production and assembly,Battery production,Ni_MH,21.93050522,
+Kim et al,kg CO2 eq,kWh,NA,Battery production and assembly,Battery production,Li_ion LMO,140,
+Kim et al,kg CO2 eq,kg,NA,Battery production and assembly,Battery production,Li_ion LMO,11.2,def
+GREET,kg CO2 eq,kg,NA,Battery production and assembly,Battery production,Ni_MH,5.145264667,
+GREET,kg CO2 eq,kg,HEV,Battery production and assembly,Battery production,Li_ion LMO,6.966285855,
+GREET,kg CO2 eq,kg,PHEV,Battery production and assembly,Battery production,Li_ion LMO,5.044297625,
+GREET,kg CO2 eq,kg,BEV,Battery production and assembly,Battery production,Li_ion LMO,4.58115549,
+GREET,kg CO2 eq,kg,FCV,Battery production and assembly,Battery production,Li_ion LMO,6.966285855,
+Kim et al,kg CO2 eq,kg,NA,Battery production and assembly,Battery Assembly,NA,0,def
+GREET,kg CO2 eq,kg,NA,Battery production and assembly,Battery Assembly,Li_ion LMO,1.71,
+GREET,kg CO2 eq,kg,NA,Battery production and assembly,Battery Assembly,Ni_MH,0.24,
+UCSB,kg CO2 eq,kg,NA,Primary Material Production,Mild steel and other steels,NA,2.08,def
+UCSB,kg CO2 eq,kg,NA,Manufacturing,Mild steel and other steels,NA,0.42,def
+UCSB,kg CO2 eq,kg,NA,Secondary Material Production,Mild steel and other steels,NA,0.48,def
+GREET,kg CO2 eq,kg,NA,Primary Material Production,Mild steel and other steels,NA,3.21,
+GREET,kg CO2 eq,kg,NA,Manufacturing,Mild steel and other steels,NA,0.15,
+GREET,kg CO2 eq,kg,NA,Secondary Material Production,Mild steel and other steels,NA,1.51,
+Steel Recycling Institute,kg CO2 eq,kg,NA,Primary Material Production,Mild steel and other steels,NA,1.87,
+UCSB,kg CO2 eq,kg,NA,Manufacturing,Mild steel and other steels,NA,0.62,

@@ -1,0 +1,11 @@
+"Source,Fuel storage system",Size,Technology,Component,Z97,displacmt,tspd
+,Car,"ICEV-G,FFV,ICEV-D,CNG","Engine,Fuel storage system",8.8,2.5,6
+,Car,HEV,"Engine,EV Battery,Traction Motor,Generator,Electronic Controller",8.8,1,6
+,Car,PHEV,"Engine,Traction Motor,Generator,Electronic Controller",8.8,1,6
+,Car,BEV,"Traction Motor,Electronic Controller",8.8,1,0
+,Car,FCV,"Fuel cell stack,Traction Motor,Electronic Controller",8.8,1,0
+,Light truck,"ICEV-G,FFV,ICEV-D,CNG","Engine,Fuel storage system",8.8,2.5,6
+,Light truck,HEV,"Engine,EV Battery,Traction Motor,Generator,Electronic Controller",,,
+,Light truck,PHEV,"Engine,Traction Motor,Generator,Electronic Controller",8.8,1,6
+,Light truck,BEV,"Traction Motor,Electronic Controller",8.8,1,0
+,Light truck,FCV,"Fuel cell stack,Traction Motor,Electronic Controller",8.8,1,0

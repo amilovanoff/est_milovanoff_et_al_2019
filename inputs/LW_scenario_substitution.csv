@@ -1,0 +1,55 @@
+Year,Technology,LW_scenario,Subcomponent,Replacement rates,Replaced material,Replacing material
+2030,Glo,Steel Intensive,Body,1,Mild steel and other steels,HSS/AHSS
+2030,Glo,Steel Intensive,Exterior,1,Mild steel and other steels,HSS/AHSS
+2030,Glo,Steel Intensive,Weld blanks and fasteners - G,1,Mild steel and other steels,HSS/AHSS
+2030,Glo,Steel Intensive,Chassis,0.25,Mild steel and other steels,HSS/AHSS
+2030,Glo,Aluminum Intensive,Body,0.2,Mild steel and other steels,Cast Aluminum
+2030,Glo,Aluminum Intensive,Body,0.8,Mild steel and other steels,Wrought Aluminum
+2030,Glo,Aluminum Intensive,Exterior,0.2,Mild steel and other steels,Cast Aluminum
+2030,Glo,Aluminum Intensive,Weld blanks and fasteners - G,0.2,Mild steel and other steels,Cast Aluminum
+2030,Glo,Aluminum Intensive,Exterior,0.8,Mild steel and other steels,Wrought Aluminum
+2030,Glo,Aluminum Intensive,Weld blanks and fasteners - G,0.8,Mild steel and other steels,Wrought Aluminum
+2030,Glo,Aluminum Intensive,Chassis,0.175,Mild steel and other steels,Cast Aluminum
+2030,Glo,Aluminum Intensive,Chassis,0.075,Mild steel and other steels,Wrought Aluminum
+2030,Glo,Aluminum Maximum,Body,0.2,Mild steel and other steels,Cast Aluminum
+2030,Glo,Aluminum Maximum,Exterior,0.2,Mild steel and other steels,Cast Aluminum
+2030,Glo,Aluminum Maximum,Weld blanks and fasteners - G,0.2,Mild steel and other steels,Cast Aluminum
+2030,Glo,Aluminum Maximum,Body,0.8,Mild steel and other steels,Wrought Aluminum
+2030,Glo,Aluminum Maximum,Exterior,0.8,Mild steel and other steels,Wrought Aluminum
+2030,Glo,Aluminum Maximum,Weld blanks and fasteners - G,0.8,Mild steel and other steels,Wrought Aluminum
+2030,Glo,Aluminum Maximum,Body,1,HSS/AHSS,Wrought Aluminum
+2030,Glo,Aluminum Maximum,Exterior,1,HSS/AHSS,Wrought Aluminum
+2030,Glo,Aluminum Maximum,Weld blanks and fasteners - G,1,HSS/AHSS,Wrought Aluminum
+2030,Glo,Aluminum Maximum,Chassis,0.175,Mild steel and other steels,Cast Aluminum
+2030,Glo,Aluminum Maximum,Chassis,0.075,Mild steel and other steels,Wrought Aluminum
+2030,Glo,Aluminum Maximum,Chassis,1,Cast Iron,Cast Aluminum
+2030,Glo,Aluminum Maximum,Engine,0.5,Cast Iron,Cast Aluminum
+2030,Glo,Aluminum Maximum,Weld blanks and fasteners - P,0.5,Cast Iron,Cast Aluminum
+2030,Glo,Aluminum Maximum,Fuel storage system,0.5,Cast Iron,Cast Aluminum
+2030,Glo,Aluminum Maximum,Exhaust,0.5,Cast Iron,Cast Aluminum
+2030,Glo,Aluminum Maximum,Interior,1,Mild steel and other steels,Wrought Aluminum
+2030,"HEV,PHEV",Adapted Aluminum Maximum,Body,0.2,Mild steel and other steels,Cast Aluminum
+2030,"HEV,PHEV",Adapted Aluminum Maximum,Body,0.8,Mild steel and other steels,Wrought Aluminum
+2030,"HEV,PHEV",Adapted Aluminum Maximum,Exterior,0.2,Mild steel and other steels,Cast Aluminum
+2030,"HEV,PHEV",Adapted Aluminum Maximum,Weld blanks and fasteners - G,0.2,Mild steel and other steels,Cast Aluminum
+2030,"HEV,PHEV",Adapted Aluminum Maximum,Exterior,0.8,Mild steel and other steels,Wrought Aluminum
+2030,"HEV,PHEV",Adapted Aluminum Maximum,Weld blanks and fasteners - G,0.8,Mild steel and other steels,Wrought Aluminum
+2030,"HEV,PHEV",Adapted Aluminum Maximum,Chassis,0.175,Mild steel and other steels,Cast Aluminum
+2030,"HEV,PHEV",Adapted Aluminum Maximum,Chassis,0.075,Mild steel and other steels,Wrought Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Body,0.2,Mild steel and other steels,Cast Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Exterior,0.2,Mild steel and other steels,Cast Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Weld blanks and fasteners - G,0.2,Mild steel and other steels,Cast Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Body,0.8,Mild steel and other steels,Wrought Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Exterior,0.8,Mild steel and other steels,Wrought Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Weld blanks and fasteners - G,0.8,Mild steel and other steels,Wrought Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Body,1,HSS/AHSS,Wrought Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Exterior,1,HSS/AHSS,Wrought Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Weld blanks and fasteners - G,1,HSS/AHSS,Wrought Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Chassis,0.175,Mild steel and other steels,Cast Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Chassis,0.075,Mild steel and other steels,Wrought Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Chassis,1,Cast Iron,Cast Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Engine,0.5,Cast Iron,Cast Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Weld blanks and fasteners - P,0.5,Cast Iron,Cast Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Fuel storage system,0.5,Cast Iron,Cast Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Exhaust,0.5,Cast Iron,Cast Aluminum
+2030,"ICEV-G,ICEV-D,FFV,CNG",Adapted Aluminum Maximum,Interior,1,Mild steel and other steels,Wrought Aluminum

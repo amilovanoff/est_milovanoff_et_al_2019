@@ -1,0 +1,73 @@
+"Size","Technology","Fuel type","Unit","FRV","Powertrain resizing"
+"Car","ICEV-G","Gasoline","L/100km100kg","0.359240854644588",0
+"Car","BEV100","Electricity","kWh/100km100kg","0.699514697354473",0
+"Car","BEV300","Electricity","kWh/100km100kg","0.699514697354473",0
+"Car","FFV","Ethanol","L/100km100kg","0.514490336741531",0
+"Car","ICEV-D","Diesel","L/100km100kg","0.277290204058205",0
+"Car","CNG","CNG & LPG","L/100km100kg","0.450727147905198",0
+"Car","HEV","Gasoline","L/100km100kg","0.25012116904244",0
+"Car","PHEV20","Gasoline","L/100km100kg","0.25012116904244",0
+"Car","PHEV20","Electricity","kWh/100km100kg","0.699514697354473",0
+"Car","PHEV40","Gasoline","L/100km100kg","0.25012116904244",0
+"Car","PHEV40","Electricity","kWh/100km100kg","0.699514697354473",0
+"Car","FCV","Hydrogen","L/100km100kg","0.461926535339971",0
+"Light truck","ICEV-G","Gasoline","L/100km100kg","0.371225436055762",0
+"Light truck","BEV100","Electricity","kWh/100km100kg","0.742512505975544",0
+"Light truck","BEV300","Electricity","kWh/100km100kg","0.742512505975544",0
+"Light truck","FFV","Ethanol","L/100km100kg","0.53165417333256",0
+"Light truck","ICEV-D","Diesel","L/100km100kg","0.28654084184645",0
+"Light truck","CNG","CNG & LPG","L/100km100kg","0.465763790114616",0
+"Light truck","HEV","Gasoline","L/100km100kg","0.260660175454486",0
+"Light truck","PHEV20","Gasoline","L/100km100kg","0.260660175454486",0
+"Light truck","PHEV20","Electricity","kWh/100km100kg","0.742512505975544",0
+"Light truck","PHEV40","Gasoline","L/100km100kg","0.260660175454486",0
+"Light truck","PHEV40","Electricity","kWh/100km100kg","0.742512505975544",0
+"Light truck","FCV","Hydrogen","L/100km100kg","0.490320261502779",0
+"Car","ICEV-G","Gasoline","L/100km100kg","0.359240854644588",0.5
+"Car","BEV100","Electricity","kWh/100km100kg","0.699514697354473",0.5
+"Car","BEV300","Electricity","kWh/100km100kg","0.699514697354473",0.5
+"Car","FFV","Ethanol","L/100km100kg","0.514490336741531",0.5
+"Car","ICEV-D","Diesel","L/100km100kg","0.277290204058205",0.5
+"Car","CNG","CNG & LPG","L/100km100kg","0.450727147905198",0.5
+"Car","HEV","Gasoline","L/100km100kg","0.25012116904244",0.5
+"Car","PHEV20","Gasoline","L/100km100kg","0.25012116904244",0.5
+"Car","PHEV20","Electricity","kWh/100km100kg","0.699514697354473",0.5
+"Car","PHEV40","Gasoline","L/100km100kg","0.25012116904244",0.5
+"Car","PHEV40","Electricity","kWh/100km100kg","0.699514697354473",0.5
+"Car","FCV","Hydrogen","L/100km100kg","0.461926535339971",0.5
+"Light truck","ICEV-G","Gasoline","L/100km100kg","0.371225436055762",0.5
+"Light truck","BEV100","Electricity","kWh/100km100kg","0.742512505975544",0.5
+"Light truck","BEV300","Electricity","kWh/100km100kg","0.742512505975544",0.5
+"Light truck","FFV","Ethanol","L/100km100kg","0.53165417333256",0.5
+"Light truck","ICEV-D","Diesel","L/100km100kg","0.28654084184645",0.5
+"Light truck","CNG","CNG & LPG","L/100km100kg","0.465763790114616",0.5
+"Light truck","HEV","Gasoline","L/100km100kg","0.260660175454486",0.5
+"Light truck","PHEV20","Gasoline","L/100km100kg","0.260660175454486",0.5
+"Light truck","PHEV20","Electricity","kWh/100km100kg","0.742512505975544",0.5
+"Light truck","PHEV40","Gasoline","L/100km100kg","0.260660175454486",0.5
+"Light truck","PHEV40","Electricity","kWh/100km100kg","0.742512505975544",0.5
+"Light truck","FCV","Hydrogen","L/100km100kg","0.490320261502779",0.5
+"Car","ICEV-G","Gasoline","L/100km100kg","0.359240854644588",1
+"Car","BEV100","Electricity","kWh/100km100kg","0.699514697354473",1
+"Car","BEV300","Electricity","kWh/100km100kg","0.699514697354473",1
+"Car","FFV","Ethanol","L/100km100kg","0.514490336741531",1
+"Car","ICEV-D","Diesel","L/100km100kg","0.277290204058205",1
+"Car","CNG","CNG & LPG","L/100km100kg","0.450727147905198",1
+"Car","HEV","Gasoline","L/100km100kg","0.25012116904244",1
+"Car","PHEV20","Gasoline","L/100km100kg","0.25012116904244",1
+"Car","PHEV20","Electricity","kWh/100km100kg","0.699514697354473",1
+"Car","PHEV40","Gasoline","L/100km100kg","0.25012116904244",1
+"Car","PHEV40","Electricity","kWh/100km100kg","0.699514697354473",1
+"Car","FCV","Hydrogen","L/100km100kg","0.461926535339971",1
+"Light truck","ICEV-G","Gasoline","L/100km100kg","0.371225436055762",1
+"Light truck","BEV100","Electricity","kWh/100km100kg","0.742512505975544",1
+"Light truck","BEV300","Electricity","kWh/100km100kg","0.742512505975544",1
+"Light truck","FFV","Ethanol","L/100km100kg","0.53165417333256",1
+"Light truck","ICEV-D","Diesel","L/100km100kg","0.28654084184645",1
+"Light truck","CNG","CNG & LPG","L/100km100kg","0.465763790114616",1
+"Light truck","HEV","Gasoline","L/100km100kg","0.260660175454486",1
+"Light truck","PHEV20","Gasoline","L/100km100kg","0.260660175454486",1
+"Light truck","PHEV20","Electricity","kWh/100km100kg","0.742512505975544",1
+"Light truck","PHEV40","Gasoline","L/100km100kg","0.260660175454486",1
+"Light truck","PHEV40","Electricity","kWh/100km100kg","0.742512505975544",1
+"Light truck","FCV","Hydrogen","L/100km100kg","0.490320261502779",1

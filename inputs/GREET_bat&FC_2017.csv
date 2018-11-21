@@ -1,0 +1,26 @@
+Unit,Subcomponent,Technology,Data,Battery type,2015,2030,2050
+kW/kg,EV Battery,"FCV,HEV",Energy density,Ni_MH,0.8,1.6,
+kW/kg,EV Battery,"FCV,HEV",Energy density,Li_ion LMO,1.428571429,2.857142858,
+kW/kg,EV Battery,"FCV,HEV",Energy density,Li_ion NMC,1.304347826,2.608695652,
+kW/kg,EV Battery,"FCV,HEV",Energy density,Li_ion LFP,1.25,2.5,
+kWh/kg,EV Battery,PHEV,Energy density,Ni_MH,0.053,0.106,
+kWh/kg,EV Battery,PHEV,Energy density,Li_ion LMO,0.118,0.236,
+kWh/kg,EV Battery,PHEV,Energy density,Li_ion NMC,0.132,0.264,
+kWh/kg,EV Battery,PHEV,Energy density,Li_ion LFP,0.107,0.214,
+kWh/kg,EV Battery,Series-PHEV,Series-PHEV,Li_ion LMO,0.106,0.212,
+kWh/kg,EV Battery,Series-PHEV,Series-PHEV,Li_ion NMC,0.083,0.166,
+kWh/kg,EV Battery,Series-PHEV,Series-PHEV,Li_ion LFP,0.084,0.168,
+kWh/kg,EV Battery,BEV,Energy density,Ni_MH,0.065,0.13,
+kWh/kg,EV Battery,BEV,Energy density,Li_ion LMO,0.133,0.266,
+kWh/kg,EV Battery,BEV,Energy density,Li_ion NMC,0.165,0.33,
+kWh/kg,EV Battery,BEV,Energy density,Li_ion LFP,0.122,0.244,
+kWh/kg,EV Battery,BEV,Energy density,Li_ion LCO,0.175,0.35,
+kWh/kg,EV Battery,BEV,Energy density,Li_ion LMR_NMC: Gr,0.175,0.35,
+kWh/kg,EV Battery,BEV,Energy density,Li_ion LMR_NMC: Gr-SI,0.2,0.4,
+kWh/kg,EV Battery,BEV,Energy density,Li_ion NCA,0.163,0.326,
+kW/kg,Fuel cell stack,FCV,Energy density,NA,0.659,,0.76
+kW/kg,Engine,"ICEV-G,ICEV-D,FFV,CNG,HEV,PHEV",Energy density,NA,0.714285714,,0.785714285
+kW/kg,Traction Motor,"HEV,PHEV,BEV,FCV",Energy density,NA,1.125,,1.95
+%,EV Battery,"HEV,PHEV,BEV,FCV",Usable Energy,NA,0.9,,
+kg,Traction Motor,"HEV,PHEV,BEV,FCV",Fixed mass,NA,11.88,,
+kg,Electronic Controller,"HEV,PHEV,BEV,FCV",Fixed mass,NA,9.72,,

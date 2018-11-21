@@ -1,0 +1,389 @@
+Size,Scenario,Material,ICEV: Conventional Material,ICEV: Lightweight Material,HEV: Conventional Material,HEV: Lightweight Material,PHEV: Conventional Material,PHEV: Lightweight Material,EV: Conventional Material,EV: Lightweight Material,FCV: Conventional Material,FCV: Lightweight Material
+Car,1,Body,,,,,,,,,,
+Car,1,Steel,0.683,0.111,0.683,0.108,0.683,0.105,0.683,0.103,0.683,0.103
+Car,1,Wrought Aluminum,0.007,0.091,0.007,0.089,0.007,0.067,0.007,0.066,0.007,0.085
+Car,1,Cast Aluminum,0,0,0,0,0,0,0,0,0,0
+Car,1,Copper/Brass,0.019,0.036,0.019,0.035,0.019,0.034,0.019,0.033,0.019,0.033
+Car,1,Zinc,0,0,0,0,0,0,0,0,0,0
+Car,1,Magnesium,0.0004,0.009,0.0004,0.009,0.0004,0.009,0.0004,0.009,0.0004,0.009
+Car,1,Glass Fiber-Reinforced Plastic,0,0,0,0,0,0,0,0,0,0
+Car,1,Glass,0.065,0.077,0.065,0.075,0.065,0.073,0.065,0.072,0.065,0.072
+Car,1,Carbon Fiber-Reinforced Plastic,0,0.381,0,0.397,0,0.412,0,0.426,0,0.423
+Car,1,Average Plastic,0.181,0.236,0.181,0.229,0.181,0.243,0.181,0.238,0.181,0.22
+Car,1,Rubber,0.005,0.009,0.005,0.008,0.005,0.008,0.005,0.008,0.005,0.008
+Car,1,Others,0.0396,0.05,0.0396,0.05,0.0396,0.049,0.0396,0.045,0.0396,0.047
+Car,1,Powertrain System,,,,,,,,,,
+Car,1,Steel,0.395,0.548,0.484,0.596,0.502,0.607,0.5,0,0.187109199,0.187109199
+Car,1,Stainless Steel,0,0.036,0,0.032,0,0.03,0,0,0.313479142,0.313479142
+Car,1,Cast iron,0.286,0.053,0.24,0.047,0.228,0.044,0,0,0.000763912,0.000763912
+Car,1,Wrought Aluminum,0,0.018,0,0.025,0,0.027,0,0.3,0.167949278,0.167949278
+Car,1,Cast Aluminum,0.171,0.178,0.144,0.158,0.137,0.149,0,0,,
+Car,1,Copper/Brass,0.029,0.038,0.026,0.032,0.028,0.034,0.205,0.283,0.017274919,0.017274919
+Car,1,Magnesium,0,0,0,0,0,0,0,0,,
+Car,1,Glass Fiber-Reinforced Plastic,0,0,0,0,0,0,0,0,0.025916749,0.025916749
+Car,1,Average Plastic,0.093,0.111,0.084,0.094,0.084,0.094,0.295,0.407,0.166176784,0.166176784
+Car,1,Rubber,0.026,0.018,0.022,0.016,0.021,0.015,0,0,0.064615989,0.064615989
+Car,1,Carbon Fiber-Reinforced Plastic,0,0,0,0,0,0,0,0,,
+Car,1,PFSA,0,0,0,0,0,0,0,0,0.006198419,0.006198419
+Car,1,Carbon Paper,0,0,0,0,0,0,0,0,0.02140074,0.02140074
+Car,1,PTFE,0,0,0,0,0,0,0,0,0.025650869,0.025650869
+Car,1,Carbon & PFSA Suspension,0,0,0,0,0,0,0,0,,
+Car,1,Platinum,0.00002,0.00003,0.00002,0.00002,0.00002,0.00002,0,0,0.000176681,0.000176681
+Car,1,Carbon,,,,,,,,,0.002727884,0.002727884
+Car,1,Nickel,,,,,,,,,1.91E-05,1.91E-05
+Car,1,Silicon,,,,,,,,,0.000540309,0.000540309
+Car,1,Others,-0.00002,-0.00003,-0.00002,-0.00002,-0.00002,-0.00002,0,0.01,0,0
+Car,1,Transmission System,,,,,,,,,,
+Car,1,Steel,0.3,0.3,0.605,0.605,0.605,0.605,0.605,0.605,0.605,0.605
+Car,1,Copper,0,0,0.189,0.189,0.189,0.189,0.189,0.189,0.189,0.189
+Car,1,Cast Iron,0.3,0,0,0,0,0,0,0,0,0
+Car,1,Magnesium,0,0,0,0,0,0,0,0,0,0
+Car,1,Wrought Aluminum,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Car,1,Cast Aluminum,0,0.3,0,0,0,0,0,0,0,0
+Car,1,Carbon Fiber-Reinforced Plastic,0,0,0,0,0,0,0,0,0,0
+Car,1,Average Plastic,0.05,0.05,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002
+Car,1,Rubber,0.05,0.05,0,0,0,0,0,0,0,0
+Car,1,Others,0,0,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004
+Car,1,Chassis,,,,,,,,,,
+Car,1,Steel,0.841,0.369,0.841,0.356,0.841,0.348,0.841,0.343,0.841,0.344
+Car,1,Cast Iron,0.069,0.087,0.069,0.087,0.069,0.089,0.069,0.092,0.069,0.091
+Car,1,Wrought Aluminum,0,0.023,0,0.022,0,0.021,0,0.02,0,0.02
+Car,1,Cast Aluminum,0.01,0.31,0.01,0.332,0.01,0.342,0.01,0.347,0.01,0.346
+Car,1,Copper/Brass,0.012,0.021,0.012,0.02,0.012,0.019,0.012,0.018,0.012,0.018
+Car,1,Zinc,0,0,0,0,0,0,0,0,0,0
+Car,1,Magnesium,0,0,0,0,0,0,0,0,0,0
+Car,1,Glass Fiber-Reinforced Plastic,0,0.078,0,0.078,0,0.08,0,0.083,0,0.082
+Car,1,Average Plastic,0.018,0.031,0.018,0.029,0.018,0.027,0.018,0.026,0.018,0.026
+Car,1,Rubber,0.044,0.074,0.044,0.069,0.044,0.066,0.044,0.064,0.044,0.064
+Car,1,Others,0.006,0.007,0.006,0.007,0.006,0.008,0.006,0.007,0.006,0.009
+Car,1,Traction Motor,,,,,,,,,,
+Car,1,Steel,,,0.361,0.361,0.361,0.361,0.361,0.361,0.361,0.361
+Car,1,Stainless Steel,,,0,0,0,0,0,0,0,0
+Car,1,Cast Aluminum,,,0.361,0.361,0.361,0.361,0.361,0.361,0.361,0.361
+Car,1,Copper/Brass,,,0.278,0.278,0.278,0.278,0.278,0.278,0.278,0.278
+Car,1,Others,,,0,0,0,0,0,0,0,0
+Car,1,Generator,,,,,,,,,,
+Car,1,Steel,,,0.361,0.361,0.361,0.361,,,,
+Car,1,Cast Aluminum,,,0.361,0.361,0.361,0.361,,,,
+Car,1,Copper/Brass,,,0.278,0.278,0.278,0.278,,,,
+Car,1,Others,,,0,0,0,0,,,,
+Car,1,Electronic Controller,,,,,,,,,,
+Car,1,Steel,,,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+Car,1,Cast Aluminum,,,0.469,0.469,0.469,0.469,0.469,0.469,0.469,0.469
+Car,1,Copper/Brass,,,0.082,0.082,0.082,0.082,0.082,0.082,0.082,0.082
+Car,1,Rubber,,,0.037,0.037,0.037,0.037,0.037,0.037,0.037,0.037
+Car,1,Average Plastic,,,0.238,0.238,0.238,0.238,0.238,0.238,0.238,0.238
+Car,1,Others,,,0.124,0.124,0.124,0.124,0.124,0.124,0.124,0.124
+Car,1,Fuel Cell Onboard Storage,,,,,,,,,,
+Car,1,Steel,,,,,,,,,0.091528724,0.091528724
+Car,1,Stainless Steel,,,,,,,,,0.080817916,0.080817916
+Car,1,Carbon Fiber-Reinforced Plastic,,,,,,,,,0.656280428,0.656280428
+Car,1,Glass Fiber-Reinforced Plastic,,,,,,,,,0.044790652,0.044790652
+Car,1,Wrought Aluminum,,,,,,,,,0,0
+Car,1,Copper,,,,,,,,,0,0
+Car,1,Average Plastics,,,,,,,,,0.077896787,0.077896787
+Car,1,Rubber,,,,,,,,,0,0
+Car,1,Nickel,,,,,,,,,0,0
+Car,1,Silicon,,,,,,,,,0.009737098,0.009737098
+Car,1,Others,,,,,,,,,0.038948393,0.038948393
+Car,1,Others,,,,,,,,,,
+Car,2,Body,,,,,,,,,,
+Car,2,Steel,0.726312196,0.550914116,,,,,,,,
+Car,2,Wrought Aluminum,0.009098821,0.08195036,,,,,,,,
+Car,2,Cast Aluminum,0.003119448,0.009147401,,,,,,,,
+Car,2,Copper/Brass,0.004663627,0.003771823,,,,,,,,
+Car,2,Zinc,0.000186677,0.000242084,,,,,,,,
+Car,2,Magnesium,0,0.011467329,,,,,,,,
+Car,2,Glass Fiber-Reinforced Plastic,0,0,,,,,,,,
+Car,2,Glass,0.046038587,0.060048865,,,,,,,,
+Car,2,Carbon Fiber-Reinforced Plastic,0,0.045811981,,,,,,,,
+Car,2,Average Plastic,0.167207198,0.196989325,,,,,,,,
+Car,2,Rubber,0.007521382,0.009658829,,,,,,,,
+Car,2,Others,0.035852064,0.029997886,,,,,,,,
+Car,2,Powertrain System,,,,,,,,,,
+Car,2,Steel,0.544309673,0.561583022,,,,,,,,
+Car,2,Stainless Steel,0,0,,,,,,,,
+Car,2,Cast iron,0.003225594,0.003588608,,,,,,,,
+Car,2,Wrought Aluminum,0.007651502,0.062061219,,,,,,,,
+Car,2,Cast Aluminum,0.193776492,0.191532598,,,,,,,,
+Car,2,Copper/Brass,0.066477573,0.007177217,,,,,,,,
+Car,2,Magnesium,0,0,,,,,,,,
+Car,2,Glass Fiber-Reinforced Plastic,0,0,,,,,,,,
+Car,2,Average Plastic,0.184555707,0.174053785,,,,,,,,
+Car,2,Rubber,0,0,,,,,,,,
+Car,2,Carbon Fiber-Reinforced Plastic,0,0,,,,,,,,
+Car,2,PFSA,0,0,,,,,,,,
+Car,2,Carbon Paper,0,0,,,,,,,,
+Car,2,PTFE,0,0,,,,,,,,
+Car,2,Carbon & PFSA Suspension,0,0,,,,,,,,
+Car,2,Platinum,3.46E-06,3.55E-06,,,,,,,,
+Car,2,Carbon,,,,,,,,,,
+Car,2,Nickel,,,,,,,,,,
+Car,2,Silicon,,,,,,,,,,
+Car,2,Others,0,0,,,,,,,,
+Car,2,Transmission System,,,,,,,,,,
+Car,2,Steel,0.304712893,0.316234756,,,,,,,,
+Car,2,Copper,0,0,,,,,,,,
+Car,2,Cast Iron,0.271300108,0.282484756,,,,,,,,
+Car,2,Magnesium,0,0,,,,,,,,
+Car,2,Wrought Aluminum,0,0,,,,,,,,
+Car,2,Cast Aluminum,0.322860238,0.297256098,,,,,,,,
+Car,2,Carbon Fiber-Reinforced Plastic,0,0,,,,,,,,
+Car,2,Average Plastic,0.05056338,0.052012195,,,,,,,,
+Car,2,Rubber,0.05056338,0.052012195,,,,,,,,
+Car,2,Others,0,0,,,,,,,,
+Car,2,Chassis,,,,,,,,,,
+Car,2,Steel,0.722323309,0.59638056,,,,,,,,
+Car,2,Cast Iron,0.087996901,0.018991,,,,,,,,
+Car,2,Wrought Aluminum,0,0.1346423,,,,,,,,
+Car,2,Cast Aluminum,0.027397342,0.046444109,,,,,,,,
+Car,2,Copper/Brass,0.003397104,0.005586244,,,,,,,,
+Car,2,Zinc,0.003125335,0.00333292,,,,,,,,
+Car,2,Magnesium,0.007536206,0.010440921,,,,,,,,
+Car,2,Glass Fiber-Reinforced Plastic,0,0,,,,,,,,
+Car,2,Average Plastic,0.008759461,0.014310957,,,,,,,,
+Car,2,Rubber,0.139464342,0.169870988,,,,,,,,
+Car,2,Others,0,0,,,,,,,,
+Car,2,Traction Motor,,,,,,,,,,
+Car,2,Steel,,,,,,,,,,
+Car,2,Stainless Steel,,,,,,,,,,
+Car,2,Cast Aluminum,,,,,,,,,,
+Car,2,Copper/Brass,,,,,,,,,,
+Car,2,Others,,,,,,,,,,
+Car,2,Generator,,,,,,,,,,
+Car,2,Steel,,,,,,,,,,
+Car,2,Cast Aluminum,,,,,,,,,,
+Car,2,Copper/Brass,,,,,,,,,,
+Car,2,Others,,,,,,,,,,
+Car,2,Electronic Controller,,,,,,,,,,
+Car,2,Steel,,,,,,,,,,
+Car,2,Cast Aluminum,,,,,,,,,,
+Car,2,Copper/Brass,,,,,,,,,,
+Car,2,Rubber,,,,,,,,,,
+Car,2,Average Plastic,,,,,,,,,,
+Car,2,Others,,,,,,,,,,
+Car,2,Fuel Cell Onboard Storage,,,,,,,,,,
+Car,2,Steel,,,,,,,,,,
+Car,2,Stainless Steel,,,,,,,,,,
+Car,2,Carbon Fiber-Reinforced Plastic,,,,,,,,,,
+Car,2,Glass Fiber-Reinforced Plastic,,,,,,,,,,
+Car,2,Wrought Aluminum,,,,,,,,,,
+Car,2,Copper,,,,,,,,,,
+Car,2,Average Plastics,,,,,,,,,,
+Car,2,Rubber,,,,,,,,,,
+Car,2,Nickel,,,,,,,,,,
+Car,2,Silicon,,,,,,,,,,
+Car,2,Others,,,,,,,,,,
+Light truck,1,Body,,,,,,,,,,
+Light truck,1,Steel,0.686,0.094,0.686,0.09,0.686,0.087,0.686,0.085,0.686,0.087
+Light truck,1,Wrought Aluminum,0.006,0.068,0.006,0.065,0.006,0.063,0.006,0.061,0.006,0.062
+Light truck,1,Cast Aluminum,0,0,0,0,0,0,0,0,0,0
+Light truck,1,Copper/Brass,0.015,0.028,0.015,0.027,0.015,0.026,0.015,0.025,0.015,0.026
+Light truck,1,Zinc,0,0,0,0,0,0,0,0,0,0
+Light truck,1,Magnesium,0.0003,0.007,0.0003,0.006,0.0003,0.006,0.0003,0.006,0.0003,0.006
+Light truck,1,Glass Fiber-Reinforced Plastic,0,0,0,0,0,0,0,0,0,0
+Light truck,1,Glass,0.077,0.095,0.077,0.092,0.077,0.089,0.077,0.086,0.077,0.088
+Light truck,1,Carbon Fiber-Reinforced Plastic,0,0.396,0,0.42,0,0.438,0,0.455,0,0.442
+Light truck,1,Average Plastic,0.165,0.238,0.165,0.229,0.165,0.222,0.165,0.215,0.165,0.22
+Light truck,1,Rubber,0.016,0.028,0.016,0.027,0.016,0.026,0.016,0.025,0.016,0.026
+Light truck,1,Others,0.0347,0.046,0.0347,0.044,0.0347,0.043,0.0347,0.042,0.0347,0.043
+Light truck,1,Powertrain System,,,,,,,,,,
+Light truck,1,Steel,0.386,0.548,0.484,0.611,0.512,0.631,0.468,0,0.187109199,0.187109199
+Light truck,1,Stainless Steel,0,0.035,0,0.03,0,0.027,0,0,0.313479142,0.313479142
+Light truck,1,Cast iron,0.291,0.053,0.242,0.046,0.228,0.041,0,0,0.000763912,0.000763912
+Light truck,1,Wrought Aluminum,0,0.017,0,0.024,0,0.027,0,0.306,0.167949278,0.167949278
+Light truck,1,Cast Aluminum,0.174,0.177,0.145,0.152,0.137,0.137,0,0,,
+Light truck,1,Copper/Brass,0.029,0.038,0.025,0.03,0.027,0.032,0.218,0.284,0.017274919,0.017274919
+Light truck,1,Magnesium,0,0,0,0,0,0,0,0,,
+Light truck,1,Glass Fiber-Reinforced Plastic,0,0,0,0,0,0,0,0,0.025916749,0.025916749
+Light truck,1,Average Plastic,0.094,0.114,0.082,0.092,0.075,0.091,0.314,0.41,0.166176784,0.166176784
+Light truck,1,Rubber,0.026,0.018,0.022,0.015,0.021,0.014,0,0,0.064615989,0.064615989
+Light truck,1,Carbon Fiber-Reinforced Plastic,0,0,0,0,1.30E-05,1.30E-05,0,0,,
+Light truck,1,PFSA,0,0,0,0,0,0,0,0,0.006198419,0.006198419
+Light truck,1,Carbon Paper,0,0,0,0,0,0,0,0,0.02140074,0.02140074
+Light truck,1,PTFE,0,0,0,0,0,0,0,0,0.025650869,0.025650869
+Light truck,1,Carbon & PFSA Suspension,0,0,0,0,0,0,0,0,,
+Light truck,1,Platinum,0.00001,0.00002,0.00001,0.00002,1.30E-05,0.00002,0,0,0.000176681,0.000176681
+Light truck,1,Carbon,,,,,,,,,0.002727884,0.002727884
+Light truck,1,Nickel,,,,,,,,,1.91E-05,1.91E-05
+Light truck,1,Silicon,,,,,,,,,0.000540309,0.000540309
+Light truck,1,Others,-1.00E-05,-2.00E-05,-1.00E-05,-2.00E-05,-2.60E-05,-3.30E-05,0,0,0,0
+Light truck,1,Transmission System,,,,,,,,,,
+Light truck,1,Steel,0.3,0.3,0.605,0.605,0.605,0.605,0.605,0.605,0.605,0.605
+Light truck,1,Copper,0,0,0.189,0.189,0.189,0.189,0.189,0.189,0.189,0.189
+Light truck,1,Cast Iron,0.3,0,0,0,0,0,0,0,0,0
+Light truck,1,Magnesium,,,,,,,,,,
+Light truck,1,Wrought Aluminum,0.3,0.3,0.2,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Light truck,1,Cast Aluminum,0,0.3,0,0,0,0,0,0,0,0
+Light truck,1,Carbon Fiber-Reinforced Plastic,0,0,0,0,0,0,0,0,0,0
+Light truck,1,Average Plastic,0.05,0.05,0.002,0.002,0.002,0.002,0.002,0.002,0.002,0.002
+Light truck,1,Rubber,0.05,0.05,0,0,0,0,0,0,0,0
+Light truck,1,Others,0,0,0.004,0.004,0.004,0.004,0.004,0.004,0.004,0.004
+Light truck,1,Chassis,,,,,,,,,,
+Light truck,1,Steel,0.85,0.307,0.85,0.29,0.85,0.288,0.85,0.285,0.85,0.286
+Light truck,1,Cast Iron,0.078,0.089,0.078,0.087,0.078,0.09,0.078,0.092,0.078,0.09
+Light truck,1,Wrought Aluminum,0,0.02,0,0.017,0,0.016,0,0.016,0,0.016
+Light truck,1,Cast Aluminum,0.01,0.418,0.01,0.452,0.01,0.453,0.01,0.456,0.01,0.454
+Light truck,1,Copper/Brass,0.007,0.012,0.007,0.011,0.007,0.01,0.007,0.01,0.007,0.01
+Light truck,1,Zinc,0,0,0,0,0,0,0,0,0,0
+Light truck,1,Magnesium,0,0,0,0,0,0,0,0,0,0
+Light truck,1,Glass Fiber-Reinforced Plastic,0,0.066,0,0.065,0,0.068,0,0.069,0,0.068
+Light truck,1,Average Plastic,0.01,0.018,0.01,0.015,0.01,0.015,0.01,0.014,0.01,0.015
+Light truck,1,Rubber,0.039,0.063,0.039,0.056,0.039,0.054,0.039,0.052,0.039,0.053
+Light truck,1,Others,0.006,0.007,0.006,0.007,0.006,0.006,0.006,0.006,0.006,0.008
+Light truck,1,Traction Motor,,,,,,,,,,
+Light truck,1,Steel,,,0.361,0.361,0.361,0.361,0.361,0.361,0.361,0.361
+Light truck,1,Stainless Steel,,,0,0,0,0,0,0,0,0
+Light truck,1,Cast Aluminum,,,0.361,0.361,0.361,0.361,0.361,0.361,0.361,0.361
+Light truck,1,Copper/Brass,,,0.278,0.278,0.278,0.278,0.278,0.278,0.278,0.278
+Light truck,1,Others,,,0,0,0,0,0,0,0,0
+Light truck,1,Generator,,,,,,,,,,
+Light truck,1,Steel,,,0.361,0.361,0.361,0.361,,,,
+Light truck,1,Cast Aluminum,,,0.361,0.361,0.361,0.361,,,,
+Light truck,1,Copper/Brass,,,0.278,0.278,0.278,0.278,,,,
+Light truck,1,Others,,,0,0,0,0,,,,
+Light truck,1,Electronic Controller,,,,,,,,,,
+Light truck,1,Steel,,,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+Light truck,1,Cast Aluminum,,,0.469,0.469,0.469,0.469,0.469,0.469,0.469,0.469
+Light truck,1,Copper/Brass,,,0.082,0.082,0.082,0.082,0.082,0.082,0.082,0.082
+Light truck,1,Rubber,,,0.037,0.037,0.037,0.037,0.037,0.037,0.037,0.037
+Light truck,1,Average Plastic,,,0.238,0.238,0.238,0.238,0.238,0.238,0.238,0.238
+Light truck,1,Others,,,0.124,0.124,0.124,0.124,0.124,0.124,0.124,0.124
+Light truck,1,Fuel Cell Onboard Storage,,,,,,,,,,
+Light truck,1,Steel,,,,,,,,,0.091528724,0.091528724
+Light truck,1,Stainless Steel,,,,,,,,,0.080817916,0.080817916
+Light truck,1,Carbon Fiber-Reinforced Plastic,,,,,,,,,0.656280428,0.656280428
+Light truck,1,Glass Fiber-Reinforced Plastic,,,,,,,,,0.044790652,0.044790652
+Light truck,1,Wrought Aluminum,,,,,,,,,0,0
+Light truck,1,Copper,,,,,,,,,0,0
+Light truck,1,Average Plastics,,,,,,,,,0.077896787,0.077896787
+Light truck,1,Rubber,,,,,,,,,0,0
+Light truck,1,Nickel,,,,,,,,,0,0
+Light truck,1,Silicon,,,,,,,,,0.009737098,0.009737098
+Light truck,1,Others,,,,,,,,,0.038948393,0.038948393
+Light truck,2,Body,,,,,,,,,,
+Light truck,2,Steel,0.73350982,0.627164896,,,,,,,,
+Light truck,2,Wrought Aluminum,0.010773104,0.041299131,,,,,,,,
+Light truck,2,Cast Aluminum,0,0,,,,,,,,
+Light truck,2,Copper/Brass,0.002853128,0.002859755,,,,,,,,
+Light truck,2,Zinc,0,0,,,,,,,,
+Light truck,2,Magnesium,0,0.054530087,,,,,,,,
+Light truck,2,Glass Fiber-Reinforced Plastic,0,0,,,,,,,,
+Light truck,2,Glass,0.046856614,0.049046088,,,,,,,,
+Light truck,2,Carbon Fiber-Reinforced Plastic,0,0,,,,,,,,
+Light truck,2,Average Plastic,0.196078845,0.220353297,,,,,,,,
+Light truck,2,Rubber,0.009928489,0.004746746,,,,,,,,
+Light truck,2,Others,0,0,,,,,,,,
+Light truck,2,Powertrain System,,,,,,,,,,
+Light truck,2,Steel,0.563996561,0.517663361,,,,,,,,
+Light truck,2,Stainless Steel,0,0,,,,,,,,
+Light truck,2,Cast iron,0.009519675,0,,,,,,,,
+Light truck,2,Wrought Aluminum,0.003346784,0.011986382,,,,,,,,
+Light truck,2,Cast Aluminum,0.259142768,0.111805149,,,,,,,,
+Light truck,2,Copper/Brass,0.069593066,0.076336759,,,,,,,,
+Light truck,2,Magnesium,0,0.074112528,,,,,,,,
+Light truck,2,Glass Fiber-Reinforced Plastic,0,0,,,,,,,,
+Light truck,2,Average Plastic,0.094396669,0.208090335,,,,,,,,
+Light truck,2,Rubber,0,0,,,,,,,,
+Light truck,2,Carbon Fiber-Reinforced Plastic,0,0,,,,,,,,
+Light truck,2,PFSA,0,0,,,,,,,,
+Light truck,2,Carbon Paper,0,0,,,,,,,,
+Light truck,2,PTFE,0,0,,,,,,,,
+Light truck,2,Carbon & PFSA Suspension,0,0,,,,,,,,
+Light truck,2,Platinum,4.48E-06,5.49E-06,,,,,,,,
+Light truck,2,Carbon,,,,,,,,,,
+Light truck,2,Nickel,,,,,,,,,,
+Light truck,2,Silicon,,,,,,,,,,
+Light truck,2,Others,0,0,,,,,,,,
+Light truck,2,Transmission System,,,,,,,,,,
+Light truck,2,Steel,0.573022385,0.572618589,,,,,,,,
+Light truck,2,Copper,0.005442546,0.00683509,,,,,,,,
+Light truck,2,Cast Iron,0.126733501,0.043864497,,,,,,,,
+Light truck,2,Magnesium,0,0.227824618,,,,,,,,
+Light truck,2,Wrought Aluminum,0,0.004096081,,,,,,,,
+Light truck,2,Cast Aluminum,0.268052933,0.129284984,,,,,,,,
+Light truck,2,Carbon Fiber-Reinforced Plastic,0,0,,,,,,,,
+Light truck,2,Average Plastic,0.022867771,0.010602307,,,,,,,,
+Light truck,2,Rubber,0.003880865,0.004873833,,,,,,,,
+Light truck,2,Others,0,0,,,,,,,,
+Light truck,2,Chassis,,,,,,,,,,
+Light truck,2,Steel,0.53860225,0.405250924,,,,,,,,
+Light truck,2,Cast Iron,0.157420569,0.036068677,,,,,,,,
+Light truck,2,Wrought Aluminum,0,0.022792752,,,,,,,,
+Light truck,2,Cast Aluminum,0.141349217,0.256561276,,,,,,,,
+Light truck,2,Copper/Brass,0.000621708,0.002513933,,,,,,,,
+Light truck,2,Zinc,0.000571971,0.000628884,,,,,,,,
+Light truck,2,Magnesium,0.004542206,0.04391305,,,,,,,,
+Light truck,2,Glass Fiber-Reinforced Plastic,0,0,,,,,,,,
+Light truck,2,Average Plastic,0.002572218,0.023247206,,,,,,,,
+Light truck,2,Rubber,0.15431986,0.209023298,,,,,,,,
+Light truck,2,Others,0,0,,,,,,,,
+Light truck,2,Traction Motor,,,,,,,,,,
+Light truck,2,Steel,,,,,,,,,,
+Light truck,2,Stainless Steel,,,,,,,,,,
+Light truck,2,Cast Aluminum,,,,,,,,,,
+Light truck,2,Copper/Brass,,,,,,,,,,
+Light truck,2,Others,,,,,,,,,,
+Light truck,2,Generator,,,,,,,,,,
+Light truck,2,Steel,,,,,,,,,,
+Light truck,2,Cast Aluminum,,,,,,,,,,
+Light truck,2,Copper/Brass,,,,,,,,,,
+Light truck,2,Others,,,,,,,,,,
+Light truck,2,Electronic Controller,,,,,,,,,,
+Light truck,2,Steel,,,,,,,,,,
+Light truck,2,Cast Aluminum,,,,,,,,,,
+Light truck,2,Copper/Brass,,,,,,,,,,
+Light truck,2,Rubber,,,,,,,,,,
+Light truck,2,Average Plastic,,,,,,,,,,
+Light truck,2,Others,,,,,,,,,,
+Light truck,2,Fuel Cell Onboard Storage,,,,,,,,,,
+Light truck,2,Steel,,,,,,,,,,
+Light truck,2,Stainless Steel,,,,,,,,,,
+Light truck,2,Carbon Fiber-Reinforced Plastic,,,,,,,,,,
+Light truck,2,Glass Fiber-Reinforced Plastic,,,,,,,,,,
+Light truck,2,Wrought Aluminum,,,,,,,,,,
+Light truck,2,Copper,,,,,,,,,,
+Light truck,2,Average Plastics,,,,,,,,,,
+Light truck,2,Rubber,,,,,,,,,,
+Light truck,2,Nickel,,,,,,,,,,
+Light truck,2,Silicon,,,,,,,,,,
+Light truck,2,Others,,,,,,,,,,
+LDV,,Battery Lead-Acid,,,,,,,,,,
+LDV,,Plastic: Polypropylene,0.061,0.061,0.061,0.061,0.061,0.061,0.061,0.061,0.061,0.061
+LDV,,Lead,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.69
+LDV,,Sulfuric Acid,0.079,0.079,0.079,0.079,0.079,0.079,0.079,0.079,0.079,0.079
+LDV,,Fiberglass,0.021,0.021,0.021,0.021,0.021,0.021,0.021,0.021,0.021,0.021
+LDV,,Water,0.141,0.141,0.141,0.141,0.141,0.141,0.141,0.141,0.141,0.141
+LDV,,Others,0.008,0.008,0.008,0.008,0.008,0.008,0.008,0.008,0.008,0.008
+LDV,,Battery Ni-MH,,,,,,,,,,
+LDV,,Iron,,,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12
+LDV,,Steel,,,0.237,0.237,0.237,0.237,0.237,0.237,0.237,0.237
+LDV,,Aluminum,,,0.005,0.005,0.005,0.005,0.005,0.005,0.005,0.005
+LDV,,Copper,,,0.039,0.039,0.039,0.039,0.039,0.039,0.039,0.039
+LDV,,Magnesium,,,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+LDV,,Cobalt,,,0.018,0.018,0.018,0.018,0.018,0.018,0.018,0.018
+LDV,,Nickel,,,0.282,0.282,0.282,0.282,0.282,0.282,0.282,0.282
+LDV,,Rare Earth Metals,,,0.063,0.063,0.063,0.063,0.063,0.063,0.063,0.063
+LDV,,Average Plastic,,,0.225,0.225,0.225,0.225,0.225,0.225,0.225,0.225
+LDV,,Rubber,,,0.001,0.001,0.001,0.001,0.001,0.001,0.001,0.001
+LDV,,Battery Li-Ion,,,,,,,,,,
+LDV,,Active Material,,,0.25,0.25,0.27,0.27,0.33568586,0.33568586,0.25,0.25
+LDV,,Nickel,,,0,0,0,0,0,0,0,0
+LDV,,Cobalt,,,0,0,0,0,0,0,0,0
+LDV,,Manganese,,,0,0,0,0,0,0,0,0
+LDV,,Graphite/Carbon,,,0.11,0.11,0.12,0.12,0.147051102,0.147051102,0.11,0.11
+LDV,,Silicon,,,0,0,0,0,0,0,0,0
+LDV,,Binder,,,0.019,0.019,0.021,0.021,0.025407209,0.025407209,0.019,0.019
+LDV,,Copper,,,0.12,0.12,0.15,0.15,0.108967388,0.108967388,0.12,0.12
+LDV,,Wrought Aluminum,,,0.2,0.2,0.22,0.22,0.187386832,0.187386832,0.2,0.2
+LDV,,Cast Aluminum,,,0,0,0,0,0,0,0,0
+LDV,,Electrolyte: LiPF6,,,0.014,0.014,0.017,0.017,0.018565494,0.018565494,0.014,0.014
+LDV,,Electrolyte: Ethylene Carbonate,,,0.041,0.041,0.048,0.048,0.05368471,0.05368471,0.041,0.041
+LDV,,Electrolyte: Dimethyl Carbonate,,,0.041,0.041,0.048,0.048,0.05368471,0.05368471,0.041,0.041
+LDV,,Plastic: Polypropylene,,,0.018,0.018,0.022,0.022,0.016672662,0.016672662,0.018,0.018
+LDV,,Plastic: Polyethylene,,,0.0023,0.0023,0.0038,0.0038,0.002892093,0.002892093,0.0023,0.0023
+LDV,,Plastic: Polyethylene Terephthalate,,,0.02,0.02,0.017,0.017,0.01191001,0.01191001,0.02,0.02
+LDV,,Steel,,,0.033,0.033,0.02,0.02,0.014280109,0.014280109,0.033,0.033
+LDV,,Thermal Insulation,,,0.0036,0.0036,0.0034,0.0034,0.003319638,0.003319638,0.0036,0.0036
+LDV,,Coolant: Glycol,,,0.019,0.019,0.013,0.013,0.009481933,0.009481933,0.019,0.019
+LDV,,Electronic Parts,,,0.1091,0.1091,0.0268,0.0268,0.011010252,0.011010252,0.1091,0.1091

@@ -1,0 +1,62 @@
+Source,Data,Description,Unit,Size,Technology,Fuel,Parameter,Value
+EPA,City,,s,Glo,Glo,Glo,I1,1874
+EPA,Highway,,s,Glo,Glo,Glo,I1,765
+EPA,City,,m,Glo,Glo,Glo,I2,17769
+EPA,Highway,,m,Glo,Glo,Glo,I2,16507
+EPA,City,,m2/s,Glo,Glo,Glo,I3,263361
+EPA,Highway,,m2/s,Glo,Glo,Glo,I3,371739
+EPA,City,,m3/s2,Glo,Glo,Glo,I4,4549907
+EPA,Highway,,m3/s2,Glo,Glo,Glo,I4,8540124
+EPA,City,,m2/s2,Glo,Glo,Glo,I5,3090
+EPA,Highway,,m2/s2,Glo,Glo,Glo,I5,1165
+Kim,Glo,LHV,J/L,Glo,Glo,Gasoline,Hf,31270165.8
+GREET,Glo,LHV,J/L,Glo,Glo,Diesel,Hf,35801112.19
+GREET,Glo,LHV,J/L,Glo,Glo,Ethanol,Hf,21274417.23
+GREET,Glo,LHV,J/L,Glo,Glo,Hydrogen,Hf,8500847.97
+GREET,Glo,LHV,J/L,Glo,Glo,CNG & LPG,Hf,23676951.97
+GREET,Glo,LHV,J/kWh,Glo,Glo,Electricity,Hf,3600000
+Kim,Glo,Transmission efficiency,,Glo,Glo,Glo,eta_t,
+Kim,Glo,Thermodynamic Engine efficiency,,Glo,"ICEV-G,ICEV-D,FFV,HEV,PHEV,CNG,FCV",Glo,eta_i,
+Kim,Glo,Electric motor Conversion efficiency,,Glo,"BEV,HEV,PHEV",Glo,eta_e,
+Kim,Glo,Power demand from access,W,Glo,Glo,Glo,alpha,750
+Kim,City,Ratio of braking to kinetic energy,,Glo,"BEV,HEV,PHEV,FCV",Glo,theta,0.74
+Kim,Highway,Ratio of braking to kinetic energy,,Glo,"BEV,HEV,PHEV,FCV",Glo,theta,0.41
+Kim,Glo,Ratio of braking to kinetic energy,,Glo,"ICEV-G,ICEV-D,FFV,CNG",Glo,theta,0
+Kim,Glo,Regenerative braking efficiency,,Glo,Glo,Glo,mu,0.8
+Kim,Glo,Fraction of electric motor,,Glo,"ICEV-G,ICEV-D,FFV,FCV",Glo,theta_elec,0
+Kim,Glo,Fraction of electric motor,,Glo,"BEV,PHEV",Electricity,theta_elec,1
+Kim,City,Fraction of electric motor,,Glo,"HEV,PHEV",Gasoline,theta_elec,0.3
+Kim,Highway,Fraction of electric motor,,Glo,"HEV,PHEV",Gasoline,theta_elec,0.09
+Kim,Glo,Rotational mass factor,,Glo,Glo,Glo,rot_mass_factor,0.1
+Kim,Glo,Gravitational Acceleration,m/s2,Glo,Glo,Glo,grav_acc,9.8
+Kim,Glo,Air density,kg/m3,Glo,Glo,Glo,air_density,1.2
+Kim,Glo,Rolling resistance,,Glo,Glo,Glo,rol_resistance,
+Kim,Glo,Aerodynamic drag coefficient,,Glo,Glo,Glo,drag_coef,
+Kim,Glo,Frontal area,m2,Compact,Glo,Glo,front_area,2.33
+Kim,Glo,Frontal area,m2,Car,Glo,Glo,front_area,2.37
+Kim,Glo,Frontal area,m2,Small SUV,Glo,Glo,front_area,2.84
+Kim,Glo,Frontal area,m2,Light truck,Glo,Glo,front_area,2.93
+Kim,Glo,Frontal area,m2,Pickup,Glo,Glo,front_area,3.27
+Moawad,Glo,Engine Displacement,L,Car,"ICEV-G,ICEV-D,FFV,HEV,PHEV,CNG",Glo,disp,2.5
+Moawad,Glo,Engine Displacement,L,Light truck,"ICEV-G,ICEV-D,FFV,HEV,PHEV,CNG",Glo,disp,3
+,Glo,Gear Ratio,r/m,Car,"ICEV-G,ICEV-D,FFV,HEV,PHEV,CNG",Glo,gear_ratio,1.33
+,Glo,Gear Ratio,r/m,Light truck,"ICEV-G,ICEV-D,FFV,HEV,PHEV,CNG",Glo,gear_ratio,1.33
+Kim,Glo,Firction mean effective pressure,kPa,Glo,Glo,Glo,fmep,150
+VISION,Glo,On-road degradation factor,,Car,ICEV-G,Gasoline,on_road_deg,0.817
+VISION,Glo,On-road degradation factor,,Car,BEV,Electricity,on_road_deg,0.7
+VISION,Glo,On-road degradation factor,,Car,FFV,Ethanol,on_road_deg,0.817
+VISION,Glo,On-road degradation factor,,Car,ICEV-D,Diesel,on_road_deg,0.817
+VISION,Glo,On-road degradation factor,,Car,CNG,CNG & LPG,on_road_deg,0.817
+VISION,Glo,On-road degradation factor,,Car,HEV,Gasoline,on_road_deg,0.85
+VISION,Glo,On-road degradation factor,,Car,PHEV,Gasoline,on_road_deg,0.817
+VISION,Glo,On-road degradation factor,,Car,PHEV,Electricity,on_road_deg,1
+VISION,Glo,On-road degradation factor,,Car,FCV,Hydrogen,on_road_deg,0.85
+VISION,Glo,On-road degradation factor,,Light truck,ICEV-G,Gasoline,on_road_deg,0.8
+VISION,Glo,On-road degradation factor,,Light truck,BEV,Electricity,on_road_deg,0.7
+VISION,Glo,On-road degradation factor,,Light truck,FFV,Ethanol,on_road_deg,0.8
+VISION,Glo,On-road degradation factor,,Light truck,ICEV-D,Diesel,on_road_deg,0.8
+VISION,Glo,On-road degradation factor,,Light truck,CNG,CNG & LPG,on_road_deg,0.8
+VISION,Glo,On-road degradation factor,,Light truck,HEV,Gasoline,on_road_deg,0.85
+VISION,Glo,On-road degradation factor,,Light truck,PHEV,Gasoline,on_road_deg,0.8
+VISION,Glo,On-road degradation factor,,Light truck,PHEV,Electricity,on_road_deg,1
+VISION,Glo,On-road degradation factor,,Light truck,FCV,Hydrogen,on_road_deg,0.85

@@ -1,0 +1,32 @@
+Unit,Phase,Process,Source,GREET
+kg / kg prim mat,Primary Material Production,HSS/AHSS,lit,Virgin High-Strength Steel
+kg / kg prim mat,Primary Material Production,Cast Iron,GREET,Cast Iron
+kg / kg prim mat,Primary Material Production,Mild steel and other steels,lit,Virgin Steel
+kg / kg prim mat,Primary Material Production,Wrought Aluminum,own,Virgin Wrought Aluminum
+kg / kg prim mat,Primary Material Production,Cast Aluminum,own,Virgin Cast Aluminum
+kg / kg sec mat,Secondary Material Production,HSS/AHSS,lit,Recycled Steel
+kg / kg sec mat,Secondary Material Production,Cast Iron,GREET,Cast Iron
+kg / kg sec mat,Secondary Material Production,Mild steel and other steels,lit,Recycled Steel
+kg / kg sec mat,Secondary Material Production,Wrought Aluminum,GREET,Recycled Wrought Aluminum
+kg / kg sec mat,Secondary Material Production,Cast Aluminum,GREET,Recycled Cast Aluminum
+kg / vehicle,Manufacturing,Vehicle Assembly,GREET,"Paint Production,Vehicle Assembly - Painting,Vehicle Assembly - HVAC & Lighting,Vehicle Assembly - Heating,Vehicle Assembly - Material Handling,Vehicle Assembly - Welding,Vehicle Assembly - Compressed Air"
+kg / kg mat,Manufacturing,HSS/AHSS,lit,"Virgin Hot Rolled Stamped Steel,Virgin Cold Rolled Stamped Steel,Virgin Galvanized Stamped Steel"
+kg / kg mat,Manufacturing,Cast Iron,GREET,"Cast Iron,Forged Iron"
+kg / kg mat,Manufacturing,Mild steel and other steels,lit,"Virgin Hot Rolled Stamped Steel,Virgin Cold Rolled Stamped Steel,Virgin Galvanized Stamped Steel"
+kg / kg mat,Manufacturing,Wrought Aluminum,GREET,"Virgin Wrought Hot Rolled Stamped Aluminum,Virgin Wrought Cold Rolled Stamped Aluminum,Virgin Wrought Extruded Aluminum"
+kg / kg mat,Manufacturing,Cast Aluminum,GREET,"Virgin Cast Aluminum,Recycled Cast Aluminum"
+kg / kg bat,Battery production and assembly,Battery production,lit,
+kg / kg bat,Battery production and assembly,Battery Assembly,lit,Battery Assembly:
+kg / L,Fuel Production,Gasoline,GREET,Baseline Gasoline
+kg / kWh,Fuel Production,Electricity,ecoInvent,Electricity  (U.S. Mix)
+kg / L,Fuel Production,Ethanol,GREET,"E85 for FFV, Corn"
+kg / L,Fuel Production,Diesel,GREET,Baseline Conventional and LS Diesel
+kg / L,Fuel Production,CNG & LPG,GREET,"Compressed Natural Gas, NA NG"
+kg / L,Fuel Production,Hydrogen,GREET,"FCV: G.H2, Refueling Station, NA NG"
+kg / L,Fuel Use,Gasoline,GREET,Baseline Gasoline
+kg / kWh,Fuel Use,Electricity,ecoInvent,Electricity  (U.S. Mix)
+kg / L,Fuel Use,Ethanol,GREET,"E85 for FFV, Corn"
+kg / L,Fuel Use,Diesel,GREET,Baseline Conventional and LS Diesel
+kg / L,Fuel Use,CNG & LPG,GREET,"Compressed Natural Gas, NA NG"
+kg / L,Fuel Use,Hydrogen,GREET,"FCV: G.H2, Refueling Station, NA NG"
+kg / vehicle,End of Life,Vehicle Disposal,GREET,Vehicle Disposal
