@@ -10,11 +10,11 @@ This repository will not be updated but can be cloned and can serve new research
 # How to set up the model the first time
 * Download the model from this repository on your local computer.
 * The model was developed using R and RStudio. Install RStudio: https://www.rstudio.com/products/rstudio/. I use the RStudio Desktop Open Source License (free).
-* Once R and Rstudio are operationals, open the repository on your computer and open the file "model_setup.RProj" in the main folder. It opens RStudio and sets up the working directory to the repository folder.
-* Open and run "library_dependencies.R". It installs all the packages used at some point in the model (i.e., in the functions or to create the plots). The model is operational.
+* Once R and Rstudio are operationals, open the repository on your computer and open the file 'model_setup.RProj' in the main folder. It opens RStudio and sets up the working directory to the repository folder.
+* Open and run "architecture/library_dependencies.R". It installs all the packages used at some point in the model (i.e., in the functions or to create the plots). The model is operational.
 
 # How to run the model
-* To run the model once you the model is set up, you simply have to open "model_setup.RProj" in the main folder. It opens RStudio and sets up the working directory.
+* To run the model once the model is set up, you simply have to open "model_setup.RProj" in the main folder. It opens RStudio and sets up the working directory.
 
 ## If you want to extract the numerical values of the Supporting Information's figures
 * In reports, open "supporting_information.Rmd". 
@@ -24,8 +24,8 @@ This repository will not be updated but can be cloned and can serve new research
 # Repository description
 The repository comprises 5 folders.
 * architecture: Contains some codes to create the model architecture. Compiles the list of inputs files, of interdependencies between the functions (i.e., how are the functions linked?) and define the set of attribute inputs to the functions.
-* functions: Contains the R codes of the different functions of the model. Each function has a specific goal (e.g., compute the stock of light-duty vehicles by model year and vehicle type, or compute the flow of materials going in and ouf of the light-duty fleet stock). And outputs of a functions can be inputs of other functions. The "architecture" folder contains the decription of the functions flow.
-* inputs: Contains the external inputs of the functions and some R scripts to obtain formatted inputs data from raw inputs data
+* functions: Contains the R scripts of the different functions of the model. Each function has a specific goal (e.g., compute the stock of light-duty vehicles by model year and vehicle type, or compute the flow of materials going in and ouf of the light-duty fleet stock). Outputs of a functions can be inputs of another function. The "architecture" folder contains the decription of the functions flow (i.e., interdependcies between functions).
+* inputs: Contains the external inputs of the functions and some R scripts to obtain formatted inputs data from raw inputs data.
 * outputs: Contains the intermediate or final outputs of the model functions. Most of the outputs are in .Rdata format and contains default results or results from simulations and sensitivity analysis. The folder also contains some plots.
 * reports: Contains some RMarkedown reports generated directly from the functions outputs. In this folder, the codes to generate the plots included in the paper are available as well as the full supporting information in RMarkedown format.
 
