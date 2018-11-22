@@ -15,20 +15,20 @@ Excel files that are used to define the values of the function's attributes for 
 	* 'Sensitivity name' column contains the name of the sensitivity.
 	* 'Attributes' column contains the list of attributes to perform the sensitivity on.
 	
-* scenarios.xlsx: Excel spreadsheets that define scenarios with multiple runs. In the model, functions possess one single set of outputs for a given set of inputs. A scenario is defined as multiple set of inputs to generate multiple sets of outputs. The default scenario is the baseline of the simulations and is used in simulating the default values of the functions. Scenarios can be used in the sensitivity analysis to perform sensitivity analysis of attributes on multiple simulations.
+* scenarios.xlsx: Excel spreadsheets that define scenarios with multiple runs. In the model, functions possess one single set of outputs for a given set of inputs. A scenario is defined as multiple set of inputs to generate multiple sets of outputs. The default scenario is the baseline of the simulations and is used to simulate the default outputs of the functions. Scenarios can be used in the sensitivity analysis to perform sensitivity analysis of attributes on multiple simulations.
 	* 'Scenario' columns contains the name of the scenario.
 	* 'Attribute' column contains the name of the attributes.
 	* 'Type' column contains the type of the attributes.
-	* The other columns define the multiple runs with the row beeing the name of the runs and the other rows are associated with the attributes.
+	* The other columns define the multiple runs with the first row beeing the name of the runs and the other rows beeing the attribute's values.
 
-* simulations_planning.R: Generates all default, simulations and sensitivity analyses results.
+* simulations_planning.R: Generates all default, simulations and sensitivity analyses results by using the functions here-under described.
 
 # Functions to simulate and save, or load and return the default, simulation and sensitivity analyses results
-* write_f.R: Contains functions to simulate and save simulation results (from default simulations, to sensitivity analysis)
-*read_f.R: Contains the functions to read and return the simulation results.
+* write_f.R: Contains functions to simulate and save simulation results (from default simulations, to sensitivity analysis). The outputs are saved in the outputs folder (i.e., out_def, out_sens_a,out_sim).
+* read_f.R: Contains functions to read and return the simulation results into appropriate data frame.
 
 # Other folders
 * out_def: Contains the default results in .RData by function
-* out_sens_a: Contains the sensitivity analysis results in .Rdata by function
-* out_sim: Contains the simulation results in .Rdata by function
+* out_sens_a: Contains the sensitivity analysis results in .Rdata by function, sensitivity analysis number and scenario
+* out_sim: Contains the simulation results in .Rdata by function and simulation number
 * plots: Contains some saved plots 
