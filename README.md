@@ -8,7 +8,7 @@ This repository contains the input data, R codes and results of the model develo
 This repository will not be updated but can be cloned and can serve new researches in the field. Feel free me to contact if you have any questions via email (alexandre.milovanoff@mail.utoronto.ca) or by GitHub @amilovanoff.
 There are two ways to use this repository:
 * Install the model and play with it: Read the following sections on how to set up and run the model.
-* Extract the raw data of the study's result: [Manuscript's raw data](https://github.com/amilovanoff/est_milovanoff_et_al_2019/blob/master/reports/paper_raw_data.zip) and [Supplementary information's raw data](https://github.com/amilovanoff/est_milovanoff_et_al_2019/blob/master/reports/si_raw_data.zip).
+* Extract the raw data of the study's result: [Manuscript's raw data](https://github.com/amilovanoff/est_milovanoff_et_al_2019/raw/master/reports/paper_raw_data.zip) and [Supplementary information's raw data](https://github.com/amilovanoff/est_milovanoff_et_al_2019/raw/master/reports/si_raw_data.zip).
 
 # How to set up the model the first time
 * Download the model from this repository on your local computer.
