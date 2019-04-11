@@ -1,0 +1,97 @@
+"LWscen","Year","Phase","GWP100","GWP100_rel"
+"Aluminum Intensive",2020,"End of Life",3414294055.32034,0.00228723209265918
+"Aluminum Maximum",2020,"End of Life",3414294055.32034,0.00228010354406995
+"No Lightweighting",2020,"End of Life",3414294055.32034,0.00227914488276856
+"Steel Intensive",2020,"End of Life",3414294055.32034,0.00228812276091977
+"Aluminum Intensive",2030,"End of Life",3560284066.0337,0.00265213570881103
+"Aluminum Maximum",2030,"End of Life",3560284066.0337,0.00267309383233415
+"No Lightweighting",2030,"End of Life",3560284066.0337,0.00255495844826181
+"Steel Intensive",2030,"End of Life",3560284066.0337,0.00261631275775968
+"Aluminum Intensive",2040,"End of Life",3767664259.06946,0.00287421916151578
+"Aluminum Maximum",2040,"End of Life",3767664259.06946,0.00295755249842258
+"No Lightweighting",2040,"End of Life",3767664259.06946,0.00267429833888049
+"Steel Intensive",2040,"End of Life",3767664259.06946,0.00278149152345542
+"Aluminum Intensive",2050,"End of Life",3932906234.00955,0.0027162847714545
+"Aluminum Maximum",2050,"End of Life",3932906234.00955,0.00280957804699165
+"No Lightweighting",2050,"End of Life",3932906234.00955,0.00250909288647227
+"Steel Intensive",2050,"End of Life",3932906234.00955,0.00261775303099183
+"Aluminum Intensive",2020,"Fuel Production",258970366486.963,0.173483983417802
+"Aluminum Maximum",2020,"Fuel Production",257896066381.958,0.172225861461142
+"No Lightweighting",2020,"Fuel Production",260677544455.571,0.174010170732891
+"Steel Intensive",2020,"Fuel Production",259893690165.168,0.174170314053562
+"Aluminum Intensive",2030,"Fuel Production",248836222192.302,0.185363700840042
+"Aluminum Maximum",2030,"Fuel Production",241314144682.538,0.181180866425779
+"No Lightweighting",2030,"Fuel Production",261154810248.869,0.187411924547045
+"Steel Intensive",2030,"Fuel Production",255425068827.521,0.187701838906795
+"Aluminum Intensive",2040,"Fuel Production",259656355763.322,0.198082743532095
+"Aluminum Maximum",2040,"Fuel Production",246058784164.873,0.19315196945
+"No Lightweighting",2040,"Fuel Production",282251823351.206,0.200343111920632
+"Steel Intensive",2040,"Fuel Production",271675158741.256,0.200565151035736
+"Aluminum Intensive",2050,"Fuel Production",303471230943.038,0.209594186623857
+"Aluminum Maximum",2050,"Fuel Production",286341122220.87,0.204555533001491
+"No Lightweighting",2050,"Fuel Production",332069601730.684,0.211851853550729
+"Steel Intensive",2050,"Fuel Production",318652240705.768,0.212095793621161
+"Aluminum Intensive",2020,"Fuel Use",1143533840969.62,0.766052149501267
+"Aluminum Maximum",2020,"Fuel Use",1138970071620.08,0.760616881502579
+"No Lightweighting",2020,"Fuel Use",1150769536790.32,0.768173583916906
+"Steel Intensive",2020,"Fuel Use",1147451754322.86,0.768976085124319
+"Aluminum Intensive",2030,"Fuel Use",998846275008.939,0.744063064752938
+"Aluminum Maximum",2030,"Fuel Use",969636793548.778,0.728012171042019
+"No Lightweighting",2030,"Fuel Use",1046228627892.37,0.750802638797548
+"Steel Intensive",2030,"Fuel Use",1024304646323.92,0.752721205472604
+"Aluminum Intensive",2040,"Fuel Use",954322680941.993,0.728019363516758
+"Aluminum Maximum",2040,"Fuel Use",903747793355.486,0.709426679340733
+"No Lightweighting",2040,"Fuel Use",1037277702478.91,0.736262534545005
+"Steel Intensive",2040,"Fuel Use",998716779517.541,0.737306210306232
+"Aluminum Intensive",2050,"Fuel Use",1039148009461.64,0.717693671153273
+"Aluminum Maximum",2050,"Fuel Use",978839359030.757,0.699260397027181
+"No Lightweighting",2050,"Fuel Use",1138228360256.1,0.726160379111812
+"Steel Intensive",2050,"Fuel Use",1092144159173.35,0.726934107463169
+"Aluminum Intensive",2020,"Manufacturing",27216652511.0142,0.0182324076571384
+"Aluminum Maximum",2020,"Manufacturing",26175913524.2269,0.0174805661811277
+"No Lightweighting",2020,"Manufacturing",28039854606.3419,0.0187174537705782
+"Steel Intensive",2020,"Manufacturing",27700046369.8172,0.0185634586682855
+"Aluminum Intensive",2030,"Manufacturing",26036167167.7541,0.019394926748949
+"Aluminum Maximum",2030,"Manufacturing",23003671856.672,0.017271367177623
+"No Lightweighting",2030,"Manufacturing",28524888738.5612,0.0204702501588605
+"Steel Intensive",2030,"Manufacturing",27475163267.8411,0.0201904170695188
+"Aluminum Intensive",2040,"Manufacturing",26952782309.1211,0.0205613340367468
+"Aluminum Maximum",2040,"Manufacturing",23837765373.8426,0.0187122412429689
+"No Lightweighting",2040,"Manufacturing",29504400640.2489,0.0209423038244309
+"Steel Intensive",2040,"Manufacturing",28428510935.3858,0.02098744918709
+"Aluminum Intensive",2050,"Manufacturing",29280234461.3406,0.0202225657668103
+"Aluminum Maximum",2050,"Manufacturing",25903851867.075,0.0185051178970164
+"No Lightweighting",2050,"Manufacturing",32034139937.4886,0.020436956250408
+"Steel Intensive",2050,"Manufacturing",30873760577.7021,0.0205496585785624
+"Aluminum Intensive",2020,"Primary Material Production",51543096905.0132,0.0345286678552142
+"Aluminum Maximum",2020,"Primary Material Production",62608627860.8015,0.0418107380213261
+"No Lightweighting",2020,"Primary Material Production",47196112883.4124,0.0315048374340166
+"Steel Intensive",2020,"Primary Material Production",45887814683.0298,0.0307521705875031
+"Aluminum Intensive",2030,"Primary Material Production",55869325265.8469,0.0416183174759428
+"Aluminum Maximum",2030,"Primary Material Production",83810188345.2827,0.0629254557774993
+"No Lightweighting",2030,"Primary Material Production",45447590944.0091,0.0326144499376708
+"Steel Intensive",2030,"Primary Material Production",41964190587.5157,0.030837833489362
+"Aluminum Intensive",2040,"Primary Material Production",56205855925.5179,0.0428774797811783
+"Aluminum Maximum",2040,"Primary Material Production",85287823074.2858,0.0669494936050049
+"No Lightweighting",2040,"Primary Material Production",47104484687.8919,0.0334348913524909
+"Steel Intensive",2040,"Primary Material Production",43529276841.7877,0.0321356432612391
+"Aluminum Intensive",2050,"Primary Material Production",61149586329.6357,0.0422333206654141
+"Aluminum Maximum",2050,"Primary Material Production",92494171399.4702,0.0660757155081474
+"No Lightweighting",2050,"Primary Material Production",51399545201.3196,0.0327915860585014
+"Steel Intensive",2050,"Primary Material Production",47543640543.5868,0.0316451757891207
+"Aluminum Intensive",2020,"Secondary Material Production",8084143530.60651,0.00541555947591969
+"Aluminum Maximum",2020,"Secondary Material Production",8364414885.24874,0.00558584928975536
+"No Lightweighting",2020,"Secondary Material Production",7961899135.27204,0.00531480926283959
+"Steel Intensive",2020,"Secondary Material Production",7833726351.48327,0.00524984880541115
+"Aluminum Intensive",2030,"Secondary Material Production",9273252545.15483,0.00690785447331637
+"Aluminum Maximum",2030,"Secondary Material Production",10571322695.2906,0.00793704574474475
+"No Lightweighting",2030,"Secondary Material Production",8564020246.78004,0.00614577811061347
+"Steel Intensive",2030,"Secondary Material Production",8072812293.02947,0.00593239230396068
+"Aluminum Intensive",2040,"Secondary Material Production",9942598048.21922,0.00758485997170542
+"Aluminum Maximum",2040,"Secondary Material Production",11213062638.7436,0.00880206386287072
+"No Lightweighting",2040,"Secondary Material Production",8936088634.82816,0.00634286001856016
+"Steel Intensive",2040,"Secondary Material Production",8430781898.89139,0.00622405468624733
+"Aluminum Intensive",2050,"Secondary Material Production",10917117136.3417,0.0075399710191916
+"Aluminum Maximum",2050,"Secondary Material Production",12309547494.8049,0.00879365851917254
+"No Lightweighting",2050,"Secondary Material Production",9796840841.36124,0.00625013214207762
+"Steel Intensive",2050,"Secondary Material Production",9251031378.61821,0.00615751151699581

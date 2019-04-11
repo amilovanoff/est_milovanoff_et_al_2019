@@ -1,0 +1,865 @@
+"Scenario","Fuel","Unit","Year","value"
+"Steel Intensive","E10","L",2015,442246779699.594
+"Steel Intensive","Electricity","kWh",2015,1720703865.51049
+"Steel Intensive","E85","L",2015,60196926287.0137
+"Steel Intensive","Diesel","L",2015,1796570417.86682
+"Steel Intensive","CNG & LPG","L",2015,972303577.550895
+"Steel Intensive","Hydrogen","L",2015,21307312.7068823
+"Aluminum Intensive","E10","L",2015,442246779699.594
+"Aluminum Intensive","Electricity","kWh",2015,1720703865.51049
+"Aluminum Intensive","E85","L",2015,60196926287.0137
+"Aluminum Intensive","Diesel","L",2015,1796570417.86682
+"Aluminum Intensive","CNG & LPG","L",2015,972303577.550895
+"Aluminum Intensive","Hydrogen","L",2015,21307312.7068823
+"Aluminum Maximum","E10","L",2015,442246779699.594
+"Aluminum Maximum","Electricity","kWh",2015,1720703865.51049
+"Aluminum Maximum","E85","L",2015,60196926287.0137
+"Aluminum Maximum","Diesel","L",2015,1796570417.86682
+"Aluminum Maximum","CNG & LPG","L",2015,972303577.550895
+"Aluminum Maximum","Hydrogen","L",2015,21307312.7068823
+"No Lightweighting","E10","L",2015,442246779699.594
+"No Lightweighting","Electricity","kWh",2015,1720703865.51049
+"No Lightweighting","E85","L",2015,60196926287.0137
+"No Lightweighting","Diesel","L",2015,1796570417.86682
+"No Lightweighting","CNG & LPG","L",2015,972303577.550895
+"No Lightweighting","Hydrogen","L",2015,21307312.7068823
+"Steel Intensive","E10","L",2016,436575796761.536
+"Steel Intensive","Electricity","kWh",2016,1990252853.60945
+"Steel Intensive","E85","L",2016,63798291310.4469
+"Steel Intensive","Diesel","L",2016,1670895032.83013
+"Steel Intensive","CNG & LPG","L",2016,911276161.430127
+"Steel Intensive","Hydrogen","L",2016,39968560.9747641
+"Aluminum Intensive","E10","L",2016,436471303891.585
+"Aluminum Intensive","Electricity","kWh",2016,1988658841.37783
+"Aluminum Intensive","E85","L",2016,63782612510.2644
+"Aluminum Intensive","Diesel","L",2016,1670624382.91268
+"Aluminum Intensive","CNG & LPG","L",2016,910273936.66988
+"Aluminum Intensive","Hydrogen","L",2016,39930699.5396869
+"Aluminum Maximum","E10","L",2016,436348929217.63
+"Aluminum Maximum","Electricity","kWh",2016,1986836834.02296
+"Aluminum Maximum","E85","L",2016,63764266092.1079
+"Aluminum Maximum","Diesel","L",2016,1670307914.83102
+"Aluminum Maximum","CNG & LPG","L",2016,909101009.830069
+"Aluminum Maximum","Hydrogen","L",2016,39888091.3527247
+"No Lightweighting","E10","L",2016,436663683142.038
+"No Lightweighting","Electricity","kWh",2016,1991718963.91064
+"No Lightweighting","E85","L",2016,63811563758.9715
+"No Lightweighting","Diesel","L",2016,1671125535.52969
+"No Lightweighting","CNG & LPG","L",2016,912123538.743914
+"No Lightweighting","Hydrogen","L",2016,40000733.8575471
+"Steel Intensive","E10","L",2017,434757574782.527
+"Steel Intensive","Electricity","kWh",2017,2483431115.6142
+"Steel Intensive","E85","L",2017,66940220288.5259
+"Steel Intensive","Diesel","L",2017,1709293903.41345
+"Steel Intensive","CNG & LPG","L",2017,984171959.295271
+"Steel Intensive","Hydrogen","L",2017,62435653.9190909
+"Aluminum Intensive","E10","L",2017,434454143630.855
+"Aluminum Intensive","Electricity","kWh",2017,2478548796.18951
+"Aluminum Intensive","E85","L",2017,66895250889.0776
+"Aluminum Intensive","Diesel","L",2017,1707962150.11324
+"Aluminum Intensive","CNG & LPG","L",2017,981487437.552748
+"Aluminum Intensive","Hydrogen","L",2017,62323274.5304963
+"Aluminum Maximum","E10","L",2017,434099246732.576
+"Aluminum Maximum","Electricity","kWh",2017,2472975124.88113
+"Aluminum Maximum","E85","L",2017,66842699592.2466
+"Aluminum Maximum","Diesel","L",2017,1706407465.74414
+"Aluminum Maximum","CNG & LPG","L",2017,978350059.785402
+"Aluminum Maximum","Hydrogen","L",2017,62196948.7359408
+"No Lightweighting","E10","L",2017,435013157105.361
+"No Lightweighting","Electricity","kWh",2017,2487927738.17044
+"No Lightweighting","E85","L",2017,66978355406.8178
+"No Lightweighting","Diesel","L",2017,1710433172.63443
+"No Lightweighting","CNG & LPG","L",2017,986445057.857075
+"No Lightweighting","Hydrogen","L",2017,62531278.3989887
+"Steel Intensive","E10","L",2018,433999943778.909
+"Steel Intensive","Electricity","kWh",2018,3154086922.57167
+"Steel Intensive","E85","L",2018,67936262020.7724
+"Steel Intensive","Diesel","L",2018,1812047424.31861
+"Steel Intensive","CNG & LPG","L",2018,1001977144.9149
+"Steel Intensive","Hydrogen","L",2018,102919659.534721
+"Aluminum Intensive","E10","L",2018,433392716094.173
+"Aluminum Intensive","Electricity","kWh",2018,3142123619.25457
+"Aluminum Intensive","E85","L",2018,67846437357.287
+"Aluminum Intensive","Diesel","L",2018,1808305339.31363
+"Aluminum Intensive","CNG & LPG","L",2018,997473430.815494
+"Aluminum Intensive","Hydrogen","L",2018,102608418.305129
+"Aluminum Maximum","E10","L",2018,432683447407.15
+"Aluminum Maximum","Electricity","kWh",2018,3128510400.1403
+"Aluminum Maximum","E85","L",2018,67741608037.1043
+"Aluminum Maximum","Diesel","L",2018,1803943772.61513
+"Aluminum Maximum","CNG & LPG","L",2018,992217446.517514
+"Aluminum Maximum","Hydrogen","L",2018,102259061.966197
+"No Lightweighting","E10","L",2018,434512207251.759
+"No Lightweighting","Electricity","kWh",2018,3165113211.51471
+"No Lightweighting","E85","L",2018,68012555816.176
+"No Lightweighting","Diesel","L",2018,1815254539.02991
+"No Lightweighting","CNG & LPG","L",2018,1005797942.13963
+"No Lightweighting","Hydrogen","L",2018,103184962.494079
+"Steel Intensive","E10","L",2019,432694699503.386
+"Steel Intensive","Electricity","kWh",2019,4250999914.50927
+"Steel Intensive","E85","L",2019,68648284890.9658
+"Steel Intensive","Diesel","L",2019,2052445483.79898
+"Steel Intensive","CNG & LPG","L",2019,972798493.824025
+"Steel Intensive","Hydrogen","L",2019,178001383.565147
+"Aluminum Intensive","E10","L",2019,431693675761.258
+"Aluminum Intensive","Electricity","kWh",2019,4223727887.40756
+"Aluminum Intensive","E85","L",2019,68499357642.9508
+"Aluminum Intensive","Diesel","L",2019,2043300495.66835
+"Aluminum Intensive","CNG & LPG","L",2019,966276468.605546
+"Aluminum Intensive","Hydrogen","L",2019,177203147.578499
+"Aluminum Maximum","E10","L",2019,430525975485.252
+"Aluminum Maximum","Electricity","kWh",2019,4192824430.60656
+"Aluminum Maximum","E85","L",2019,68325779288.746
+"Aluminum Maximum","Diesel","L",2019,2032660074.7598
+"Aluminum Maximum","CNG & LPG","L",2019,958677250.97949
+"Aluminum Maximum","Hydrogen","L",2019,176308548.783948
+"No Lightweighting","E10","L",2019,433540433253.352
+"No Lightweighting","Electricity","kWh",2019,4276151321.42676
+"No Lightweighting","E85","L",2019,68774955570.1323
+"No Lightweighting","Diesel","L",2019,2060290907.5852
+"No Lightweighting","CNG & LPG","L",2019,978342724.464714
+"No Lightweighting","Hydrogen","L",2019,178683076.00706
+"Steel Intensive","E10","L",2020,430161026705.458
+"Steel Intensive","Electricity","kWh",2020,5992635079.02653
+"Steel Intensive","E85","L",2020,68952569709.1707
+"Steel Intensive","Diesel","L",2020,2493291299.93272
+"Steel Intensive","CNG & LPG","L",2020,926414770.984725
+"Steel Intensive","Hydrogen","L",2020,318880157.357541
+"Aluminum Intensive","E10","L",2020,428691900267.938
+"Aluminum Intensive","Electricity","kWh",2020,5935201312.9201
+"Aluminum Intensive","E85","L",2020,68734006457.6076
+"Aluminum Intensive","Diesel","L",2020,2473347870.81256
+"Aluminum Intensive","CNG & LPG","L",2020,917918242.536317
+"Aluminum Intensive","Hydrogen","L",2020,316949468.070236
+"Aluminum Maximum","E10","L",2020,426980341076.636
+"Aluminum Maximum","Electricity","kWh",2020,5870345955.81713
+"Aluminum Maximum","E85","L",2020,68479587719.9239
+"Aluminum Maximum","Diesel","L",2020,2450184388.85677
+"Aluminum Maximum","CNG & LPG","L",2020,908034320.835924
+"Aluminum Maximum","Hydrogen","L",2020,314789171.664414
+"No Lightweighting","E10","L",2020,431403802017.439
+"No Lightweighting","Electricity","kWh",2020,6045642413.05432
+"No Lightweighting","E85","L",2020,69138707352.5735
+"No Lightweighting","Diesel","L",2020,2510419617.85474
+"No Lightweighting","CNG & LPG","L",2020,933650100.150803
+"No Lightweighting","Hydrogen","L",2020,320532155.375698
+"Steel Intensive","E10","L",2021,425957444215.534
+"Steel Intensive","Electricity","kWh",2021,8253617448.13197
+"Steel Intensive","E85","L",2021,68782596876.2525
+"Steel Intensive","Diesel","L",2021,2929476899.74149
+"Steel Intensive","CNG & LPG","L",2021,902353767.167688
+"Steel Intensive","Hydrogen","L",2021,518483462.048996
+"Aluminum Intensive","E10","L",2021,423959865423.502
+"Aluminum Intensive","Electricity","kWh",2021,8148963629.78502
+"Aluminum Intensive","E85","L",2021,68485881545.6967
+"Aluminum Intensive","Diesel","L",2021,2896359000.92469
+"Aluminum Intensive","CNG & LPG","L",2021,891666437.856882
+"Aluminum Intensive","Hydrogen","L",2021,514615989.143388
+"Aluminum Maximum","E10","L",2021,421635624822.211
+"Aluminum Maximum","Electricity","kWh",2021,8031131077.35364
+"Aluminum Maximum","E85","L",2021,68140928246.212
+"Aluminum Maximum","Diesel","L",2021,2857949739.1505
+"Aluminum Maximum","CNG & LPG","L",2021,879254073.500563
+"Aluminum Maximum","Hydrogen","L",2021,510294932.200922
+"No Lightweighting","E10","L",2021,427649371658.621
+"No Lightweighting","Electricity","kWh",2021,8350292768.31139
+"No Lightweighting","E85","L",2021,69035618724.7361
+"No Lightweighting","Diesel","L",2021,2957944003.05626
+"No Lightweighting","CNG & LPG","L",2021,911468487.618739
+"No Lightweighting","Hydrogen","L",2021,521798588.322838
+"Steel Intensive","E10","L",2022,421208937447.236
+"Steel Intensive","Electricity","kWh",2022,10851808647.6888
+"Steel Intensive","E85","L",2022,67982184689.0183
+"Steel Intensive","Diesel","L",2022,3371085493.84763
+"Steel Intensive","CNG & LPG","L",2022,871484564.318869
+"Steel Intensive","Hydrogen","L",2022,753932106.213844
+"Aluminum Intensive","E10","L",2022,418614428515.941
+"Aluminum Intensive","Electricity","kWh",2022,10683140443.8218
+"Aluminum Intensive","E85","L",2022,67597528992.0015
+"Aluminum Intensive","Diesel","L",2022,3321947241.20621
+"Aluminum Intensive","CNG & LPG","L",2022,858557248.332417
+"Aluminum Intensive","Hydrogen","L",2022,747372640.394177
+"Aluminum Maximum","E10","L",2022,415599659517.466
+"Aluminum Maximum","Electricity","kWh",2022,10493727470.7947
+"Aluminum Maximum","E85","L",2022,67150931875.2172
+"Aluminum Maximum","Diesel","L",2022,3265039766.04246
+"Aluminum Maximum","CNG & LPG","L",2022,843569112.50116
+"Aluminum Maximum","Hydrogen","L",2022,740053899.483623
+"No Lightweighting","E10","L",2022,423409375456.271
+"No Lightweighting","Electricity","kWh",2022,11007784334.7543
+"No Lightweighting","E85","L",2022,68310652074.7393
+"No Lightweighting","Diesel","L",2022,3413360970.88234
+"No Lightweighting","CNG & LPG","L",2022,882527390.421882
+"No Lightweighting","Hydrogen","L",2022,759564183.288298
+"Steel Intensive","E10","L",2023,416100435037.958
+"Steel Intensive","Electricity","kWh",2023,13765350052.3863
+"Steel Intensive","E85","L",2023,66921058189.8405
+"Steel Intensive","Diesel","L",2023,3815938880.81312
+"Steel Intensive","CNG & LPG","L",2023,855289762.847246
+"Steel Intensive","Hydrogen","L",2023,1014969038.23822
+"Aluminum Intensive","E10","L",2023,412841455729.187
+"Aluminum Intensive","Electricity","kWh",2023,13513226256.7886
+"Aluminum Intensive","E85","L",2023,66438433342.7514
+"Aluminum Intensive","Diesel","L",2023,3747868989.46402
+"Aluminum Intensive","CNG & LPG","L",2023,839824011.381251
+"Aluminum Intensive","Hydrogen","L",2023,1004954122.37939
+"Aluminum Maximum","E10","L",2023,409059817596.201
+"Aluminum Maximum","Electricity","kWh",2023,13230730365.5763
+"Aluminum Maximum","E85","L",2023,65878869016.0756
+"Aluminum Maximum","Diesel","L",2023,3669151623.40186
+"Aluminum Maximum","CNG & LPG","L",2023,821924853.675151
+"Aluminum Maximum","Hydrogen","L",2023,993795007.901341
+"No Lightweighting","E10","L",2023,418868356765.31
+"No Lightweighting","Electricity","kWh",2023,13998737331.9364
+"No Lightweighting","E85","L",2023,67333789035.647
+"No Lightweighting","Diesel","L",2023,3874555952.82692
+"No Lightweighting","CNG & LPG","L",2023,868524560.764149
+"No Lightweighting","Hydrogen","L",2023,1023582300.72108
+"Steel Intensive","E10","L",2024,410445283182.768
+"Steel Intensive","Electricity","kWh",2024,16904061665.4697
+"Steel Intensive","E85","L",2024,65711372881.4717
+"Steel Intensive","Diesel","L",2024,4238874909.22575
+"Steel Intensive","CNG & LPG","L",2024,842573349.246079
+"Steel Intensive","Hydrogen","L",2024,1318723021.78102
+"Aluminum Intensive","E10","L",2024,406463420631.747
+"Aluminum Intensive","Electricity","kWh",2024,16548946236.1375
+"Aluminum Intensive","E85","L",2024,65121159567.7112
+"Aluminum Intensive","Diesel","L",2024,4149541647.44476
+"Aluminum Intensive","CNG & LPG","L",2024,824391233.550942
+"Aluminum Intensive","Hydrogen","L",2024,1304114303.90293
+"Aluminum Maximum","E10","L",2024,401849533080.26
+"Aluminum Maximum","Electricity","kWh",2024,16151875460.6862
+"Aluminum Maximum","E85","L",2024,64437843989.2365
+"Aluminum Maximum","Diesel","L",2024,4046386988.20885
+"Aluminum Maximum","CNG & LPG","L",2024,803386850.374782
+"Aluminum Maximum","Hydrogen","L",2024,1287859858.7951
+"No Lightweighting","E10","L",2024,413832227896.124
+"No Lightweighting","Electricity","kWh",2024,17233106556.8269
+"No Lightweighting","E85","L",2024,66216891623.8465
+"No Lightweighting","Diesel","L",2024,4315871570.9339
+"No Lightweighting","CNG & LPG","L",2024,858162109.717972
+"No Lightweighting","Hydrogen","L",2024,1331309478.69938
+"Steel Intensive","E10","L",2025,404070011473.45
+"Steel Intensive","Electricity","kWh",2025,20512907050.099
+"Steel Intensive","E85","L",2025,64598242453.5049
+"Steel Intensive","Diesel","L",2025,4619803486.91261
+"Steel Intensive","CNG & LPG","L",2025,834370605.998286
+"Steel Intensive","Hydrogen","L",2025,1661523448.31522
+"Aluminum Intensive","E10","L",2025,399317055317.816
+"Aluminum Intensive","Electricity","kWh",2025,20025143332.4029
+"Aluminum Intensive","E85","L",2025,63883605676.226
+"Aluminum Intensive","Diesel","L",2025,4507374216.58413
+"Aluminum Intensive","CNG & LPG","L",2025,813375363.902442
+"Aluminum Intensive","Hydrogen","L",2025,1641053817.03921
+"Aluminum Maximum","E10","L",2025,393817700461.141
+"Aluminum Maximum","Electricity","kWh",2025,19480931083.4202
+"Aluminum Maximum","E85","L",2025,63057536235.7153
+"Aluminum Maximum","Diesel","L",2025,4377742859.02007
+"Aluminum Maximum","CNG & LPG","L",2025,789166835.207137
+"Aluminum Maximum","Hydrogen","L",2025,1618312100.7571
+"No Lightweighting","E10","L",2025,408119227441.275
+"No Lightweighting","Electricity","kWh",2025,20965559458.0886
+"No Lightweighting","E85","L",2025,65211396555.5447
+"No Lightweighting","Diesel","L",2025,4716789989.28004
+"No Lightweighting","CNG & LPG","L",2025,852407536.549772
+"No Lightweighting","Hydrogen","L",2025,1679192364.75311
+"Steel Intensive","E10","L",2026,398276336409.953
+"Steel Intensive","Electricity","kWh",2026,24165898719.882
+"Steel Intensive","E85","L",2026,63653081993.2894
+"Steel Intensive","Diesel","L",2026,5008579432.27106
+"Steel Intensive","CNG & LPG","L",2026,835014930.692294
+"Steel Intensive","Hydrogen","L",2026,1989510286.19713
+"Aluminum Intensive","E10","L",2026,392695857161.608
+"Aluminum Intensive","Electricity","kWh",2026,23529053522.9801
+"Aluminum Intensive","E85","L",2026,62800700322.5765
+"Aluminum Intensive","Diesel","L",2026,4870086328.69483
+"Aluminum Intensive","CNG & LPG","L",2026,811020920.677379
+"Aluminum Intensive","Hydrogen","L",2026,1962778867.09055
+"Aluminum Maximum","E10","L",2026,386248809560.44
+"Aluminum Maximum","Electricity","kWh",2026,22820121552.621
+"Aluminum Maximum","E85","L",2026,61817008675.5886
+"Aluminum Maximum","Diesel","L",2026,4710653245.14158
+"Aluminum Maximum","CNG & LPG","L",2026,783408534.467008
+"Aluminum Maximum","Hydrogen","L",2026,1933121754.82495
+"No Lightweighting","E10","L",2026,403038580552.21
+"No Lightweighting","Electricity","kWh",2026,24757571901.0818
+"No Lightweighting","E85","L",2026,64385782345.9941
+"No Lightweighting","Diesel","L",2026,5128154380.67659
+"No Lightweighting","CNG & LPG","L",2026,855672847.971876
+"No Lightweighting","Hydrogen","L",2026,2012624979.21182
+"Steel Intensive","E10","L",2027,392852711488.331
+"Steel Intensive","Electricity","kWh",2027,27812285878.1408
+"Steel Intensive","E85","L",2027,62936912327.5372
+"Steel Intensive","Diesel","L",2027,5394035095.72008
+"Steel Intensive","CNG & LPG","L",2027,840219891.571645
+"Steel Intensive","Hydrogen","L",2027,2291832457.09914
+"Aluminum Intensive","E10","L",2027,386400624256.88
+"Aluminum Intensive","Electricity","kWh",2027,27011717709.8672
+"Aluminum Intensive","E85","L",2027,61931296259.1468
+"Aluminum Intensive","Diesel","L",2027,5227019923.4547
+"Aluminum Intensive","CNG & LPG","L",2027,813133135.260828
+"Aluminum Intensive","Hydrogen","L",2027,2258661823.44949
+"Aluminum Maximum","E10","L",2027,378958215390.734
+"Aluminum Maximum","Electricity","kWh",2027,26122300425.7174
+"Aluminum Maximum","E85","L",2027,60772729493.9005
+"Aluminum Maximum","Diesel","L",2027,5035063106.80891
+"Aluminum Maximum","CNG & LPG","L",2027,782023457.387971
+"Aluminum Maximum","Hydrogen","L",2027,2221910655.99708
+"No Lightweighting","E10","L",2027,398368442689.398
+"No Lightweighting","Electricity","kWh",2027,28556833481.0421
+"No Lightweighting","E85","L",2027,63803046507.1505
+"No Lightweighting","Diesel","L",2027,5538354715.93314
+"No Lightweighting","CNG & LPG","L",2027,863593170.761171
+"No Lightweighting","Hydrogen","L",2027,2320565067.65911
+"Steel Intensive","E10","L",2028,387941262400.548
+"Steel Intensive","Electricity","kWh",2028,31504446745.8367
+"Steel Intensive","E85","L",2028,62372567021.4671
+"Steel Intensive","Diesel","L",2028,5789314958.46201
+"Steel Intensive","CNG & LPG","L",2028,848701440.828586
+"Steel Intensive","Hydrogen","L",2028,2577505109.74663
+"Aluminum Intensive","E10","L",2028,380573936789.082
+"Aluminum Intensive","Electricity","kWh",2028,30522896433.0421
+"Aluminum Intensive","E85","L",2028,61201895049.8949
+"Aluminum Intensive","Diesel","L",2028,5590595022.0525
+"Aluminum Intensive","CNG & LPG","L",2028,818420344.028303
+"Aluminum Intensive","Hydrogen","L",2028,2537575711.49804
+"Aluminum Maximum","E10","L",2028,372089486030.972
+"Aluminum Maximum","Electricity","kWh",2028,29434460633.6487
+"Aluminum Maximum","E85","L",2028,59855506542.2768
+"Aluminum Maximum","Diesel","L",2028,5362586578.33686
+"Aluminum Maximum","CNG & LPG","L",2028,783712821.541152
+"Aluminum Maximum","Hydrogen","L",2028,2493397882.05079
+"No Lightweighting","E10","L",2028,394251116108.8
+"No Lightweighting","Electricity","kWh",2028,32418265875.6219
+"No Lightweighting","E85","L",2028,63382956696.1679
+"No Lightweighting","Diesel","L",2028,5961176846.64419
+"No Lightweighting","CNG & LPG","L",2028,874893374.27659
+"No Lightweighting","Hydrogen","L",2028,2612155173.32871
+"Steel Intensive","E10","L",2029,383450896360.412
+"Steel Intensive","Electricity","kWh",2029,35262048970.6836
+"Steel Intensive","E85","L",2029,61920494750.5492
+"Steel Intensive","Diesel","L",2029,6172216172.08999
+"Steel Intensive","CNG & LPG","L",2029,856294876.800265
+"Steel Intensive","Hydrogen","L",2029,2849024914.19146
+"Aluminum Intensive","E10","L",2029,375131793237.349
+"Aluminum Intensive","Electricity","kWh",2029,34080818281.2492
+"Aluminum Intensive","E85","L",2029,60575028994.6505
+"Aluminum Intensive","Diesel","L",2029,5939815375.75093
+"Aluminum Intensive","CNG & LPG","L",2029,822844099.621069
+"Aluminum Intensive","Hydrogen","L",2029,2801973365.2248
+"Aluminum Maximum","E10","L",2029,365567179313.407
+"Aluminum Maximum","Electricity","kWh",2029,32773549830.3017
+"Aluminum Maximum","E85","L",2029,59030352153.9723
+"Aluminum Maximum","Diesel","L",2029,5673625764.49026
+"Aluminum Maximum","CNG & LPG","L",2029,784584132.331313
+"Aluminum Maximum","Hydrogen","L",2029,2749992021.09506
+"No Lightweighting","E10","L",2029,390590018996.97
+"No Lightweighting","Electricity","kWh",2029,36363011917.1068
+"No Lightweighting","E85","L",2029,63084285773.8254
+"No Lightweighting","Diesel","L",2029,6373408494.62131
+"No Lightweighting","CNG & LPG","L",2029,885302014.227877
+"No Lightweighting","Hydrogen","L",2029,2889935653.47007
+"Steel Intensive","E10","L",2030,379445952971.531
+"Steel Intensive","Electricity","kWh",2030,39047014253.1236
+"Steel Intensive","E85","L",2030,61605950318.3155
+"Steel Intensive","Diesel","L",2030,6540913844.03017
+"Steel Intensive","CNG & LPG","L",2030,865867700.85505
+"Steel Intensive","Hydrogen","L",2030,3103463887.96082
+"Aluminum Intensive","E10","L",2030,370137302716.639
+"Aluminum Intensive","Electricity","kWh",2030,37648243896.7997
+"Aluminum Intensive","E85","L",2030,60074146381.4299
+"Aluminum Intensive","Diesel","L",2030,6272933273.52057
+"Aluminum Intensive","CNG & LPG","L",2030,829119565.340809
+"Aluminum Intensive","Hydrogen","L",2030,3048995476.31796
+"Aluminum Maximum","E10","L",2030,359453701441.921
+"Aluminum Maximum","Electricity","kWh",2030,36103478522.4844
+"Aluminum Maximum","E85","L",2030,58318788378.7996
+"Aluminum Maximum","Diesel","L",2030,5966524659.9965
+"Aluminum Maximum","CNG & LPG","L",2030,787181428.706228
+"Aluminum Maximum","Hydrogen","L",2030,2988915091.86401
+"No Lightweighting","E10","L",2030,387451572162.217
+"No Lightweighting","Electricity","kWh",2030,40352386303.5544
+"No Lightweighting","E85","L",2030,62934102882.2015
+"No Lightweighting","Diesel","L",2030,6773236740.38211
+"No Lightweighting","CNG & LPG","L",2030,897826421.134885
+"No Lightweighting","Hydrogen","L",2030,3150927283.75661
+"Steel Intensive","E10","L",2031,376082033662.233
+"Steel Intensive","Electricity","kWh",2031,42920581930.026
+"Steel Intensive","E85","L",2031,61287842559.7339
+"Steel Intensive","Diesel","L",2031,6889977708.0822
+"Steel Intensive","CNG & LPG","L",2031,876231650.891451
+"Steel Intensive","Hydrogen","L",2031,3339760562.81866
+"Aluminum Intensive","E10","L",2031,365826961289.182
+"Aluminum Intensive","Electricity","kWh",2031,41300118189.1137
+"Aluminum Intensive","E85","L",2031,59583252343.8155
+"Aluminum Intensive","Diesel","L",2031,6588042256.96485
+"Aluminum Intensive","CNG & LPG","L",2031,836927036.91928
+"Aluminum Intensive","Hydrogen","L",2031,3278233053.94759
+"Aluminum Maximum","E10","L",2031,354073639396.885
+"Aluminum Maximum","Electricity","kWh",2031,39513377420.8667
+"Aluminum Maximum","E85","L",2031,57632642796.3869
+"Aluminum Maximum","Diesel","L",2031,6243266453.77624
+"Aluminum Maximum","CNG & LPG","L",2031,792133996.786953
+"Aluminum Maximum","Hydrogen","L",2031,3210448106.41576
+"No Lightweighting","E10","L",2031,384916857679.877
+"No Lightweighting","Electricity","kWh",2031,44434317301.3935
+"No Lightweighting","E85","L",2031,62768488854.8149
+"No Lightweighting","Diesel","L",2031,7152014126.20614
+"No Lightweighting","CNG & LPG","L",2031,910473455.631259
+"No Lightweighting","Hydrogen","L",2031,3393463956.16127
+"Steel Intensive","E10","L",2032,373037509633.979
+"Steel Intensive","Electricity","kWh",2032,46839365145.0824
+"Steel Intensive","E85","L",2032,61022151110.2073
+"Steel Intensive","Diesel","L",2032,7204234048.92046
+"Steel Intensive","CNG & LPG","L",2032,886474552.76934
+"Steel Intensive","Hydrogen","L",2032,3559791407.0513
+"Aluminum Intensive","E10","L",2032,361896437580.562
+"Aluminum Intensive","Electricity","kWh",2032,44995481776.4356
+"Aluminum Intensive","E85","L",2032,59157432925.219
+"Aluminum Intensive","Diesel","L",2032,6871024105.26491
+"Aluminum Intensive","CNG & LPG","L",2032,845205641.480204
+"Aluminum Intensive","Hydrogen","L",2032,3491550478.85051
+"Aluminum Maximum","E10","L",2032,349142286943.449
+"Aluminum Maximum","Electricity","kWh",2032,42964938046.416
+"Aluminum Maximum","E85","L",2032,57025989555.3709
+"Aluminum Maximum","Diesel","L",2032,6490927081.49763
+"Aluminum Maximum","CNG & LPG","L",2032,798216411.076788
+"Aluminum Maximum","Hydrogen","L",2032,3416441553.93491
+"No Lightweighting","E10","L",2032,382649159992.243
+"No Lightweighting","Electricity","kWh",2032,48563140486.8017
+"No Lightweighting","E85","L",2032,62644212828.665
+"No Lightweighting","Diesel","L",2032,7493638844.32925
+"No Lightweighting","CNG & LPG","L",2032,922466324.991866
+"No Lightweighting","Hydrogen","L",2032,3619432072.54482
+"Steel Intensive","E10","L",2033,370227580817.512
+"Steel Intensive","Electricity","kWh",2033,50812437173.0382
+"Steel Intensive","E85","L",2033,60894838644.4019
+"Steel Intensive","Diesel","L",2033,7476440425.0897
+"Steel Intensive","CNG & LPG","L",2033,895453875.979808
+"Steel Intensive","Hydrogen","L",2033,3762818859.31115
+"Aluminum Intensive","E10","L",2033,358266901610.593
+"Aluminum Intensive","Electricity","kWh",2033,48743506175.2242
+"Aluminum Intensive","E85","L",2033,58878983128.361
+"Aluminum Intensive","Diesel","L",2033,7115191069.15887
+"Aluminum Intensive","CNG & LPG","L",2033,852710258.860356
+"Aluminum Intensive","Hydrogen","L",2033,3688259952.85994
+"Aluminum Maximum","E10","L",2033,344587492004.467
+"Aluminum Maximum","Electricity","kWh",2033,46467437504.1527
+"Aluminum Maximum","E85","L",2033,56576929930.091
+"Aluminum Maximum","Diesel","L",2033,6703444768.82434
+"Aluminum Maximum","CNG & LPG","L",2033,804070636.07436
+"Aluminum Maximum","Hydrogen","L",2033,3606261367.39553
+"No Lightweighting","E10","L",2033,380558351678.249
+"No Lightweighting","Electricity","kWh",2033,52747849807.6842
+"No Lightweighting","E85","L",2033,62650436031.4023
+"No Lightweighting","Diesel","L",2033,7790391626.3435
+"No Lightweighting","CNG & LPG","L",2033,932756307.526309
+"No Lightweighting","Hydrogen","L",2033,3828049432.39925
+"Steel Intensive","E10","L",2034,367820656086.912
+"Steel Intensive","Electricity","kWh",2034,54874417724.1615
+"Steel Intensive","E85","L",2034,60951419174.1299
+"Steel Intensive","Diesel","L",2034,7723420439.2499
+"Steel Intensive","CNG & LPG","L",2034,905020518.839159
+"Steel Intensive","Hydrogen","L",2034,3950950825.42533
+"Aluminum Intensive","E10","L",2034,355102453180.826
+"Aluminum Intensive","Electricity","kWh",2034,52577780226.0658
+"Aluminum Intensive","E85","L",2034,58790571208.3997
+"Aluminum Intensive","Diesel","L",2034,7336497554.76327
+"Aluminum Intensive","CNG & LPG","L",2034,861089463.972962
+"Aluminum Intensive","Hydrogen","L",2034,3870451328.28284
+"Aluminum Maximum","E10","L",2034,340568313461.957
+"Aluminum Maximum","Electricity","kWh",2034,50053318327.7005
+"Aluminum Maximum","E85","L",2034,56324855570.5372
+"Aluminum Maximum","Diesel","L",2034,6895783776.86516
+"Aluminum Maximum","CNG & LPG","L",2034,811117889.677423
+"Aluminum Maximum","Hydrogen","L",2034,3781976758.9891
+"No Lightweighting","E10","L",2034,378816434418.107
+"No Lightweighting","Electricity","kWh",2034,57024032476.5747
+"No Lightweighting","E85","L",2034,62835132728.4067
+"No Lightweighting","Diesel","L",2034,8059844378.58767
+"No Lightweighting","CNG & LPG","L",2034,943374188.139174
+"No Lightweighting","Hydrogen","L",2034,4021438854.24144
+"Steel Intensive","E10","L",2035,365820473661.33
+"Steel Intensive","Electricity","kWh",2035,58990263017.9376
+"Steel Intensive","E85","L",2035,61191016758.0872
+"Steel Intensive","Diesel","L",2035,7935489352.1844
+"Steel Intensive","CNG & LPG","L",2035,915967400.772528
+"Steel Intensive","Hydrogen","L",2035,4122645554.01917
+"Aluminum Intensive","E10","L",2035,352403706869.162
+"Aluminum Intensive","Electricity","kWh",2035,56465537373.2935
+"Aluminum Intensive","E85","L",2035,58890784052.3547
+"Aluminum Intensive","Diesel","L",2035,7525911118.7151
+"Aluminum Intensive","CNG & LPG","L",2035,871014070.779756
+"Aluminum Intensive","Hydrogen","L",2035,4036642432.39158
+"Aluminum Maximum","E10","L",2035,337081682710.51
+"Aluminum Maximum","Electricity","kWh",2035,53692286773.1306
+"Aluminum Maximum","E85","L",2035,56267727334.3412
+"Aluminum Maximum","Diesel","L",2035,7059649705.32778
+"Aluminum Maximum","CNG & LPG","L",2035,819892302.117946
+"Aluminum Maximum","Hydrogen","L",2035,3942170258.52672
+"No Lightweighting","E10","L",2035,377429769411.953
+"No Lightweighting","Electricity","kWh",2035,61354497916.9448
+"No Lightweighting","E85","L",2035,63197888591.0501
+"No Lightweighting","Diesel","L",2035,8291753817.56892
+"No Lightweighting","CNG & LPG","L",2035,955221956.876199
+"No Lightweighting","Hydrogen","L",2035,4198005608.55954
+"Steel Intensive","E10","L",2036,364344304229.184
+"Steel Intensive","Electricity","kWh",2036,63143825360.6434
+"Steel Intensive","E85","L",2036,61565227056.1102
+"Steel Intensive","Diesel","L",2036,8115154469.81772
+"Steel Intensive","CNG & LPG","L",2036,928453439.873716
+"Steel Intensive","Hydrogen","L",2036,4280098672.55827
+"Aluminum Intensive","E10","L",2036,350285216575.662
+"Aluminum Intensive","Electricity","kWh",2036,60391666014.2149
+"Aluminum Intensive","E85","L",2036,59137094955.9808
+"Aluminum Intensive","Diesel","L",2036,7685829628.15212
+"Aluminum Intensive","CNG & LPG","L",2036,882575639.244146
+"Aluminum Intensive","Hydrogen","L",2036,4188994069.35741
+"Aluminum Maximum","E10","L",2036,334238992208.59
+"Aluminum Maximum","Electricity","kWh",2036,57370351085.2319
+"Aluminum Maximum","E85","L",2036,56369699999.5582
+"Aluminum Maximum","Diesel","L",2036,7197314012.42872
+"Aluminum Maximum","CNG & LPG","L",2036,830410517.836627
+"Aluminum Maximum","Hydrogen","L",2036,4088964104.05491
+"No Lightweighting","E10","L",2036,376517914245.996
+"No Lightweighting","Electricity","kWh",2036,65722114131.3507
+"No Lightweighting","E85","L",2036,63685130151.2543
+"No Lightweighting","Diesel","L",2036,8488723863.90827
+"No Lightweighting","CNG & LPG","L",2036,968519225.492769
+"No Lightweighting","Hydrogen","L",2036,4359975508.17377
+"Steel Intensive","E10","L",2037,363290112406.323
+"Steel Intensive","Electricity","kWh",2037,67357225978.4407
+"Steel Intensive","E85","L",2037,62058436375.7165
+"Steel Intensive","Diesel","L",2037,8262560731.83243
+"Steel Intensive","CNG & LPG","L",2037,940901958.236481
+"Steel Intensive","Hydrogen","L",2037,4423343945.80974
+"Aluminum Intensive","E10","L",2037,348650294004.877
+"Aluminum Intensive","Electricity","kWh",2037,64377527021.2108
+"Aluminum Intensive","E85","L",2037,59510903290.0159
+"Aluminum Intensive","Diesel","L",2037,7816459574.94033
+"Aluminum Intensive","CNG & LPG","L",2037,894227037.316498
+"Aluminum Intensive","Hydrogen","L",2037,4327552401.0437
+"Aluminum Maximum","E10","L",2037,331949580097.515
+"Aluminum Maximum","Electricity","kWh",2037,61108033488.6404
+"Aluminum Maximum","E85","L",2037,56608751161.2041
+"Aluminum Maximum","Diesel","L",2037,7309051755.05126
+"Aluminum Maximum","CNG & LPG","L",2037,841160164.901103
+"Aluminum Maximum","Hydrogen","L",2037,4222417727.75813
+"No Lightweighting","E10","L",2037,375974070439.615
+"No Lightweighting","Electricity","kWh",2037,70149717309.6125
+"No Lightweighting","E85","L",2037,64283847981.9083
+"No Lightweighting","Diesel","L",2037,8650844844.89424
+"No Lightweighting","CNG & LPG","L",2037,981664305.662396
+"No Lightweighting","Hydrogen","L",2037,4507371122.70305
+"Steel Intensive","E10","L",2038,362842896327.431
+"Steel Intensive","Electricity","kWh",2038,71606385800.7161
+"Steel Intensive","E85","L",2038,62683277129.4419
+"Steel Intensive","Diesel","L",2038,8388809375.5351
+"Steel Intensive","CNG & LPG","L",2038,954973895.055476
+"Steel Intensive","Hydrogen","L",2038,4550763644.66387
+"Aluminum Intensive","E10","L",2038,347678492960.626
+"Aluminum Intensive","Electricity","kWh",2038,68400439543.3343
+"Aluminum Intensive","E85","L",2038,60020228024.9431
+"Aluminum Intensive","Diesel","L",2038,7928280281.30103
+"Aluminum Intensive","CNG & LPG","L",2038,907517444.774044
+"Aluminum Intensive","Hydrogen","L",2038,4450751612.74561
+"Aluminum Maximum","E10","L",2038,330386747803.175
+"Aluminum Maximum","Electricity","kWh",2038,64884177497.4237
+"Aluminum Maximum","E85","L",2038,56987641410.3679
+"Aluminum Maximum","Diesel","L",2038,7404634693.017
+"Aluminum Maximum","CNG & LPG","L",2038,853564266.732527
+"Aluminum Maximum","Hydrogen","L",2038,4341021780.86744
+"No Lightweighting","E10","L",2038,375987839417.179
+"No Lightweighting","Electricity","kWh",2038,74611916031.0768
+"No Lightweighting","E85","L",2038,65010714044.6251
+"No Lightweighting","Diesel","L",2038,8789761570.8789
+"No Lightweighting","CNG & LPG","L",2038,996416966.810043
+"No Lightweighting","Hydrogen","L",2038,4638528647.85408
+"Steel Intensive","E10","L",2039,363020133283.695
+"Steel Intensive","Electricity","kWh",2039,75880345820.8732
+"Steel Intensive","E85","L",2039,63336323000.1063
+"Steel Intensive","Diesel","L",2039,8496797222.87029
+"Steel Intensive","CNG & LPG","L",2039,970623464.691845
+"Steel Intensive","Hydrogen","L",2039,4663810316.61567
+"Aluminum Intensive","E10","L",2039,347387858617.101
+"Aluminum Intensive","Electricity","kWh",2039,72450117082.5613
+"Aluminum Intensive","E85","L",2039,60570053289.9866
+"Aluminum Intensive","Diesel","L",2039,8023915633.30121
+"Aluminum Intensive","CNG & LPG","L",2039,922377817.384791
+"Aluminum Intensive","Hydrogen","L",2039,4560018171.7212
+"Aluminum Maximum","E10","L",2039,329569135172.878
+"Aluminum Maximum","Electricity","kWh",2039,68689221826.915
+"Aluminum Maximum","E85","L",2039,57420926774.5459
+"Aluminum Maximum","Diesel","L",2039,7486375950.60623
+"Aluminum Maximum","CNG & LPG","L",2039,867527968.964885
+"Aluminum Maximum","Hydrogen","L",2039,4446173956.06551
+"No Lightweighting","E10","L",2039,376576159257.803
+"No Lightweighting","Electricity","kWh",2039,79097110324.1117
+"No Lightweighting","E85","L",2039,65754901921.1496
+"No Lightweighting","Diesel","L",2039,8908611303.07235
+"No Lightweighting","CNG & LPG","L",2039,1012752339.00855
+"No Lightweighting","Hydrogen","L",2039,4754923425.43109
+"Steel Intensive","E10","L",2040,363774402153.305
+"Steel Intensive","Electricity","kWh",2040,80173952748.314
+"Steel Intensive","E85","L",2040,63917828835.5606
+"Steel Intensive","Diesel","L",2040,8591578956.01339
+"Steel Intensive","CNG & LPG","L",2040,987536679.929997
+"Steel Intensive","Hydrogen","L",2040,4766438030.3049
+"Aluminum Intensive","E10","L",2040,347724153445.056
+"Aluminum Intensive","Electricity","kWh",2040,76521716131.5296
+"Aluminum Intensive","E85","L",2040,61065951350.1297
+"Aluminum Intensive","Diesel","L",2040,8107969135.54253
+"Aluminum Intensive","CNG & LPG","L",2040,938487746.210147
+"Aluminum Intensive","Hydrogen","L",2040,4659217859.27244
+"Aluminum Maximum","E10","L",2040,329434676698.161
+"Aluminum Maximum","Electricity","kWh",2040,72518649268.629
+"Aluminum Maximum","E85","L",2040,57820222941.1475
+"Aluminum Maximum","Diesel","L",2040,7558365519.77711
+"Aluminum Maximum","CNG & LPG","L",2040,882724049.848024
+"Aluminum Maximum","Hydrogen","L",2040,4541643137.27893
+"No Lightweighting","E10","L",2040,377697568706.972
+"No Lightweighting","Electricity","kWh",2040,83599840271.4645
+"No Lightweighting","E85","L",2040,66412014813.455
+"No Lightweighting","Diesel","L",2040,9012839211.19831
+"No Lightweighting","CNG & LPG","L",2040,1030362844.53207
+"No Lightweighting","Hydrogen","L",2040,4860586990.20475
+"Steel Intensive","E10","L",2041,365215170935.971
+"Steel Intensive","Electricity","kWh",2041,84445775354.1513
+"Steel Intensive","E85","L",2041,64478784509.0173
+"Steel Intensive","Diesel","L",2041,8673618780.83737
+"Steel Intensive","CNG & LPG","L",2041,1005007617.87475
+"Steel Intensive","Hydrogen","L",2041,4859759407.88057
+"Aluminum Intensive","E10","L",2041,348771542058.853
+"Aluminum Intensive","Electricity","kWh",2041,80575788937.1266
+"Aluminum Intensive","E85","L",2041,61551032546.4286
+"Aluminum Intensive","Diesel","L",2041,8181005900.26763
+"Aluminum Intensive","CNG & LPG","L",2041,955166474.477712
+"Aluminum Intensive","Hydrogen","L",2041,4749441258.6004
+"Aluminum Maximum","E10","L",2041,330038683901.24
+"Aluminum Maximum","Electricity","kWh",2041,76335175858.3452
+"Aluminum Maximum","E85","L",2041,58219668194.9192
+"Aluminum Maximum","Diesel","L",2041,7621283024.06998
+"Aluminum Maximum","CNG & LPG","L",2041,898500649.378409
+"Aluminum Maximum","Hydrogen","L",2041,4628495600.17628
+"No Lightweighting","E10","L",2041,379483529560.101
+"No Lightweighting","Electricity","kWh",2041,88076803810.404
+"No Lightweighting","E85","L",2041,67039966208.4188
+"No Lightweighting","Diesel","L",2041,9102824407.46551
+"No Lightweighting","CNG & LPG","L",2041,1048520577.79547
+"No Lightweighting","Hydrogen","L",2041,4956651213.07558
+"Steel Intensive","E10","L",2042,367216662285.74
+"Steel Intensive","Electricity","kWh",2042,88679937989.3302
+"Steel Intensive","E85","L",2042,65013729310.6561
+"Steel Intensive","Diesel","L",2042,8750557570.75431
+"Steel Intensive","CNG & LPG","L",2042,1022327741.05219
+"Steel Intensive","Hydrogen","L",2042,4945466861.19337
+"Aluminum Intensive","E10","L",2042,350406844043.691
+"Aluminum Intensive","Electricity","kWh",2042,84597128202.5191
+"Aluminum Intensive","E85","L",2042,62014742979.3319
+"Aluminum Intensive","Diesel","L",2042,8250129192.04434
+"Aluminum Intensive","CNG & LPG","L",2042,971731230.987637
+"Aluminum Intensive","Hydrogen","L",2042,4832342371.53915
+"Aluminum Maximum","E10","L",2042,331260927859.833
+"Aluminum Maximum","Electricity","kWh",2042,80124319047.2895
+"Aluminum Maximum","E85","L",2042,58602911819.2002
+"Aluminum Maximum","Diesel","L",2042,7681620943.1787
+"Aluminum Maximum","CNG & LPG","L",2042,914204529.846519
+"Aluminum Maximum","Hydrogen","L",2042,4708343149.1149
+"No Lightweighting","E10","L",2042,381805985678.734
+"No Lightweighting","Electricity","kWh",2042,92511487812.9739
+"No Lightweighting","E85","L",2042,67637746355.523
+"No Lightweighting","Diesel","L",2042,9186677544.38836
+"No Lightweighting","CNG & LPG","L",2042,1066494788.38657
+"No Lightweighting","Hydrogen","L",2042,5044842170.09648
+"Steel Intensive","E10","L",2043,369885302682.28
+"Steel Intensive","Electricity","kWh",2043,92899182907.1308
+"Steel Intensive","E85","L",2043,65475010228.4774
+"Steel Intensive","Diesel","L",2043,8824644498.48958
+"Steel Intensive","CNG & LPG","L",2043,1041055134.6788
+"Steel Intensive","Hydrogen","L",2043,5024594085.64723
+"Aluminum Intensive","E10","L",2043,352720130034.279
+"Aluminum Intensive","Electricity","kWh",2043,88607331776.9835
+"Aluminum Intensive","E85","L",2043,62416312211.725
+"Aluminum Intensive","Diesel","L",2043,8317488048.68176
+"Aluminum Intensive","CNG & LPG","L",2043,989654609.714943
+"Aluminum Intensive","Hydrogen","L",2043,4908930541.74212
+"Aluminum Maximum","E10","L",2043,333172893596.867
+"Aluminum Maximum","Electricity","kWh",2043,83906422412.7068
+"Aluminum Maximum","E85","L",2043,58937022098.7017
+"Aluminum Maximum","Diesel","L",2043,7741414318.84723
+"Aluminum Maximum","CNG & LPG","L",2043,931211272.670894
+"Aluminum Maximum","Hydrogen","L",2043,4782168406.78268
+"No Lightweighting","E10","L",2043,384785706174.635
+"No Lightweighting","Electricity","kWh",2043,96927705990.8712
+"No Lightweighting","E85","L",2043,68151673873.5402
+"No Lightweighting","Diesel","L",2043,9266727653.08469
+"No Lightweighting","CNG & LPG","L",2043,1085918563.99512
+"No Lightweighting","Hydrogen","L",2043,5126214971.69063
+"Steel Intensive","E10","L",2044,373233144155.72
+"Steel Intensive","Electricity","kWh",2044,97131575628.5188
+"Steel Intensive","E85","L",2044,65825341150.6344
+"Steel Intensive","Diesel","L",2044,8905379040.25761
+"Steel Intensive","CNG & LPG","L",2044,1061270616.06339
+"Steel Intensive","Hydrogen","L",2044,5100749960.33001
+"Aluminum Intensive","E10","L",2044,355720482860.718
+"Aluminum Intensive","Electricity","kWh",2044,92633045868.6058
+"Aluminum Intensive","E85","L",2044,62717795247.4445
+"Aluminum Intensive","Diesel","L",2044,8391893090.29908
+"Aluminum Intensive","CNG & LPG","L",2044,1009009492.09022
+"Aluminum Intensive","Hydrogen","L",2044,4982726859.54167
+"Aluminum Maximum","E10","L",2044,335780324050.187
+"Aluminum Maximum","Electricity","kWh",2044,87706576666.3027
+"Aluminum Maximum","E85","L",2044,59183307689.0203
+"Aluminum Maximum","Diesel","L",2044,7808692523.57203
+"Aluminum Maximum","CNG & LPG","L",2044,949584838.55218
+"Aluminum Maximum","Hydrogen","L",2044,4853396320.92529
+"No Lightweighting","E10","L",2044,388437363012.504
+"No Lightweighting","Electricity","kWh",2044,101354855232.783
+"No Lightweighting","E85","L",2044,68545042957.5309
+"No Lightweighting","Diesel","L",2044,9353083379.9858
+"No Lightweighting","CNG & LPG","L",2044,1106879693.91355
+"No Lightweighting","Hydrogen","L",2044,5204455745.91407
+"Steel Intensive","E10","L",2045,377064603187.482
+"Steel Intensive","Electricity","kWh",2045,101375536281.358
+"Steel Intensive","E85","L",2045,66202876097.1409
+"Steel Intensive","Diesel","L",2045,8989582337.5358
+"Steel Intensive","CNG & LPG","L",2045,1083299843.26231
+"Steel Intensive","Hydrogen","L",2045,5175635585.57383
+"Aluminum Intensive","E10","L",2045,359219431630.734
+"Aluminum Intensive","Electricity","kWh",2045,96672354037.3901
+"Aluminum Intensive","E85","L",2045,63048932865.4433
+"Aluminum Intensive","Diesel","L",2045,8469926229.83749
+"Aluminum Intensive","CNG & LPG","L",2045,1030103556.39587
+"Aluminum Intensive","Hydrogen","L",2045,5055386563.57106
+"Aluminum Maximum","E10","L",2045,338902861125.095
+"Aluminum Maximum","Electricity","kWh",2045,91522493845.9512
+"Aluminum Maximum","E85","L",2045,59461953109.2673
+"Aluminum Maximum","Diesel","L",2045,7879766479.18628
+"Aluminum Maximum","CNG & LPG","L",2045,969612545.06768
+"Aluminum Maximum","Hydrogen","L",2045,4923631940.26078
+"No Lightweighting","E10","L",2045,392559094093.602
+"No Lightweighting","Electricity","kWh",2045,105791663107.7
+"No Lightweighting","E85","L",2045,68963399680.1456
+"No Lightweighting","Diesel","L",2045,9442774261.37156
+"No Lightweighting","CNG & LPG","L",2045,1129719617.32225
+"No Lightweighting","Hydrogen","L",2045,5281306018.65236
+"Steel Intensive","E10","L",2046,381411370321.536
+"Steel Intensive","Electricity","kWh",2046,105586411367.59
+"Steel Intensive","E85","L",2046,66630313057.0521
+"Steel Intensive","Diesel","L",2046,9069206709.59508
+"Steel Intensive","CNG & LPG","L",2046,1106155057.44453
+"Steel Intensive","Hydrogen","L",2046,5249263889.25671
+"Aluminum Intensive","E10","L",2046,363226750392.831
+"Aluminum Intensive","Electricity","kWh",2046,100682394214.86
+"Aluminum Intensive","E85","L",2046,63430457989.9114
+"Aluminum Intensive","Diesel","L",2046,8544447581.9243
+"Aluminum Intensive","CNG & LPG","L",2046,1051987588.94281
+"Aluminum Intensive","Hydrogen","L",2046,5126902162.89893
+"Aluminum Maximum","E10","L",2046,342525424802.51
+"Aluminum Maximum","Electricity","kWh",2046,95313269850.085
+"Aluminum Maximum","E85","L",2046,59791465832.7589
+"Aluminum Maximum","Diesel","L",2046,7948528538.69076
+"Aluminum Maximum","CNG & LPG","L",2046,990389085.937691
+"Aluminum Maximum","Hydrogen","L",2046,4992845523.96496
+"No Lightweighting","E10","L",2046,397202099100.349
+"No Lightweighting","Electricity","kWh",2046,110191789735.045
+"No Lightweighting","E85","L",2046,69431185898.9354
+"No Lightweighting","Diesel","L",2046,9526956146.014
+"No Lightweighting","CNG & LPG","L",2046,1153417203.9715
+"No Lightweighting","Hydrogen","L",2046,5356796889.17373
+"Steel Intensive","E10","L",2047,386007716252.1
+"Steel Intensive","Electricity","kWh",2047,109802072355
+"Steel Intensive","E85","L",2047,66918266160.0604
+"Steel Intensive","Diesel","L",2047,9149256005.74955
+"Steel Intensive","CNG & LPG","L",2047,1129031631.79076
+"Steel Intensive","Hydrogen","L",2047,5323669158.74184
+"Aluminum Intensive","E10","L",2047,367504495351.498
+"Aluminum Intensive","Electricity","kWh",2047,104699710628.035
+"Aluminum Intensive","E85","L",2047,63691665468.8848
+"Aluminum Intensive","Diesel","L",2047,8620177796.25527
+"Aluminum Intensive","CNG & LPG","L",2047,1073902067.03724
+"Aluminum Intensive","Hydrogen","L",2047,5199258601.20356
+"Aluminum Maximum","E10","L",2047,346441837007.7
+"Aluminum Maximum","Electricity","kWh",2047,99114002338.8225
+"Aluminum Maximum","E85","L",2047,60022402701.3038
+"Aluminum Maximum","Diesel","L",2047,8019379848.71856
+"Aluminum Maximum","CNG & LPG","L",2047,1011206240.68507
+"Aluminum Maximum","Hydrogen","L",2047,5062968162.648
+"No Lightweighting","E10","L",2047,402076177905.548
+"No Lightweighting","Electricity","kWh",2047,114594354308.448
+"No Lightweighting","E85","L",2047,69742568779.4531
+"No Lightweighting","Diesel","L",2047,9610888785.17938
+"No Lightweighting","CNG & LPG","L",2047,1177128274.77055
+"No Lightweighting","Hydrogen","L",2047,5433006240.88732
+"Steel Intensive","E10","L",2048,390647637325.746
+"Steel Intensive","Electricity","kWh",2048,113981622380.041
+"Steel Intensive","E85","L",2048,66907055157.9026
+"Steel Intensive","Diesel","L",2048,9236581213.0549
+"Steel Intensive","CNG & LPG","L",2048,1149640695.28666
+"Steel Intensive","Hydrogen","L",2048,5398264377.20413
+"Aluminum Intensive","E10","L",2048,371852070331.815
+"Aluminum Intensive","Electricity","kWh",2048,108684924139.232
+"Aluminum Intensive","E85","L",2048,63672350166.711
+"Aluminum Intensive","Diesel","L",2048,8702977608.46531
+"Aluminum Intensive","CNG & LPG","L",2048,1093668194.77763
+"Aluminum Intensive","Hydrogen","L",2048,5271877060.958
+"Aluminum Maximum","E10","L",2048,350457686840.341
+"Aluminum Maximum","Electricity","kWh",2048,102886973496.25
+"Aluminum Maximum","E85","L",2048,59993969358.097
+"Aluminum Maximum","Diesel","L",2048,8097058787.01213
+"Aluminum Maximum","CNG & LPG","L",2048,1030010415.98538
+"Aluminum Maximum","Hydrogen","L",2048,5133430149.73052
+"No Lightweighting","E10","L",2048,406970849401.256
+"No Lightweighting","Electricity","kWh",2048,118957036678.971
+"No Lightweighting","E85","L",2048,69738411960.515
+"No Lightweighting","Diesel","L",2048,9702289277.95644
+"No Lightweighting","CNG & LPG","L",2048,1198467711.58842
+"No Lightweighting","Hydrogen","L",2048,5509340015.58136
+"Steel Intensive","E10","L",2049,395591553958.757
+"Steel Intensive","Electricity","kWh",2049,118210730481.418
+"Steel Intensive","E85","L",2049,66864534265.1039
+"Steel Intensive","Diesel","L",2049,9343513708.02666
+"Steel Intensive","CNG & LPG","L",2049,1171364687.40094
+"Steel Intensive","Hydrogen","L",2049,5475880014.35384
+"Aluminum Intensive","E10","L",2049,376510006786.903
+"Aluminum Intensive","Electricity","kWh",2049,112719285672.083
+"Aluminum Intensive","E85","L",2049,63626036057.8825
+"Aluminum Intensive","Diesel","L",2049,8804454221.81898
+"Aluminum Intensive","CNG & LPG","L",2049,1114503396.53819
+"Aluminum Intensive","Hydrogen","L",2049,5347499776.64955
+"Aluminum Maximum","E10","L",2049,354790909892.627
+"Aluminum Maximum","Electricity","kWh",2049,106708605730.501
+"Aluminum Maximum","E85","L",2049,59943405565.3196
+"Aluminum Maximum","Diesel","L",2049,8192352174.66453
+"Aluminum Maximum","CNG & LPG","L",2049,1049831376.97406
+"Aluminum Maximum","Hydrogen","L",2049,5206877393.14025
+"No Lightweighting","E10","L",2049,412163858533.26
+"No Lightweighting","Electricity","kWh",2049,123369657589.007
+"No Lightweighting","E85","L",2049,69699143129.7724
+"No Lightweighting","Diesel","L",2049,9814121557.35571
+"No Lightweighting","CNG & LPG","L",2049,1220962038.91903
+"No Lightweighting","Hydrogen","L",2049,5588706643.09212
+"Steel Intensive","E10","L",2050,400648561632.986
+"Steel Intensive","Electricity","kWh",2050,122514073234.285
+"Steel Intensive","E85","L",2050,66842123408.0202
+"Steel Intensive","Diesel","L",2050,9457783166.09085
+"Steel Intensive","CNG & LPG","L",2050,1193459367.52748
+"Steel Intensive","Hydrogen","L",2050,5558114341.05657
+"Aluminum Intensive","E10","L",2050,381293753146.82
+"Aluminum Intensive","Electricity","kWh",2050,116826043628.821
+"Aluminum Intensive","E85","L",2050,63600936968.2041
+"Aluminum Intensive","Diesel","L",2050,8912847741.91111
+"Aluminum Intensive","CNG & LPG","L",2050,1135653381.61958
+"Aluminum Intensive","Hydrogen","L",2050,5427671530.64594
+"Aluminum Maximum","E10","L",2050,359264190720.816
+"Aluminum Maximum","Electricity","kWh",2050,110600591998.161
+"Aluminum Maximum","E85","L",2050,59915282693.0342
+"Aluminum Maximum","Diesel","L",2050,8294082523.21179
+"Aluminum Maximum","CNG & LPG","L",2050,1069903422.31178
+"Aluminum Maximum","Hydrogen","L",2050,5284796458.22548
+"No Lightweighting","E10","L",2050,417458738513.166
+"No Lightweighting","Electricity","kWh",2050,127858240353.162
+"No Lightweighting","E85","L",2050,69678992020.5556
+"No Lightweighting","Diesel","L",2050,9933670422.21857
+"No Lightweighting","CNG & LPG","L",2050,1243875883.73445
+"No Lightweighting","Hydrogen","L",2050,5672751837.0994

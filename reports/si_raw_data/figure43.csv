@@ -1,0 +1,497 @@
+"Scenario","Scrapped material","Year","Recovered material","value"
+"CL100","Wrought Aluminum",2050,"Wrought Aluminum",0.95
+"CL100","Wrought Aluminum",2016,"Wrought Aluminum",0.0271428571428571
+"CL100","Wrought Aluminum",2017,"Wrought Aluminum",0.0542857142857143
+"CL100","Wrought Aluminum",2018,"Wrought Aluminum",0.0814285714285714
+"CL100","Wrought Aluminum",2019,"Wrought Aluminum",0.108571428571429
+"CL100","Wrought Aluminum",2020,"Wrought Aluminum",0.135714285714286
+"CL100","Wrought Aluminum",2021,"Wrought Aluminum",0.162857142857143
+"CL100","Wrought Aluminum",2022,"Wrought Aluminum",0.19
+"CL100","Wrought Aluminum",2023,"Wrought Aluminum",0.217142857142857
+"CL100","Wrought Aluminum",2024,"Wrought Aluminum",0.244285714285714
+"CL100","Wrought Aluminum",2025,"Wrought Aluminum",0.271428571428571
+"CL100","Wrought Aluminum",2026,"Wrought Aluminum",0.298571428571429
+"CL100","Wrought Aluminum",2027,"Wrought Aluminum",0.325714285714286
+"CL100","Wrought Aluminum",2028,"Wrought Aluminum",0.352857142857143
+"CL100","Wrought Aluminum",2029,"Wrought Aluminum",0.38
+"CL100","Wrought Aluminum",2030,"Wrought Aluminum",0.407142857142857
+"CL100","Wrought Aluminum",2031,"Wrought Aluminum",0.434285714285714
+"CL100","Wrought Aluminum",2032,"Wrought Aluminum",0.461428571428571
+"CL100","Wrought Aluminum",2033,"Wrought Aluminum",0.488571428571428
+"CL100","Wrought Aluminum",2034,"Wrought Aluminum",0.515714285714286
+"CL100","Wrought Aluminum",2035,"Wrought Aluminum",0.542857142857143
+"CL100","Wrought Aluminum",2036,"Wrought Aluminum",0.57
+"CL100","Wrought Aluminum",2037,"Wrought Aluminum",0.597142857142857
+"CL100","Wrought Aluminum",2038,"Wrought Aluminum",0.624285714285714
+"CL100","Wrought Aluminum",2039,"Wrought Aluminum",0.651428571428571
+"CL100","Wrought Aluminum",2040,"Wrought Aluminum",0.678571428571428
+"CL100","Wrought Aluminum",2041,"Wrought Aluminum",0.705714285714286
+"CL100","Wrought Aluminum",2042,"Wrought Aluminum",0.732857142857143
+"CL100","Wrought Aluminum",2043,"Wrought Aluminum",0.76
+"CL100","Wrought Aluminum",2044,"Wrought Aluminum",0.787142857142857
+"CL100","Wrought Aluminum",2045,"Wrought Aluminum",0.814285714285714
+"CL100","Wrought Aluminum",2046,"Wrought Aluminum",0.841428571428571
+"CL100","Wrought Aluminum",2047,"Wrought Aluminum",0.868571428571428
+"CL100","Wrought Aluminum",2048,"Wrought Aluminum",0.895714285714286
+"CL100","Wrought Aluminum",2049,"Wrought Aluminum",0.922857142857143
+"All","Wrought Aluminum",2015,"Cast Aluminum",0.86
+"All","Cast Aluminum",2015,"Cast Aluminum",0.86
+"CL100","Wrought Aluminum",2016,"Cast Aluminum",0.835428571428571
+"CL100","Wrought Aluminum",2017,"Cast Aluminum",0.810857142857143
+"CL100","Wrought Aluminum",2018,"Cast Aluminum",0.786285714285714
+"CL100","Wrought Aluminum",2019,"Cast Aluminum",0.761714285714286
+"CL100","Wrought Aluminum",2020,"Cast Aluminum",0.737142857142857
+"CL100","Wrought Aluminum",2021,"Cast Aluminum",0.712571428571429
+"CL100","Wrought Aluminum",2022,"Cast Aluminum",0.688
+"CL100","Wrought Aluminum",2023,"Cast Aluminum",0.663428571428571
+"CL100","Wrought Aluminum",2024,"Cast Aluminum",0.638857142857143
+"CL100","Wrought Aluminum",2025,"Cast Aluminum",0.614285714285714
+"CL100","Wrought Aluminum",2026,"Cast Aluminum",0.589714285714286
+"CL100","Wrought Aluminum",2027,"Cast Aluminum",0.565142857142857
+"CL100","Wrought Aluminum",2028,"Cast Aluminum",0.540571428571428
+"CL100","Wrought Aluminum",2029,"Cast Aluminum",0.516
+"CL100","Wrought Aluminum",2030,"Cast Aluminum",0.491428571428571
+"CL100","Wrought Aluminum",2031,"Cast Aluminum",0.466857142857143
+"CL100","Wrought Aluminum",2032,"Cast Aluminum",0.442285714285714
+"CL100","Wrought Aluminum",2033,"Cast Aluminum",0.417714285714286
+"CL100","Wrought Aluminum",2034,"Cast Aluminum",0.393142857142857
+"CL100","Wrought Aluminum",2035,"Cast Aluminum",0.368571428571428
+"CL100","Wrought Aluminum",2036,"Cast Aluminum",0.344
+"CL100","Wrought Aluminum",2037,"Cast Aluminum",0.319428571428571
+"CL100","Wrought Aluminum",2038,"Cast Aluminum",0.294857142857143
+"CL100","Wrought Aluminum",2039,"Cast Aluminum",0.270285714285714
+"CL100","Wrought Aluminum",2040,"Cast Aluminum",0.245714285714286
+"CL100","Wrought Aluminum",2041,"Cast Aluminum",0.221142857142857
+"CL100","Wrought Aluminum",2042,"Cast Aluminum",0.196571428571428
+"CL100","Wrought Aluminum",2043,"Cast Aluminum",0.172
+"CL100","Wrought Aluminum",2044,"Cast Aluminum",0.147428571428571
+"CL100","Wrought Aluminum",2045,"Cast Aluminum",0.122857142857143
+"CL100","Wrought Aluminum",2046,"Cast Aluminum",0.0982857142857141
+"CL100","Wrought Aluminum",2047,"Cast Aluminum",0.0737142857142855
+"CL100","Wrought Aluminum",2048,"Cast Aluminum",0.0491428571428569
+"CL100","Wrought Aluminum",2049,"Cast Aluminum",0.0245714285714284
+"CL100","Cast Aluminum",2050,"Cast Aluminum",0.95
+"CL100","Cast Aluminum",2016,"Cast Aluminum",0.862571428571429
+"CL100","Cast Aluminum",2017,"Cast Aluminum",0.865142857142857
+"CL100","Cast Aluminum",2018,"Cast Aluminum",0.867714285714286
+"CL100","Cast Aluminum",2019,"Cast Aluminum",0.870285714285714
+"CL100","Cast Aluminum",2020,"Cast Aluminum",0.872857142857143
+"CL100","Cast Aluminum",2021,"Cast Aluminum",0.875428571428571
+"CL100","Cast Aluminum",2022,"Cast Aluminum",0.878
+"CL100","Cast Aluminum",2023,"Cast Aluminum",0.880571428571428
+"CL100","Cast Aluminum",2024,"Cast Aluminum",0.883142857142857
+"CL100","Cast Aluminum",2025,"Cast Aluminum",0.885714285714286
+"CL100","Cast Aluminum",2026,"Cast Aluminum",0.888285714285714
+"CL100","Cast Aluminum",2027,"Cast Aluminum",0.890857142857143
+"CL100","Cast Aluminum",2028,"Cast Aluminum",0.893428571428571
+"CL100","Cast Aluminum",2029,"Cast Aluminum",0.896
+"CL100","Cast Aluminum",2030,"Cast Aluminum",0.898571428571428
+"CL100","Cast Aluminum",2031,"Cast Aluminum",0.901142857142857
+"CL100","Cast Aluminum",2032,"Cast Aluminum",0.903714285714285
+"CL100","Cast Aluminum",2033,"Cast Aluminum",0.906285714285714
+"CL100","Cast Aluminum",2034,"Cast Aluminum",0.908857142857143
+"CL100","Cast Aluminum",2035,"Cast Aluminum",0.911428571428571
+"CL100","Cast Aluminum",2036,"Cast Aluminum",0.914
+"CL100","Cast Aluminum",2037,"Cast Aluminum",0.916571428571428
+"CL100","Cast Aluminum",2038,"Cast Aluminum",0.919142857142857
+"CL100","Cast Aluminum",2039,"Cast Aluminum",0.921714285714285
+"CL100","Cast Aluminum",2040,"Cast Aluminum",0.924285714285714
+"CL100","Cast Aluminum",2041,"Cast Aluminum",0.926857142857142
+"CL100","Cast Aluminum",2042,"Cast Aluminum",0.929428571428571
+"CL100","Cast Aluminum",2043,"Cast Aluminum",0.932
+"CL100","Cast Aluminum",2044,"Cast Aluminum",0.934571428571428
+"CL100","Cast Aluminum",2045,"Cast Aluminum",0.937142857142857
+"CL100","Cast Aluminum",2046,"Cast Aluminum",0.939714285714285
+"CL100","Cast Aluminum",2047,"Cast Aluminum",0.942285714285714
+"CL100","Cast Aluminum",2048,"Cast Aluminum",0.944857142857142
+"CL100","Cast Aluminum",2049,"Cast Aluminum",0.947428571428571
+"CL100","Cast Iron",2050,"Cast Iron",0.95
+"CL100","Cast Iron",2016,"Cast Iron",0.0271428571428571
+"CL100","Cast Iron",2017,"Cast Iron",0.0542857142857143
+"CL100","Cast Iron",2018,"Cast Iron",0.0814285714285714
+"CL100","Cast Iron",2019,"Cast Iron",0.108571428571429
+"CL100","Cast Iron",2020,"Cast Iron",0.135714285714286
+"CL100","Cast Iron",2021,"Cast Iron",0.162857142857143
+"CL100","Cast Iron",2022,"Cast Iron",0.19
+"CL100","Cast Iron",2023,"Cast Iron",0.217142857142857
+"CL100","Cast Iron",2024,"Cast Iron",0.244285714285714
+"CL100","Cast Iron",2025,"Cast Iron",0.271428571428571
+"CL100","Cast Iron",2026,"Cast Iron",0.298571428571429
+"CL100","Cast Iron",2027,"Cast Iron",0.325714285714286
+"CL100","Cast Iron",2028,"Cast Iron",0.352857142857143
+"CL100","Cast Iron",2029,"Cast Iron",0.38
+"CL100","Cast Iron",2030,"Cast Iron",0.407142857142857
+"CL100","Cast Iron",2031,"Cast Iron",0.434285714285714
+"CL100","Cast Iron",2032,"Cast Iron",0.461428571428571
+"CL100","Cast Iron",2033,"Cast Iron",0.488571428571428
+"CL100","Cast Iron",2034,"Cast Iron",0.515714285714286
+"CL100","Cast Iron",2035,"Cast Iron",0.542857142857143
+"CL100","Cast Iron",2036,"Cast Iron",0.57
+"CL100","Cast Iron",2037,"Cast Iron",0.597142857142857
+"CL100","Cast Iron",2038,"Cast Iron",0.624285714285714
+"CL100","Cast Iron",2039,"Cast Iron",0.651428571428571
+"CL100","Cast Iron",2040,"Cast Iron",0.678571428571428
+"CL100","Cast Iron",2041,"Cast Iron",0.705714285714286
+"CL100","Cast Iron",2042,"Cast Iron",0.732857142857143
+"CL100","Cast Iron",2043,"Cast Iron",0.76
+"CL100","Cast Iron",2044,"Cast Iron",0.787142857142857
+"CL100","Cast Iron",2045,"Cast Iron",0.814285714285714
+"CL100","Cast Iron",2046,"Cast Iron",0.841428571428571
+"CL100","Cast Iron",2047,"Cast Iron",0.868571428571428
+"CL100","Cast Iron",2048,"Cast Iron",0.895714285714286
+"CL100","Cast Iron",2049,"Cast Iron",0.922857142857143
+"CL100","Mild steel and other steels",2050,"Mild steel and other steels",0.95
+"CL100","Mild steel and other steels",2016,"Mild steel and other steels",0.0271428571428571
+"CL100","Mild steel and other steels",2017,"Mild steel and other steels",0.0542857142857143
+"CL100","Mild steel and other steels",2018,"Mild steel and other steels",0.0814285714285714
+"CL100","Mild steel and other steels",2019,"Mild steel and other steels",0.108571428571429
+"CL100","Mild steel and other steels",2020,"Mild steel and other steels",0.135714285714286
+"CL100","Mild steel and other steels",2021,"Mild steel and other steels",0.162857142857143
+"CL100","Mild steel and other steels",2022,"Mild steel and other steels",0.19
+"CL100","Mild steel and other steels",2023,"Mild steel and other steels",0.217142857142857
+"CL100","Mild steel and other steels",2024,"Mild steel and other steels",0.244285714285714
+"CL100","Mild steel and other steels",2025,"Mild steel and other steels",0.271428571428571
+"CL100","Mild steel and other steels",2026,"Mild steel and other steels",0.298571428571429
+"CL100","Mild steel and other steels",2027,"Mild steel and other steels",0.325714285714286
+"CL100","Mild steel and other steels",2028,"Mild steel and other steels",0.352857142857143
+"CL100","Mild steel and other steels",2029,"Mild steel and other steels",0.38
+"CL100","Mild steel and other steels",2030,"Mild steel and other steels",0.407142857142857
+"CL100","Mild steel and other steels",2031,"Mild steel and other steels",0.434285714285714
+"CL100","Mild steel and other steels",2032,"Mild steel and other steels",0.461428571428571
+"CL100","Mild steel and other steels",2033,"Mild steel and other steels",0.488571428571428
+"CL100","Mild steel and other steels",2034,"Mild steel and other steels",0.515714285714286
+"CL100","Mild steel and other steels",2035,"Mild steel and other steels",0.542857142857143
+"CL100","Mild steel and other steels",2036,"Mild steel and other steels",0.57
+"CL100","Mild steel and other steels",2037,"Mild steel and other steels",0.597142857142857
+"CL100","Mild steel and other steels",2038,"Mild steel and other steels",0.624285714285714
+"CL100","Mild steel and other steels",2039,"Mild steel and other steels",0.651428571428571
+"CL100","Mild steel and other steels",2040,"Mild steel and other steels",0.678571428571428
+"CL100","Mild steel and other steels",2041,"Mild steel and other steels",0.705714285714286
+"CL100","Mild steel and other steels",2042,"Mild steel and other steels",0.732857142857143
+"CL100","Mild steel and other steels",2043,"Mild steel and other steels",0.76
+"CL100","Mild steel and other steels",2044,"Mild steel and other steels",0.787142857142857
+"CL100","Mild steel and other steels",2045,"Mild steel and other steels",0.814285714285714
+"CL100","Mild steel and other steels",2046,"Mild steel and other steels",0.841428571428571
+"CL100","Mild steel and other steels",2047,"Mild steel and other steels",0.868571428571428
+"CL100","Mild steel and other steels",2048,"Mild steel and other steels",0.895714285714286
+"CL100","Mild steel and other steels",2049,"Mild steel and other steels",0.922857142857143
+"CL100","HSS/AHSS",2050,"HSS/AHSS",0.95
+"CL100","HSS/AHSS",2016,"HSS/AHSS",0.0271428571428571
+"CL100","HSS/AHSS",2017,"HSS/AHSS",0.0542857142857143
+"CL100","HSS/AHSS",2018,"HSS/AHSS",0.0814285714285714
+"CL100","HSS/AHSS",2019,"HSS/AHSS",0.108571428571429
+"CL100","HSS/AHSS",2020,"HSS/AHSS",0.135714285714286
+"CL100","HSS/AHSS",2021,"HSS/AHSS",0.162857142857143
+"CL100","HSS/AHSS",2022,"HSS/AHSS",0.19
+"CL100","HSS/AHSS",2023,"HSS/AHSS",0.217142857142857
+"CL100","HSS/AHSS",2024,"HSS/AHSS",0.244285714285714
+"CL100","HSS/AHSS",2025,"HSS/AHSS",0.271428571428571
+"CL100","HSS/AHSS",2026,"HSS/AHSS",0.298571428571429
+"CL100","HSS/AHSS",2027,"HSS/AHSS",0.325714285714286
+"CL100","HSS/AHSS",2028,"HSS/AHSS",0.352857142857143
+"CL100","HSS/AHSS",2029,"HSS/AHSS",0.38
+"CL100","HSS/AHSS",2030,"HSS/AHSS",0.407142857142857
+"CL100","HSS/AHSS",2031,"HSS/AHSS",0.434285714285714
+"CL100","HSS/AHSS",2032,"HSS/AHSS",0.461428571428571
+"CL100","HSS/AHSS",2033,"HSS/AHSS",0.488571428571428
+"CL100","HSS/AHSS",2034,"HSS/AHSS",0.515714285714286
+"CL100","HSS/AHSS",2035,"HSS/AHSS",0.542857142857143
+"CL100","HSS/AHSS",2036,"HSS/AHSS",0.57
+"CL100","HSS/AHSS",2037,"HSS/AHSS",0.597142857142857
+"CL100","HSS/AHSS",2038,"HSS/AHSS",0.624285714285714
+"CL100","HSS/AHSS",2039,"HSS/AHSS",0.651428571428571
+"CL100","HSS/AHSS",2040,"HSS/AHSS",0.678571428571428
+"CL100","HSS/AHSS",2041,"HSS/AHSS",0.705714285714286
+"CL100","HSS/AHSS",2042,"HSS/AHSS",0.732857142857143
+"CL100","HSS/AHSS",2043,"HSS/AHSS",0.76
+"CL100","HSS/AHSS",2044,"HSS/AHSS",0.787142857142857
+"CL100","HSS/AHSS",2045,"HSS/AHSS",0.814285714285714
+"CL100","HSS/AHSS",2046,"HSS/AHSS",0.841428571428571
+"CL100","HSS/AHSS",2047,"HSS/AHSS",0.868571428571428
+"CL100","HSS/AHSS",2048,"HSS/AHSS",0.895714285714286
+"CL100","HSS/AHSS",2049,"HSS/AHSS",0.922857142857143
+"All","Cast Iron",2015,"Construction steel",0.86
+"All","Mild steel and other steels",2015,"Construction steel",0.86
+"All","HSS/AHSS",2015,"Construction steel",0.86
+"CL100","Cast Iron",2016,"Construction steel",0.835428571428571
+"CL100","Cast Iron",2017,"Construction steel",0.810857142857143
+"CL100","Cast Iron",2018,"Construction steel",0.786285714285714
+"CL100","Cast Iron",2019,"Construction steel",0.761714285714286
+"CL100","Cast Iron",2020,"Construction steel",0.737142857142857
+"CL100","Cast Iron",2021,"Construction steel",0.712571428571429
+"CL100","Cast Iron",2022,"Construction steel",0.688
+"CL100","Cast Iron",2023,"Construction steel",0.663428571428571
+"CL100","Cast Iron",2024,"Construction steel",0.638857142857143
+"CL100","Cast Iron",2025,"Construction steel",0.614285714285714
+"CL100","Cast Iron",2026,"Construction steel",0.589714285714286
+"CL100","Cast Iron",2027,"Construction steel",0.565142857142857
+"CL100","Cast Iron",2028,"Construction steel",0.540571428571428
+"CL100","Cast Iron",2029,"Construction steel",0.516
+"CL100","Cast Iron",2030,"Construction steel",0.491428571428571
+"CL100","Cast Iron",2031,"Construction steel",0.466857142857143
+"CL100","Cast Iron",2032,"Construction steel",0.442285714285714
+"CL100","Cast Iron",2033,"Construction steel",0.417714285714286
+"CL100","Cast Iron",2034,"Construction steel",0.393142857142857
+"CL100","Cast Iron",2035,"Construction steel",0.368571428571428
+"CL100","Cast Iron",2036,"Construction steel",0.344
+"CL100","Cast Iron",2037,"Construction steel",0.319428571428571
+"CL100","Cast Iron",2038,"Construction steel",0.294857142857143
+"CL100","Cast Iron",2039,"Construction steel",0.270285714285714
+"CL100","Cast Iron",2040,"Construction steel",0.245714285714286
+"CL100","Cast Iron",2041,"Construction steel",0.221142857142857
+"CL100","Cast Iron",2042,"Construction steel",0.196571428571428
+"CL100","Cast Iron",2043,"Construction steel",0.172
+"CL100","Cast Iron",2044,"Construction steel",0.147428571428571
+"CL100","Cast Iron",2045,"Construction steel",0.122857142857143
+"CL100","Cast Iron",2046,"Construction steel",0.0982857142857141
+"CL100","Cast Iron",2047,"Construction steel",0.0737142857142855
+"CL100","Cast Iron",2048,"Construction steel",0.0491428571428569
+"CL100","Cast Iron",2049,"Construction steel",0.0245714285714284
+"CL100","Mild steel and other steels",2016,"Construction steel",0.835428571428571
+"CL100","Mild steel and other steels",2017,"Construction steel",0.810857142857143
+"CL100","Mild steel and other steels",2018,"Construction steel",0.786285714285714
+"CL100","Mild steel and other steels",2019,"Construction steel",0.761714285714286
+"CL100","Mild steel and other steels",2020,"Construction steel",0.737142857142857
+"CL100","Mild steel and other steels",2021,"Construction steel",0.712571428571429
+"CL100","Mild steel and other steels",2022,"Construction steel",0.688
+"CL100","Mild steel and other steels",2023,"Construction steel",0.663428571428571
+"CL100","Mild steel and other steels",2024,"Construction steel",0.638857142857143
+"CL100","Mild steel and other steels",2025,"Construction steel",0.614285714285714
+"CL100","Mild steel and other steels",2026,"Construction steel",0.589714285714286
+"CL100","Mild steel and other steels",2027,"Construction steel",0.565142857142857
+"CL100","Mild steel and other steels",2028,"Construction steel",0.540571428571428
+"CL100","Mild steel and other steels",2029,"Construction steel",0.516
+"CL100","Mild steel and other steels",2030,"Construction steel",0.491428571428571
+"CL100","Mild steel and other steels",2031,"Construction steel",0.466857142857143
+"CL100","Mild steel and other steels",2032,"Construction steel",0.442285714285714
+"CL100","Mild steel and other steels",2033,"Construction steel",0.417714285714286
+"CL100","Mild steel and other steels",2034,"Construction steel",0.393142857142857
+"CL100","Mild steel and other steels",2035,"Construction steel",0.368571428571428
+"CL100","Mild steel and other steels",2036,"Construction steel",0.344
+"CL100","Mild steel and other steels",2037,"Construction steel",0.319428571428571
+"CL100","Mild steel and other steels",2038,"Construction steel",0.294857142857143
+"CL100","Mild steel and other steels",2039,"Construction steel",0.270285714285714
+"CL100","Mild steel and other steels",2040,"Construction steel",0.245714285714286
+"CL100","Mild steel and other steels",2041,"Construction steel",0.221142857142857
+"CL100","Mild steel and other steels",2042,"Construction steel",0.196571428571428
+"CL100","Mild steel and other steels",2043,"Construction steel",0.172
+"CL100","Mild steel and other steels",2044,"Construction steel",0.147428571428571
+"CL100","Mild steel and other steels",2045,"Construction steel",0.122857142857143
+"CL100","Mild steel and other steels",2046,"Construction steel",0.0982857142857141
+"CL100","Mild steel and other steels",2047,"Construction steel",0.0737142857142855
+"CL100","Mild steel and other steels",2048,"Construction steel",0.0491428571428569
+"CL100","Mild steel and other steels",2049,"Construction steel",0.0245714285714284
+"CL100","HSS/AHSS",2016,"Construction steel",0.835428571428571
+"CL100","HSS/AHSS",2017,"Construction steel",0.810857142857143
+"CL100","HSS/AHSS",2018,"Construction steel",0.786285714285714
+"CL100","HSS/AHSS",2019,"Construction steel",0.761714285714286
+"CL100","HSS/AHSS",2020,"Construction steel",0.737142857142857
+"CL100","HSS/AHSS",2021,"Construction steel",0.712571428571429
+"CL100","HSS/AHSS",2022,"Construction steel",0.688
+"CL100","HSS/AHSS",2023,"Construction steel",0.663428571428571
+"CL100","HSS/AHSS",2024,"Construction steel",0.638857142857143
+"CL100","HSS/AHSS",2025,"Construction steel",0.614285714285714
+"CL100","HSS/AHSS",2026,"Construction steel",0.589714285714286
+"CL100","HSS/AHSS",2027,"Construction steel",0.565142857142857
+"CL100","HSS/AHSS",2028,"Construction steel",0.540571428571428
+"CL100","HSS/AHSS",2029,"Construction steel",0.516
+"CL100","HSS/AHSS",2030,"Construction steel",0.491428571428571
+"CL100","HSS/AHSS",2031,"Construction steel",0.466857142857143
+"CL100","HSS/AHSS",2032,"Construction steel",0.442285714285714
+"CL100","HSS/AHSS",2033,"Construction steel",0.417714285714286
+"CL100","HSS/AHSS",2034,"Construction steel",0.393142857142857
+"CL100","HSS/AHSS",2035,"Construction steel",0.368571428571428
+"CL100","HSS/AHSS",2036,"Construction steel",0.344
+"CL100","HSS/AHSS",2037,"Construction steel",0.319428571428571
+"CL100","HSS/AHSS",2038,"Construction steel",0.294857142857143
+"CL100","HSS/AHSS",2039,"Construction steel",0.270285714285714
+"CL100","HSS/AHSS",2040,"Construction steel",0.245714285714286
+"CL100","HSS/AHSS",2041,"Construction steel",0.221142857142857
+"CL100","HSS/AHSS",2042,"Construction steel",0.196571428571428
+"CL100","HSS/AHSS",2043,"Construction steel",0.172
+"CL100","HSS/AHSS",2044,"Construction steel",0.147428571428571
+"CL100","HSS/AHSS",2045,"Construction steel",0.122857142857143
+"CL100","HSS/AHSS",2046,"Construction steel",0.0982857142857141
+"CL100","HSS/AHSS",2047,"Construction steel",0.0737142857142855
+"CL100","HSS/AHSS",2048,"Construction steel",0.0491428571428569
+"CL100","HSS/AHSS",2049,"Construction steel",0.0245714285714284
+"All","Wrought Aluminum",2015,"Loss",0.14
+"All","Cast Aluminum",2015,"Loss",0.14
+"All","Cast Iron",2015,"Loss",0.14
+"All","Mild steel and other steels",2015,"Loss",0.14
+"All","HSS/AHSS",2015,"Loss",0.14
+"CL100","Wrought Aluminum",2050,"Loss",0.05
+"CL100","Wrought Aluminum",2016,"Loss",0.137428571428571
+"CL100","Wrought Aluminum",2017,"Loss",0.134857142857143
+"CL100","Wrought Aluminum",2018,"Loss",0.132285714285714
+"CL100","Wrought Aluminum",2019,"Loss",0.129714285714286
+"CL100","Wrought Aluminum",2020,"Loss",0.127142857142857
+"CL100","Wrought Aluminum",2021,"Loss",0.124571428571429
+"CL100","Wrought Aluminum",2022,"Loss",0.122
+"CL100","Wrought Aluminum",2023,"Loss",0.119428571428572
+"CL100","Wrought Aluminum",2024,"Loss",0.116857142857143
+"CL100","Wrought Aluminum",2025,"Loss",0.114285714285714
+"CL100","Wrought Aluminum",2026,"Loss",0.111714285714286
+"CL100","Wrought Aluminum",2027,"Loss",0.109142857142857
+"CL100","Wrought Aluminum",2028,"Loss",0.106571428571429
+"CL100","Wrought Aluminum",2029,"Loss",0.104
+"CL100","Wrought Aluminum",2030,"Loss",0.101428571428572
+"CL100","Wrought Aluminum",2031,"Loss",0.0988571428571429
+"CL100","Wrought Aluminum",2032,"Loss",0.0962857142857144
+"CL100","Wrought Aluminum",2033,"Loss",0.0937142857142858
+"CL100","Wrought Aluminum",2034,"Loss",0.0911428571428572
+"CL100","Wrought Aluminum",2035,"Loss",0.0885714285714286
+"CL100","Wrought Aluminum",2036,"Loss",0.0860000000000001
+"CL100","Wrought Aluminum",2037,"Loss",0.0834285714285715
+"CL100","Wrought Aluminum",2038,"Loss",0.0808571428571429
+"CL100","Wrought Aluminum",2039,"Loss",0.0782857142857144
+"CL100","Wrought Aluminum",2040,"Loss",0.0757142857142858
+"CL100","Wrought Aluminum",2041,"Loss",0.0731428571428572
+"CL100","Wrought Aluminum",2042,"Loss",0.0705714285714286
+"CL100","Wrought Aluminum",2043,"Loss",0.0680000000000001
+"CL100","Wrought Aluminum",2044,"Loss",0.0654285714285715
+"CL100","Wrought Aluminum",2045,"Loss",0.0628571428571429
+"CL100","Wrought Aluminum",2046,"Loss",0.0602857142857144
+"CL100","Wrought Aluminum",2047,"Loss",0.0577142857142858
+"CL100","Wrought Aluminum",2048,"Loss",0.0551428571428572
+"CL100","Wrought Aluminum",2049,"Loss",0.0525714285714286
+"CL100","Cast Aluminum",2050,"Loss",0.05
+"CL100","Cast Aluminum",2016,"Loss",0.137428571428571
+"CL100","Cast Aluminum",2017,"Loss",0.134857142857143
+"CL100","Cast Aluminum",2018,"Loss",0.132285714285714
+"CL100","Cast Aluminum",2019,"Loss",0.129714285714286
+"CL100","Cast Aluminum",2020,"Loss",0.127142857142857
+"CL100","Cast Aluminum",2021,"Loss",0.124571428571429
+"CL100","Cast Aluminum",2022,"Loss",0.122
+"CL100","Cast Aluminum",2023,"Loss",0.119428571428572
+"CL100","Cast Aluminum",2024,"Loss",0.116857142857143
+"CL100","Cast Aluminum",2025,"Loss",0.114285714285714
+"CL100","Cast Aluminum",2026,"Loss",0.111714285714286
+"CL100","Cast Aluminum",2027,"Loss",0.109142857142857
+"CL100","Cast Aluminum",2028,"Loss",0.106571428571429
+"CL100","Cast Aluminum",2029,"Loss",0.104
+"CL100","Cast Aluminum",2030,"Loss",0.101428571428572
+"CL100","Cast Aluminum",2031,"Loss",0.0988571428571429
+"CL100","Cast Aluminum",2032,"Loss",0.0962857142857144
+"CL100","Cast Aluminum",2033,"Loss",0.0937142857142858
+"CL100","Cast Aluminum",2034,"Loss",0.0911428571428572
+"CL100","Cast Aluminum",2035,"Loss",0.0885714285714286
+"CL100","Cast Aluminum",2036,"Loss",0.0860000000000001
+"CL100","Cast Aluminum",2037,"Loss",0.0834285714285715
+"CL100","Cast Aluminum",2038,"Loss",0.0808571428571429
+"CL100","Cast Aluminum",2039,"Loss",0.0782857142857144
+"CL100","Cast Aluminum",2040,"Loss",0.0757142857142858
+"CL100","Cast Aluminum",2041,"Loss",0.0731428571428572
+"CL100","Cast Aluminum",2042,"Loss",0.0705714285714286
+"CL100","Cast Aluminum",2043,"Loss",0.0680000000000001
+"CL100","Cast Aluminum",2044,"Loss",0.0654285714285715
+"CL100","Cast Aluminum",2045,"Loss",0.0628571428571429
+"CL100","Cast Aluminum",2046,"Loss",0.0602857142857144
+"CL100","Cast Aluminum",2047,"Loss",0.0577142857142858
+"CL100","Cast Aluminum",2048,"Loss",0.0551428571428572
+"CL100","Cast Aluminum",2049,"Loss",0.0525714285714286
+"CL100","Cast Iron",2050,"Loss",0.05
+"CL100","Cast Iron",2016,"Loss",0.137428571428571
+"CL100","Cast Iron",2017,"Loss",0.134857142857143
+"CL100","Cast Iron",2018,"Loss",0.132285714285714
+"CL100","Cast Iron",2019,"Loss",0.129714285714286
+"CL100","Cast Iron",2020,"Loss",0.127142857142857
+"CL100","Cast Iron",2021,"Loss",0.124571428571429
+"CL100","Cast Iron",2022,"Loss",0.122
+"CL100","Cast Iron",2023,"Loss",0.119428571428572
+"CL100","Cast Iron",2024,"Loss",0.116857142857143
+"CL100","Cast Iron",2025,"Loss",0.114285714285714
+"CL100","Cast Iron",2026,"Loss",0.111714285714286
+"CL100","Cast Iron",2027,"Loss",0.109142857142857
+"CL100","Cast Iron",2028,"Loss",0.106571428571429
+"CL100","Cast Iron",2029,"Loss",0.104
+"CL100","Cast Iron",2030,"Loss",0.101428571428572
+"CL100","Cast Iron",2031,"Loss",0.0988571428571429
+"CL100","Cast Iron",2032,"Loss",0.0962857142857144
+"CL100","Cast Iron",2033,"Loss",0.0937142857142858
+"CL100","Cast Iron",2034,"Loss",0.0911428571428572
+"CL100","Cast Iron",2035,"Loss",0.0885714285714286
+"CL100","Cast Iron",2036,"Loss",0.0860000000000001
+"CL100","Cast Iron",2037,"Loss",0.0834285714285715
+"CL100","Cast Iron",2038,"Loss",0.0808571428571429
+"CL100","Cast Iron",2039,"Loss",0.0782857142857144
+"CL100","Cast Iron",2040,"Loss",0.0757142857142858
+"CL100","Cast Iron",2041,"Loss",0.0731428571428572
+"CL100","Cast Iron",2042,"Loss",0.0705714285714286
+"CL100","Cast Iron",2043,"Loss",0.0680000000000001
+"CL100","Cast Iron",2044,"Loss",0.0654285714285715
+"CL100","Cast Iron",2045,"Loss",0.0628571428571429
+"CL100","Cast Iron",2046,"Loss",0.0602857142857144
+"CL100","Cast Iron",2047,"Loss",0.0577142857142858
+"CL100","Cast Iron",2048,"Loss",0.0551428571428572
+"CL100","Cast Iron",2049,"Loss",0.0525714285714286
+"CL100","Mild steel and other steels",2050,"Loss",0.05
+"CL100","Mild steel and other steels",2016,"Loss",0.137428571428571
+"CL100","Mild steel and other steels",2017,"Loss",0.134857142857143
+"CL100","Mild steel and other steels",2018,"Loss",0.132285714285714
+"CL100","Mild steel and other steels",2019,"Loss",0.129714285714286
+"CL100","Mild steel and other steels",2020,"Loss",0.127142857142857
+"CL100","Mild steel and other steels",2021,"Loss",0.124571428571429
+"CL100","Mild steel and other steels",2022,"Loss",0.122
+"CL100","Mild steel and other steels",2023,"Loss",0.119428571428572
+"CL100","Mild steel and other steels",2024,"Loss",0.116857142857143
+"CL100","Mild steel and other steels",2025,"Loss",0.114285714285714
+"CL100","Mild steel and other steels",2026,"Loss",0.111714285714286
+"CL100","Mild steel and other steels",2027,"Loss",0.109142857142857
+"CL100","Mild steel and other steels",2028,"Loss",0.106571428571429
+"CL100","Mild steel and other steels",2029,"Loss",0.104
+"CL100","Mild steel and other steels",2030,"Loss",0.101428571428572
+"CL100","Mild steel and other steels",2031,"Loss",0.0988571428571429
+"CL100","Mild steel and other steels",2032,"Loss",0.0962857142857144
+"CL100","Mild steel and other steels",2033,"Loss",0.0937142857142858
+"CL100","Mild steel and other steels",2034,"Loss",0.0911428571428572
+"CL100","Mild steel and other steels",2035,"Loss",0.0885714285714286
+"CL100","Mild steel and other steels",2036,"Loss",0.0860000000000001
+"CL100","Mild steel and other steels",2037,"Loss",0.0834285714285715
+"CL100","Mild steel and other steels",2038,"Loss",0.0808571428571429
+"CL100","Mild steel and other steels",2039,"Loss",0.0782857142857144
+"CL100","Mild steel and other steels",2040,"Loss",0.0757142857142858
+"CL100","Mild steel and other steels",2041,"Loss",0.0731428571428572
+"CL100","Mild steel and other steels",2042,"Loss",0.0705714285714286
+"CL100","Mild steel and other steels",2043,"Loss",0.0680000000000001
+"CL100","Mild steel and other steels",2044,"Loss",0.0654285714285715
+"CL100","Mild steel and other steels",2045,"Loss",0.0628571428571429
+"CL100","Mild steel and other steels",2046,"Loss",0.0602857142857144
+"CL100","Mild steel and other steels",2047,"Loss",0.0577142857142858
+"CL100","Mild steel and other steels",2048,"Loss",0.0551428571428572
+"CL100","Mild steel and other steels",2049,"Loss",0.0525714285714286
+"CL100","HSS/AHSS",2050,"Loss",0.05
+"CL100","HSS/AHSS",2016,"Loss",0.137428571428571
+"CL100","HSS/AHSS",2017,"Loss",0.134857142857143
+"CL100","HSS/AHSS",2018,"Loss",0.132285714285714
+"CL100","HSS/AHSS",2019,"Loss",0.129714285714286
+"CL100","HSS/AHSS",2020,"Loss",0.127142857142857
+"CL100","HSS/AHSS",2021,"Loss",0.124571428571429
+"CL100","HSS/AHSS",2022,"Loss",0.122
+"CL100","HSS/AHSS",2023,"Loss",0.119428571428572
+"CL100","HSS/AHSS",2024,"Loss",0.116857142857143
+"CL100","HSS/AHSS",2025,"Loss",0.114285714285714
+"CL100","HSS/AHSS",2026,"Loss",0.111714285714286
+"CL100","HSS/AHSS",2027,"Loss",0.109142857142857
+"CL100","HSS/AHSS",2028,"Loss",0.106571428571429
+"CL100","HSS/AHSS",2029,"Loss",0.104
+"CL100","HSS/AHSS",2030,"Loss",0.101428571428572
+"CL100","HSS/AHSS",2031,"Loss",0.0988571428571429
+"CL100","HSS/AHSS",2032,"Loss",0.0962857142857144
+"CL100","HSS/AHSS",2033,"Loss",0.0937142857142858
+"CL100","HSS/AHSS",2034,"Loss",0.0911428571428572
+"CL100","HSS/AHSS",2035,"Loss",0.0885714285714286
+"CL100","HSS/AHSS",2036,"Loss",0.0860000000000001
+"CL100","HSS/AHSS",2037,"Loss",0.0834285714285715
+"CL100","HSS/AHSS",2038,"Loss",0.0808571428571429
+"CL100","HSS/AHSS",2039,"Loss",0.0782857142857144
+"CL100","HSS/AHSS",2040,"Loss",0.0757142857142858
+"CL100","HSS/AHSS",2041,"Loss",0.0731428571428572
+"CL100","HSS/AHSS",2042,"Loss",0.0705714285714286
+"CL100","HSS/AHSS",2043,"Loss",0.0680000000000001
+"CL100","HSS/AHSS",2044,"Loss",0.0654285714285715
+"CL100","HSS/AHSS",2045,"Loss",0.0628571428571429
+"CL100","HSS/AHSS",2046,"Loss",0.0602857142857144
+"CL100","HSS/AHSS",2047,"Loss",0.0577142857142858
+"CL100","HSS/AHSS",2048,"Loss",0.0551428571428572
+"CL100","HSS/AHSS",2049,"Loss",0.0525714285714286

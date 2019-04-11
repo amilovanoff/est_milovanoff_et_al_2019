@@ -1,0 +1,25 @@
+"Data","Unit","LWscen","Size","Technology","Fuel type","Year","def","min","max"
+"Absolute fuel consumption improvement","L/100km","BAU","Car","ICEV-G","E10",2050,-1.00018979515721,0,-2.12099310339661
+"Absolute fuel consumption improvement","L/100km","BAU","Light truck","ICEV-G","E10",2050,-2.0721990336553,0,-4.32173872232744
+"Absolute fuel consumption improvement","kWh/100km","BAU","Car","BEV100","Electricity",2050,-1.22500574165812,0,-2.5718441456709
+"Absolute fuel consumption improvement","kWh/100km","BAU","Light truck","BEV100","Electricity",2050,-1.50844241307323,0,-3.16690661701959
+"Absolute fuel consumption improvement","kWh/100km","BAU","Car","BEV300","Electricity",2050,-1.58578112686433,0,-2.82432939799531
+"Absolute fuel consumption improvement","kWh/100km","BAU","Light truck","BEV300","Electricity",2050,-2.39042629868882,0,-4.25453019516665
+"Absolute fuel consumption improvement","L/100km","BAU","Car","FFV","E85",2050,-1.43083692571066,0,-3.02169518740031
+"Absolute fuel consumption improvement","L/100km","BAU","Light truck","FFV","E85",2050,-3.02500841381341,0,-6.26815988331988
+"Absolute fuel consumption improvement","L/100km","BAU","Car","ICEV-D","Diesel",2050,-0.409505221660526,0,-0.772928218532264
+"Absolute fuel consumption improvement","L/100km","BAU","Light truck","ICEV-D","Diesel",2050,-0.76817620669106,0,-2.01489497526689
+"Absolute fuel consumption improvement","L/100km","BAU","Car","CNG","CNG & LPG",2050,-1.46817940685507,0,-2.67588582980977
+"Absolute fuel consumption improvement","L/100km","BAU","Light truck","CNG","CNG & LPG",2050,-3.35704954612688,0,-5.64021383908093
+"Absolute fuel consumption improvement","L/100km","BAU","Car","HEV","E10",2050,-0.737713498179082,0,-1.3929831530586
+"Absolute fuel consumption improvement","L/100km","BAU","Light truck","HEV","E10",2050,-1.25428950578544,0,-2.1313576129313
+"Absolute fuel consumption improvement","L/100km","BAU","Car","PHEV20 (CS mode)","E10",2050,-0.795864781690207,0,-1.64215998229091
+"Absolute fuel consumption improvement","kWh/100km","BAU","Car","PHEV20 (CD mode)","Electricity",2050,-2.90133636259624,0,-5.9865175334214
+"Absolute fuel consumption improvement","L/100km","BAU","Light truck","PHEV20 (CS mode)","E10",2050,-1.62721711369304,0,-2.03784417112477
+"Absolute fuel consumption improvement","kWh/100km","BAU","Light truck","PHEV20 (CD mode)","Electricity",2050,-2.6895017253182,0,-3.36819553337344
+"Absolute fuel consumption improvement","L/100km","BAU","Car","PHEV40 (CS mode)","E10",2050,-0.842723231085379,0,-1.42425051733271
+"Absolute fuel consumption improvement","kWh/100km","BAU","Car","PHEV40 (CD mode)","Electricity",2050,-2.89194279896187,0,-4.88754893135343
+"Absolute fuel consumption improvement","L/100km","BAU","Light truck","PHEV40 (CS mode)","E10",2050,-1.36413971574248,0,-2.30547423423703
+"Absolute fuel consumption improvement","kWh/100km","BAU","Light truck","PHEV40 (CD mode)","Electricity",2050,-3.26627629089395,0,-5.52019396814986
+"Absolute fuel consumption improvement","L/100km","BAU","Car","FCV","Hydrogen",2050,-1.3429436096957,0,-2.74021558901083
+"Absolute fuel consumption improvement","L/100km","BAU","Light truck","FCV","Hydrogen",2050,-3.21355686844995,0,-5.39766545038982

@@ -1,0 +1,22 @@
+"Component","Replaced material","Replacing material","mean","sub_fac_fun","Case","min","max"
+"Body","Steel","HSS/AHSS",0.830555555555556,"mean","Def substitution factors",0.21,1
+"Exterior","Steel","HSS/AHSS",0.805555555555556,"mean","Def substitution factors",0.7,1
+"Weld blanks and fasteners - G","Steel","HSS/AHSS",0.805555555555556,"mean","Def substitution factors",0.7,1
+"Chassis","Steel","HSS/AHSS",0.6825,"mean","Def substitution factors",0.56,0.85
+"Body","Steel","Cast Aluminum",0.615714285714286,"mean","Def substitution factors",0.29,0.99
+"Body","Steel","Wrought Aluminum",0.579411764705882,"mean","Def substitution factors",0.29,0.99
+"Exterior","Steel","Cast Aluminum",0.568888888888889,"mean","Def substitution factors",0.4,0.7
+"Exterior","Steel","Wrought Aluminum",0.568888888888889,"mean","Def substitution factors",0.4,0.7
+"Weld blanks and fasteners - G","Steel","Cast Aluminum",0.568888888888889,"mean","Def substitution factors",0.4,0.7
+"Weld blanks and fasteners - G","Steel","Wrought Aluminum",0.568888888888889,"mean","Def substitution factors",0.4,0.7
+"Chassis","Steel","Cast Aluminum",0.596666666666667,"mean","Def substitution factors",0.5,0.65
+"Chassis","Steel","Wrought Aluminum",0.563333333333333,"mean","Def substitution factors",0.5,0.64
+"Body","HSS/AHSS","Wrought Aluminum",0.81,"mean","Def substitution factors",0.81,0.81
+"Exterior","HSS/AHSS","Wrought Aluminum",0.85,"mean","Def substitution factors",0.81,0.89
+"Weld blanks and fasteners - G","HSS/AHSS","Wrought Aluminum",0.85,"mean","Def substitution factors",0.81,0.89
+"Chassis","Cast Iron","Cast Aluminum",0.435,"mean","Def substitution factors",0.33,0.53
+"Engine","Cast Iron","Cast Aluminum",0.545,"mean","Def substitution factors",0.53,0.56
+"Weld blanks and fasteners - P","Cast Iron","Cast Aluminum",0.545,"mean","Def substitution factors",0.53,0.56
+"Fuel storage system","Cast Iron","Cast Aluminum",0.545,"mean","Def substitution factors",0.53,0.56
+"Exhaust","Cast Iron","Cast Aluminum",0.545,"mean","Def substitution factors",0.53,0.56
+"Interior","Steel","Wrought Aluminum",0.73,"mean","Def substitution factors",0.73,0.73

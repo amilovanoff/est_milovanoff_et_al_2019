@@ -1,0 +1,265 @@
+"LWscen","Year","Phase","GWP100","lw_first_yr","lw_last_yr","Case","lw_period","delta_GWP100"
+"Aluminum Maximum",2015,"End of Life",3283448427.43872,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2016,"End of Life",6963578496.91296,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2017,"End of Life",10196470976.5024,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2018,"End of Life",13577119374.1002,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2019,"End of Life",16983619129.2869,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2020,"End of Life",20397913184.6072,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2021,"End of Life",23819578532.5783,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2022,"End of Life",27292133229.7894,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2023,"End of Life",30783032867.8582,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2024,"End of Life",34281433203.1204,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2025,"End of Life",37787072805.0358,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2015,"Fuel Production",265094076605.565,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2016,"Fuel Production",525421071204.442,2016,2018,"Gradual lightweighting",2,-973678018.770691
+"Aluminum Maximum",2017,"Fuel Production",782881999824.167,2016,2018,"Gradual lightweighting",2,-3795718634.65479
+"Aluminum Maximum",2018,"Fuel Production",1037618913144.78,2016,2018,"Gradual lightweighting",2,-9454016449.35876
+"Aluminum Maximum",2019,"Fuel Production",1289693576170.4,2016,2018,"Gradual lightweighting",2,-17938650928.189
+"Aluminum Maximum",2020,"Fuel Production",1539099312309.28,2016,2018,"Gradual lightweighting",2,-29210459244.8728
+"Aluminum Maximum",2021,"Fuel Production",1785365873412.65,2016,2018,"Gradual lightweighting",2,-43147082688.313
+"Aluminum Maximum",2022,"Fuel Production",2028582991527.95,2016,2018,"Gradual lightweighting",2,-59660099415.5044
+"Aluminum Maximum",2023,"Fuel Production",2269024644250.06,2016,2018,"Gradual lightweighting",2,-78688788171.5327
+"Aluminum Maximum",2024,"Fuel Production",2506779763091.58,2016,2018,"Gradual lightweighting",2,-100138569411.564
+"Aluminum Maximum",2025,"Fuel Production",2741833178800.57,2016,2018,"Gradual lightweighting",2,-123900686713.475
+"Aluminum Maximum",2015,"Fuel Use",1153858674644.95,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2016,"Fuel Use",2298408436882.74,2016,2018,"Gradual lightweighting",2,-4248908352.7041
+"Aluminum Maximum",2017,"Fuel Use",3438509984824.6,2016,2018,"Gradual lightweighting",2,-16524369043.8535
+"Aluminum Maximum",2018,"Fuel Use",4567850837829.58,2016,2018,"Gradual lightweighting",2,-41024872469.334
+"Aluminum Maximum",2019,"Fuel Use",5685173653175.37,2016,2018,"Gradual lightweighting",2,-77562494008.5869
+"Aluminum Maximum",2020,"Fuel Use",6787868750388.65,2016,2018,"Gradual lightweighting",2,-125636933585.633
+"Aluminum Maximum",2021,"Fuel Use",7871989257297.92,2016,2018,"Gradual lightweighting",2,-184477807748.974
+"Aluminum Maximum",2022,"Fuel Use",8935579974350.72,2016,2018,"Gradual lightweighting",2,-253535870787.221
+"Aluminum Maximum",2023,"Fuel Use",9977941385457.38,2016,2018,"Gradual lightweighting",2,-332296754941.086
+"Aluminum Maximum",2024,"Fuel Use",10998198449172.1,2016,2018,"Gradual lightweighting",2,-420146903310.359
+"Aluminum Maximum",2025,"Fuel Use",11995559045006.7,2016,2018,"Gradual lightweighting",2,-516492582327.795
+"Aluminum Maximum",2015,"Manufacturing",28841508561.8623,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2016,"Manufacturing",55354832529.6257,2016,2018,"Gradual lightweighting",2,-1924907716.97086
+"Aluminum Maximum",2017,"Manufacturing",79117008999.0848,2016,2018,"Gradual lightweighting",2,-5585119803.81439
+"Aluminum Maximum",2018,"Manufacturing",101818012439.4,2016,2018,"Gradual lightweighting",2,-11195103120.9906
+"Aluminum Maximum",2019,"Manufacturing",124469121429.578,2016,2018,"Gradual lightweighting",2,-16794921438.5667
+"Aluminum Maximum",2020,"Manufacturing",146969863926.351,2016,2018,"Gradual lightweighting",2,-22334033548.1356
+"Aluminum Maximum",2021,"Manufacturing",168915730431.321,2016,2018,"Gradual lightweighting",2,-27719007715.5095
+"Aluminum Maximum",2022,"Manufacturing",190875883777.177,2016,2018,"Gradual lightweighting",2,-33098758762.9643
+"Aluminum Maximum",2023,"Manufacturing",213007776303.863,2016,2018,"Gradual lightweighting",2,-38511697862.114
+"Aluminum Maximum",2024,"Manufacturing",235193824391.022,2016,2018,"Gradual lightweighting",2,-43928318517.201
+"Aluminum Maximum",2025,"Manufacturing",257465926725.937,2016,2018,"Gradual lightweighting",2,-49359887469.1675
+"Aluminum Maximum",2015,"Primary Material Production",52403915985.2186,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2016,"Primary Material Production",115784446588.149,2016,2018,"Gradual lightweighting",2,15573146026.9129
+"Aluminum Maximum",2017,"Primary Material Production",192244450523.653,2016,2018,"Gradual lightweighting",2,44637356856.2956
+"Aluminum Maximum",2018,"Primary Material Production",284178981244.383,2016,2018,"Gradual lightweighting",2,88110834273.6925
+"Aluminum Maximum",2019,"Primary Material Production",375467274723.469,2016,2018,"Gradual lightweighting",2,131369145834.128
+"Aluminum Maximum",2020,"Primary Material Production",465229087063.878,2016,2018,"Gradual lightweighting",2,173934845291.125
+"Aluminum Maximum",2021,"Primary Material Production",551490243522.113,2016,2018,"Gradual lightweighting",2,214828373358.967
+"Aluminum Maximum",2022,"Primary Material Production",636446057991.076,2016,2018,"Gradual lightweighting",2,254894921639.8
+"Aluminum Maximum",2023,"Primary Material Production",720750626900.963,2016,2018,"Gradual lightweighting",2,294212986131.956
+"Aluminum Maximum",2024,"Primary Material Production",803822479197.975,2016,2018,"Gradual lightweighting",2,332451860360.273
+"Aluminum Maximum",2025,"Primary Material Production",885752849926.141,2016,2018,"Gradual lightweighting",2,369575343521.241
+"Aluminum Maximum",2015,"Secondary Material Production",7824387315.20555,2016,2018,"Gradual lightweighting",2,0
+"Aluminum Maximum",2016,"Secondary Material Production",16183794623.4683,2016,2018,"Gradual lightweighting",2,368803164.363319
+"Aluminum Maximum",2017,"Secondary Material Production",24403465775.7109,2016,2018,"Gradual lightweighting",2,1056167910.78809
+"Aluminum Maximum",2018,"Secondary Material Production",33319146038.8317,2016,2018,"Gradual lightweighting",2,2085764306.04005
+"Aluminum Maximum",2019,"Secondary Material Production",42319754113.2589,2016,2018,"Gradual lightweighting",2,3135673144.08641
+"Aluminum Maximum",2020,"Secondary Material Production",51356959007.451,2016,2018,"Gradual lightweighting",2,4210978903.00652
+"Aluminum Maximum",2021,"Secondary Material Production",60344129598.8537,2016,2018,"Gradual lightweighting",2,5336002327.66971
+"Aluminum Maximum",2022,"Secondary Material Production",69543232153.0304,2016,2018,"Gradual lightweighting",2,6586264878.90982
+"Aluminum Maximum",2023,"Secondary Material Production",79013847690.6116,2016,2018,"Gradual lightweighting",2,8004122191.34921
+"Aluminum Maximum",2024,"Secondary Material Production",88726633173.4214,2016,2018,"Gradual lightweighting",2,9602410713.59743
+"Aluminum Maximum",2025,"Secondary Material Production",98709936580.7318,2016,2018,"Gradual lightweighting",2,11401874541.4913
+"Aluminum Maximum",2015,"End of Life",3283448427.43872,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2016,"End of Life",6963578496.91296,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2017,"End of Life",10196470976.5024,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2018,"End of Life",13577119374.1002,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2019,"End of Life",16983619129.2869,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2020,"End of Life",20397913184.6072,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2021,"End of Life",23819578532.5783,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2022,"End of Life",27292133229.7894,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2023,"End of Life",30783032867.8582,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2024,"End of Life",34281433203.1204,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2025,"End of Life",37787072805.0358,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2015,"Fuel Production",265094076605.565,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2016,"Fuel Production",526073106951.95,2016,2024,"Gradual lightweighting",8,-321642271.262939
+"Aluminum Maximum",2017,"Fuel Production",785420373208.278,2016,2024,"Gradual lightweighting",8,-1257345250.54407
+"Aluminum Maximum",2018,"Fuel Production",1043935369924.07,2016,2024,"Gradual lightweighting",8,-3137559670.06824
+"Aluminum Maximum",2019,"Fuel Production",1301367022246.51,2016,2024,"Gradual lightweighting",8,-6265204852.06958
+"Aluminum Maximum",2020,"Fuel Production",1557382561323.31,2016,2024,"Gradual lightweighting",8,-10927210230.8481
+"Aluminum Maximum",2021,"Fuel Production",1811150683822.37,2016,2024,"Gradual lightweighting",8,-17362272278.5969
+"Aluminum Maximum",2022,"Fuel Production",2062410245374.95,2016,2024,"Gradual lightweighting",8,-25832845568.4978
+"Aluminum Maximum",2023,"Fuel Production",2311091289366.68,2016,2024,"Gradual lightweighting",8,-36622143054.9146
+"Aluminum Maximum",2024,"Fuel Production",2556924715876.92,2016,2024,"Gradual lightweighting",8,-49993616626.2227
+"Aluminum Maximum",2025,"Fuel Production",2799846065495.62,2016,2024,"Gradual lightweighting",8,-65887800018.4268
+"Aluminum Maximum",2015,"Fuel Use",1153858674644.95,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2016,"Fuel Use",2301253814292.22,2016,2024,"Gradual lightweighting",8,-1403530943.22754
+"Aluminum Maximum",2017,"Fuel Use",3449560903053.4,2016,2024,"Gradual lightweighting",8,-5473450815.06104
+"Aluminum Maximum",2018,"Fuel Use",4595262192602.58,2016,2024,"Gradual lightweighting",8,-13613517696.3301
+"Aluminum Maximum",2019,"Fuel Use",5735678302196.68,2016,2024,"Gradual lightweighting",8,-27057844987.2773
+"Aluminum Maximum",2020,"Fuel Use",6866664623167.07,2016,2024,"Gradual lightweighting",8,-46841060807.2061
+"Aluminum Maximum",2021,"Fuel Use",7982687306541.9,2016,2024,"Gradual lightweighting",8,-73779758504.9912
+"Aluminum Maximum",2022,"Fuel Use",9080311617181.99,2016,2024,"Gradual lightweighting",8,-108804227955.959
+"Aluminum Maximum",2023,"Fuel Use",10157391721057.1,2016,2024,"Gradual lightweighting",8,-152846419341.391
+"Aluminum Maximum",2024,"Fuel Use",11211601573996.9,2016,2024,"Gradual lightweighting",8,-206743778485.561
+"Aluminum Maximum",2025,"Fuel Use",12241938687260.6,2016,2024,"Gradual lightweighting",8,-270112940073.857
+"Aluminum Maximum",2015,"Manufacturing",28841508561.8623,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2016,"Manufacturing",56638185541.2853,2016,2024,"Gradual lightweighting",8,-641554705.311279
+"Aluminum Maximum",2017,"Manufacturing",82828234651.7132,2016,2024,"Gradual lightweighting",8,-1873894151.18594
+"Aluminum Maximum",2018,"Manufacturing",109237440689.615,2016,2024,"Gradual lightweighting",8,-3775674870.77599
+"Aluminum Maximum",2019,"Manufacturing",134968516987.721,2016,2024,"Gradual lightweighting",8,-6295525880.42429
+"Aluminum Maximum",2020,"Manufacturing",159906361140.703,2016,2024,"Gradual lightweighting",8,-9397536333.78415
+"Aluminum Maximum",2021,"Manufacturing",183633440344.602,2016,2024,"Gradual lightweighting",8,-13001297802.2289
+"Aluminum Maximum",2022,"Manufacturing",206788832864.117,2016,2024,"Gradual lightweighting",8,-17185809676.0236
+"Aluminum Maximum",2023,"Manufacturing",229535954272.118,2016,2024,"Gradual lightweighting",8,-21983519893.8594
+"Aluminum Maximum",2024,"Manufacturing",251741194854.665,2016,2024,"Gradual lightweighting",8,-27380948053.5576
+"Aluminum Maximum",2025,"Manufacturing",274033365430.681,2016,2024,"Gradual lightweighting",8,-32792448764.4235
+"Aluminum Maximum",2015,"Primary Material Production",52403915985.2186,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2016,"Primary Material Production",105548559010.451,2016,2024,"Gradual lightweighting",8,5337258449.21468
+"Aluminum Maximum",2017,"Primary Material Production",163134832849.348,2016,2024,"Gradual lightweighting",8,15527739181.9908
+"Aluminum Maximum",2018,"Primary Material Production",227224586773.436,2016,2024,"Gradual lightweighting",8,31156439802.7455
+"Aluminum Maximum",2019,"Primary Material Production",295801943987.141,2016,2024,"Gradual lightweighting",8,51703815097.8001
+"Aluminum Maximum",2020,"Primary Material Production",368072989538.255,2016,2024,"Gradual lightweighting",8,76778747765.5023
+"Aluminum Maximum",2021,"Primary Material Production",442233345798.695,2016,2024,"Gradual lightweighting",8,105571475635.548
+"Aluminum Maximum",2022,"Primary Material Production",520048281808.411,2016,2024,"Gradual lightweighting",8,138497145457.135
+"Aluminum Maximum",2023,"Primary Material Production",602132792935.575,2016,2024,"Gradual lightweighting",8,175595152166.568
+"Aluminum Maximum",2024,"Primary Material Production",687848834055.996,2016,2024,"Gradual lightweighting",8,216478215218.293
+"Aluminum Maximum",2025,"Primary Material Production",772945000750.917,2016,2024,"Gradual lightweighting",8,256767494346.017
+"Aluminum Maximum",2015,"Secondary Material Production",7824387315.20555,2016,2024,"Gradual lightweighting",8,0
+"Aluminum Maximum",2016,"Secondary Material Production",15946079832.5392,2016,2024,"Gradual lightweighting",8,131088373.434284
+"Aluminum Maximum",2017,"Secondary Material Production",23729937053.2876,2016,2024,"Gradual lightweighting",8,382639188.364754
+"Aluminum Maximum",2018,"Secondary Material Production",32003157949.3904,2016,2024,"Gradual lightweighting",8,769776216.598694
+"Aluminum Maximum",2019,"Secondary Material Production",40469457309.235,2016,2024,"Gradual lightweighting",8,1285376340.06255
+"Aluminum Maximum",2020,"Secondary Material Production",49072917899.4492,2016,2024,"Gradual lightweighting",8,1926937795.00467
+"Aluminum Maximum",2021,"Secondary Material Production",57700306807.711,2016,2024,"Gradual lightweighting",8,2692179536.52705
+"Aluminum Maximum",2022,"Secondary Material Production",66574962707.6834,2016,2024,"Gradual lightweighting",8,3617995433.56282
+"Aluminum Maximum",2023,"Secondary Material Production",75738195304.548,2016,2024,"Gradual lightweighting",8,4728469805.28563
+"Aluminum Maximum",2024,"Secondary Material Production",85166099225.8505,2016,2024,"Gradual lightweighting",8,6041876766.02655
+"Aluminum Maximum",2025,"Secondary Material Production",94782284525.4413,2016,2024,"Gradual lightweighting",8,7474222486.20085
+"Aluminum Maximum",2015,"End of Life",3283448427.43872,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2016,"End of Life",6963578496.91296,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2017,"End of Life",10196470976.5024,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2018,"End of Life",13577119374.1002,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2019,"End of Life",16983619129.2869,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2020,"End of Life",20397913184.6072,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2021,"End of Life",23819578532.5783,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2022,"End of Life",27292133229.7894,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2023,"End of Life",30783032867.8582,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2024,"End of Life",34281433203.1204,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2025,"End of Life",37787072805.0358,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2015,"Fuel Production",265094076605.565,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2016,"Fuel Production",526203498724.624,2016,2030,"Gradual lightweighting",14,-191250498.588928
+"Aluminum Maximum",2017,"Fuel Production",785929626412.701,2016,2030,"Gradual lightweighting",14,-748092046.120361
+"Aluminum Maximum",2018,"Fuel Production",1045204922286.43,2016,2030,"Gradual lightweighting",14,-1868007307.70447
+"Aluminum Maximum",2019,"Fuel Production",1303899703360.86,2016,2030,"Gradual lightweighting",14,-3732523737.71997
+"Aluminum Maximum",2020,"Fuel Production",1561795769742.82,2016,2030,"Gradual lightweighting",14,-6514001811.33276
+"Aluminum Maximum",2021,"Fuel Production",1818156818939.4,2016,2030,"Gradual lightweighting",14,-10356137161.564
+"Aluminum Maximum",2022,"Fuel Production",2072826476885.56,2016,2030,"Gradual lightweighting",14,-15416614057.8926
+"Aluminum Maximum",2023,"Fuel Production",2325848702080.4,2016,2030,"Gradual lightweighting",14,-21864730341.1919
+"Aluminum Maximum",2024,"Fuel Production",2577063881504.45,2016,2030,"Gradual lightweighting",14,-29854450998.6943
+"Aluminum Maximum",2025,"Fuel Production",2826203258678.47,2016,2030,"Gradual lightweighting",14,-39530606835.5723
+"Aluminum Maximum",2015,"Fuel Use",1153858674644.95,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2016,"Fuel Use",2301822807594.39,2016,2030,"Gradual lightweighting",14,-834537641.058594
+"Aluminum Maximum",2017,"Fuel Use",3451777818893.68,2016,2030,"Gradual lightweighting",14,-3256534974.77393
+"Aluminum Maximum",2018,"Fuel Use",4600771045462.4,2016,2030,"Gradual lightweighting",14,-8104664836.51172
+"Aluminum Maximum",2019,"Fuel Use",5746618100214.87,2016,2030,"Gradual lightweighting",14,-16118046969.085
+"Aluminum Maximum",2020,"Fuel Use",6885588171834.95,2016,2030,"Gradual lightweighting",14,-27917512139.3262
+"Aluminum Maximum",2021,"Fuel Use",8012473210162.12,2016,2030,"Gradual lightweighting",14,-43993854884.7695
+"Aluminum Maximum",2022,"Fuel Use",9124211101427.21,2016,2030,"Gradual lightweighting",14,-64904743710.7344
+"Aluminum Maximum",2023,"Fuel Use",10219033306464.9,2016,2030,"Gradual lightweighting",14,-91204833933.5781
+"Aluminum Maximum",2024,"Fuel Use",11294967217784.1,2016,2030,"Gradual lightweighting",14,-123378134698.391
+"Aluminum Maximum",2025,"Fuel Use",12350168253713.4,2016,2030,"Gradual lightweighting",14,-161883373621.09
+"Aluminum Maximum",2015,"Manufacturing",28841508561.8623,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2016,"Manufacturing",56897305940.0352,2016,2030,"Gradual lightweighting",14,-382434306.561378
+"Aluminum Maximum",2017,"Manufacturing",83583551740.5156,2016,2030,"Gradual lightweighting",14,-1118577062.38359
+"Aluminum Maximum",2018,"Manufacturing",110756160940.089,2016,2030,"Gradual lightweighting",14,-2256954620.30203
+"Aluminum Maximum",2019,"Manufacturing",137495733526.513,2016,2030,"Gradual lightweighting",14,-3768309341.63162
+"Aluminum Maximum",2020,"Manufacturing",163671647050.74,2016,2030,"Gradual lightweighting",14,-5632250423.74658
+"Aluminum Maximum",2021,"Manufacturing",188833531041.833,2016,2030,"Gradual lightweighting",14,-7801207104.99759
+"Aluminum Maximum",2022,"Manufacturing",213651873084.59,2016,2030,"Gradual lightweighting",14,-10322769455.5505
+"Aluminum Maximum",2023,"Manufacturing",238304357624.278,2016,2030,"Gradual lightweighting",14,-13215116541.6995
+"Aluminum Maximum",2024,"Manufacturing",262658826725.726,2016,2030,"Gradual lightweighting",14,-16463316182.4966
+"Aluminum Maximum",2025,"Manufacturing",286751813450.539,2016,2030,"Gradual lightweighting",14,-20074000744.5649
+"Aluminum Maximum",2015,"Primary Material Production",52403915985.2186,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2016,"Primary Material Production",103437733525.693,2016,2030,"Gradual lightweighting",14,3226432964.45638
+"Aluminum Maximum",2017,"Primary Material Production",157017974087.572,2016,2030,"Gradual lightweighting",14,9410880420.21506
+"Aluminum Maximum",2018,"Primary Material Production",215002382032.466,2016,2030,"Gradual lightweighting",14,18934235061.7755
+"Aluminum Maximum",2019,"Primary Material Production",275606062546.922,2016,2030,"Gradual lightweighting",14,31507933657.5812
+"Aluminum Maximum",2020,"Primary Material Production",338214690407.723,2016,2030,"Gradual lightweighting",14,46920448634.9703
+"Aluminum Maximum",2021,"Primary Material Production",401362549011.938,2016,2030,"Gradual lightweighting",14,64700678848.7919
+"Aluminum Maximum",2022,"Primary Material Production",466683194300.599,2016,2030,"Gradual lightweighting",14,85132057949.3231
+"Aluminum Maximum",2023,"Primary Material Production",534804402565.844,2016,2030,"Gradual lightweighting",14,108266761796.838
+"Aluminum Maximum",2024,"Primary Material Production",605251433168.122,2016,2030,"Gradual lightweighting",14,133880814330.419
+"Aluminum Maximum",2025,"Primary Material Production",678089352614.736,2016,2030,"Gradual lightweighting",14,161911846209.837
+"Aluminum Maximum",2015,"Secondary Material Production",7824387315.20555,2016,2030,"Gradual lightweighting",14,0
+"Aluminum Maximum",2016,"Secondary Material Production",15895671459.4733,2016,2030,"Gradual lightweighting",14,80680000.368351
+"Aluminum Maximum",2017,"Secondary Material Production",23583565128.8613,2016,2030,"Gradual lightweighting",14,236267263.938503
+"Aluminum Maximum",2018,"Secondary Material Production",31710296126.6347,2016,2030,"Gradual lightweighting",14,476914393.843033
+"Aluminum Maximum",2019,"Secondary Material Production",39983021271.5463,2016,2030,"Gradual lightweighting",14,798940302.373787
+"Aluminum Maximum",2020,"Secondary Material Production",48347436156.795,2016,2030,"Gradual lightweighting",14,1201456052.35049
+"Aluminum Maximum",2021,"Secondary Material Production",56691446464.5496,2016,2030,"Gradual lightweighting",14,1683319193.36561
+"Aluminum Maximum",2022,"Secondary Material Production",65224738710.2494,2016,2030,"Gradual lightweighting",14,2267771436.12878
+"Aluminum Maximum",2023,"Secondary Material Production",73979409596.3371,2016,2030,"Gradual lightweighting",14,2969684097.07471
+"Aluminum Maximum",2024,"Secondary Material Production",82922614620.662,2016,2030,"Gradual lightweighting",14,3798392160.83803
+"Aluminum Maximum",2025,"Secondary Material Production",92077393680.4373,2016,2030,"Gradual lightweighting",14,4769331641.19682
+"Aluminum Maximum",2015,"End of Life",3283448427.43872,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2016,"End of Life",6963578496.91296,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2017,"End of Life",10196470976.5024,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2018,"End of Life",13577119374.1002,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2019,"End of Life",16983619129.2869,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2020,"End of Life",20397913184.6072,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2021,"End of Life",23819578532.5783,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2022,"End of Life",27292133229.7894,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2023,"End of Life",30783032867.8582,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2024,"End of Life",34281433203.1204,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2025,"End of Life",37787072805.0358,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2015,"Fuel Production",265094076605.565,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2016,"Fuel Production",526259390824.07,2016,2036,"Gradual lightweighting",20,-135358399.142578
+"Aluminum Maximum",2017,"Fuel Production",786148101952.145,2016,2036,"Gradual lightweighting",20,-529616506.676758
+"Aluminum Maximum",2018,"Fuel Production",1045750060875.32,2016,2036,"Gradual lightweighting",20,-1322868718.82166
+"Aluminum Maximum",2019,"Fuel Production",1304988128300.32,2016,2036,"Gradual lightweighting",20,-2644098798.2666
+"Aluminum Maximum",2020,"Fuel Production",1563693804177.55,2016,2036,"Gradual lightweighting",20,-4615967376.60181
+"Aluminum Maximum",2021,"Fuel Production",1821172017893.19,2016,2036,"Gradual lightweighting",20,-7340938207.76807
+"Aluminum Maximum",2022,"Fuel Production",2077311608703.59,2016,2036,"Gradual lightweighting",20,-10931482239.855
+"Aluminum Maximum",2023,"Fuel Production",2332204950064.81,2016,2036,"Gradual lightweighting",20,-15508482356.7891
+"Aluminum Maximum",2024,"Fuel Production",2585736355539.17,2016,2036,"Gradual lightweighting",20,-21181976963.9805
+"Aluminum Maximum",2025,"Fuel Production",2837678210864.15,2016,2036,"Gradual lightweighting",20,-28055654649.9004
+"Aluminum Maximum",2015,"Fuel Use",1153858674644.95,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2016,"Fuel Use",2302066719826.24,2016,2036,"Gradual lightweighting",20,-590625409.201172
+"Aluminum Maximum",2017,"Fuel Use",3452728974101.01,2016,2036,"Gradual lightweighting",20,-2305379767.44922
+"Aluminum Maximum",2018,"Fuel Use",4603136605157.33,2016,2036,"Gradual lightweighting",20,-5739105141.58008
+"Aluminum Maximum",2019,"Fuel Use",5751319480090.36,2016,2036,"Gradual lightweighting",20,-11416667093.5977
+"Aluminum Maximum",2020,"Fuel Use",6893726323508.58,2016,2036,"Gradual lightweighting",20,-19779360465.6973
+"Aluminum Maximum",2021,"Fuel Use",8025290447401.17,2016,2036,"Gradual lightweighting",20,-31176617645.7275
+"Aluminum Maximum",2022,"Fuel Use",9143110229188.86,2016,2036,"Gradual lightweighting",20,-46005615949.084
+"Aluminum Maximum",2023,"Fuel Use",10245576530034.7,2016,2036,"Gradual lightweighting",20,-64661610363.7891
+"Aluminum Maximum",2024,"Fuel Use",11330855640686,2016,2036,"Gradual lightweighting",20,-87489711796.4707
+"Aluminum Maximum",2025,"Fuel Use",12397234670218.8,2016,2036,"Gradual lightweighting",20,-114816957115.623
+"Aluminum Maximum",2015,"Manufacturing",28841508561.8623,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2016,"Manufacturing",57008619492.9821,2016,2036,"Gradual lightweighting",20,-271120753.614426
+"Aluminum Maximum",2017,"Manufacturing",83908651762.3556,2016,2036,"Gradual lightweighting",20,-793477040.543594
+"Aluminum Maximum",2018,"Manufacturing",111411121901.706,2016,2036,"Gradual lightweighting",20,-1601993658.68417
+"Aluminum Maximum",2019,"Manufacturing",138587640709.151,2016,2036,"Gradual lightweighting",20,-2676402158.99399
+"Aluminum Maximum",2020,"Manufacturing",165301272922.153,2016,2036,"Gradual lightweighting",20,-4002624552.33374
+"Aluminum Maximum",2021,"Manufacturing",191087536222.938,2016,2036,"Gradual lightweighting",20,-5547201923.89243
+"Aluminum Maximum",2022,"Manufacturing",216630299128.056,2016,2036,"Gradual lightweighting",20,-7344343412.08536
+"Aluminum Maximum",2023,"Manufacturing",242112127053.063,2016,2036,"Gradual lightweighting",20,-9407347112.91483
+"Aluminum Maximum",2024,"Manufacturing",267396353501.705,2016,2036,"Gradual lightweighting",20,-11725789406.5173
+"Aluminum Maximum",2025,"Manufacturing",292521148416.073,2016,2036,"Gradual lightweighting",20,-14304665779.0316
+"Aluminum Maximum",2015,"Primary Material Production",52403915985.2186,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2016,"Primary Material Production",102527068379.988,2016,2036,"Gradual lightweighting",20,2315767818.75194
+"Aluminum Maximum",2017,"Primary Material Production",154368939299.271,2016,2036,"Gradual lightweighting",20,6761845631.91376
+"Aluminum Maximum",2018,"Primary Material Production",209687775450.403,2016,2036,"Gradual lightweighting",20,13619628479.713
+"Aluminum Maximum",2019,"Primary Material Production",266787471340.548,2016,2036,"Gradual lightweighting",20,22689342451.2079
+"Aluminum Maximum",2020,"Primary Material Production",325120594743.873,2016,2036,"Gradual lightweighting",20,33826352971.1205
+"Aluminum Maximum",2021,"Primary Material Production",383359607593.76,2016,2036,"Gradual lightweighting",20,46697737430.6137
+"Aluminum Maximum",2022,"Primary Material Production",443067618468.099,2016,2036,"Gradual lightweighting",20,61516482116.8235
+"Aluminum Maximum",2023,"Primary Material Production",504866582623.655,2016,2036,"Gradual lightweighting",20,78328941854.6479
+"Aluminum Maximum",2024,"Primary Material Production",568351683938.538,2016,2036,"Gradual lightweighting",20,96981065100.8348
+"Aluminum Maximum",2025,"Primary Material Production",633613946709.922,2016,2036,"Gradual lightweighting",20,117436440305.023
+"Aluminum Maximum",2015,"Secondary Material Production",7824387315.20555,2016,2036,"Gradual lightweighting",20,0
+"Aluminum Maximum",2016,"Secondary Material Production",15873801712.7078,2016,2036,"Gradual lightweighting",20,58810253.6028004
+"Aluminum Maximum",2017,"Secondary Material Production",23519743773.9249,2016,2036,"Gradual lightweighting",20,172445909.002079
+"Aluminum Maximum",2018,"Secondary Material Production",31581936677.2116,2016,2036,"Gradual lightweighting",20,348554944.419933
+"Aluminum Maximum",2019,"Secondary Material Production",39768720276.553,2016,2036,"Gradual lightweighting",20,584639307.380508
+"Aluminum Maximum",2020,"Secondary Material Production",48026217201.0259,2016,2036,"Gradual lightweighting",20,880237096.581375
+"Aluminum Maximum",2021,"Secondary Material Production",56242689189.7903,2016,2036,"Gradual lightweighting",20,1234561918.60629
+"Aluminum Maximum",2022,"Secondary Material Production",64621680514.8081,2016,2036,"Gradual lightweighting",20,1664713240.68752
+"Aluminum Maximum",2023,"Secondary Material Production",73191411718.815,2016,2036,"Gradual lightweighting",20,2181686219.55264
+"Aluminum Maximum",2024,"Secondary Material Production",81916596855.7904,2016,2036,"Gradual lightweighting",20,2792374395.96643
+"Aluminum Maximum",2025,"Secondary Material Production",90816176784.8293,2016,2036,"Gradual lightweighting",20,3508114745.58878

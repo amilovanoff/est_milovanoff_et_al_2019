@@ -1,11 +1,12 @@
 ---
 title: "Supporting Information: A dynamic fleet model of U.S light-duty vehicle lightweighting and associated greenhouse gas emissions from 2016-2050"
-bibliography: bib_si_paper1_ford.bib
+bibliography: bib_si.bib
 link-citations: no
 csl: environmental-science-and-technology.csl
 output:
   word_document:
     reference_docx: reference_style_rmarkedown.docx
+    toc: no
 fig_caption: TRUE
 ---
 *Alexandre Milovanoff^a^, Hyung Chul Kim^b^, Robert De Kleine^b^, Timothy J. Wallington^b^, I. Daniel Posen^a^, Heather L. MacLean^a,c^  
@@ -24,6 +25,7 @@ knitr::opts_chunk$set(
 	echo = FALSE,
 	fig.keep = "all",
 	fig.show = "asis",
+	fig.path = "si_images/",
 	message = FALSE,
 	warning = FALSE,
 	dev='png',
@@ -102,7 +104,7 @@ scale_colour_milovanoff <- function(...){
 ```
 
 
-This document provides a detailed description of the model developed in the paper "A dynamic fleet model of U.S light-duty vehicle lightweighting and associated greenhouse gas emissions from 2016-2050" (sections 1-5), followed by additional model results (section 6) and discussion (section 7). In addition, a GitHub repository is accessible free of charge that contains all inputs, codes and numerical results associated with this study (https://github.com/amilovanoff/est_milovanoff_et_al_2018).  
+This document provides a detailed description of the model developed in the paper "A dynamic fleet model of U.S light-duty vehicle lightweighting and associated greenhouse gas emissions from 2016-2050" (sections 1-5), followed by additional model results (section 6) and discussion (section 7). In addition, a GitHub repository is accessible free of charge that contains all inputs, codes and numerical results associated with this study (https://github.com/amilovanoff/est_milovanoff_et_al_2019).  
 
 
 #Acronyms
@@ -199,6 +201,7 @@ ggplot(plot_dt)+
 
 fig_cap="Historical sales weighted average curb weights from EPA"
 fig_num<-fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 The historical sales-weighted average curb weights of the other technologies (e.g., CNG, FFV, FCV, PHEV, and BEV) are not available in the report and are taken with the following assumptions:
@@ -254,6 +257,7 @@ ggplot(plot_dt)+
 
 fig_num<-fig_num+1
 fig_cap<-"Specific power and energy for different battery types and vehicle technologies. Source: GREET 2017"
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -285,6 +289,7 @@ ggplot(plot_col)+
 
 fig_num<-fig_num+1
 fig_cap<-"Power and energy battery capacities by vehicle type with bounding values. Sources: GREET 2017 and fueleconomy.org"
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 *  Then, we calculate the EV battery weights from the power capacity and the energy densities previously presented. Figure SI.`r fig_num+1` contains the EV battery weights for the default settings of the model along with the other components weights by vehicle type in 2016.  
@@ -308,6 +313,7 @@ ggplot(subset(plot_col,Component!="Total"))+
 
 fig_cap="Component weight distribution by vehicle type"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -350,6 +356,7 @@ ggplot(plot_col)+
 
 fig_num<-fig_num+1
 fig_cap="Relative average material composition of U.S. light-duty conventional vehicles from 1980 to 2015"
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -393,6 +400,7 @@ ggplot(plot_col)+
 
 fig_num<-fig_num+1
 fig_cap="Average material composition by vehicle type in 2015"
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
  
@@ -459,6 +467,7 @@ ggplot(plot_dt)+
 
 fig_num<-fig_num+1
 fig_cap<-"Historical fuel consumption values by vehicle type"
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 The following table shows the fuel consumption values in 2015 by vehicle type. Those values are used in the lightweighting submodule.
@@ -543,6 +552,7 @@ ggplot(plot_dt)+
 
 fig_cap="Substitution factors for different replaced materials"
 fig_num=fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
  
 As outlined in Figure SI.`r fig_num`, there are a variety of substitution factors even for a specific set of component, replaced and replacing materials. By default in this model, the substitution factors are aggregated by mean for a set of replaced, replacing materials and subcomponent. However, if no substitution factor is available for one set of parameters, the substitution factor used is derived from either the component that includes the subcomponent or from a general category. Figure SI.`r fig_num+1` contains the set of substitution factors used by default and the minimum and maximum values used in the sensitivity analysis.  
@@ -579,6 +589,7 @@ ggplot(plot_dt)+
 
 fig_cap="Substitution factors by replaced material and component with bounding values."
 fig_num=fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 ####Primary savings  
@@ -615,6 +626,7 @@ ggplot(plot_dt)+
 
 fig_cap="Primary mass savings by vehicle type and lightweighting scenario"
 fig_num=fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
  
  
@@ -710,6 +722,7 @@ ggplot(subset(plot_dt,Scenario%in%lwscen_order))+
 
 fig_cap="2016-2030 Cumulative secondary weight changes without powertrain and battery resizing due to primary material substitution by lightweighting scenario and subcomponent"
 fig_num=fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
   
     
@@ -833,6 +846,7 @@ ggplot(subset(plot_dt,Scenario%in%lwscen_order))+
 
 fig_cap="2016-2030 Cumulative secondary weight changes associated with powertrain resizing due to primary material substitution by lightweighting scenario and subcomponent"
 fig_num=fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
   
@@ -903,6 +917,7 @@ ggplot(subset(plot_area,Year%in%c(2030,2050)))+
 
 fig_cap="Cumulative primary and secondary weight changes due to feature content increases over the periods 2016-2030 and 2016-2050"
 fig_num=fig_num+1
+write.csv(plot_area,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -940,6 +955,7 @@ ggplot(subset(plot_area,Year%in%c(2030)))+
 
 fig_cap="Cumulative weight changes due to battery technology improvements over the period 2016-2030"
 fig_num=fig_num+1
+write.csv(plot_area,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -1013,7 +1029,7 @@ ggplot(plot_col)+
 
 fig_cap="Overall weight savings due to lightweighting"
 fig_num=fig_num+1
-
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 #Numerical values
 #subset(plot_col,Technology%in%c("ICEV-G","BEV")&Size=="Car"&Data=="Primary savings",select=c(Scenario,Technology,Data,relative))
 
@@ -1061,6 +1077,7 @@ ggplot(subset(plot_col,Size=="Car"))+
 
 fig_cap="2015 and 2030 curb weight and material composition by vehicle technology for cars"
 fig_num=fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 ```{r mat_comp_2030_lt,fig.cap=paste0(ifelse(fig_name,paste0("Figure SI.",fig_num,": "),""),fig_cap),fig.width=7, fig.height=9}
@@ -1078,6 +1095,7 @@ ggplot(subset(plot_col,Size=="Light truck"))+
 
 fig_cap="2015 and 2030 curb weight and material composition by vehicle technology for light trucks"
 fig_num=fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 ###SI.2.3.2 Projection of fuel consumption values
@@ -1142,7 +1160,7 @@ ggplot(plot_bar)+
 
 fig_cap="2016-2050 cumulative absolute changes in fuel consumption values due to technological advancements with bounding cases"
 fig_num=fig_num+1
-
+write.csv(plot_bar,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 #Numerical value
 #subset(plot_bar,subset= LWscen=="BAU" & Year==2050 & Technology=="ICEV-G")
 ```
@@ -1175,6 +1193,7 @@ ggplot(plot_dt)+
 
 fig_cap="2016-2050 absolute annual improvements in fuel consumption values due to technological advancements"
 fig_num=fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 ####Fuel consumption reductions due to vehicle lightweighting
@@ -1267,7 +1286,7 @@ ggplot(plot_dt)+
 
 fig_cap="2016-2050 adjusted (5-cycle) fuel reduction values (FRV) by vehicle type converted in liter of gasoline equivalent"
 fig_num=fig_num+1
-
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 #Numerical values
 #subset(plot_dt,Technology=="ICEV-G"&Size=="Car"&Year%in%c(2016,2030))
 ```
@@ -1364,7 +1383,7 @@ ggplot(plot_bar)+
 
 fig_cap="Fuel reduction values by vehicle technology and category in 2020 and 2030. Columns are default values and bars range from no improvements (top values) to high improvements (bottom values)."
 fig_num=fig_num+1
-
+write.csv(plot_bar,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 #Numerical value
 #subset(plot_bar,subset= LWscen=="BAU" & Technology=="ICEV-G")
 ```
@@ -1405,6 +1424,7 @@ ggplot(subset(plot_dt,Size=="Car"))+
 
 fig_num<-fig_num+1
 fig_cap<-"Projected fuel consumption values by vehicle type for cars in the different lightweighting scenarios"
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 ```{r fleet_proj_fc_lt, fig.cap=paste0(ifelse(fig_name,paste0("Figure SI.",fig_num,": "),""),fig_cap),fig.width=8,fig.height=8}
@@ -1423,6 +1443,7 @@ ggplot(subset(plot_dt,Size=="Light truck"))+
 
 fig_num<-fig_num+1
 fig_cap<-"Projected fuel consumption values by vehicle type for light trucks in the different lightweighting scenarios"
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
   
 
@@ -1473,6 +1494,7 @@ ggplot(plot_dt)+
 
 fig_cap<-"Survival rates and cumulative survival rates"
 fig_num<-fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 It can be noted that the survival rates for light-trucks increase after 23 years according to the VISION model. It therefore means that if a light-truck has survived more than 23 years, it is less likely to be scrapped from one year to another than before. The cumulative survival rate is still decreasing but with a slower pace after 23 years.  
@@ -1521,6 +1543,7 @@ ggplot(plot_col)+
 
 fig_cap<-"Vintage stock by vehicle type and age in 2015"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
   
 Important dips in Figure SI.`r fig_num` are due to the U.S. economic recession in 2008 that significantly affected the new vehicle sales.
@@ -1608,6 +1631,7 @@ ggplot(plot_col)+
 #sum(subset(plot_col,Year==2050 & grepl("BEV",Technology) & AEO=="REF")[,"Rel_value"])
 fig_cap<-"Light-duty vehicle stock projections based on the AEO 2018 for REF, HOP and LOP cases"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -1638,6 +1662,7 @@ ggplot(plot_col)+
 
 fig_cap<-"Light-duty plug-in electric vehicle stock projections based on the AEO 2018 for REF, HOP and LOP cases"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -1661,6 +1686,7 @@ ggplot(plot_line)+
 
 fig_cap<-"Light-truck shares in the light-duty vehicle stock"
 fig_num<-fig_num+1
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 Figure SI.`r fig_num+1` contains the technology market shares of the new light duty sales in the three AEO cases until 2050. The annual technology market share is the annual share of vehicle technologies in the new sales.  
@@ -1689,6 +1715,7 @@ ggplot(plot_col)+
 
 fig_cap<-"Light-duty vehicle technology market shares in the sale projections for REF, HOP and LOP AEO 2018 cases"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 
 ```
 
@@ -1715,7 +1742,7 @@ ggplot(plot_col)+
 
 fig_cap<-"Light-duty electric vehicle technology market shares in the sale projections for REF, HOP and LOP AEO 2018 cases"
 fig_num<-fig_num+1
-
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -1744,6 +1771,7 @@ ggplot()+
 
 fig_cap<-"EV market share in the U.S. light-duty vehicle according to the BNEF"
 fig_num<-fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 The High EV Penetration case is built based on the projected BNEF technology market shares included in Figure SI.`r fig_num`, the reference AEO 2018 case (REF) and the following assumptions and steps. The first set of steps create the projected new sales by vehicle type.
@@ -1806,6 +1834,7 @@ ggplot(plot_col)+
 
 fig_cap<-"Light-duty vehicle stock projections for REF AEO 2018 case in the original, High EV Penetration and No Change cases"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 In this study, the default case is the Original REF as presented in Figure SI.`r fig_num`. The High EV Penetration and No Change cases are derived from the REF case. When different cases are compared, the original scenarios are used (e.g., Original REF compared to Original LOP or Original HOP).
@@ -1843,6 +1872,7 @@ ggplot(plot_col)+
 
 fig_cap<-"Vintage stock by vehicle type and age in 2020, 2030, 2040 and 2050 and average light-duty fleet age"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 ####Light-duty fleet stocks from 2015 to 2050
@@ -1867,6 +1897,7 @@ ggplot(plot_col)+
 
 fig_cap<-"Light-duty fleet stock by vehicle type from 2015 to 2050"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -1893,6 +1924,7 @@ ggplot(plot_line)+
   labs(y="VKT per year")
 fig_cap<-"Annual Vehicle Kilometer Traveled by age distribution and category"
 fig_num<-fig_num+1
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 ###SI.3.2.2 VKT growth rate
@@ -1923,6 +1955,7 @@ ggplot(plot_line)+
 
 fig_cap<-"Growth rate relative to 2015 VKT distributions"
 fig_num<-fig_num+1
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 ###SI.3.2.3 Annual fleet kilometers traveled by technology type
@@ -1953,6 +1986,7 @@ ggplot(plot_col)+
   
 fig_cap<-"Annual Fleet Kilometers Traveled by technology"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -1990,6 +2024,7 @@ ggplot(plot_line)+
 
 fig_cap<-"Annual light-duty fleet fuel use by fuel type and lightweighting scenario"
 fig_num<-fig_num+1
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 #SI.4 Automotive Material Flow module
@@ -2112,6 +2147,7 @@ ggplot(plot_dt)+
 
 fig_cap<-"Recovery rates for scrapped Cast and wrought Aluminum from 2015 to 2050 in the BAU scenario"
 fig_num<-fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -2138,6 +2174,7 @@ ggplot(plot_dt)+
 
 fig_cap<-"Recovery rates for scrapped Cast and wrought Aluminum from 2015 to 2050 in the Closed Loop scenario"
 fig_num<-fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 ##SI.4.3 Automotive Material Flow results
@@ -2184,6 +2221,7 @@ ggplot(plot_col)+
 
 fig_cap<-"Annual primary and secondary material supplies by lightweighting scenario in the BAU scenario for the Automotive Material Flow module"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -2228,6 +2266,7 @@ ggplot(plot_line)+
 
 fig_cap<-"Primary material production and internal secondary material recovery of cast aluminum, HSS/AHSS, other steels and wrought Aluminum from 2015 to 2050 in three lightweighting scenarios and in the two Automotive Material Flow scenarios"
 fig_num<-fig_num+1
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
   
 Finally, Figure SI.`r fig_num+1` contains the shares of primary and secondary materials from 2016 to 2050 in three lightweighting scenarios and in the two automotive material flow scenarios (i.e., Business-as-usual and Closed loop). It is noted that share of primary material in "Cast Aluminum" increases in the closed loop compared to the business-as-usual. As previously described, this is due to a hypothetical recycling of cast components into wrought components that decreases the overall share of primary material in the aluminum components.  
@@ -2273,7 +2312,7 @@ ggplot(plot_line)+
 
 fig_cap<-"Share of primary material and secondary material of cast aluminum, HSS/AHSS, other steels and wrought Aluminum from 2015 to 2050 in three lightweighting scenarios and in the two Automotive Material Flow scenarios"
 fig_num<-fig_num+1
-
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 #Numerical values
 #subset(plot_line,Year==2030&Scenario=="Aluminum Maximum"&Material=="Wrought Aluminum")
 ```
@@ -2393,6 +2432,8 @@ ggplot()+
 
 fig_cap<-"Annual U.S. grid mix by source and annual U.S. life cycle GHG emission factor of electricity production in 2015, 2030 and 2050 by AEO scenario (REF=reference case, LOP=Low-oil price case and HOP=High-oil price case)"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,"-1.csv"),row.names = FALSE)
+write.csv(plot_point,paste0("reports/si_raw_data/figure",fig_num,"-2.csv"),row.names = FALSE)
 ```
 
 Life cycle GHG emission factors do not vary greatly between the AEO cases (e.g., `r format(subset(plot_point,AEO=="HOP" & Year==2050)[,"value"]*100,digits=3)` and `r format(subset(plot_point,AEO=="LOP" & Year==2050)[,"value"]*100,digits=3)` kg CO~2~ eq. per MWh in the high-oil price and low-oil price cases in 2050, respectively) and reduce by `r format((1-subset(plot_point,AEO=="REF" & Year==2050)[,"value"]/subset(plot_point,AEO=="REF" & Year==2016)[,"value"])*100,digits=3)`% from 2016 to 2050 (e.g., from `r format(subset(plot_point,AEO=="REF" & Year==2016)[,"value"]*100,digits=3)` to `r format(subset(plot_point,AEO=="REF" & Year==2050)[,"value"]*100,digits=3)` kg CO~2~ eq. per MWh in the reference case).   
@@ -2445,6 +2486,8 @@ ggplot()+
 
 fig_cap<-"Electric grid mix for aluminum industries by producing region and source. From International Aluminium Institute."
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,"-1.csv"),row.names = FALSE)
+write.csv(plot_point,paste0("reports/si_raw_data/figure",fig_num,"-2.csv"),row.names = FALSE)
 ```
 
 
@@ -2475,6 +2518,7 @@ ggplot(plot_line)+
 
 fig_cap<-"GHG emission factors of primary aluminum production by producing region from 2000 to 2050."
 fig_num<-fig_num+1
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 ###SI.5.3.2 U.S. consumption mix of primary aluminum by producing region
@@ -2512,6 +2556,7 @@ ggplot(subset(plot_dt,Year<=2016&value!=0&Region!="RoW"))+
   theme(axis.title.y = element_text(hjust=0.81,vjust=0))
 fig_cap<-"U.S. Consumption mix of primary aluminum by region from 2000 to 2015"
 fig_num<-fig_num+1
+write.csv(plot_dt,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -2545,6 +2590,7 @@ ggplot()+
 
 fig_cap<-"Emission factors of primary aluminum consumption in the U.S. from 2000 to 2050. Plain line represents the historical values (2000-2016). Dotted lines represent projections (2017-2050)."
 fig_num<-fig_num+1
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -2638,6 +2684,7 @@ ggplot(plot_col)+
 #ggsave("Rplots/vehicle_lca.png",width=10,height=10,dpi=300,units=c("in"))
 fig_cap<-"Life cycle GHG emissions of conventional and alternative vehicles in current and lightweighted designs with Aluminum Maximum scenario"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -2682,6 +2729,7 @@ ggplot(plot_point)+
 
 fig_cap<-"Payback time and GHG emission reductions due to lightweighting for vehicle-based life cycle assessment by technology and category"
 fig_num<-fig_num+1
+write.csv(plot_point,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
   
 
@@ -2733,6 +2781,7 @@ ggplot(plot_col)+
 #ggsave("Rplots/vehicle_lca.png",width=10,height=10,dpi=300,units=c("in"))
 fig_cap<-"Life cycle GHG emission reductions due to lightweighting per vehicle kilometers traveled over the lifetime by technology and category"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 It can be noted that the fleet-scale lightweighting GHG emission mitigation potentials are lower than the vehicle-scale lightweighting potentials (i.e., -8 g CO2 eq. per Fleet KT over a 20-year period for Aluminum Maximum applied to the U.S. light-duty fleet compared to -`r format(subset(plot_col,Technology=="ICEV-G" & Size=="Car" & LWscen=="Aluminum Maximum")[,"value_svg_vkt"]*1000,digits=3)` g CO2 eq. of reductions per VKT for a conventional car using gasoline over a vehicle lifetime). The major differences between the fleet-scale and the vehicle-scale results are the gradual adoption of lightweighting in the new vehicles and the gradual penetration of new vehicles in the fleet.  
@@ -2783,7 +2832,7 @@ ggplot(plot_col)+
 #ggsave("Rplots/paper_plots/fig3.png",height = 9,width = 10,units="in")
 fig_num<-fig_num+1
 fig_cap<-"Annual fleet GHG emissions by life cycle phase for No Lightweighting, Steel Intensive, Aluminum Intensive, and Aluminum Maximum scenarios in 2020, 2030, 2040, 2050"
-
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 #subset(dyn_LCI_phase,Year==2016&LWscen=="No Lightweighting",select=c(Phase,GWP100,GWP100_rel))
 #subset(dyn_LCI_phase,Year==2025,select=c(Phase,GWP100,GWP100_rel))
 ```
@@ -2846,11 +2895,9 @@ ggplot(plot_line)+
   scale_x_continuous(expand = c(0.01,0))+
   theme(legend.box.margin = margin(r=2,unit="cm"))
   
-
-
-  
 fig_cap<-"Annual GHG changes due to lightweighting in the Aluminum Maximum scenario by phase"
 fig_num<-fig_num+1
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -2898,7 +2945,7 @@ ggplot(data=plot_line)+
 
 fig_cap<-"Annual GHG changes due to lightweighting for the complete and adapted Aluminum Maximum scenarios in the reference and High EV Penetration cases"
 fig_num<-fig_num+1
-
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 #Numerical values
 #subset(delta_cum_tot,Year==2050&LWscen%in%LWscen_tbc)
 #subset(delta_cum_tot,Year==2050&LWscen=="Adapted Aluminum Maximum",delta_GWP100)/subset(delta_cum_tot,Year==2050&LWscen=="Aluminum Maximum",delta_GWP100)
@@ -2993,6 +3040,7 @@ ggplot(data=plot_ribbon)+
 
 fig_cap<-"Annual fleet GHG emissions in high oil prices (HOP), low oil prices (LOP) and reference (REF) cases with GHG emission changes due to fuel consumption improvements, alternative powertrain and Aluminum Maximum lightweighting"
 fig_num<-fig_num+1
+write.csv(plot_line,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -3042,11 +3090,9 @@ ggplot(plot_line)+
         axis.title.x = element_text(hjust=1,size=rel(0.9)),
         panel.spacing.x = unit(0.4, "cm"))
   
-
-
-  
 fig_cap<-"2016-2030 and 2016-2050 cumulative GHG emission changes due to closing the automotive material loop by lightweighting scenario"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -3102,11 +3148,9 @@ ggplot(plot_line)+
   theme(legend.box.margin = margin(r=1.5,unit="cm"),
         axis.text.x = element_text(angle=40,vjust=1,hjust=1))
   
-
-
-  
 fig_cap<-"Temporal distribution of the cumulative GHG emission changes due to Aluminum Maximum lightweighting by life cycle stage for a 2-year, 8-year, 14-year and 20-year lightweighting implementation period and GHG payback time by implementation period"
 fig_num<-fig_num+1
+write.csv(plot_col,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -3168,13 +3212,10 @@ ggplot(plot_bar)+
   theme(legend.box.margin = margin(t=-0.5,r=5,unit="cm"),
         legend.box = "vertical",
         legend.title.align = 0.5)
-
-
-        
   
 fig_cap<-"Single-factor sensitivity analysis on the cumulative GHG emission changes due to lightweighting in the Aluminum Maximum scenario"
 fig_num<-fig_num+1
-
+write.csv(plot_bar,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 
 #Discussion
 # attribute_value_min <- tornado_f_res[["attribute_value_min"]]
@@ -3257,6 +3298,7 @@ rel_val <- 1-val/(val-abs_red)
 
 fig_cap<-"Cumulative GHG emission changes due to lightweighting by lightweighting scenario in the worst, best and default cases outlined by the single-factor sensitivity analysis"
 fig_num<-fig_num+1
+write.csv(plot_bar,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 
@@ -3319,10 +3361,9 @@ ggplot(subset(plot_ribbon,Case!="No Change"))+
   theme(plot.title = element_text(size=13,hjust=1),
         legend.box.margin = margin(r=5,unit="cm"))
 
-  
-
 fig_cap<-"2016-2050 cumulative GHG emission changes for fuel consumption improvements, alternative powertrain and fuel penetration, and Aluminum Maximum lightweighting by order of the simulations"
 fig_num<-fig_num+1
+write.csv(plot_ribbon,paste0("reports/si_raw_data/figure",fig_num,".csv"),row.names = FALSE)
 ```
 
 The total cumulative change before and after the measures is `r cum_red` Gt CO~2~ eq. in all simulations. The cumulative changes of a single measure (for example lightweighting) are assessed on top of the other measures modeled (for example, fuel consumption improvements, alternative powertrain/fuel penetration). It is therefore implemented as the last measure (for example either "Alt. vehicle -> fuel cons. imp. -> Lightweighting" or "fuel cons. imp.. -> Alt. vehicle -> Lightweighting"). The order of the other modeled measures does not influence the GHG emission changes of the single assessed measure.  

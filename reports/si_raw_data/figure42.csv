@@ -1,0 +1,145 @@
+"Scenario","Scrapped material","Year","Recovered material","value"
+"All","Wrought Aluminum",2015,"Cast Aluminum",0.86
+"All","Cast Aluminum",2015,"Cast Aluminum",0.86
+"BAU","Wrought Aluminum",2050,"Cast Aluminum",0.95
+"BAU","Wrought Aluminum",2016,"Cast Aluminum",0.862571428571429
+"BAU","Wrought Aluminum",2017,"Cast Aluminum",0.865142857142857
+"BAU","Wrought Aluminum",2018,"Cast Aluminum",0.867714285714286
+"BAU","Wrought Aluminum",2019,"Cast Aluminum",0.870285714285714
+"BAU","Wrought Aluminum",2020,"Cast Aluminum",0.872857142857143
+"BAU","Wrought Aluminum",2021,"Cast Aluminum",0.875428571428571
+"BAU","Wrought Aluminum",2022,"Cast Aluminum",0.878
+"BAU","Wrought Aluminum",2023,"Cast Aluminum",0.880571428571428
+"BAU","Wrought Aluminum",2024,"Cast Aluminum",0.883142857142857
+"BAU","Wrought Aluminum",2025,"Cast Aluminum",0.885714285714286
+"BAU","Wrought Aluminum",2026,"Cast Aluminum",0.888285714285714
+"BAU","Wrought Aluminum",2027,"Cast Aluminum",0.890857142857143
+"BAU","Wrought Aluminum",2028,"Cast Aluminum",0.893428571428571
+"BAU","Wrought Aluminum",2029,"Cast Aluminum",0.896
+"BAU","Wrought Aluminum",2030,"Cast Aluminum",0.898571428571428
+"BAU","Wrought Aluminum",2031,"Cast Aluminum",0.901142857142857
+"BAU","Wrought Aluminum",2032,"Cast Aluminum",0.903714285714285
+"BAU","Wrought Aluminum",2033,"Cast Aluminum",0.906285714285714
+"BAU","Wrought Aluminum",2034,"Cast Aluminum",0.908857142857143
+"BAU","Wrought Aluminum",2035,"Cast Aluminum",0.911428571428571
+"BAU","Wrought Aluminum",2036,"Cast Aluminum",0.914
+"BAU","Wrought Aluminum",2037,"Cast Aluminum",0.916571428571428
+"BAU","Wrought Aluminum",2038,"Cast Aluminum",0.919142857142857
+"BAU","Wrought Aluminum",2039,"Cast Aluminum",0.921714285714285
+"BAU","Wrought Aluminum",2040,"Cast Aluminum",0.924285714285714
+"BAU","Wrought Aluminum",2041,"Cast Aluminum",0.926857142857142
+"BAU","Wrought Aluminum",2042,"Cast Aluminum",0.929428571428571
+"BAU","Wrought Aluminum",2043,"Cast Aluminum",0.932
+"BAU","Wrought Aluminum",2044,"Cast Aluminum",0.934571428571428
+"BAU","Wrought Aluminum",2045,"Cast Aluminum",0.937142857142857
+"BAU","Wrought Aluminum",2046,"Cast Aluminum",0.939714285714285
+"BAU","Wrought Aluminum",2047,"Cast Aluminum",0.942285714285714
+"BAU","Wrought Aluminum",2048,"Cast Aluminum",0.944857142857142
+"BAU","Wrought Aluminum",2049,"Cast Aluminum",0.947428571428571
+"BAU","Cast Aluminum",2050,"Cast Aluminum",0.95
+"BAU","Cast Aluminum",2016,"Cast Aluminum",0.862571428571429
+"BAU","Cast Aluminum",2017,"Cast Aluminum",0.865142857142857
+"BAU","Cast Aluminum",2018,"Cast Aluminum",0.867714285714286
+"BAU","Cast Aluminum",2019,"Cast Aluminum",0.870285714285714
+"BAU","Cast Aluminum",2020,"Cast Aluminum",0.872857142857143
+"BAU","Cast Aluminum",2021,"Cast Aluminum",0.875428571428571
+"BAU","Cast Aluminum",2022,"Cast Aluminum",0.878
+"BAU","Cast Aluminum",2023,"Cast Aluminum",0.880571428571428
+"BAU","Cast Aluminum",2024,"Cast Aluminum",0.883142857142857
+"BAU","Cast Aluminum",2025,"Cast Aluminum",0.885714285714286
+"BAU","Cast Aluminum",2026,"Cast Aluminum",0.888285714285714
+"BAU","Cast Aluminum",2027,"Cast Aluminum",0.890857142857143
+"BAU","Cast Aluminum",2028,"Cast Aluminum",0.893428571428571
+"BAU","Cast Aluminum",2029,"Cast Aluminum",0.896
+"BAU","Cast Aluminum",2030,"Cast Aluminum",0.898571428571428
+"BAU","Cast Aluminum",2031,"Cast Aluminum",0.901142857142857
+"BAU","Cast Aluminum",2032,"Cast Aluminum",0.903714285714285
+"BAU","Cast Aluminum",2033,"Cast Aluminum",0.906285714285714
+"BAU","Cast Aluminum",2034,"Cast Aluminum",0.908857142857143
+"BAU","Cast Aluminum",2035,"Cast Aluminum",0.911428571428571
+"BAU","Cast Aluminum",2036,"Cast Aluminum",0.914
+"BAU","Cast Aluminum",2037,"Cast Aluminum",0.916571428571428
+"BAU","Cast Aluminum",2038,"Cast Aluminum",0.919142857142857
+"BAU","Cast Aluminum",2039,"Cast Aluminum",0.921714285714285
+"BAU","Cast Aluminum",2040,"Cast Aluminum",0.924285714285714
+"BAU","Cast Aluminum",2041,"Cast Aluminum",0.926857142857142
+"BAU","Cast Aluminum",2042,"Cast Aluminum",0.929428571428571
+"BAU","Cast Aluminum",2043,"Cast Aluminum",0.932
+"BAU","Cast Aluminum",2044,"Cast Aluminum",0.934571428571428
+"BAU","Cast Aluminum",2045,"Cast Aluminum",0.937142857142857
+"BAU","Cast Aluminum",2046,"Cast Aluminum",0.939714285714285
+"BAU","Cast Aluminum",2047,"Cast Aluminum",0.942285714285714
+"BAU","Cast Aluminum",2048,"Cast Aluminum",0.944857142857142
+"BAU","Cast Aluminum",2049,"Cast Aluminum",0.947428571428571
+"All","Wrought Aluminum",2015,"Loss",0.14
+"All","Cast Aluminum",2015,"Loss",0.14
+"BAU","Wrought Aluminum",2050,"Loss",0.05
+"BAU","Wrought Aluminum",2016,"Loss",0.137428571428571
+"BAU","Wrought Aluminum",2017,"Loss",0.134857142857143
+"BAU","Wrought Aluminum",2018,"Loss",0.132285714285714
+"BAU","Wrought Aluminum",2019,"Loss",0.129714285714286
+"BAU","Wrought Aluminum",2020,"Loss",0.127142857142857
+"BAU","Wrought Aluminum",2021,"Loss",0.124571428571429
+"BAU","Wrought Aluminum",2022,"Loss",0.122
+"BAU","Wrought Aluminum",2023,"Loss",0.119428571428572
+"BAU","Wrought Aluminum",2024,"Loss",0.116857142857143
+"BAU","Wrought Aluminum",2025,"Loss",0.114285714285714
+"BAU","Wrought Aluminum",2026,"Loss",0.111714285714286
+"BAU","Wrought Aluminum",2027,"Loss",0.109142857142857
+"BAU","Wrought Aluminum",2028,"Loss",0.106571428571429
+"BAU","Wrought Aluminum",2029,"Loss",0.104
+"BAU","Wrought Aluminum",2030,"Loss",0.101428571428572
+"BAU","Wrought Aluminum",2031,"Loss",0.0988571428571429
+"BAU","Wrought Aluminum",2032,"Loss",0.0962857142857144
+"BAU","Wrought Aluminum",2033,"Loss",0.0937142857142858
+"BAU","Wrought Aluminum",2034,"Loss",0.0911428571428572
+"BAU","Wrought Aluminum",2035,"Loss",0.0885714285714286
+"BAU","Wrought Aluminum",2036,"Loss",0.0860000000000001
+"BAU","Wrought Aluminum",2037,"Loss",0.0834285714285715
+"BAU","Wrought Aluminum",2038,"Loss",0.0808571428571429
+"BAU","Wrought Aluminum",2039,"Loss",0.0782857142857144
+"BAU","Wrought Aluminum",2040,"Loss",0.0757142857142858
+"BAU","Wrought Aluminum",2041,"Loss",0.0731428571428572
+"BAU","Wrought Aluminum",2042,"Loss",0.0705714285714286
+"BAU","Wrought Aluminum",2043,"Loss",0.0680000000000001
+"BAU","Wrought Aluminum",2044,"Loss",0.0654285714285715
+"BAU","Wrought Aluminum",2045,"Loss",0.0628571428571429
+"BAU","Wrought Aluminum",2046,"Loss",0.0602857142857144
+"BAU","Wrought Aluminum",2047,"Loss",0.0577142857142858
+"BAU","Wrought Aluminum",2048,"Loss",0.0551428571428572
+"BAU","Wrought Aluminum",2049,"Loss",0.0525714285714286
+"BAU","Cast Aluminum",2050,"Loss",0.05
+"BAU","Cast Aluminum",2016,"Loss",0.137428571428571
+"BAU","Cast Aluminum",2017,"Loss",0.134857142857143
+"BAU","Cast Aluminum",2018,"Loss",0.132285714285714
+"BAU","Cast Aluminum",2019,"Loss",0.129714285714286
+"BAU","Cast Aluminum",2020,"Loss",0.127142857142857
+"BAU","Cast Aluminum",2021,"Loss",0.124571428571429
+"BAU","Cast Aluminum",2022,"Loss",0.122
+"BAU","Cast Aluminum",2023,"Loss",0.119428571428572
+"BAU","Cast Aluminum",2024,"Loss",0.116857142857143
+"BAU","Cast Aluminum",2025,"Loss",0.114285714285714
+"BAU","Cast Aluminum",2026,"Loss",0.111714285714286
+"BAU","Cast Aluminum",2027,"Loss",0.109142857142857
+"BAU","Cast Aluminum",2028,"Loss",0.106571428571429
+"BAU","Cast Aluminum",2029,"Loss",0.104
+"BAU","Cast Aluminum",2030,"Loss",0.101428571428572
+"BAU","Cast Aluminum",2031,"Loss",0.0988571428571429
+"BAU","Cast Aluminum",2032,"Loss",0.0962857142857144
+"BAU","Cast Aluminum",2033,"Loss",0.0937142857142858
+"BAU","Cast Aluminum",2034,"Loss",0.0911428571428572
+"BAU","Cast Aluminum",2035,"Loss",0.0885714285714286
+"BAU","Cast Aluminum",2036,"Loss",0.0860000000000001
+"BAU","Cast Aluminum",2037,"Loss",0.0834285714285715
+"BAU","Cast Aluminum",2038,"Loss",0.0808571428571429
+"BAU","Cast Aluminum",2039,"Loss",0.0782857142857144
+"BAU","Cast Aluminum",2040,"Loss",0.0757142857142858
+"BAU","Cast Aluminum",2041,"Loss",0.0731428571428572
+"BAU","Cast Aluminum",2042,"Loss",0.0705714285714286
+"BAU","Cast Aluminum",2043,"Loss",0.0680000000000001
+"BAU","Cast Aluminum",2044,"Loss",0.0654285714285715
+"BAU","Cast Aluminum",2045,"Loss",0.0628571428571429
+"BAU","Cast Aluminum",2046,"Loss",0.0602857142857144
+"BAU","Cast Aluminum",2047,"Loss",0.0577142857142858
+"BAU","Cast Aluminum",2048,"Loss",0.0551428571428572
+"BAU","Cast Aluminum",2049,"Loss",0.0525714285714286

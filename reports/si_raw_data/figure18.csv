@@ -1,0 +1,601 @@
+"Scenario","Size","Technology","Material","Year","value"
+"2015 design","Car","ICEV-G","Cast Aluminum",2015,117.160371354436
+"2015 design","Car","ICEV-G","Cast Iron",2015,116.494633566792
+"2015 design","Car","ICEV-G","HSS/AHSS",2015,290.388716084162
+"2015 design","Car","ICEV-G","Steel",2015,587.604123009502
+"2015 design","Car","ICEV-G","Other",2015,457.577331467782
+"2015 design","Car","ICEV-G","Wrought Aluminum",2015,41.6757514169184
+"2015 design","Car","BEV100","Cast Aluminum",2015,137.408514565904
+"2015 design","Car","BEV100","Cast Iron",2015,16.1964768003699
+"2015 design","Car","BEV100","HSS/AHSS",2015,322.740123193145
+"2015 design","Car","BEV100","Steel",2015,592.691485494299
+"2015 design","Car","BEV100","Other",2015,664.853082872584
+"2015 design","Car","BEV100","Wrought Aluminum",2015,39.2347860756311
+"2015 design","Car","BEV300","Cast Aluminum",2015,156.688943915824
+"2015 design","Car","BEV300","Cast Iron",2015,16.2265338081587
+"2015 design","Car","BEV300","HSS/AHSS",2015,323.339056067013
+"2015 design","Car","BEV300","Steel",2015,610.268581030416
+"2015 design","Car","BEV300","Other",2015,1189.18318452439
+"2015 design","Car","BEV300","Wrought Aluminum",2015,39.3075971733838
+"2015 design","Car","FFV","Cast Aluminum",2015,117.28423628293
+"2015 design","Car","FFV","Cast Iron",2015,116.655060793042
+"2015 design","Car","FFV","HSS/AHSS",2015,290.788616533042
+"2015 design","Car","FFV","Steel",2015,588.401681000612
+"2015 design","Car","FFV","Other",2015,458.070760217389
+"2015 design","Car","FFV","Wrought Aluminum",2015,41.7331439765323
+"2015 design","Car","ICEV-D","Cast Aluminum",2015,121.653661586522
+"2015 design","Car","ICEV-D","Cast Iron",2015,122.314247701556
+"2015 design","Car","ICEV-D","HSS/AHSS",2015,304.895395275788
+"2015 design","Car","ICEV-D","Steel",2015,616.536118325199
+"2015 design","Car","ICEV-D","Other",2015,475.476817688713
+"2015 design","Car","ICEV-D","Wrought Aluminum",2015,43.7577081955005
+"2015 design","Car","CNG","Cast Aluminum",2015,117.28423628293
+"2015 design","Car","CNG","Cast Iron",2015,116.655060793042
+"2015 design","Car","CNG","HSS/AHSS",2015,290.788616533042
+"2015 design","Car","CNG","Steel",2015,588.401681000612
+"2015 design","Car","CNG","Other",2015,458.070760217389
+"2015 design","Car","CNG","Wrought Aluminum",2015,41.7331439765323
+"2015 design","Car","HEV","Cast Aluminum",2015,133.286801637137
+"2015 design","Car","HEV","Cast Iron",2015,78.2021082608562
+"2015 design","Car","HEV","HSS/AHSS",2015,275.46993268738
+"2015 design","Car","HEV","Steel",2015,621.999764708021
+"2015 design","Car","HEV","Other",2015,501.051876371944
+"2015 design","Car","HEV","Wrought Aluminum",2015,33.4882562512188
+"2015 design","Car","PHEV20","Cast Aluminum",2015,150.757704271498
+"2015 design","Car","PHEV20","Cast Iron",2015,89.1701254010883
+"2015 design","Car","PHEV20","HSS/AHSS",2015,323.599601186391
+"2015 design","Car","PHEV20","Steel",2015,740.182280461737
+"2015 design","Car","PHEV20","Other",2015,563.844597907853
+"2015 design","Car","PHEV20","Wrought Aluminum",2015,39.3392709212388
+"2015 design","Car","PHEV40","Cast Aluminum",2015,171.905429951025
+"2015 design","Car","PHEV40","Cast Iron",2015,95.9121669278445
+"2015 design","Car","PHEV40","HSS/AHSS",2015,324.371345664025
+"2015 design","Car","PHEV40","Steel",2015,773.907940140069
+"2015 design","Car","PHEV40","Other",2015,634.534689534867
+"2015 design","Car","PHEV40","Wrought Aluminum",2015,39.4330903067656
+"2015 design","Car","FCV","Cast Aluminum",2015,123.922621357285
+"2015 design","Car","FCV","Cast Iron",2015,17.6919763239384
+"2015 design","Car","FCV","HSS/AHSS",2015,352.540289391066
+"2015 design","Car","FCV","Steel",2015,654.694156235463
+"2015 design","Car","FCV","Other",2015,786.289713971818
+"2015 design","Car","FCV","Wrought Aluminum",2015,67.3588987002074
+"2015 design","Light truck","ICEV-G","Cast Aluminum",2015,143.414498534628
+"2015 design","Light truck","ICEV-G","Cast Iron",2015,147.126636760061
+"2015 design","Light truck","ICEV-G","HSS/AHSS",2015,400.942458399527
+"2015 design","Light truck","ICEV-G","Steel",2015,788.861586035649
+"2015 design","Light truck","ICEV-G","Other",2015,585.129050234569
+"2015 design","Light truck","ICEV-G","Wrought Aluminum",2015,53.3178955934685
+"2015 design","Light truck","BEV100","Cast Aluminum",2015,158.422960701286
+"2015 design","Light truck","BEV100","Cast Iron",2015,19.4414045874105
+"2015 design","Light truck","BEV100","HSS/AHSS",2015,387.400382745299
+"2015 design","Light truck","BEV100","Steel",2015,690.189602528059
+"2015 design","Light truck","BEV100","Other",2015,895.477329733549
+"2015 design","Light truck","BEV100","Wrought Aluminum",2015,44.3743641261442
+"2015 design","Light truck","BEV300","Cast Aluminum",2015,184.17886565878
+"2015 design","Light truck","BEV300","Cast Iron",2015,19.4762701529851
+"2015 design","Light truck","BEV300","HSS/AHSS",2015,388.095133651157
+"2015 design","Light truck","BEV300","Steel",2015,713.477087061117
+"2015 design","Light truck","BEV300","Other",2015,1606.35398565318
+"2015 design","Light truck","BEV300","Wrought Aluminum",2015,44.4539435419588
+"2015 design","Light truck","FFV","Cast Aluminum",2015,143.662653735511
+"2015 design","Light truck","FFV","Cast Iron",2015,147.440841304165
+"2015 design","Light truck","FFV","HSS/AHSS",2015,401.798713562614
+"2015 design","Light truck","FFV","Steel",2015,790.528226289216
+"2015 design","Light truck","FFV","Other",2015,586.166647800042
+"2015 design","Light truck","FFV","Wrought Aluminum",2015,53.4317616169601
+"2015 design","Light truck","ICEV-D","Cast Aluminum",2015,165.845678773765
+"2015 design","Light truck","ICEV-D","Cast Iron",2015,175.528132016515
+"2015 design","Light truck","ICEV-D","HSS/AHSS",2015,478.340851927115
+"2015 design","Light truck","ICEV-D","Steel",2015,939.512097443127
+"2015 design","Light truck","ICEV-D","Other",2015,678.919298933471
+"2015 design","Light truck","ICEV-D","Wrought Aluminum",2015,63.6104435108906
+"2015 design","Light truck","CNG","Cast Aluminum",2015,143.662653735511
+"2015 design","Light truck","CNG","Cast Iron",2015,147.440841304165
+"2015 design","Light truck","CNG","HSS/AHSS",2015,401.798713562614
+"2015 design","Light truck","CNG","Steel",2015,790.528226289216
+"2015 design","Light truck","CNG","Other",2015,586.166647800042
+"2015 design","Light truck","CNG","Wrought Aluminum",2015,53.4317616169601
+"2015 design","Light truck","HEV","Cast Aluminum",2015,164.389240999088
+"2015 design","Light truck","HEV","Cast Iron",2015,97.4034806015372
+"2015 design","Light truck","HEV","HSS/AHSS",2015,373.891931108719
+"2015 design","Light truck","HEV","Steel",2015,813.112330879489
+"2015 design","Light truck","HEV","Other",2015,632.131880096617
+"2015 design","Light truck","HEV","Wrought Aluminum",2015,42.8270529047769
+"2015 design","Light truck","PHEV20","Cast Aluminum",2015,169.789953336882
+"2015 design","Light truck","PHEV20","Cast Iron",2015,98.6235101928207
+"2015 design","Light truck","PHEV20","HSS/AHSS",2015,388.195809886169
+"2015 design","Light truck","PHEV20","Steel",2015,857.74258712531
+"2015 design","Light truck","PHEV20","Other",2015,663.948468841209
+"2015 design","Light truck","PHEV20","Wrought Aluminum",2015,44.4654753185567
+"2015 design","Light truck","PHEV40","Cast Aluminum",2015,197.815297533589
+"2015 design","Light truck","PHEV40","Cast Iron",2015,106.867824912571
+"2015 design","Light truck","PHEV40","HSS/AHSS",2015,389.07535062588
+"2015 design","Light truck","PHEV40","Steel",2015,900.99497481486
+"2015 design","Light truck","PHEV40","Other",2015,820.067478483358
+"2015 design","Light truck","PHEV40","Wrought Aluminum",2015,44.5662212028155
+"2015 design","Light truck","FCV","Cast Aluminum",2015,139.850435860921
+"2015 design","Light truck","FCV","Cast Iron",2015,21.0988099356532
+"2015 design","Light truck","FCV","HSS/AHSS",2015,420.426775637153
+"2015 design","Light truck","FCV","Steel",2015,775.665272022816
+"2015 design","Light truck","FCV","Other",2015,913.147334917459
+"2015 design","Light truck","FCV","Wrought Aluminum",2015,79.5086196918475
+"Steel Intensive","Car","ICEV-G","Cast Aluminum",2030,116.901347936321
+"Steel Intensive","Car","ICEV-G","Cast Iron",2030,116.214606393778
+"Steel Intensive","Car","ICEV-G","HSS/AHSS",2030,485.981124953547
+"Steel Intensive","Car","ICEV-G","Steel",2030,341.405306155027
+"Steel Intensive","Car","ICEV-G","Other",2030,503.615307211378
+"Steel Intensive","Car","ICEV-G","Wrought Aluminum",2030,41.5370287208833
+"Steel Intensive","Car","BEV100","Cast Aluminum",2030,126.32598476685
+"Steel Intensive","Car","BEV100","Cast Iron",2030,15.1341956744541
+"Steel Intensive","Car","BEV100","HSS/AHSS",2030,515.17333124692
+"Steel Intensive","Car","BEV100","Steel",2030,297.141621768333
+"Steel Intensive","Car","BEV100","Other",2030,598.625267410987
+"Steel Intensive","Car","BEV100","Wrought Aluminum",2030,35.6448372452754
+"Steel Intensive","Car","BEV300","Cast Aluminum",2030,110.908782996903
+"Steel Intensive","Car","BEV300","Cast Iron",2030,11.8666447152126
+"Steel Intensive","Car","BEV300","HSS/AHSS",2030,436.217420318878
+"Steel Intensive","Car","BEV300","Steel",2030,241.819818245755
+"Steel Intensive","Car","BEV300","Other",2030,749.136923583911
+"Steel Intensive","Car","BEV300","Wrought Aluminum",2030,24.5609603086679
+"Steel Intensive","Car","FFV","Cast Aluminum",2030,117.018989543798
+"Steel Intensive","Car","FFV","Cast Iron",2030,116.36829897557
+"Steel Intensive","Car","FFV","HSS/AHSS",2030,486.633807993449
+"Steel Intensive","Car","FFV","Steel",2030,341.851880476003
+"Steel Intensive","Car","FFV","Other",2030,504.097741040594
+"Steel Intensive","Car","FFV","Wrought Aluminum",2030,41.5911065138882
+"Steel Intensive","Car","ICEV-D","Cast Aluminum",2030,121.147355771547
+"Steel Intensive","Car","ICEV-D","Cast Iron",2030,121.760794762682
+"Steel Intensive","Car","ICEV-D","HSS/AHSS",2030,509.640267002306
+"Steel Intensive","Car","ICEV-D","Steel",2030,357.572929242049
+"Steel Intensive","Car","ICEV-D","Other",2030,521.09845336184
+"Steel Intensive","Car","ICEV-D","Wrought Aluminum",2030,43.4955225252121
+"Steel Intensive","Car","CNG","Cast Aluminum",2030,117.018989543798
+"Steel Intensive","Car","CNG","Cast Iron",2030,116.36829897557
+"Steel Intensive","Car","CNG","HSS/AHSS",2030,486.633807993449
+"Steel Intensive","Car","CNG","Steel",2030,341.851880476003
+"Steel Intensive","Car","CNG","Other",2030,504.097741040594
+"Steel Intensive","Car","CNG","Wrought Aluminum",2030,41.5911065138882
+"Steel Intensive","Car","HEV","Cast Aluminum",2030,133.259081175003
+"Steel Intensive","Car","HEV","Cast Iron",2030,78.186204018513
+"Steel Intensive","Car","HEV","HSS/AHSS",2030,461.629659252648
+"Steel Intensive","Car","HEV","Steel",2030,388.882977470285
+"Steel Intensive","Car","HEV","Other",2030,547.482669636419
+"Steel Intensive","Car","HEV","Wrought Aluminum",2030,33.4768296540939
+"Steel Intensive","Car","PHEV20","Cast Aluminum",2030,146.069540810356
+"Steel Intensive","Car","PHEV20","Cast Iron",2030,86.2388130183206
+"Steel Intensive","Car","PHEV20","HSS/AHSS",2030,532.065478567586
+"Steel Intensive","Car","PHEV20","Steel",2030,457.188339891022
+"Steel Intensive","Car","PHEV20","Other",2030,573.420076925732
+"Steel Intensive","Car","PHEV20","Wrought Aluminum",2030,37.9033454516059
+"Steel Intensive","Car","PHEV40","Cast Aluminum",2030,161.941232782191
+"Steel Intensive","Car","PHEV40","Cast Iron",2030,90.1510796614643
+"Steel Intensive","Car","PHEV40","HSS/AHSS",2030,524.032621459158
+"Steel Intensive","Car","PHEV40","Steel",2030,480.947330031277
+"Steel Intensive","Car","PHEV40","Other",2030,605.189880943551
+"Steel Intensive","Car","PHEV40","Wrought Aluminum",2030,36.696090538768
+"Steel Intensive","Car","FCV","Cast Aluminum",2030,122.682862421808
+"Steel Intensive","Car","FCV","Cast Iron",2030,17.536295871173
+"Steel Intensive","Car","FCV","HSS/AHSS",2030,587.109179638634
+"Steel Intensive","Car","FCV","Steel",2030,353.372095785881
+"Steel Intensive","Car","FCV","Other",2030,828.005555574029
+"Steel Intensive","Car","FCV","Wrought Aluminum",2030,66.835101236587
+"Steel Intensive","Light truck","ICEV-G","Cast Aluminum",2030,140.79320509772
+"Steel Intensive","Light truck","ICEV-G","Cast Iron",2030,144.11686425031
+"Steel Intensive","Light truck","ICEV-G","HSS/AHSS",2030,665.915592142574
+"Steel Intensive","Light truck","ICEV-G","Steel",2030,444.67357785682
+"Steel Intensive","Light truck","ICEV-G","Other",2030,627.616642980266
+"Steel Intensive","Light truck","ICEV-G","Wrought Aluminum",2030,52.1677621807994
+"Steel Intensive","Light truck","BEV100","Cast Aluminum",2030,135.660338556059
+"Steel Intensive","Light truck","BEV100","Cast Iron",2030,17.2659479261389
+"Steel Intensive","Light truck","BEV100","HSS/AHSS",2030,596.545160432068
+"Steel Intensive","Light truck","BEV100","Steel",2030,316.206986649501
+"Steel Intensive","Light truck","BEV100","Other",2030,713.530618651125
+"Steel Intensive","Light truck","BEV100","Wrought Aluminum",2030,37.0191337087777
+"Steel Intensive","Light truck","BEV300","Cast Aluminum",2030,112.259572567101
+"Steel Intensive","Light truck","BEV300","Cast Iron",2030,12.6304280676866
+"Steel Intensive","Light truck","BEV300","HSS/AHSS",2030,484.49214438181
+"Steel Intensive","Light truck","BEV300","Steel",2030,235.527005027162
+"Steel Intensive","Light truck","BEV300","Other",2030,895.283605336964
+"Steel Intensive","Light truck","BEV300","Wrought Aluminum",2030,21.2852448420272
+"Steel Intensive","Light truck","FFV","Cast Aluminum",2030,141.023001141937
+"Steel Intensive","Light truck","FFV","Cast Iron",2030,144.409850009769
+"Steel Intensive","Light truck","FFV","HSS/AHSS",2030,667.309171964887
+"Steel Intensive","Light truck","FFV","Steel",2030,445.581158780866
+"Steel Intensive","Light truck","FFV","Other",2030,628.626743979545
+"Steel Intensive","Light truck","FFV","Wrought Aluminum",2030,52.273783348891
+"Steel Intensive","Light truck","ICEV-D","Cast Aluminum",2030,161.53447241231
+"Steel Intensive","Light truck","ICEV-D","Cast Iron",2030,170.559546342059
+"Steel Intensive","Light truck","ICEV-D","HSS/AHSS",2030,791.860140709005
+"Steel Intensive","Light truck","ICEV-D","Steel",2030,526.665156481864
+"Steel Intensive","Light truck","ICEV-D","Other",2030,718.898928269231
+"Steel Intensive","Light truck","ICEV-D","Wrought Aluminum",2030,61.7466243535305
+"Steel Intensive","Light truck","CNG","Cast Aluminum",2030,141.023001141937
+"Steel Intensive","Light truck","CNG","Cast Iron",2030,144.409850009769
+"Steel Intensive","Light truck","CNG","HSS/AHSS",2030,667.309171964887
+"Steel Intensive","Light truck","CNG","Steel",2030,445.581158780866
+"Steel Intensive","Light truck","CNG","Other",2030,628.626743979545
+"Steel Intensive","Light truck","CNG","Wrought Aluminum",2030,52.273783348891
+"Steel Intensive","Light truck","HEV","Cast Aluminum",2030,162.197973598051
+"Steel Intensive","Light truck","HEV","Cast Iron",2030,96.0704053674081
+"Steel Intensive","Light truck","HEV","HSS/AHSS",2030,621.748364636079
+"Steel Intensive","Light truck","HEV","Steel",2030,492.426446451381
+"Steel Intensive","Light truck","HEV","Other",2030,674.022451301734
+"Steel Intensive","Light truck","HEV","Wrought Aluminum",2030,42.1440703071835
+"Steel Intensive","Light truck","PHEV20","Cast Aluminum",2030,161.607516355608
+"Steel Intensive","Light truck","PHEV20","Cast Iron",2030,93.7518084280731
+"Steel Intensive","Light truck","PHEV20","HSS/AHSS",2030,632.83807494668
+"Steel Intensive","Light truck","PHEV20","Steel",2030,513.280592850952
+"Steel Intensive","Light truck","PHEV20","Other",2030,651.536987452575
+"Steel Intensive","Light truck","PHEV20","Wrought Aluminum",2030,41.9856089165161
+"Steel Intensive","Light truck","PHEV40","Cast Aluminum",2030,176.971390770549
+"Steel Intensive","Light truck","PHEV40","Cast Iron",2030,95.5953320834103
+"Steel Intensive","Light truck","PHEV40","HSS/AHSS",2030,611.312998407908
+"Steel Intensive","Light truck","PHEV40","Steel",2030,532.963894812588
+"Steel Intensive","Light truck","PHEV40","Other",2030,710.473151393859
+"Steel Intensive","Light truck","PHEV40","Wrought Aluminum",2030,38.8774315946097
+"Steel Intensive","Light truck","FCV","Cast Aluminum",2030,137.513861451977
+"Steel Intensive","Light truck","FCV","Cast Iron",2030,20.8083390544889
+"Steel Intensive","Light truck","FCV","HSS/AHSS",2030,697.617582318436
+"Steel Intensive","Light truck","FCV","Steel",2030,414.23443216453
+"Steel Intensive","Light truck","FCV","Other",2030,950.667477536495
+"Steel Intensive","Light truck","FCV","Wrought Aluminum",2030,78.5304919969618
+"Aluminum Intensive","Car","ICEV-G","Cast Aluminum",2030,153.43481548808
+"Aluminum Intensive","Car","ICEV-G","Cast Iron",2030,108.506515962468
+"Aluminum Intensive","Car","ICEV-G","HSS/AHSS",2030,279.895920624724
+"Aluminum Intensive","Car","ICEV-G","Steel",2030,327.24592624697
+"Aluminum Intensive","Car","ICEV-G","Other",2030,493.481840244547
+"Aluminum Intensive","Car","ICEV-G","Wrought Aluminum",2030,135.675624678237
+"Aluminum Intensive","Car","BEV100","Cast Aluminum",2030,165.116562288352
+"Aluminum Intensive","Car","BEV100","Cast Iron",2030,14.4735725110015
+"Aluminum Intensive","Car","BEV100","HSS/AHSS",2030,295.271167762232
+"Aluminum Intensive","Car","BEV100","Steel",2030,281.653844413554
+"Aluminum Intensive","Car","BEV100","Other",2030,581.820197518679
+"Aluminum Intensive","Car","BEV100","Wrought Aluminum",2030,136.920929866878
+"Aluminum Intensive","Car","BEV300","Cast Aluminum",2030,141.482181545668
+"Aluminum Intensive","Car","BEV300","Cast Iron",2030,11.1656552790244
+"Aluminum Intensive","Car","BEV300","HSS/AHSS",2030,242.937186958998
+"Aluminum Intensive","Car","BEV300","Steel",2030,225.712225613159
+"Aluminum Intensive","Car","BEV300","Other",2030,724.554486464513
+"Aluminum Intensive","Car","BEV300","Wrought Aluminum",2030,111.533549548992
+"Aluminum Intensive","Car","FFV","Cast Aluminum",2030,153.597440207613
+"Aluminum Intensive","Car","FFV","Cast Iron",2030,108.644983941312
+"Aluminum Intensive","Car","FFV","HSS/AHSS",2030,280.268732235012
+"Aluminum Intensive","Car","FFV","Steel",2030,327.667975948223
+"Aluminum Intensive","Car","FFV","Other",2030,493.947619762995
+"Aluminum Intensive","Car","FFV","Wrought Aluminum",2030,135.855394437174
+"Aluminum Intensive","Car","ICEV-D","Cast Aluminum",2030,159.330828030812
+"Aluminum Intensive","Car","ICEV-D","Cast Iron",2030,113.52540786103
+"Aluminum Intensive","Car","ICEV-D","HSS/AHSS",2030,293.418366078627
+"Aluminum Intensive","Car","ICEV-D","Steel",2030,342.55141028176
+"Aluminum Intensive","Car","ICEV-D","Other",2030,510.37605239845
+"Aluminum Intensive","Car","ICEV-D","Wrought Aluminum",2030,142.196013247242
+"Aluminum Intensive","Car","CNG","Cast Aluminum",2030,153.597440207613
+"Aluminum Intensive","Car","CNG","Cast Iron",2030,108.644983941312
+"Aluminum Intensive","Car","CNG","HSS/AHSS",2030,280.268732235012
+"Aluminum Intensive","Car","CNG","Steel",2030,327.667975948223
+"Aluminum Intensive","Car","CNG","Other",2030,493.947619762995
+"Aluminum Intensive","Car","CNG","Wrought Aluminum",2030,135.855394437174
+"Aluminum Intensive","Car","HEV","Cast Aluminum",2030,167.794187564635
+"Aluminum Intensive","Car","HEV","Cast Iron",2030,74.0119996862985
+"Aluminum Intensive","Car","HEV","HSS/AHSS",2030,265.743006169231
+"Aluminum Intensive","Car","HEV","Steel",2030,374.47533933034
+"Aluminum Intensive","Car","HEV","Other",2030,533.527011428003
+"Aluminum Intensive","Car","HEV","Wrought Aluminum",2030,123.51697539905
+"Aluminum Intensive","Car","PHEV20","Cast Aluminum",2030,185.720085108752
+"Aluminum Intensive","Car","PHEV20","Cast Iron",2030,81.4779857561889
+"Aluminum Intensive","Car","PHEV20","HSS/AHSS",2030,305.866523098919
+"Aluminum Intensive","Car","PHEV20","Steel",2030,440.691573362841
+"Aluminum Intensive","Car","PHEV20","Other",2030,559.706151191259
+"Aluminum Intensive","Car","PHEV20","Wrought Aluminum",2030,142.040802312302
+"Aluminum Intensive","Car","PHEV40","Cast Aluminum",2030,199.511669750489
+"Aluminum Intensive","Car","PHEV40","Cast Iron",2030,85.0780498904511
+"Aluminum Intensive","Car","PHEV40","HSS/AHSS",2030,299.983236187408
+"Aluminum Intensive","Car","PHEV40","Steel",2030,462.977197259756
+"Aluminum Intensive","Car","PHEV40","Other",2030,589.194275198294
+"Aluminum Intensive","Car","PHEV40","Wrought Aluminum",2030,139.173870294988
+"Aluminum Intensive","Car","FCV","Cast Aluminum",2030,168.767548917987
+"Aluminum Intensive","Car","FCV","Cast Iron",2030,16.7829845010924
+"Aluminum Intensive","Car","FCV","HSS/AHSS",2030,337.972352227708
+"Aluminum Intensive","Car","FCV","Steel",2030,336.598837213738
+"Aluminum Intensive","Car","FCV","Other",2030,804.382191100291
+"Aluminum Intensive","Car","FCV","Wrought Aluminum",2030,181.548668069936
+"Aluminum Intensive","Light truck","ICEV-G","Cast Aluminum",2030,190.89391156444
+"Aluminum Intensive","Light truck","ICEV-G","Cast Iron",2030,133.684928977884
+"Aluminum Intensive","Light truck","ICEV-G","HSS/AHSS",2030,383.195324736931
+"Aluminum Intensive","Light truck","ICEV-G","Steel",2030,425.361356120681
+"Aluminum Intensive","Light truck","ICEV-G","Other",2030,613.768094734664
+"Aluminum Intensive","Light truck","ICEV-G","Wrought Aluminum",2030,181.279691821874
+"Aluminum Intensive","Light truck","BEV100","Cast Aluminum",2030,179.907439462328
+"Aluminum Intensive","Light truck","BEV100","Cast Iron",2030,16.4565235751125
+"Aluminum Intensive","Light truck","BEV100","HSS/AHSS",2030,339.862337710126
+"Aluminum Intensive","Light truck","BEV100","Steel",2030,297.408397492523
+"Aluminum Intensive","Light truck","BEV100","Other",2030,690.57654765889
+"Aluminum Intensive","Light truck","BEV100","Wrought Aluminum",2030,154.568664316851
+"Aluminum Intensive","Light truck","BEV300","Cast Aluminum",2030,145.10700548967
+"Aluminum Intensive","Light truck","BEV300","Cast Iron",2030,11.7838201756909
+"Aluminum Intensive","Light truck","BEV300","HSS/AHSS",2030,265.980590205545
+"Aluminum Intensive","Light truck","BEV300","Steel",2030,216.314352356541
+"Aluminum Intensive","Light truck","BEV300","Other",2030,863.282298272907
+"Aluminum Intensive","Light truck","BEV300","Wrought Aluminum",2030,118.712216171568
+"Aluminum Intensive","Light truck","FFV","Cast Aluminum",2030,191.224955460653
+"Aluminum Intensive","Light truck","FFV","Cast Iron",2030,133.952007959101
+"Aluminum Intensive","Light truck","FFV","HSS/AHSS",2030,383.993539427138
+"Aluminum Intensive","Light truck","FFV","Steel",2030,426.223757156061
+"Aluminum Intensive","Light truck","FFV","Other",2030,614.746549483174
+"Aluminum Intensive","Light truck","FFV","Wrought Aluminum",2030,181.655557599177
+"Aluminum Intensive","Light truck","ICEV-D","Cast Aluminum",2030,220.762161172086
+"Aluminum Intensive","Light truck","ICEV-D","Cast Iron",2030,157.75744856528
+"Aluminum Intensive","Light truck","ICEV-D","HSS/AHSS",2030,455.321136529519
+"Aluminum Intensive","Light truck","ICEV-D","Steel",2030,503.237793853518
+"Aluminum Intensive","Light truck","ICEV-D","Other",2030,702.173209467569
+"Aluminum Intensive","Light truck","ICEV-D","Wrought Aluminum",2030,215.240035888259
+"Aluminum Intensive","Light truck","CNG","Cast Aluminum",2030,191.224955460653
+"Aluminum Intensive","Light truck","CNG","Cast Iron",2030,133.952007959101
+"Aluminum Intensive","Light truck","CNG","HSS/AHSS",2030,383.993539427138
+"Aluminum Intensive","Light truck","CNG","Steel",2030,426.223757156061
+"Aluminum Intensive","Light truck","CNG","Other",2030,614.746549483174
+"Aluminum Intensive","Light truck","CNG","Wrought Aluminum",2030,181.655557599177
+"Aluminum Intensive","Light truck","HEV","Cast Aluminum",2030,208.347295861627
+"Aluminum Intensive","Light truck","HEV","Cast Iron",2030,90.5281241319312
+"Aluminum Intensive","Light truck","HEV","HSS/AHSS",2030,357.486029818891
+"Aluminum Intensive","Light truck","HEV","Steel",2030,472.678269925972
+"Aluminum Intensive","Light truck","HEV","Other",2030,655.04940073481
+"Aluminum Intensive","Light truck","HEV","Wrought Aluminum",2030,163.470019935952
+"Aluminum Intensive","Light truck","PHEV20","Cast Aluminum",2030,208.528300796818
+"Aluminum Intensive","Light truck","PHEV20","Cast Iron",2030,88.2873602334134
+"Aluminum Intensive","Light truck","PHEV20","HSS/AHSS",2030,363.218565980596
+"Aluminum Intensive","Light truck","PHEV20","Steel",2030,493.271716410186
+"Aluminum Intensive","Light truck","PHEV20","Other",2030,633.728817678757
+"Aluminum Intensive","Light truck","PHEV20","Wrought Aluminum",2030,165.87164720951
+"Aluminum Intensive","Light truck","PHEV40","Cast Aluminum",2030,220.150210291541
+"Aluminum Intensive","Light truck","PHEV40","Cast Iron",2030,89.8350028160168
+"Aluminum Intensive","Light truck","PHEV40","HSS/AHSS",2030,348.334493287764
+"Aluminum Intensive","Light truck","PHEV40","Steel",2030,511.113832924099
+"Aluminum Intensive","Light truck","PHEV40","Other",2030,689.062848011919
+"Aluminum Intensive","Light truck","PHEV40","Wrought Aluminum",2030,158.631681690256
+"Aluminum Intensive","Light truck","FCV","Cast Aluminum",2030,192.102925311486
+"Aluminum Intensive","Light truck","FCV","Cast Iron",2030,19.9065166741644
+"Aluminum Intensive","Light truck","FCV","HSS/AHSS",2030,401.319822381296
+"Aluminum Intensive","Light truck","FCV","Steel",2030,394.130722227935
+"Aluminum Intensive","Light truck","FCV","Other",2030,922.174114325011
+"Aluminum Intensive","Light truck","FCV","Wrought Aluminum",2030,214.846998455547
+"Aluminum Maximum","Car","ICEV-G","Cast Aluminum",2030,181.190100496382
+"Aluminum Maximum","Car","ICEV-G","Cast Iron",2030,49.6554361561569
+"Aluminum Maximum","Car","ICEV-G","HSS/AHSS",2030,96.6487378851067
+"Aluminum Maximum","Car","ICEV-G","Steel",2030,255.105239931621
+"Aluminum Maximum","Car","ICEV-G","Other",2030,483.75350788792
+"Aluminum Maximum","Car","ICEV-G","Wrought Aluminum",2030,309.707388006988
+"Aluminum Maximum","Car","BEV100","Cast Aluminum",2030,162.907060724827
+"Aluminum Maximum","Car","BEV100","Cast Iron",2030,0
+"Aluminum Maximum","Car","BEV100","HSS/AHSS",2030,100.5904832263
+"Aluminum Maximum","Car","BEV100","Steel",2030,200.963254335863
+"Aluminum Maximum","Car","BEV100","Other",2030,563.046242410336
+"Aluminum Maximum","Car","BEV100","Wrought Aluminum",2030,324.406635816692
+"Aluminum Maximum","Car","BEV300","Cast Aluminum",2030,136.957392549441
+"Aluminum Maximum","Car","BEV300","Cast Iron",2030,0
+"Aluminum Maximum","Car","BEV300","HSS/AHSS",2030,75.9422912395476
+"Aluminum Maximum","Car","BEV300","Steel",2030,147.523383663026
+"Aluminum Maximum","Car","BEV300","Other",2030,696.994557924659
+"Aluminum Maximum","Car","BEV300","Wrought Aluminum",2030,272.199814225238
+"Aluminum Maximum","Car","FFV","Cast Aluminum",2030,181.384933832913
+"Aluminum Maximum","Car","FFV","Cast Iron",2030,49.7163810663936
+"Aluminum Maximum","Car","FFV","HSS/AHSS",2030,96.7757006962849
+"Aluminum Maximum","Car","FFV","Steel",2030,255.426441175576
+"Aluminum Maximum","Car","FFV","Other",2030,484.20440128024
+"Aluminum Maximum","Car","FFV","Wrought Aluminum",2030,310.119444436437
+"Aluminum Maximum","Car","ICEV-D","Cast Aluminum",2030,188.251143397564
+"Aluminum Maximum","Car","ICEV-D","Cast Iron",2030,51.8632918920018
+"Aluminum Maximum","Car","ICEV-D","HSS/AHSS",2030,101.25343912492
+"Aluminum Maximum","Car","ICEV-D","Steel",2030,266.750895959667
+"Aluminum Maximum","Car","ICEV-D","Other",2030,500.106696828804
+"Aluminum Maximum","Car","ICEV-D","Wrought Aluminum",2030,324.652620733064
+"Aluminum Maximum","Car","CNG","Cast Aluminum",2030,181.384933832913
+"Aluminum Maximum","Car","CNG","Cast Iron",2030,49.7163810663936
+"Aluminum Maximum","Car","CNG","HSS/AHSS",2030,96.7757006962849
+"Aluminum Maximum","Car","CNG","Steel",2030,255.426441175576
+"Aluminum Maximum","Car","CNG","Other",2030,484.20440128024
+"Aluminum Maximum","Car","CNG","Wrought Aluminum",2030,310.119444436437
+"Aluminum Maximum","Car","HEV","Cast Aluminum",2030,188.39404916033
+"Aluminum Maximum","Car","HEV","Cast Iron",2030,28.4051974267283
+"Aluminum Maximum","Car","HEV","HSS/AHSS",2030,91.6967821002321
+"Aluminum Maximum","Car","HEV","Steel",2030,304.782790215179
+"Aluminum Maximum","Car","HEV","Other",2030,518.413567435208
+"Aluminum Maximum","Car","HEV","Wrought Aluminum",2030,289.344063199843
+"Aluminum Maximum","Car","PHEV20","Cast Aluminum",2030,207.973376506622
+"Aluminum Maximum","Car","PHEV20","Cast Iron",2030,30.9421708633489
+"Aluminum Maximum","Car","PHEV20","HSS/AHSS",2030,105.067056800358
+"Aluminum Maximum","Car","PHEV20","Steel",2030,359.69752290838
+"Aluminum Maximum","Car","PHEV20","Other",2030,545.547388919833
+"Aluminum Maximum","Car","PHEV20","Wrought Aluminum",2030,334.218210935933
+"Aluminum Maximum","Car","PHEV40","Cast Aluminum",2030,221.348159941914
+"Aluminum Maximum","Car","PHEV40","Cast Iron",2030,32.7452787746814
+"Aluminum Maximum","Car","PHEV40","HSS/AHSS",2030,101.939887786292
+"Aluminum Maximum","Car","PHEV40","Steel",2030,380.499866172249
+"Aluminum Maximum","Car","PHEV40","Other",2030,572.31825921716
+"Aluminum Maximum","Car","PHEV40","Wrought Aluminum",2030,327.809970665587
+"Aluminum Maximum","Car","FCV","Cast Aluminum",2030,168.256944591477
+"Aluminum Maximum","Car","FCV","Cast Iron",2030,0
+"Aluminum Maximum","Car","FCV","HSS/AHSS",2030,116.768071441387
+"Aluminum Maximum","Car","FCV","Steel",2030,247.688853434154
+"Aluminum Maximum","Car","FCV","Other",2030,778.049328757176
+"Aluminum Maximum","Car","FCV","Wrought Aluminum",2030,393.498086411313
+"Aluminum Maximum","Light truck","ICEV-G","Cast Aluminum",2030,224.676298642874
+"Aluminum Maximum","Light truck","ICEV-G","Cast Iron",2030,58.4905505990464
+"Aluminum Maximum","Light truck","ICEV-G","HSS/AHSS",2030,132.012222894194
+"Aluminum Maximum","Light truck","ICEV-G","Steel",2030,325.967806175289
+"Aluminum Maximum","Light truck","ICEV-G","Other",2030,600.184518170765
+"Aluminum Maximum","Light truck","ICEV-G","Wrought Aluminum",2030,420.005983546196
+"Aluminum Maximum","Light truck","BEV100","Cast Aluminum",2030,176.521480679788
+"Aluminum Maximum","Light truck","BEV100","Cast Iron",2030,0
+"Aluminum Maximum","Light truck","BEV100","HSS/AHSS",2030,113.859749130946
+"Aluminum Maximum","Light truck","BEV100","Steel",2030,201.249209381631
+"Aluminum Maximum","Light truck","BEV100","Other",2030,664.807308385515
+"Aluminum Maximum","Light truck","BEV100","Wrought Aluminum",2030,371.941324552846
+"Aluminum Maximum","Light truck","BEV300","Cast Aluminum",2030,138.88647552165
+"Aluminum Maximum","Light truck","BEV300","Cast Iron",2030,0
+"Aluminum Maximum","Light truck","BEV300","HSS/AHSS",2030,79.2447803992004
+"Aluminum Maximum","Light truck","BEV300","Steel",2030,124.408464456771
+"Aluminum Maximum","Light truck","BEV300","Other",2030,827.694444537926
+"Aluminum Maximum","Light truck","BEV300","Wrought Aluminum",2030,298.666061566274
+"Aluminum Maximum","Light truck","FFV","Cast Aluminum",2030,225.068862324648
+"Aluminum Maximum","Light truck","FFV","Cast Iron",2030,58.6028459816288
+"Aluminum Maximum","Light truck","FFV","HSS/AHSS",2030,132.284283183829
+"Aluminum Maximum","Light truck","FFV","Steel",2030,326.615001601376
+"Aluminum Maximum","Light truck","FFV","Other",2030,601.131232388255
+"Aluminum Maximum","Light truck","FFV","Wrought Aluminum",2030,420.879639566188
+"Aluminum Maximum","Light truck","ICEV-D","Cast Aluminum",2030,260.046407461731
+"Aluminum Maximum","Light truck","ICEV-D","Cast Iron",2030,68.5902321130156
+"Aluminum Maximum","Light truck","ICEV-D","HSS/AHSS",2030,156.587642522916
+"Aluminum Maximum","Light truck","ICEV-D","Steel",2030,384.363342235775
+"Aluminum Maximum","Light truck","ICEV-D","Other",2030,685.701928762563
+"Aluminum Maximum","Light truck","ICEV-D","Wrought Aluminum",2030,498.936801316343
+"Aluminum Maximum","Light truck","CNG","Cast Aluminum",2030,225.068862324648
+"Aluminum Maximum","Light truck","CNG","Cast Iron",2030,58.6028459816288
+"Aluminum Maximum","Light truck","CNG","HSS/AHSS",2030,132.284283183829
+"Aluminum Maximum","Light truck","CNG","Steel",2030,326.615001601376
+"Aluminum Maximum","Light truck","CNG","Other",2030,601.131232388255
+"Aluminum Maximum","Light truck","CNG","Wrought Aluminum",2030,420.879639566188
+"Aluminum Maximum","Light truck","HEV","Cast Aluminum",2030,232.137056010834
+"Aluminum Maximum","Light truck","HEV","Cast Iron",2030,33.8030110085592
+"Aluminum Maximum","Light truck","HEV","HSS/AHSS",2030,123.014473265261
+"Aluminum Maximum","Light truck","HEV","Steel",2030,377.934351748754
+"Aluminum Maximum","Light truck","HEV","Other",2030,634.497484520202
+"Aluminum Maximum","Light truck","HEV","Wrought Aluminum",2030,386.920424930967
+"Aluminum Maximum","Light truck","PHEV20","Cast Aluminum",2030,231.327504662343
+"Aluminum Maximum","Light truck","PHEV20","Cast Iron",2030,32.6557630290175
+"Aluminum Maximum","Light truck","PHEV20","HSS/AHSS",2030,124.276192599645
+"Aluminum Maximum","Light truck","PHEV20","Steel",2030,395.877789291462
+"Aluminum Maximum","Light truck","PHEV20","Other",2030,614.982018961574
+"Aluminum Maximum","Light truck","PHEV20","Wrought Aluminum",2030,394.394867164864
+"Aluminum Maximum","Light truck","PHEV40","Cast Aluminum",2030,241.254740482857
+"Aluminum Maximum","Light truck","PHEV40","Cast Iron",2030,33.7389524924785
+"Aluminum Maximum","Light truck","PHEV40","HSS/AHSS",2030,116.883959604104
+"Aluminum Maximum","Light truck","PHEV40","Steel",2030,412.331004770343
+"Aluminum Maximum","Light truck","PHEV40","Other",2030,666.00847966308
+"Aluminum Maximum","Light truck","PHEV40","Wrought Aluminum",2030,378.925126934402
+"Aluminum Maximum","Light truck","FCV","Cast Aluminum",2030,191.334580806353
+"Aluminum Maximum","Light truck","FCV","Cast Iron",2030,0
+"Aluminum Maximum","Light truck","FCV","HSS/AHSS",2030,138.437663771121
+"Aluminum Maximum","Light truck","FCV","Steel",2030,288.16042222249
+"Aluminum Maximum","Light truck","FCV","Other",2030,890.526663864421
+"Aluminum Maximum","Light truck","FCV","Wrought Aluminum",2030,466.654005751351
+"No lightweighting","Car","ICEV-G","Cast Aluminum",2030,121.410434542029
+"No lightweighting","Car","ICEV-G","Cast Iron",2030,121.083802526366
+"No lightweighting","Car","ICEV-G","HSS/AHSS",2030,297.955052937096
+"No lightweighting","Car","ICEV-G","Steel",2030,601.565867045667
+"No lightweighting","Car","ICEV-G","Other",2030,511.561820019962
+"No lightweighting","Car","ICEV-G","Wrought Aluminum",2030,43.9503811683775
+"No lightweighting","Car","BEV100","Cast Aluminum",2030,132.717062584407
+"No lightweighting","Car","BEV100","Cast Iron",2030,15.7533423765837
+"No lightweighting","Car","BEV100","HSS/AHSS",2030,315.882169958454
+"No lightweighting","Car","BEV100","Steel",2030,578.34238568607
+"No lightweighting","Car","BEV100","Other",2030,614.192998937306
+"No lightweighting","Car","BEV100","Wrought Aluminum",2030,37.7203098020926
+"No lightweighting","Car","BEV300","Cast Aluminum",2030,117.621259487316
+"No lightweighting","Car","BEV300","Cast Iron",2030,12.559236549437
+"No lightweighting","Car","BEV300","HSS/AHSS",2030,266.583923204301
+"No lightweighting","Car","BEV300","Steel",2030,489.486211201415
+"No lightweighting","Car","BEV300","Other",2030,772.197025730259
+"No lightweighting","Car","BEV300","Wrought Aluminum",2030,26.780919433565
+"No lightweighting","Car","FFV","Cast Aluminum",2030,121.53494651082
+"No lightweighting","Car","FFV","Cast Iron",2030,121.245088715668
+"No lightweighting","Car","FFV","HSS/AHSS",2030,298.355265448486
+"No lightweighting","Car","FFV","Steel",2030,602.36465506046
+"No lightweighting","Car","FFV","Other",2030,512.055673281009
+"No lightweighting","Car","FFV","Wrought Aluminum",2030,44.0078739076178
+"No lightweighting","Car","ICEV-D","Cast Aluminum",2030,125.926603097838
+"No lightweighting","Car","ICEV-D","Cast Iron",2030,126.933796513832
+"No lightweighting","Car","ICEV-D","HSS/AHSS",2030,312.472769172824
+"No lightweighting","Car","ICEV-D","Steel",2030,630.541332607413
+"No lightweighting","Car","ICEV-D","Other",2030,529.476363038096
+"No lightweighting","Car","ICEV-D","Wrought Aluminum",2030,46.0358779852696
+"No lightweighting","Car","CNG","Cast Aluminum",2030,121.53494651082
+"No lightweighting","Car","CNG","Cast Iron",2030,121.245088715668
+"No lightweighting","Car","CNG","HSS/AHSS",2030,298.355265448486
+"No lightweighting","Car","CNG","Steel",2030,602.36465506046
+"No lightweighting","Car","CNG","Other",2030,512.055673281009
+"No lightweighting","Car","CNG","Wrought Aluminum",2030,44.0078739076178
+"No lightweighting","Car","HEV","Cast Aluminum",2030,137.43708335584
+"No lightweighting","Car","HEV","Cast Iron",2030,80.5502222163288
+"No lightweighting","Car","HEV","HSS/AHSS",2030,283.134603287486
+"No lightweighting","Car","HEV","Steel",2030,637.469313406246
+"No lightweighting","Car","HEV","Other",2030,557.481834554854
+"No lightweighting","Car","HEV","Wrought Aluminum",2030,35.1779302384286
+"No lightweighting","Car","PHEV20","Cast Aluminum",2030,152.376300948717
+"No lightweighting","Car","PHEV20","Cast Iron",2030,90.0691625297432
+"No lightweighting","Car","PHEV20","HSS/AHSS",2030,326.514480680138
+"No lightweighting","Car","PHEV20","Steel",2030,746.089113430321
+"No lightweighting","Car","PHEV20","Other",2030,585.235232449481
+"No lightweighting","Car","PHEV20","Wrought Aluminum",2030,39.9815299729327
+"No lightweighting","Car","PHEV40","Cast Aluminum",2030,169.892683599322
+"No lightweighting","Car","PHEV40","Cast Iron",2030,94.7199175299864
+"No lightweighting","Car","PHEV40","HSS/AHSS",2030,322.104026933801
+"No lightweighting","Car","PHEV40","Steel",2030,768.788043385904
+"No lightweighting","Car","PHEV40","Other",2030,619.670097520257
+"No lightweighting","Car","PHEV40","Wrought Aluminum",2030,38.9315290089123
+"No lightweighting","Car","FCV","Cast Aluminum",2030,127.186834690666
+"No lightweighting","Car","FCV","Cast Iron",2030,18.1802615501057
+"No lightweighting","Car","FCV","HSS/AHSS",2030,360.096996941871
+"No lightweighting","Car","FCV","Steel",2030,669.439093860884
+"No lightweighting","Car","FCV","Other",2030,845.084798679511
+"No lightweighting","Car","FCV","Wrought Aluminum",2030,69.0258564283428
+"No lightweighting","Light truck","ICEV-G","Cast Aluminum",2030,147.656325586335
+"No lightweighting","Light truck","ICEV-G","Cast Iron",2030,151.701060800465
+"No lightweighting","Light truck","ICEV-G","HSS/AHSS",2030,408.503438402158
+"No lightweighting","Light truck","ICEV-G","Steel",2030,802.81755268425
+"No lightweighting","Light truck","ICEV-G","Other",2030,639.086606446734
+"No lightweighting","Light truck","ICEV-G","Wrought Aluminum",2030,55.5922427947103
+"No lightweighting","Light truck","BEV100","Cast Aluminum",2030,143.546520582165
+"No lightweighting","Light truck","BEV100","Cast Iron",2030,18.038264212544
+"No lightweighting","Light truck","BEV100","HSS/AHSS",2030,365.685366813283
+"No lightweighting","Light truck","BEV100","Steel",2030,644.699098400287
+"No lightweighting","Light truck","BEV100","Other",2030,735.14358256175
+"No lightweighting","Light truck","BEV100","Wrought Aluminum",2030,39.5795995790518
+"No lightweighting","Light truck","BEV300","Cast Aluminum",2030,120.288606357052
+"No lightweighting","Light truck","BEV300","Cast Iron",2030,13.4820661053747
+"No lightweighting","Light truck","BEV300","HSS/AHSS",2030,295.328765634697
+"No lightweighting","Light truck","BEV300","Steel",2030,515.54111191583
+"No lightweighting","Light truck","BEV300","Other",2030,925.347263411797
+"No lightweighting","Light truck","BEV300","Wrought Aluminum",2030,23.9721819887985
+"No lightweighting","Light truck","FFV","Cast Aluminum",2030,147.905396570453
+"No lightweighting","Light truck","FFV","Cast Iron",2030,152.016484280466
+"No lightweighting","Light truck","FFV","HSS/AHSS",2030,409.360136406406
+"No lightweighting","Light truck","FFV","Steel",2030,804.485925522134
+"No lightweighting","Light truck","FFV","Other",2030,640.12482297081
+"No lightweighting","Light truck","FFV","Wrought Aluminum",2030,55.7062497707105
+"No lightweighting","Light truck","ICEV-D","Cast Aluminum",2030,170.163162843057
+"No lightweighting","Light truck","ICEV-D","Cast Iron",2030,180.203361744548
+"No lightweighting","Light truck","ICEV-D","HSS/AHSS",2030,485.938454780786
+"No lightweighting","Light truck","ICEV-D","Steel",2030,953.610931560313
+"No lightweighting","Light truck","ICEV-D","Other",2030,732.92857675513
+"No lightweighting","Light truck","ICEV-D","Wrought Aluminum",2030,65.8964083922651
+"No lightweighting","Light truck","CNG","Cast Aluminum",2030,147.905396570453
+"No lightweighting","Light truck","CNG","Cast Iron",2030,152.016484280466
+"No lightweighting","Light truck","CNG","HSS/AHSS",2030,409.360136406406
+"No lightweighting","Light truck","CNG","Steel",2030,804.485925522134
+"No lightweighting","Light truck","CNG","Other",2030,640.12482297081
+"No lightweighting","Light truck","CNG","Wrought Aluminum",2030,55.7062497707105
+"No lightweighting","Light truck","HEV","Cast Aluminum",2030,168.629875336256
+"No lightweighting","Light truck","HEV","Cast Iron",2030,99.7016496318899
+"No lightweighting","Light truck","HEV","HSS/AHSS",2030,381.570195983565
+"No lightweighting","Light truck","HEV","Steel",2030,828.684822432498
+"No lightweighting","Light truck","HEV","Other",2030,688.556200544027
+"No lightweighting","Light truck","HEV","Wrought Aluminum",2030,44.5210596512527
+"No lightweighting","Light truck","PHEV20","Cast Aluminum",2030,169.836124387909
+"No lightweighting","Light truck","PHEV20","Cast Iron",2030,98.5965927234338
+"No lightweighting","Light truck","PHEV20","HSS/AHSS",2030,388.62227669072
+"No lightweighting","Light truck","PHEV20","Steel",2030,858.490500876464
+"No lightweighting","Light truck","PHEV20","Other",2030,667.544205704494
+"No lightweighting","Light truck","PHEV20","Wrought Aluminum",2030,44.5586912396182
+"No lightweighting","Light truck","PHEV40","Cast Aluminum",2030,187.053498408707
+"No lightweighting","Light truck","PHEV40","Cast Iron",2030,101.056862798429
+"No lightweighting","Light truck","PHEV40","HSS/AHSS",2030,375.821096261799
+"No lightweighting","Light truck","PHEV40","Steel",2030,871.612332571956
+"No lightweighting","Light truck","PHEV40","Other",2030,730.45740501669
+"No lightweighting","Light truck","PHEV40","Wrought Aluminum",2030,41.6389740305979
+"No lightweighting","Light truck","FCV","Cast Aluminum",2030,143.148784643456
+"No lightweighting","Light truck","FCV","Cast Iron",2030,21.5882216512249
+"No lightweighting","Light truck","FCV","HSS/AHSS",2030,428.000916750416
+"No lightweighting","Light truck","FCV","Steel",2030,790.463826807824
+"No lightweighting","Light truck","FCV","Other",2030,972.031194996379
+"No lightweighting","Light truck","FCV","Wrought Aluminum",2030,81.1800849560855

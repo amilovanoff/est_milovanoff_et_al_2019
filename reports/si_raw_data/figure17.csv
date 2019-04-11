@@ -1,0 +1,241 @@
+"Scenario","Size","Technology","Subcomponent","Data","2030"
+"Steel Intensive","Car","ICEV-G","Total","Material substitution",-49.3124571976052
+"Steel Intensive","Car","BEV100","Total","Material substitution",-53.3685492223206
+"Steel Intensive","Car","BEV300","Total","Material substitution",-48.6406193376879
+"Steel Intensive","Car","FFV","Total","Material substitution",-49.3796006334765
+"Steel Intensive","Car","ICEV-D","Total","Material substitution",-51.7480946620667
+"Steel Intensive","Car","CNG","Total","Material substitution",-49.3796006334765
+"Steel Intensive","Car","HEV","Total","Material substitution",-46.8076269102296
+"Steel Intensive","Car","PHEV20","Total","Material substitution",-54.4189379688626
+"Steel Intensive","Car","PHEV40","Total","Material substitution",-53.9908614789972
+"Steel Intensive","Car","FCV","Total","Material substitution",-59.7344027981735
+"Steel Intensive","Light truck","ICEV-G","Total","Material substitution",-67.8523447586063
+"Steel Intensive","Light truck","BEV100","Total","Material substitution",-62.8031191162099
+"Steel Intensive","Light truck","BEV300","Total","Material substitution",-55.9164061545569
+"Steel Intensive","Light truck","FFV","Total","Material substitution",-67.9959310387317
+"Steel Intensive","Light truck","ICEV-D","Total","Material substitution",-80.8302687511614
+"Steel Intensive","Light truck","CNG","Total","Material substitution",-67.9959310387317
+"Steel Intensive","Light truck","HEV","Total","Material substitution",-63.3100568622963
+"Steel Intensive","Light truck","PHEV20","Total","Material substitution",-64.9867956235771
+"Steel Intensive","Light truck","PHEV40","Total","Material substitution",-63.7665249877641
+"Steel Intensive","Light truck","FCV","Total","Material substitution",-71.1193015313129
+"Aluminum Intensive","Car","ICEV-G","Total","Material substitution",-101.244412834763
+"Aluminum Intensive","Car","BEV100","Total","Material substitution",-109.709877628147
+"Aluminum Intensive","Car","BEV300","Total","Material substitution",-100.143289148338
+"Aluminum Intensive","Car","FFV","Total","Material substitution",-101.38206501346
+"Aluminum Intensive","Car","ICEV-D","Total","Material substitution",-106.237622190408
+"Aluminum Intensive","Car","CNG","Total","Material substitution",-101.38206501346
+"Aluminum Intensive","Car","HEV","Total","Material substitution",-96.0754760838161
+"Aluminum Intensive","Car","PHEV20","Total","Material substitution",-111.777248286319
+"Aluminum Intensive","Car","PHEV40","Total","Material substitution",-110.850865357918
+"Aluminum Intensive","Car","FCV","Total","Material substitution",-122.657195301715
+"Aluminum Intensive","Light truck","ICEV-G","Total","Material substitution",-139.331003714558
+"Aluminum Intensive","Light truck","BEV100","Total","Material substitution",-129.123117431467
+"Aluminum Intensive","Light truck","BEV300","Total","Material substitution",-115.254472988202
+"Aluminum Intensive","Light truck","FFV","Total","Material substitution",-139.625731441054
+"Aluminum Intensive","Light truck","ICEV-D","Total","Material substitution",-165.968180987712
+"Aluminum Intensive","Light truck","CNG","Total","Material substitution",-139.625731441054
+"Aluminum Intensive","Light truck","HEV","Total","Material substitution",-129.951988345172
+"Aluminum Intensive","Light truck","PHEV20","Total","Material substitution",-133.474619796154
+"Aluminum Intensive","Light truck","PHEV40","Total","Material substitution",-130.93052986966
+"Aluminum Intensive","Light truck","FCV","Total","Material substitution",-146.033161198479
+"Aluminum Maximum","Car","ICEV-G","Total","Material substitution",-178.880513071541
+"Aluminum Maximum","Car","BEV100","Total","Material substitution",-171.426997031866
+"Aluminum Maximum","Car","BEV300","Total","Material substitution",-156.202912764967
+"Aluminum Maximum","Car","FFV","Total","Material substitution",-179.122625395263
+"Aluminum Maximum","Car","ICEV-D","Total","Material substitution",-187.662111263802
+"Aluminum Maximum","Car","CNG","Total","Material substitution",-179.122625395263
+"Aluminum Maximum","Car","HEV","Total","Material substitution",-165.879376304224
+"Aluminum Maximum","Car","PHEV20","Total","Material substitution",-192.209902378992
+"Aluminum Maximum","Car","PHEV40","Total","Material substitution",-191.850270603563
+"Aluminum Maximum","Car","FCV","Total","Material substitution",-191.576161828724
+"Aluminum Maximum","Light truck","ICEV-G","Total","Material substitution",-243.496666726639
+"Aluminum Maximum","Light truck","BEV100","Total","Material substitution",-201.64549125076
+"Aluminum Maximum","Light truck","BEV300","Total","Material substitution",-179.686399671816
+"Aluminum Maximum","Light truck","FFV","Total","Material substitution",-244.009671665877
+"Aluminum Maximum","Light truck","ICEV-D","Total","Material substitution",-289.847231774448
+"Aluminum Maximum","Light truck","CNG","Total","Material substitution",-244.009671665877
+"Aluminum Maximum","Light truck","HEV","Total","Material substitution",-222.041144038749
+"Aluminum Maximum","Light truck","PHEV20","Total","Material substitution",-227.264469010101
+"Aluminum Maximum","Light truck","PHEV40","Total","Material substitution",-224.193135269376
+"Aluminum Maximum","Light truck","FCV","Total","Material substitution",-228.07282577729
+"Steel Intensive","Car","ICEV-G","Total","Secondary weight changes without resizing",-35.0953472837903
+"Steel Intensive","Car","BEV100","Total","Secondary weight changes without resizing",-40.7070779306603
+"Steel Intensive","Car","BEV300","Total","Secondary weight changes without resizing",-42.2942857169191
+"Steel Intensive","Car","FFV","Total","Secondary weight changes without resizing",-35.1446411414502
+"Steel Intensive","Car","ICEV-D","Total","Secondary weight changes without resizing",-36.928482344362
+"Steel Intensive","Car","CNG","Total","Secondary weight changes without resizing",-35.1446411414502
+"Steel Intensive","Car","HEV","Total","Secondary weight changes without resizing",-33.7434221555493
+"Steel Intensive","Car","PHEV20","Total","Secondary weight changes without resizing",-41.0192460824433
+"Steel Intensive","Car","PHEV40","Total","Secondary weight changes without resizing",-43.9865598985973
+"Steel Intensive","Car","FCV","Total","Secondary weight changes without resizing",-43.3465911200876
+"Steel Intensive","Light truck","ICEV-G","Total","Secondary weight changes without resizing",-49.6881084027532
+"Steel Intensive","Light truck","BEV100","Total","Secondary weight changes without resizing",-49.8373420581061
+"Steel Intensive","Light truck","BEV300","Total","Secondary weight changes without resizing",-50.6081221628865
+"Steel Intensive","Light truck","FFV","Total","Secondary weight changes without resizing",-49.803367004723
+"Steel Intensive","Light truck","ICEV-D","Total","Secondary weight changes without resizing",-60.1558425080925
+"Steel Intensive","Light truck","CNG","Total","Secondary weight changes without resizing",-49.803367004723
+"Steel Intensive","Light truck","HEV","Total","Secondary weight changes without resizing",-47.0066631125428
+"Steel Intensive","Light truck","PHEV20","Total","Secondary weight changes without resizing",-50.6714606207938
+"Steel Intensive","Light truck","PHEV40","Total","Secondary weight changes without resizing",-54.0323605496474
+"Steel Intensive","Light truck","FCV","Total","Secondary weight changes without resizing",-52.349602897913
+"Aluminum Intensive","Car","ICEV-G","Total","Secondary weight changes without resizing",-76.1275251278873
+"Aluminum Intensive","Car","BEV100","Total","Secondary weight changes without resizing",-83.7924620839703
+"Aluminum Intensive","Car","BEV300","Total","Secondary weight changes without resizing",-87.0361368548486
+"Aluminum Intensive","Car","FFV","Total","Secondary weight changes without resizing",-76.2400781416425
+"Aluminum Intensive","Car","ICEV-D","Total","Secondary weight changes without resizing",-80.215669845629
+"Aluminum Intensive","Car","CNG","Total","Secondary weight changes without resizing",-76.2400781416425
+"Aluminum Intensive","Car","HEV","Total","Secondary weight changes without resizing",-73.4137025779814
+"Aluminum Intensive","Car","PHEV20","Total","Secondary weight changes without resizing",-85.8593510871683
+"Aluminum Intensive","Car","PHEV40","Total","Secondary weight changes without resizing",-90.9878157695771
+"Aluminum Intensive","Car","FCV","Total","Secondary weight changes without resizing",-92.8112013660798
+"Aluminum Intensive","Light truck","ICEV-G","Total","Secondary weight changes without resizing",-105.880436965624
+"Aluminum Intensive","Light truck","BEV100","Total","Secondary weight changes without resizing",-102.342583378502
+"Aluminum Intensive","Light truck","BEV300","Total","Secondary weight changes without resizing",-104.201850267302
+"Aluminum Intensive","Light truck","FFV","Total","Secondary weight changes without resizing",-106.120611702429
+"Aluminum Intensive","Light truck","ICEV-D","Total","Secondary weight changes without resizing",-127.68316024915
+"Aluminum Intensive","Light truck","CNG","Total","Secondary weight changes without resizing",-106.120611702429
+"Aluminum Intensive","Light truck","HEV","Total","Secondary weight changes without resizing",-100.887981331055
+"Aluminum Intensive","Light truck","PHEV20","Total","Secondary weight changes without resizing",-104.951437625703
+"Aluminum Intensive","Light truck","PHEV40","Total","Secondary weight changes without resizing",-110.975622225436
+"Aluminum Intensive","Light truck","FCV","Total","Secondary weight changes without resizing",-111.51799742424
+"Aluminum Maximum","Car","ICEV-G","Total","Secondary weight changes without resizing",-122.800374088373
+"Aluminum Maximum","Car","BEV100","Total","Secondary weight changes without resizing",-130.909334461401
+"Aluminum Maximum","Car","BEV300","Total","Secondary weight changes without resizing",-135.843453953673
+"Aluminum Maximum","Car","FFV","Total","Secondary weight changes without resizing",-122.979628566634
+"Aluminum Maximum","Car","ICEV-D","Total","Secondary weight changes without resizing",-129.310306011074
+"Aluminum Maximum","Car","CNG","Total","Secondary weight changes without resizing",-122.979628566634
+"Aluminum Maximum","Car","HEV","Total","Secondary weight changes without resizing",-118.501953333275
+"Aluminum Maximum","Car","PHEV20","Total","Secondary weight changes without resizing",-136.305275555359
+"Aluminum Maximum","Car","PHEV40","Total","Secondary weight changes without resizing",-144.183942410553
+"Aluminum Maximum","Car","FCV","Total","Secondary weight changes without resizing",-146.975476971063
+"Aluminum Maximum","Light truck","ICEV-G","Total","Secondary weight changes without resizing",-169.615581434163
+"Aluminum Maximum","Light truck","BEV100","Total","Secondary weight changes without resizing",-159.795703527012
+"Aluminum Maximum","Light truck","BEV300","Total","Secondary weight changes without resizing",-162.37283173192
+"Aluminum Maximum","Light truck","FFV","Total","Secondary weight changes without resizing",-169.99655148147
+"Aluminum Maximum","Light truck","ICEV-D","Total","Secondary weight changes without resizing",-204.184554915554
+"Aluminum Maximum","Light truck","CNG","Total","Secondary weight changes without resizing",-169.99655148147
+"Aluminum Maximum","Light truck","HEV","Total","Secondary weight changes without resizing",-161.722374800256
+"Aluminum Maximum","Light truck","PHEV20","Total","Secondary weight changes without resizing",-165.839285759047
+"Aluminum Maximum","Light truck","PHEV40","Total","Secondary weight changes without resizing",-175.14619976383
+"Aluminum Maximum","Light truck","FCV","Total","Secondary weight changes without resizing",-176.216482874847
+"Steel Intensive","Car","ICEV-G","Total","Powertrain resizing",-7.46483238716633
+"Steel Intensive","Car","BEV100","Total","Powertrain resizing",-9.41210596079077
+"Steel Intensive","Car","BEV300","Total","Powertrain resizing",-10.0608361332745
+"Steel Intensive","Car","FFV","Total","Powertrain resizing",-7.47743660583251
+"Steel Intensive","Car","ICEV-D","Total","Powertrain resizing",-7.99484274320889
+"Steel Intensive","Car","CNG","Total","Powertrain resizing",-7.47743660583251
+"Steel Intensive","Car","HEV","Total","Powertrain resizing",-7.78251678644415
+"Steel Intensive","Car","PHEV20","Total","Powertrain resizing",-11.2893770091614
+"Steel Intensive","Car","PHEV40","Total","Powertrain resizing",-15.518896138246
+"Steel Intensive","Car","FCV","Total","Powertrain resizing",-10.391757705007
+"Steel Intensive","Light truck","ICEV-G","Total","Powertrain resizing",-12.5331290448021
+"Steel Intensive","Light truck","BEV100","Total","Powertrain resizing",-11.648465283969
+"Steel Intensive","Light truck","BEV300","Total","Powertrain resizing",-11.9995930468619
+"Steel Intensive","Light truck","FFV","Total","Powertrain resizing",-12.5760082516294
+"Steel Intensive","Light truck","ICEV-D","Total","Powertrain resizing",-16.4899162488423
+"Steel Intensive","Light truck","CNG","Total","Powertrain resizing",-12.5760082516294
+"Steel Intensive","Light truck","HEV","Total","Powertrain resizing",-12.7373719428133
+"Steel Intensive","Light truck","PHEV20","Total","Powertrain resizing",-15.1195972059468
+"Steel Intensive","Light truck","PHEV40","Total","Powertrain resizing",-19.796995519353
+"Steel Intensive","Light truck","FCV","Total","Powertrain resizing",-13.5719408532723
+"Aluminum Intensive","Car","ICEV-G","Total","Powertrain resizing",-21.9147770318209
+"Aluminum Intensive","Car","BEV100","Total","Powertrain resizing",-19.466202303752
+"Aluminum Intensive","Car","BEV300","Total","Powertrain resizing",-20.6768306420388
+"Aluminum Intensive","Car","FFV","Total","Powertrain resizing",-21.9592132366315
+"Aluminum Intensive","Car","ICEV-D","Total","Powertrain resizing",-23.5353724813162
+"Aluminum Intensive","Car","CNG","Total","Powertrain resizing",-21.9592132366315
+"Aluminum Intensive","Car","HEV","Total","Powertrain resizing",-22.6932888198291
+"Aluminum Intensive","Car","PHEV20","Total","Powertrain resizing",-25.5965331090954
+"Aluminum Intensive","Car","PHEV40","Total","Powertrain resizing",-32.8206452187853
+"Aluminum Intensive","Car","FCV","Total","Powertrain resizing",-27.4928634528333
+"Aluminum Intensive","Light truck","ICEV-G","Total","Powertrain resizing",-31.9624780779973
+"Aluminum Intensive","Light truck","BEV100","Total","Powertrain resizing",-23.8350786421679
+"Aluminum Intensive","Light truck","BEV300","Total","Powertrain resizing",-24.6417310330266
+"Aluminum Intensive","Light truck","FFV","Total","Powertrain resizing",-32.056305292193
+"Aluminum Intensive","Light truck","ICEV-D","Total","Powertrain resizing",-40.5977693630057
+"Aluminum Intensive","Light truck","CNG","Total","Powertrain resizing",-32.056305292193
+"Aluminum Intensive","Light truck","HEV","Total","Powertrain resizing",-33.2646934940783
+"Aluminum Intensive","Light truck","PHEV20","Total","Powertrain resizing",-32.2829905953351
+"Aluminum Intensive","Light truck","PHEV40","Total","Powertrain resizing",-40.663953885653
+"Aluminum Intensive","Light truck","FCV","Total","Powertrain resizing",-34.3807718072294
+"Aluminum Maximum","Car","ICEV-G","Total","Powertrain resizing",-19.786060715408
+"Aluminum Maximum","Car","BEV100","Total","Powertrain resizing",-30.4020007499798
+"Aluminum Maximum","Car","BEV300","Total","Powertrain resizing",-32.2934058164929
+"Aluminum Maximum","Car","FFV","Total","Powertrain resizing",-19.8339464743201
+"Aluminum Maximum","Car","ICEV-D","Total","Powertrain resizing",-21.5362372043767
+"Aluminum Maximum","Car","CNG","Total","Powertrain resizing",-19.8339464743201
+"Aluminum Maximum","Car","HEV","Total","Powertrain resizing",-25.8332078841643
+"Aluminum Maximum","Car","PHEV20","Total","Powertrain resizing",-25.8123333741228
+"Aluminum Maximum","Car","PHEV40","Total","Powertrain resizing",-35.7804151781297
+"Aluminum Maximum","Car","FCV","Total","Powertrain resizing",-46.2009187160866
+"Aluminum Maximum","Light truck","ICEV-G","Total","Powertrain resizing",-30.9075985254849
+"Aluminum Maximum","Light truck","BEV100","Total","Powertrain resizing",-37.1863019279729
+"Aluminum Maximum","Light truck","BEV300","Total","Powertrain resizing",-38.3258421988905
+"Aluminum Maximum","Light truck","FFV","Total","Powertrain resizing",-31.0109273277069
+"Aluminum Maximum","Light truck","ICEV-D","Total","Powertrain resizing",-40.4827549737533
+"Aluminum Maximum","Light truck","CNG","Total","Powertrain resizing",-31.0109273277069
+"Aluminum Maximum","Light truck","HEV","Total","Powertrain resizing",-39.5934832559069
+"Aluminum Maximum","Light truck","PHEV20","Total","Powertrain resizing",-34.593425271426
+"Aluminum Maximum","Light truck","PHEV40","Total","Powertrain resizing",-46.5943882033332
+"Aluminum Maximum","Light truck","FCV","Total","Powertrain resizing",-57.0103847375146
+"Steel Intensive","Car","ICEV-G","Total","Secondary battery resizing",-1.13686837721616e-12
+"Steel Intensive","Car","BEV100","Total","Secondary battery resizing",-3.07529811832251
+"Steel Intensive","Car","BEV300","Total","Secondary battery resizing",-9.72228424908349
+"Steel Intensive","Car","FFV","Total","Secondary battery resizing",6.82121026329696e-13
+"Steel Intensive","Car","ICEV-D","Total","Secondary battery resizing",1.36424205265939e-12
+"Steel Intensive","Car","CNG","Total","Secondary battery resizing",6.82121026329696e-13
+"Steel Intensive","Car","HEV","Total","Secondary battery resizing",9.09494701772928e-13
+"Steel Intensive","Car","PHEV20","Total","Secondary battery resizing",-0.652664286243635
+"Steel Intensive","Car","PHEV40","Total","Secondary battery resizing",-1.6517450459321
+"Steel Intensive","Car","FCV","Total","Secondary battery resizing",0
+"Steel Intensive","Light truck","ICEV-G","Total","Secondary battery resizing",-9.09494701772928e-13
+"Steel Intensive","Light truck","BEV100","Total","Secondary battery resizing",-6.1753197671278
+"Steel Intensive","Light truck","BEV300","Total","Secondary battery resizing",-13.9578738264934
+"Steel Intensive","Light truck","FFV","Total","Secondary battery resizing",4.54747350886464e-13
+"Steel Intensive","Light truck","ICEV-D","Total","Secondary battery resizing",-9.09494701772928e-13
+"Steel Intensive","Light truck","CNG","Total","Secondary battery resizing",4.54747350886464e-13
+"Steel Intensive","Light truck","HEV","Total","Secondary battery resizing",9.09494701772928e-13
+"Steel Intensive","Light truck","PHEV20","Total","Secondary battery resizing",-1.86994922191752
+"Steel Intensive","Light truck","PHEV40","Total","Secondary battery resizing",-3.85008896849149
+"Steel Intensive","Light truck","FCV","Total","Secondary battery resizing",1.81898940354586e-12
+"Aluminum Intensive","Car","ICEV-G","Total","Secondary battery resizing",-2.27373675443232e-13
+"Aluminum Intensive","Car","BEV100","Total","Secondary battery resizing",-6.38345296834768
+"Aluminum Intensive","Car","BEV300","Total","Secondary battery resizing",-19.9870335507144
+"Aluminum Intensive","Car","FFV","Total","Secondary battery resizing",9.09494701772928e-13
+"Aluminum Intensive","Car","ICEV-D","Total","Secondary battery resizing",1.81898940354586e-12
+"Aluminum Intensive","Car","CNG","Total","Secondary battery resizing",9.09494701772928e-13
+"Aluminum Intensive","Car","HEV","Total","Secondary battery resizing",2.27373675443232e-13
+"Aluminum Intensive","Car","PHEV20","Total","Secondary battery resizing",-1.52956669848754
+"Aluminum Intensive","Car","PHEV40","Total","Secondary battery resizing",-3.52867305051655
+"Aluminum Intensive","Car","FCV","Total","Secondary battery resizing",-2.27373675443232e-13
+"Aluminum Intensive","Light truck","ICEV-G","Total","Secondary battery resizing",-2.27373675443232e-13
+"Aluminum Intensive","Light truck","BEV100","Total","Secondary battery resizing",-12.6117424811139
+"Aluminum Intensive","Light truck","BEV300","Total","Secondary battery resizing",-28.6816584530964
+"Aluminum Intensive","Light truck","FFV","Total","Secondary battery resizing",0
+"Aluminum Intensive","Light truck","ICEV-D","Total","Secondary battery resizing",0
+"Aluminum Intensive","Light truck","CNG","Total","Secondary battery resizing",0
+"Aluminum Intensive","Light truck","HEV","Total","Secondary battery resizing",1.36424205265939e-12
+"Aluminum Intensive","Light truck","PHEV20","Total","Secondary battery resizing",-4.03293529616781
+"Aluminum Intensive","Light truck","PHEV40","Total","Secondary battery resizing",-7.94199408583449
+"Aluminum Intensive","Light truck","FCV","Total","Secondary battery resizing",1.81898940354586e-12
+"Aluminum Maximum","Car","ICEV-G","Total","Secondary battery resizing",-1.36424205265939e-12
+"Aluminum Maximum","Car","BEV100","Total","Secondary battery resizing",-9.95626058764719
+"Aluminum Maximum","Car","BEV300","Total","Secondary battery resizing",-31.2713634692477
+"Aluminum Maximum","Car","FFV","Total","Secondary battery resizing",0
+"Aluminum Maximum","Car","ICEV-D","Total","Secondary battery resizing",6.82121026329696e-13
+"Aluminum Maximum","Car","CNG","Total","Secondary battery resizing",0
+"Aluminum Maximum","Car","HEV","Total","Secondary battery resizing",4.54747350886464e-13
+"Aluminum Maximum","Car","PHEV20","Total","Secondary battery resizing",-2.49258176838362
+"Aluminum Maximum","Car","PHEV40","Total","Secondary battery resizing",-5.63024722805267
+"Aluminum Maximum","Car","FCV","Total","Secondary battery resizing",9.09494701772928e-13
+"Aluminum Maximum","Light truck","ICEV-G","Total","Secondary battery resizing",-4.54747350886464e-13
+"Aluminum Maximum","Light truck","BEV100","Total","Secondary battery resizing",-19.6858633126117
+"Aluminum Maximum","Light truck","BEV300","Total","Secondary battery resizing",-44.6746953291004
+"Aluminum Maximum","Light truck","FFV","Total","Secondary battery resizing",-4.54747350886464e-13
+"Aluminum Maximum","Light truck","ICEV-D","Total","Secondary battery resizing",-4.54747350886464e-13
+"Aluminum Maximum","Light truck","CNG","Total","Secondary battery resizing",-4.54747350886464e-13
+"Aluminum Maximum","Light truck","HEV","Total","Secondary battery resizing",6.82121026329696e-13
+"Aluminum Maximum","Light truck","PHEV20","Total","Secondary battery resizing",-6.43707587316158
+"Aluminum Maximum","Light truck","PHEV40","Total","Secondary battery resizing",-12.5641819043758
+"Aluminum Maximum","Light truck","FCV","Total","Secondary battery resizing",1.81898940354586e-12

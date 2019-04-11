@@ -1,0 +1,37 @@
+"LWscen","Year","Scenario","Sens_attribute","y_start","y_end","def","Attribute_name","Sens_analysis","delta"
+"Aluminum Intensive",2050,"Default","alonso_sms_ratio",-2193321735129.3,-1046044365688.49,-2193321735129.3,"Secondary savings ratio","sens1",1147277369440.81
+"Aluminum Maximum",2050,"Default","alonso_sms_ratio",-2897253053807.02,-985638273352.039,-2897253053807.02,"Secondary savings ratio","sens1",1911614780454.98
+"Steel Intensive",2050,"Default","alonso_sms_ratio",-1273124952317.17,-773758467074.086,-1273124952317.17,"Secondary savings ratio","sens1",499366485243.086
+"Aluminum Intensive",2050,"Default","pwtr_resz_ratio",-2193321735129.3,-1695503370936.92,-2193321735129.3,"Secondary mass savings due to powertrain resizing","sens1",497818364192.383
+"Aluminum Maximum",2050,"Default","pwtr_resz_ratio",-2897253053807.02,-1991139716900.68,-2897253053807.02,"Secondary mass savings due to powertrain resizing","sens1",906113336906.336
+"Steel Intensive",2050,"Default","pwtr_resz_ratio",-1273124952317.17,-1088073418590.47,-1273124952317.17,"Secondary mass savings due to powertrain resizing","sens1",185051533726.703
+"Aluminum Intensive",2050,"Default","sub_fac_fun",-4056354610188.66,234051216719.648,-2193321735129.3,"Substitution factor model","sens1",4290405826908.31
+"Aluminum Maximum",2050,"Default","sub_fac_fun",-4785970368092.04,-415249101896.617,-2897253053807.02,"Substitution factor model","sens1",4370721266195.42
+"Steel Intensive",2050,"Default","sub_fac_fun",-4417983501377.91,-172913385521.656,-1273124952317.17,"Substitution factor model","sens1",4245070115856.25
+"Aluminum Intensive",2050,"Default","frv_pwt_r",-2780786162651.49,-1605857307607.12,-2193321735129.3,"Ratio of powertrain adjustments in FRV calculations","sens1",1174928855044.37
+"Aluminum Maximum",2050,"Default","frv_pwt_r",-3844137905068.43,-1950368202545.6,-2897253053807.02,"Ratio of powertrain adjustments in FRV calculations","sens1",1893769702522.83
+"Steel Intensive",2050,"Default","frv_pwt_r",-1545737270218.1,-1000512634416.23,-1273124952317.17,"Ratio of powertrain adjustments in FRV calculations","sens1",545224635801.867
+"Aluminum Intensive",2050,"Default","mod_scen_GREET",-2193321735129.3,-2175993731335.5,-2193321735129.3,"GREET scenario for initial alternative vehicle curb weight","sens2",17328003793.8047
+"Aluminum Maximum",2050,"Default","mod_scen_GREET",-2897253053807.02,-2768499416166.85,-2897253053807.02,"GREET scenario for initial alternative vehicle curb weight","sens2",128753637640.164
+"Steel Intensive",2050,"Default","mod_scen_GREET",-1300434166283.46,-1273124952317.17,-1273124952317.17,"GREET scenario for initial alternative vehicle curb weight","sens2",27309213966.2891
+"Aluminum Intensive",2050,"Default","alu_eff_impro",-2193321735129.3,-2175631392832.88,-2193321735129.3,"Prospective aluminum production energy efficiency improvement","sens3",17690342296.4297
+"Aluminum Maximum",2050,"Default","alu_eff_impro",-2897253053807.02,-2846408983504.97,-2897253053807.02,"Prospective aluminum production energy efficiency improvement","sens3",50844070302.0469
+"Steel Intensive",2050,"Default","alu_eff_impro",-1273602959008.06,-1273124952317.17,-1273124952317.17,"Prospective aluminum production energy efficiency improvement","sens3",478006690.890625
+"Aluminum Intensive",2050,"Default","mfa_alu_proj",-2249822893321.52,-2109257283226.61,-2193321735129.3,"Prospective U.S. consumption mixes of primary aluminum","sens3",140565610094.906
+"Aluminum Maximum",2050,"Default","mfa_alu_proj",-3058504519429.02,-2655629749220.04,-2897253053807.02,"Prospective U.S. consumption mixes of primary aluminum","sens3",402874770208.984
+"Steel Intensive",2050,"Default","mfa_alu_proj",-1275392317786.66,-1271480770363.75,-1273124952317.17,"Prospective U.S. consumption mixes of primary aluminum","sens3",3911547422.91406
+"Aluminum Intensive",2050,"Default","ef_elec_impro",-2204269841890.36,-2193321735129.3,-2193321735129.3,"Prospective U.S. electricity mixes for BEV and PHEV","sens3",10948106761.0547
+"Aluminum Maximum",2050,"Default","ef_elec_impro",-2914396003213.14,-2897253053807.02,-2897253053807.02,"Prospective U.S. electricity mixes for BEV and PHEV","sens3",17142949406.125
+"Steel Intensive",2050,"Default","ef_elec_impro",-1278423789910.91,-1273124952317.17,-1273124952317.17,"Prospective U.S. electricity mixes for BEV and PHEV","sens3",5298837593.74219
+"Aluminum Intensive",2050,"Default","feature_wgt",-2286519347904.11,-2084354996167.64,-2193321735129.3,"Annual weight increase due to feature content","sens3",202164351736.469
+"Aluminum Maximum",2050,"Default","feature_wgt",-3003535616268.72,-2781434083294.53,-2897253053807.02,"Annual weight increase due to feature content","sens3",222101532974.188
+"Steel Intensive",2050,"Default","feature_wgt",-1364562001384.34,-1262273067098.27,-1273124952317.17,"Annual weight increase due to feature content","sens3",102288934286.062
+"Aluminum Intensive",2050,"Default","vkmt_model",-2193321735129.3,-1833072151022.5,-2193321735129.3,"Prospective VKMT model","sens3",360249584106.805
+"Aluminum Maximum",2050,"Default","vkmt_model",-2897253053807.02,-2317631911834.2,-2897253053807.02,"Prospective VKMT model","sens3",579621141972.812
+"Steel Intensive",2050,"Default","vkmt_model",-1273124952317.17,-1105524075993.81,-1273124952317.17,"Prospective VKMT model","sens3",167600876323.359
+"Aluminum Intensive",2050,"Default","ef_hss_mdl",-2195367058189.54,-2193321735129.3,-2193321735129.3,"Emission factor for HSS production","sens4",2045323060.23438
+"Aluminum Maximum",2050,"Default","ef_hss_mdl",-2920161425002.85,-2897253053807.02,-2897253053807.02,"Emission factor for HSS production","sens4",22908371195.8359
+"Steel Intensive",2050,"Default","ef_hss_mdl",-1273124952317.17,-1251903231877.45,-1273124952317.17,"Emission factor for HSS production","sens4",21221720439.7188
+"Aluminum Intensive",2050,"Default","ef_steel_mdl",-2477975838193.27,-2100847382230.62,-2193321735129.3,"Emission factor for conventional steel production","sens4",377128455962.648
+"Aluminum Maximum",2050,"Default","ef_steel_mdl",-3432015549815.98,-2723527064121.22,-2897253053807.02,"Emission factor for conventional steel production","sens4",708488485694.766
+"Steel Intensive",2050,"Default","ef_steel_mdl",-1343883963835.74,-1250137776894.45,-1273124952317.17,"Emission factor for conventional steel production","sens4",93746186941.2891

@@ -1,0 +1,561 @@
+"Scenario","Size","Technology","Subcomponent","2030"
+"Steel Intensive","Car","ICEV-G","Body",-10.1059900555417
+"Steel Intensive","Car","ICEV-G","Chassis",-12.9540417984677
+"Steel Intensive","Car","ICEV-G","Exterior",-0.734981094948509
+"Steel Intensive","Car","ICEV-G","Interior",-1.65370746363411
+"Steel Intensive","Car","ICEV-G","Tires",-1.60777114519987
+"Steel Intensive","Car","ICEV-G","Transmission",-6.43108458079947
+"Steel Intensive","Car","ICEV-G","Wheels",-1.60777114519987
+"Steel Intensive","Car","BEV100","Body",-11.7219334355304
+"Steel Intensive","Car","BEV100","Chassis",-15.0253874037253
+"Steel Intensive","Car","BEV100","Exterior",-0.852504249856757
+"Steel Intensive","Car","BEV100","Interior",-1.91813456217776
+"Steel Intensive","Car","BEV100","Tires",-1.86485304656164
+"Steel Intensive","Car","BEV100","Transmission",-7.45941218624649
+"Steel Intensive","Car","BEV100","Wheels",-1.86485304656164
+"Steel Intensive","Car","BEV300","Body",-12.1789827980662
+"Steel Intensive","Car","BEV300","Chassis",-15.6112415866124
+"Steel Intensive","Car","BEV300","Exterior",-0.885744203495747
+"Steel Intensive","Car","BEV300","Interior",-1.9929244578654
+"Steel Intensive","Car","BEV300","Tires",-1.93756544514693
+"Steel Intensive","Car","BEV300","Transmission",-7.75026178058776
+"Steel Intensive","Car","BEV300","Wheels",-1.93756544514694
+"Steel Intensive","Car","FFV","Body",-10.1201846218838
+"Steel Intensive","Car","FFV","Chassis",-12.972236651687
+"Steel Intensive","Car","FFV","Exterior",-0.736013427046089
+"Steel Intensive","Car","FFV","Interior",-1.6560302108536
+"Steel Intensive","Car","FFV","Tires",-1.61002937166328
+"Steel Intensive","Car","FFV","Transmission",-6.44011748665309
+"Steel Intensive","Car","FFV","Wheels",-1.61002937166326
+"Steel Intensive","Car","ICEV-D","Body",-10.6338561724597
+"Steel Intensive","Car","ICEV-D","Chassis",-13.6306701846985
+"Steel Intensive","Car","ICEV-D","Exterior",-0.773371357997085
+"Steel Intensive","Car","ICEV-D","Interior",-1.74008555549338
+"Steel Intensive","Car","ICEV-D","Tires",-1.69174984561861
+"Steel Intensive","Car","ICEV-D","Transmission",-6.76699938247444
+"Steel Intensive","Car","ICEV-D","Wheels",-1.69174984561859
+"Steel Intensive","Car","CNG","Body",-10.1201846218838
+"Steel Intensive","Car","CNG","Chassis",-12.972236651687
+"Steel Intensive","Car","CNG","Exterior",-0.736013427046089
+"Steel Intensive","Car","CNG","Interior",-1.6560302108536
+"Steel Intensive","Car","CNG","Tires",-1.61002937166328
+"Steel Intensive","Car","CNG","Transmission",-6.44011748665309
+"Steel Intensive","Car","CNG","Wheels",-1.61002937166326
+"Steel Intensive","Car","HEV","Body",-9.71669224374438
+"Steel Intensive","Car","HEV","Chassis",-12.4550327851631
+"Steel Intensive","Car","HEV","Exterior",-0.706668526817758
+"Steel Intensive","Car","HEV","Interior",-1.59000418533989
+"Steel Intensive","Car","HEV","Tires",-1.54583740241387
+"Steel Intensive","Car","HEV","Transmission",-6.18334960965554
+"Steel Intensive","Car","HEV","Wheels",-1.54583740241388
+"Steel Intensive","Car","PHEV20","Body",-11.8118247881378
+"Steel Intensive","Car","PHEV20","Chassis",-15.1406117738863
+"Steel Intensive","Car","PHEV20","Exterior",-0.859041802773682
+"Steel Intensive","Car","PHEV20","Interior",-1.93284405624092
+"Steel Intensive","Car","PHEV20","Tires",-1.87915394356746
+"Steel Intensive","Car","PHEV20","Transmission",-7.51661577426979
+"Steel Intensive","Car","PHEV20","Wheels",-1.87915394356745
+"Steel Intensive","Car","PHEV40","Body",-12.6662868817949
+"Steel Intensive","Car","PHEV40","Chassis",-16.2358768212098
+"Steel Intensive","Car","PHEV40","Exterior",-0.921184500494135
+"Steel Intensive","Car","PHEV40","Interior",-2.07266512611187
+"Steel Intensive","Car","PHEV40","Tires",-2.015091094831
+"Steel Intensive","Car","PHEV40","Transmission",-8.06036437932405
+"Steel Intensive","Car","PHEV40","Wheels",-2.015091094831
+"Steel Intensive","Car","FCV","Body",-12.4820026785598
+"Steel Intensive","Car","FCV","Chassis",-15.9996579788812
+"Steel Intensive","Car","FCV","Exterior",-0.907782012986125
+"Steel Intensive","Car","FCV","Interior",-2.04250952921865
+"Steel Intensive","Car","FCV","Tires",-1.98577315340721
+"Steel Intensive","Car","FCV","Transmission",-7.94309261362881
+"Steel Intensive","Car","FCV","Wheels",-1.98577315340722
+"Steel Intensive","Light truck","ICEV-G","Body",-14.308094042678
+"Steel Intensive","Light truck","ICEV-G","Chassis",-18.340375091069
+"Steel Intensive","Light truck","ICEV-G","Exterior",-1.04058865764932
+"Steel Intensive","Light truck","ICEV-G","Interior",-2.34132447971095
+"Steel Intensive","Light truck","ICEV-G","Tires",-2.27628768860786
+"Steel Intensive","Light truck","ICEV-G","Transmission",-9.10515075443145
+"Steel Intensive","Light truck","ICEV-G","Wheels",-2.27628768860787
+"Steel Intensive","Light truck","BEV100","Body",-14.3510670847957
+"Steel Intensive","Light truck","BEV100","Chassis",-18.3954587177834
+"Steel Intensive","Light truck","BEV100","Exterior",-1.04371396980333
+"Steel Intensive","Light truck","BEV100","Interior",-2.34835643205747
+"Steel Intensive","Light truck","BEV100","Tires",-2.28312430894478
+"Steel Intensive","Light truck","BEV100","Transmission",-9.13249723577907
+"Steel Intensive","Light truck","BEV100","Wheels",-2.28312430894479
+"Steel Intensive","Light truck","BEV300","Body",-14.573019470988
+"Steel Intensive","Light truck","BEV300","Chassis",-18.6799613219024
+"Steel Intensive","Light truck","BEV300","Exterior",-1.0598559615264
+"Steel Intensive","Light truck","BEV300","Interior",-2.38467591343451
+"Steel Intensive","Light truck","BEV300","Tires",-2.31843491583894
+"Steel Intensive","Light truck","BEV300","Transmission",-9.27373966335577
+"Steel Intensive","Light truck","BEV300","Wheels",-2.31843491583894
+"Steel Intensive","Light truck","FFV","Body",-14.3412836924591
+"Steel Intensive","Light truck","FFV","Chassis",-18.3829181876063
+"Steel Intensive","Light truck","FFV","Exterior",-1.04300245036067
+"Steel Intensive","Light truck","FFV","Interior",-2.34675551331128
+"Steel Intensive","Light truck","FFV","Tires",-2.28156786016391
+"Steel Intensive","Light truck","FFV","Transmission",-9.1262714406557
+"Steel Intensive","Light truck","FFV","Wheels",-2.28156786016392
+"Steel Intensive","Light truck","ICEV-D","Body",-17.3223630258906
+"Steel Intensive","Light truck","ICEV-D","Chassis",-22.2041198786414
+"Steel Intensive","Light truck","ICEV-D","Exterior",-1.25980822006481
+"Steel Intensive","Light truck","ICEV-D","Interior",-2.83456849514562
+"Steel Intensive","Light truck","ICEV-D","Tires",-2.75583048139172
+"Steel Intensive","Light truck","ICEV-D","Transmission",-11.0233219255669
+"Steel Intensive","Light truck","ICEV-D","Wheels",-2.75583048139172
+"Steel Intensive","Light truck","CNG","Body",-14.3412836924591
+"Steel Intensive","Light truck","CNG","Chassis",-18.3829181876063
+"Steel Intensive","Light truck","CNG","Exterior",-1.04300245036067
+"Steel Intensive","Light truck","CNG","Interior",-2.34675551331128
+"Steel Intensive","Light truck","CNG","Tires",-2.28156786016391
+"Steel Intensive","Light truck","CNG","Transmission",-9.1262714406557
+"Steel Intensive","Light truck","CNG","Wheels",-2.28156786016392
+"Steel Intensive","Light truck","HEV","Body",-13.5359501109425
+"Steel Intensive","Light truck","HEV","Chassis",-17.3506269603891
+"Steel Intensive","Light truck","HEV","Exterior",-0.984432735341244
+"Steel Intensive","Light truck","HEV","Interior",-2.21497365451748
+"Steel Intensive","Light truck","HEV","Tires",-2.15344660855892
+"Steel Intensive","Light truck","HEV","Transmission",-8.61378643423558
+"Steel Intensive","Light truck","HEV","Wheels",-2.15344660855892
+"Steel Intensive","Light truck","PHEV20","Body",-14.5912582939452
+"Steel Intensive","Light truck","PHEV20","Chassis",-18.7033401767854
+"Steel Intensive","Light truck","PHEV20","Exterior",-1.06118242137791
+"Steel Intensive","Light truck","PHEV20","Interior",-2.38766044810021
+"Steel Intensive","Light truck","PHEV20","Tires",-2.3213365467641
+"Steel Intensive","Light truck","PHEV20","Transmission",-9.28534618705646
+"Steel Intensive","Light truck","PHEV20","Wheels",-2.32133654676413
+"Steel Intensive","Light truck","PHEV40","Body",-15.5590567027782
+"Steel Intensive","Light truck","PHEV40","Chassis",-19.9438817735613
+"Steel Intensive","Light truck","PHEV40","Exterior",-1.13156776020207
+"Steel Intensive","Light truck","PHEV40","Interior",-2.54602746045433
+"Steel Intensive","Light truck","PHEV40","Tires",-2.47530447544197
+"Steel Intensive","Light truck","PHEV40","Transmission",-9.90121790176798
+"Steel Intensive","Light truck","PHEV40","Wheels",-2.47530447544199
+"Steel Intensive","Light truck","FCV","Body",-15.0744929810744
+"Steel Intensive","Light truck","FCV","Chassis",-19.322759184832
+"Steel Intensive","Light truck","FCV","Exterior",-1.09632676226001
+"Steel Intensive","Light truck","FCV","Interior",-2.4667352150849
+"Steel Intensive","Light truck","FCV","Tires",-2.39821479244371
+"Steel Intensive","Light truck","FCV","Transmission",-9.59285916977485
+"Steel Intensive","Light truck","FCV","Wheels",-2.39821479244371
+"Aluminum Intensive","Car","ICEV-G","Body",-21.9215386493918
+"Aluminum Intensive","Car","ICEV-G","Chassis",-28.0994268142209
+"Aluminum Intensive","Car","ICEV-G","Exterior",-1.5942937199558
+"Aluminum Intensive","Car","ICEV-G","Interior",-3.58716086990049
+"Aluminum Intensive","Car","ICEV-G","Tires",-3.48751751240325
+"Aluminum Intensive","Car","ICEV-G","Transmission",-13.9500700496131
+"Aluminum Intensive","Car","ICEV-G","Wheels",-3.48751751240325
+"Aluminum Intensive","Car","BEV100","Body",-24.128719448264
+"Aluminum Intensive","Car","BEV100","Chassis",-30.9286312927745
+"Aluminum Intensive","Car","BEV100","Exterior",-1.75481595987375
+"Aluminum Intensive","Car","BEV100","Interior",-3.94833590971595
+"Aluminum Intensive","Car","BEV100","Tires",-3.83865991222382
+"Aluminum Intensive","Car","BEV100","Transmission",-15.3546396488952
+"Aluminum Intensive","Car","BEV100","Wheels",-3.83865991222381
+"Aluminum Intensive","Car","BEV300","Body",-25.0627619215532
+"Aluminum Intensive","Car","BEV300","Chassis",-32.1259039176275
+"Aluminum Intensive","Car","BEV300","Exterior",-1.82274632156754
+"Aluminum Intensive","Car","BEV300","Interior",-4.10117922352688
+"Aluminum Intensive","Car","BEV300","Tires",-3.98725757842894
+"Aluminum Intensive","Car","BEV300","Transmission",-15.9490303137158
+"Aluminum Intensive","Car","BEV300","Wheels",-3.98725757842892
+"Aluminum Intensive","Car","FFV","Body",-21.9539492030909
+"Aluminum Intensive","Car","FFV","Chassis",-28.1409712512343
+"Aluminum Intensive","Car","FFV","Exterior",-1.59665085113386
+"Aluminum Intensive","Car","FFV","Interior",-3.59246441505115
+"Aluminum Intensive","Car","FFV","Tires",-3.49267373685536
+"Aluminum Intensive","Car","FFV","Transmission",-13.9706949474213
+"Aluminum Intensive","Car","FFV","Wheels",-3.49267373685534
+"Aluminum Intensive","Car","ICEV-D","Body",-23.0987530969081
+"Aluminum Intensive","Car","ICEV-D","Chassis",-29.6084016969464
+"Aluminum Intensive","Car","ICEV-D","Exterior",-1.6799093161388
+"Aluminum Intensive","Car","ICEV-D","Interior",-3.77979596131235
+"Aluminum Intensive","Car","ICEV-D","Tires",-3.67480162905364
+"Aluminum Intensive","Car","ICEV-D","Transmission",-14.6992065162146
+"Aluminum Intensive","Car","ICEV-D","Wheels",-3.67480162905364
+"Aluminum Intensive","Car","CNG","Body",-21.9539492030909
+"Aluminum Intensive","Car","CNG","Chassis",-28.1409712512343
+"Aluminum Intensive","Car","CNG","Exterior",-1.59665085113386
+"Aluminum Intensive","Car","CNG","Interior",-3.59246441505115
+"Aluminum Intensive","Car","CNG","Tires",-3.49267373685536
+"Aluminum Intensive","Car","CNG","Transmission",-13.9706949474213
+"Aluminum Intensive","Car","CNG","Wheels",-3.49267373685534
+"Aluminum Intensive","Car","HEV","Body",-21.1400714229789
+"Aluminum Intensive","Car","HEV","Chassis",-27.0977279149093
+"Aluminum Intensive","Car","HEV","Exterior",-1.53745973985301
+"Aluminum Intensive","Car","HEV","Interior",-3.45928441466924
+"Aluminum Intensive","Car","HEV","Tires",-3.36319318092846
+"Aluminum Intensive","Car","HEV","Transmission",-13.4527727237139
+"Aluminum Intensive","Car","HEV","Wheels",-3.36319318092848
+"Aluminum Intensive","Car","PHEV20","Body",-24.7238969099177
+"Aluminum Intensive","Car","PHEV20","Chassis",-31.6915405845311
+"Aluminum Intensive","Car","PHEV20","Exterior",-1.79810159344855
+"Aluminum Intensive","Car","PHEV20","Interior",-4.04572858525924
+"Aluminum Intensive","Car","PHEV20","Tires",-3.93334723566875
+"Aluminum Intensive","Car","PHEV20","Transmission",-15.733388942675
+"Aluminum Intensive","Car","PHEV20","Wheels",-3.93334723566875
+"Aluminum Intensive","Car","PHEV40","Body",-26.2006799336473
+"Aluminum Intensive","Car","PHEV40","Chassis",-33.5845079149483
+"Aluminum Intensive","Car","PHEV40","Exterior",-1.90550399517436
+"Aluminum Intensive","Car","PHEV40","Interior",-4.28738398914234
+"Aluminum Intensive","Car","PHEV40","Tires",-4.16828998944393
+"Aluminum Intensive","Car","PHEV40","Transmission",-16.6731599577757
+"Aluminum Intensive","Car","PHEV40","Wheels",-4.16828998944393
+"Aluminum Intensive","Car","FCV","Body",-26.7257386132694
+"Aluminum Intensive","Car","FCV","Chassis",-34.2575376770088
+"Aluminum Intensive","Car","FCV","Exterior",-1.94369008096502
+"Aluminum Intensive","Car","FCV","Interior",-4.3733026821713
+"Aluminum Intensive","Car","FCV","Tires",-4.25182205211102
+"Aluminum Intensive","Car","FCV","Transmission",-17.007288208444
+"Aluminum Intensive","Car","FCV","Wheels",-4.25182205211101
+"Aluminum Intensive","Light truck","ICEV-G","Body",-30.4891310634002
+"Aluminum Intensive","Light truck","ICEV-G","Chassis",-39.0815225449032
+"Aluminum Intensive","Light truck","ICEV-G","Exterior",-2.21739135006548
+"Aluminum Intensive","Light truck","ICEV-G","Interior",-4.98913053764713
+"Aluminum Intensive","Light truck","ICEV-G","Tires",-4.85054357826815
+"Aluminum Intensive","Light truck","ICEV-G","Transmission",-19.4021743130726
+"Aluminum Intensive","Light truck","ICEV-G","Wheels",-4.85054357826816
+"Aluminum Intensive","Light truck","BEV100","Body",-29.4703774126576
+"Aluminum Intensive","Light truck","BEV100","Chassis",-37.7756655925882
+"Aluminum Intensive","Light truck","BEV100","Exterior",-2.14330017546601
+"Aluminum Intensive","Light truck","BEV100","Interior",-4.82242539479878
+"Aluminum Intensive","Light truck","BEV100","Tires",-4.68846913383189
+"Aluminum Intensive","Light truck","BEV100","Transmission",-18.7538765353275
+"Aluminum Intensive","Light truck","BEV100","Wheels",-4.68846913383192
+"Aluminum Intensive","Light truck","BEV300","Body",-30.0057684015787
+"Aluminum Intensive","Light truck","BEV300","Chassis",-38.4619394965694
+"Aluminum Intensive","Light truck","BEV300","Exterior",-2.18223770193298
+"Aluminum Intensive","Light truck","BEV300","Interior",-4.91003482934934
+"Aluminum Intensive","Light truck","BEV300","Tires",-4.77364497297847
+"Aluminum Intensive","Light truck","BEV300","Transmission",-19.0945798919139
+"Aluminum Intensive","Light truck","BEV300","Wheels",-4.77364497297848
+"Aluminum Intensive","Light truck","FFV","Body",-30.5582913279245
+"Aluminum Intensive","Light truck","FFV","Chassis",-39.1701734294306
+"Aluminum Intensive","Light truck","FFV","Exterior",-2.22242118748538
+"Aluminum Intensive","Light truck","FFV","Interior",-5.0004476718421
+"Aluminum Intensive","Light truck","FFV","Tires",-4.8615463476243
+"Aluminum Intensive","Light truck","FFV","Transmission",-19.4461853904972
+"Aluminum Intensive","Light truck","FFV","Wheels",-4.86154634762428
+"Aluminum Intensive","Light truck","ICEV-D","Body",-36.7674021659849
+"Aluminum Intensive","Light truck","ICEV-D","Chassis",-47.1291245945813
+"Aluminum Intensive","Light truck","ICEV-D","Exterior",-2.67399288479899
+"Aluminum Intensive","Light truck","ICEV-D","Interior",-6.01648399079778
+"Aluminum Intensive","Light truck","ICEV-D","Tires",-5.84935943549767
+"Aluminum Intensive","Light truck","ICEV-D","Transmission",-23.3974377419907
+"Aluminum Intensive","Light truck","ICEV-D","Wheels",-5.84935943549767
+"Aluminum Intensive","Light truck","CNG","Body",-30.5582913279245
+"Aluminum Intensive","Light truck","CNG","Chassis",-39.1701734294306
+"Aluminum Intensive","Light truck","CNG","Exterior",-2.22242118748538
+"Aluminum Intensive","Light truck","CNG","Interior",-5.0004476718421
+"Aluminum Intensive","Light truck","CNG","Tires",-4.8615463476243
+"Aluminum Intensive","Light truck","CNG","Transmission",-19.4461853904972
+"Aluminum Intensive","Light truck","CNG","Wheels",-4.86154634762428
+"Aluminum Intensive","Light truck","HEV","Body",-29.0515129487339
+"Aluminum Intensive","Light truck","HEV","Chassis",-37.2387575070134
+"Aluminum Intensive","Light truck","HEV","Exterior",-2.11283730536249
+"Aluminum Intensive","Light truck","HEV","Interior",-4.75388393706544
+"Aluminum Intensive","Light truck","HEV","Tires",-4.62183160548035
+"Aluminum Intensive","Light truck","HEV","Transmission",-18.4873264219214
+"Aluminum Intensive","Light truck","HEV","Wheels",-4.62183160548035
+"Aluminum Intensive","Light truck","PHEV20","Body",-30.2216181644695
+"Aluminum Intensive","Light truck","PHEV20","Chassis",-38.738619647184
+"Aluminum Intensive","Light truck","PHEV20","Exterior",-2.19793586650689
+"Aluminum Intensive","Light truck","PHEV20","Interior",-4.94535569964077
+"Aluminum Intensive","Light truck","PHEV20","Tires",-4.80798470798381
+"Aluminum Intensive","Light truck","PHEV20","Transmission",-19.2319388319353
+"Aluminum Intensive","Light truck","PHEV20","Wheels",-4.80798470798382
+"Aluminum Intensive","Light truck","PHEV40","Body",-31.9563310073241
+"Aluminum Intensive","Light truck","PHEV40","Chassis",-40.962206109388
+"Aluminum Intensive","Light truck","PHEV40","Exterior",-2.32409680053265
+"Aluminum Intensive","Light truck","PHEV40","Interior",-5.22921780119864
+"Aluminum Intensive","Light truck","PHEV40","Tires",-5.0839617511652
+"Aluminum Intensive","Light truck","PHEV40","Transmission",-20.3358470046608
+"Aluminum Intensive","Light truck","PHEV40","Wheels",-5.08396175116521
+"Aluminum Intensive","Light truck","FCV","Body",-32.1125123472941
+"Aluminum Intensive","Light truck","FCV","Chassis",-41.1624021906225
+"Aluminum Intensive","Light truck","FCV","Exterior",-2.33545544343954
+"Aluminum Intensive","Light truck","FCV","Interior",-5.25477474773902
+"Aluminum Intensive","Light truck","FCV","Tires",-5.10880878252408
+"Aluminum Intensive","Light truck","FCV","Transmission",-20.4352351300963
+"Aluminum Intensive","Light truck","FCV","Wheels",-5.10880878252408
+"Aluminum Maximum","Car","ICEV-G","Body",-35.3613642662854
+"Aluminum Maximum","Car","ICEV-G","Chassis",-45.3268396504209
+"Aluminum Maximum","Car","ICEV-G","Exterior",-2.57173558300258
+"Aluminum Maximum","Car","ICEV-G","Interior",-5.7864050617558
+"Aluminum Maximum","Car","ICEV-G","Tires",-5.6256715878182
+"Aluminum Maximum","Car","ICEV-G","Transmission",-22.5026863512728
+"Aluminum Maximum","Car","ICEV-G","Wheels",-5.62567158781819
+"Aluminum Maximum","Car","BEV100","Body",-37.6964052113988
+"Aluminum Maximum","Car","BEV100","Chassis",-48.3199375891563
+"Aluminum Maximum","Car","BEV100","Exterior",-2.74155674264716
+"Aluminum Maximum","Car","BEV100","Interior",-6.16850267095606
+"Aluminum Maximum","Car","BEV100","Tires",-5.99715537454066
+"Aluminum Maximum","Car","BEV100","Transmission",-23.9886214981627
+"Aluminum Maximum","Car","BEV100","Wheels",-5.99715537454066
+"Aluminum Maximum","Car","BEV300","Body",-39.117224960482
+"Aluminum Maximum","Car","BEV300","Chassis",-50.1411701766176
+"Aluminum Maximum","Car","BEV300","Exterior",-2.84488908803507
+"Aluminum Maximum","Car","BEV300","Interior",-6.40100044807869
+"Aluminum Maximum","Car","BEV300","Tires",-6.22319488007669
+"Aluminum Maximum","Car","BEV300","Transmission",-24.8927795203067
+"Aluminum Maximum","Car","BEV300","Wheels",-6.22319488007668
+"Aluminum Maximum","Car","FFV","Body",-35.4129820479842
+"Aluminum Maximum","Car","FFV","Chassis",-45.3930042615068
+"Aluminum Maximum","Car","FFV","Exterior",-2.57548960348979
+"Aluminum Maximum","Car","FFV","Interior",-5.79485160785191
+"Aluminum Maximum","Car","FFV","Tires",-5.63388350763385
+"Aluminum Maximum","Car","FFV","Transmission",-22.5355340305354
+"Aluminum Maximum","Car","FFV","Wheels",-5.63388350763385
+"Aluminum Maximum","Car","ICEV-D","Body",-37.2359519927176
+"Aluminum Maximum","Car","ICEV-D","Chassis",-47.7297202815745
+"Aluminum Maximum","Car","ICEV-D","Exterior",-2.70806923583402
+"Aluminum Maximum","Car","ICEV-D","Interior",-6.09315578062643
+"Aluminum Maximum","Car","ICEV-D","Tires",-5.92390145338691
+"Aluminum Maximum","Car","ICEV-D","Transmission",-23.6956058135477
+"Aluminum Maximum","Car","ICEV-D","Wheels",-5.9239014533869
+"Aluminum Maximum","Car","CNG","Body",-35.4129820479842
+"Aluminum Maximum","Car","CNG","Chassis",-45.3930042615068
+"Aluminum Maximum","Car","CNG","Exterior",-2.57548960348979
+"Aluminum Maximum","Car","CNG","Interior",-5.79485160785191
+"Aluminum Maximum","Car","CNG","Tires",-5.63388350763385
+"Aluminum Maximum","Car","CNG","Transmission",-22.5355340305354
+"Aluminum Maximum","Car","CNG","Wheels",-5.63388350763385
+"Aluminum Maximum","Car","HEV","Body",-34.1235991273827
+"Aluminum Maximum","Car","HEV","Chassis",-43.7402497905544
+"Aluminum Maximum","Car","HEV","Exterior",-2.48171630017332
+"Aluminum Maximum","Car","HEV","Interior",-5.58386167538978
+"Aluminum Maximum","Car","HEV","Tires",-5.4287544066291
+"Aluminum Maximum","Car","HEV","Transmission",-21.7150176265164
+"Aluminum Maximum","Car","HEV","Wheels",-5.4287544066291
+"Aluminum Maximum","Car","PHEV20","Body",-39.2502102384543
+"Aluminum Maximum","Car","PHEV20","Chassis",-50.3116331238369
+"Aluminum Maximum","Car","PHEV20","Exterior",-2.85456074461487
+"Aluminum Maximum","Car","PHEV20","Interior",-6.42276167538353
+"Aluminum Maximum","Car","PHEV20","Tires",-6.24435162884503
+"Aluminum Maximum","Car","PHEV20","Transmission",-24.9774065153801
+"Aluminum Maximum","Car","PHEV20","Wheels",-6.24435162884503
+"Aluminum Maximum","Car","PHEV40","Body",-41.5189362962328
+"Aluminum Maximum","Car","PHEV40","Chassis",-53.2197274342623
+"Aluminum Maximum","Car","PHEV40","Exterior",-3.01955900336238
+"Aluminum Maximum","Car","PHEV40","Interior",-6.79400775756545
+"Aluminum Maximum","Car","PHEV40","Tires",-6.60528531985524
+"Aluminum Maximum","Car","PHEV40","Transmission",-26.421141279421
+"Aluminum Maximum","Car","PHEV40","Wheels",-6.60528531985524
+"Aluminum Maximum","Car","FCV","Body",-42.3227813267462
+"Aluminum Maximum","Car","FCV","Chassis",-54.2501106097384
+"Aluminum Maximum","Car","FCV","Exterior",-3.07802046012697
+"Aluminum Maximum","Car","FCV","Interior",-6.92554603528566
+"Aluminum Maximum","Car","FCV","Tires",-6.7331697565278
+"Aluminum Maximum","Car","FCV","Transmission",-26.9326790261112
+"Aluminum Maximum","Car","FCV","Wheels",-6.73316975652781
+"Aluminum Maximum","Light truck","ICEV-G","Body",-48.8421831354922
+"Aluminum Maximum","Light truck","ICEV-G","Chassis",-62.6067983827661
+"Aluminum Maximum","Light truck","ICEV-G","Exterior",-3.55215877349028
+"Aluminum Maximum","Light truck","ICEV-G","Interior",-7.99235724035316
+"Aluminum Maximum","Light truck","ICEV-G","Tires",-7.77034731701001
+"Aluminum Maximum","Light truck","ICEV-G","Transmission",-31.08138926804
+"Aluminum Maximum","Light truck","ICEV-G","Wheels",-7.77034731701001
+"Aluminum Maximum","Light truck","BEV100","Body",-46.0144696020192
+"Aluminum Maximum","Light truck","BEV100","Chassis",-58.9821837625882
+"Aluminum Maximum","Light truck","BEV100","Exterior",-3.34650688014687
+"Aluminum Maximum","Light truck","BEV100","Interior",-7.5296404803305
+"Aluminum Maximum","Light truck","BEV100","Tires",-7.32048380032125
+"Aluminum Maximum","Light truck","BEV100","Transmission",-29.281935201285
+"Aluminum Maximum","Light truck","BEV100","Wheels",-7.32048380032125
+"Aluminum Maximum","Light truck","BEV300","Body",-46.7565745824904
+"Aluminum Maximum","Light truck","BEV300","Chassis",-59.9334274193737
+"Aluminum Maximum","Light truck","BEV300","Exterior",-3.40047815145385
+"Aluminum Maximum","Light truck","BEV300","Interior",-7.65107584077103
+"Aluminum Maximum","Light truck","BEV300","Tires",-7.43854595630523
+"Aluminum Maximum","Light truck","BEV300","Transmission",-29.7541838252209
+"Aluminum Maximum","Light truck","BEV300","Wheels",-7.43854595630524
+"Aluminum Maximum","Light truck","FFV","Body",-48.9518865522564
+"Aluminum Maximum","Light truck","FFV","Chassis",-62.7474182169829
+"Aluminum Maximum","Light truck","FFV","Exterior",-3.56013720380047
+"Aluminum Maximum","Light truck","FFV","Interior",-8.01030870855101
+"Aluminum Maximum","Light truck","FFV","Tires",-7.78780013331346
+"Aluminum Maximum","Light truck","FFV","Transmission",-31.1512005332539
+"Aluminum Maximum","Light truck","FFV","Wheels",-7.78780013331346
+"Aluminum Maximum","Light truck","ICEV-D","Body",-58.7965995830134
+"Aluminum Maximum","Light truck","ICEV-D","Chassis",-75.3665503745901
+"Aluminum Maximum","Light truck","ICEV-D","Exterior",-4.2761163333101
+"Aluminum Maximum","Light truck","ICEV-D","Interior",-9.62126174994762
+"Aluminum Maximum","Light truck","ICEV-D","Tires",-9.35400447911575
+"Aluminum Maximum","Light truck","ICEV-D","Transmission",-37.416017916463
+"Aluminum Maximum","Light truck","ICEV-D","Wheels",-9.35400447911575
+"Aluminum Maximum","Light truck","CNG","Body",-48.9518865522564
+"Aluminum Maximum","Light truck","CNG","Chassis",-62.7474182169829
+"Aluminum Maximum","Light truck","CNG","Exterior",-3.56013720380047
+"Aluminum Maximum","Light truck","CNG","Interior",-8.01030870855101
+"Aluminum Maximum","Light truck","CNG","Tires",-7.78780013331346
+"Aluminum Maximum","Light truck","CNG","Transmission",-31.1512005332539
+"Aluminum Maximum","Light truck","CNG","Wheels",-7.78780013331346
+"Aluminum Maximum","Light truck","HEV","Body",-46.5692702304404
+"Aluminum Maximum","Light truck","HEV","Chassis",-59.6933372953827
+"Aluminum Maximum","Light truck","HEV","Exterior",-3.38685601675926
+"Aluminum Maximum","Light truck","HEV","Interior",-7.62042603770828
+"Aluminum Maximum","Light truck","HEV","Tires",-7.40874753666094
+"Aluminum Maximum","Light truck","HEV","Transmission",-29.6349901466437
+"Aluminum Maximum","Light truck","HEV","Wheels",-7.40874753666095
+"Aluminum Maximum","Light truck","PHEV20","Body",-47.7547681505105
+"Aluminum Maximum","Light truck","PHEV20","Chassis",-61.2129300838368
+"Aluminum Maximum","Light truck","PHEV20","Exterior",-3.47307404730989
+"Aluminum Maximum","Light truck","PHEV20","Interior",-7.8144166064472
+"Aluminum Maximum","Light truck","PHEV20","Tires",-7.59734947849036
+"Aluminum Maximum","Light truck","PHEV20","Transmission",-30.3893979139615
+"Aluminum Maximum","Light truck","PHEV20","Wheels",-7.59734947849038
+"Aluminum Maximum","Light truck","PHEV40","Body",-50.4347695655008
+"Aluminum Maximum","Light truck","PHEV40","Chassis",-64.648204624869
+"Aluminum Maximum","Light truck","PHEV40","Exterior",-3.66798324112728
+"Aluminum Maximum","Light truck","PHEV40","Interior",-8.25296229253649
+"Aluminum Maximum","Light truck","PHEV40","Tires",-8.023713339966
+"Aluminum Maximum","Light truck","PHEV40","Transmission",-32.094853359864
+"Aluminum Maximum","Light truck","PHEV40","Wheels",-8.023713339966
+"Aluminum Maximum","Light truck","FCV","Body",-50.742966272861
+"Aluminum Maximum","Light truck","FCV","Chassis",-65.0432567679404
+"Aluminum Maximum","Light truck","FCV","Exterior",-3.69039754711721
+"Aluminum Maximum","Light truck","FCV","Interior",-8.3033944810137
+"Aluminum Maximum","Light truck","FCV","Tires",-8.07274463431884
+"Aluminum Maximum","Light truck","FCV","Transmission",-32.2909785372754
+"Aluminum Maximum","Light truck","FCV","Wheels",-8.07274463431885
+NA,"Car","ICEV-G","Body",0
+NA,"Car","ICEV-G","Chassis",0
+NA,"Car","ICEV-G","Exterior",0
+NA,"Car","ICEV-G","Interior",0
+NA,"Car","ICEV-G","Tires",0
+NA,"Car","ICEV-G","Transmission",0
+NA,"Car","ICEV-G","Wheels",0
+NA,"Car","BEV100","Body",0
+NA,"Car","BEV100","Chassis",0
+NA,"Car","BEV100","Exterior",0
+NA,"Car","BEV100","Interior",0
+NA,"Car","BEV100","Tires",0
+NA,"Car","BEV100","Transmission",0
+NA,"Car","BEV100","Wheels",0
+NA,"Car","BEV300","Body",0
+NA,"Car","BEV300","Chassis",0
+NA,"Car","BEV300","Exterior",0
+NA,"Car","BEV300","Interior",0
+NA,"Car","BEV300","Tires",0
+NA,"Car","BEV300","Transmission",0
+NA,"Car","BEV300","Wheels",0
+NA,"Car","FFV","Body",0
+NA,"Car","FFV","Chassis",0
+NA,"Car","FFV","Exterior",0
+NA,"Car","FFV","Interior",0
+NA,"Car","FFV","Tires",0
+NA,"Car","FFV","Transmission",0
+NA,"Car","FFV","Wheels",0
+NA,"Car","ICEV-D","Body",0
+NA,"Car","ICEV-D","Chassis",0
+NA,"Car","ICEV-D","Exterior",0
+NA,"Car","ICEV-D","Interior",0
+NA,"Car","ICEV-D","Tires",0
+NA,"Car","ICEV-D","Transmission",0
+NA,"Car","ICEV-D","Wheels",0
+NA,"Car","CNG","Body",0
+NA,"Car","CNG","Chassis",0
+NA,"Car","CNG","Exterior",0
+NA,"Car","CNG","Interior",0
+NA,"Car","CNG","Tires",0
+NA,"Car","CNG","Transmission",0
+NA,"Car","CNG","Wheels",0
+NA,"Car","HEV","Body",0
+NA,"Car","HEV","Chassis",0
+NA,"Car","HEV","Exterior",0
+NA,"Car","HEV","Interior",0
+NA,"Car","HEV","Tires",0
+NA,"Car","HEV","Transmission",0
+NA,"Car","HEV","Wheels",0
+NA,"Car","PHEV20","Body",0
+NA,"Car","PHEV20","Chassis",0
+NA,"Car","PHEV20","Exterior",0
+NA,"Car","PHEV20","Interior",0
+NA,"Car","PHEV20","Tires",0
+NA,"Car","PHEV20","Transmission",0
+NA,"Car","PHEV20","Wheels",0
+NA,"Car","PHEV40","Body",0
+NA,"Car","PHEV40","Chassis",0
+NA,"Car","PHEV40","Exterior",0
+NA,"Car","PHEV40","Interior",0
+NA,"Car","PHEV40","Tires",0
+NA,"Car","PHEV40","Transmission",0
+NA,"Car","PHEV40","Wheels",0
+NA,"Car","FCV","Body",0
+NA,"Car","FCV","Chassis",0
+NA,"Car","FCV","Exterior",0
+NA,"Car","FCV","Interior",0
+NA,"Car","FCV","Tires",0
+NA,"Car","FCV","Transmission",0
+NA,"Car","FCV","Wheels",0
+NA,"Light truck","ICEV-G","Body",0
+NA,"Light truck","ICEV-G","Chassis",0
+NA,"Light truck","ICEV-G","Exterior",0
+NA,"Light truck","ICEV-G","Interior",0
+NA,"Light truck","ICEV-G","Tires",0
+NA,"Light truck","ICEV-G","Transmission",0
+NA,"Light truck","ICEV-G","Wheels",0
+NA,"Light truck","BEV100","Body",0
+NA,"Light truck","BEV100","Chassis",0
+NA,"Light truck","BEV100","Exterior",0
+NA,"Light truck","BEV100","Interior",0
+NA,"Light truck","BEV100","Tires",0
+NA,"Light truck","BEV100","Transmission",0
+NA,"Light truck","BEV100","Wheels",0
+NA,"Light truck","BEV300","Body",0
+NA,"Light truck","BEV300","Chassis",0
+NA,"Light truck","BEV300","Exterior",0
+NA,"Light truck","BEV300","Interior",0
+NA,"Light truck","BEV300","Tires",0
+NA,"Light truck","BEV300","Transmission",0
+NA,"Light truck","BEV300","Wheels",0
+NA,"Light truck","FFV","Body",0
+NA,"Light truck","FFV","Chassis",0
+NA,"Light truck","FFV","Exterior",0
+NA,"Light truck","FFV","Interior",0
+NA,"Light truck","FFV","Tires",0
+NA,"Light truck","FFV","Transmission",0
+NA,"Light truck","FFV","Wheels",0
+NA,"Light truck","ICEV-D","Body",0
+NA,"Light truck","ICEV-D","Chassis",0
+NA,"Light truck","ICEV-D","Exterior",0
+NA,"Light truck","ICEV-D","Interior",0
+NA,"Light truck","ICEV-D","Tires",0
+NA,"Light truck","ICEV-D","Transmission",0
+NA,"Light truck","ICEV-D","Wheels",0
+NA,"Light truck","CNG","Body",0
+NA,"Light truck","CNG","Chassis",0
+NA,"Light truck","CNG","Exterior",0
+NA,"Light truck","CNG","Interior",0
+NA,"Light truck","CNG","Tires",0
+NA,"Light truck","CNG","Transmission",0
+NA,"Light truck","CNG","Wheels",0
+NA,"Light truck","HEV","Body",0
+NA,"Light truck","HEV","Chassis",0
+NA,"Light truck","HEV","Exterior",0
+NA,"Light truck","HEV","Interior",0
+NA,"Light truck","HEV","Tires",0
+NA,"Light truck","HEV","Transmission",0
+NA,"Light truck","HEV","Wheels",0
+NA,"Light truck","PHEV20","Body",0
+NA,"Light truck","PHEV20","Chassis",0
+NA,"Light truck","PHEV20","Exterior",0
+NA,"Light truck","PHEV20","Interior",0
+NA,"Light truck","PHEV20","Tires",0
+NA,"Light truck","PHEV20","Transmission",0
+NA,"Light truck","PHEV20","Wheels",0
+NA,"Light truck","PHEV40","Body",0
+NA,"Light truck","PHEV40","Chassis",0
+NA,"Light truck","PHEV40","Exterior",0
+NA,"Light truck","PHEV40","Interior",0
+NA,"Light truck","PHEV40","Tires",0
+NA,"Light truck","PHEV40","Transmission",0
+NA,"Light truck","PHEV40","Wheels",0
+NA,"Light truck","FCV","Body",0
+NA,"Light truck","FCV","Chassis",0
+NA,"Light truck","FCV","Exterior",0
+NA,"Light truck","FCV","Interior",0
+NA,"Light truck","FCV","Tires",0
+NA,"Light truck","FCV","Transmission",0
+NA,"Light truck","FCV","Wheels",0

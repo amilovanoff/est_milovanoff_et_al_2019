@@ -1,0 +1,736 @@
+"Year","Data_type","Source","Unit","Aeo_year","Aeo_case","Value","rel_Value"
+2016,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1228.067362,0.314722916075291
+2016,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0,0
+2016,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1276.435459,0.32711844827807
+2016,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",804.239993,0.206106573347181
+2016,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",15.533867,0.00398094116938655
+2016,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",3.973703,0.001018360583853
+2016,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",573.808508,0.147052753370521
+2017,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1254.508716,0.327737268499164
+2017,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0,0
+2017,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1141.124574,0.298115944616547
+2017,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",792.317533,0.206990976417749
+2017,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",11.582263,0.00302583727816757
+2017,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",2.715155,0.000709327461740686
+2017,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",625.539496,0.163420630835524
+2018,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1240.594812,0.319773673032229
+2018,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0,0
+2018,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1214.431837,0.313029947738301
+2018,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",797.014351,0.205437104857624
+2018,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",11.504916,0.00296548817684985
+2018,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",2.623545,0.00067624063304187
+2018,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",613.433268,0.158117547624021
+2019,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1184.125039,0.298888097870102
+2019,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0.17155,4.33013841451384e-05
+2019,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1297.653726,0.327544170661009
+2019,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",788.091393,0.198924209558556
+2019,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",7.710905,0.00194632969694939
+2019,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",2.50409,0.000632063905706789
+2019,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",681.510491,0.172021845349653
+2020,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1181.025897,0.296741385576984
+2020,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0.226485,5.69060110223842e-05
+2020,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1248.503414,0.313695604735714
+2020,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",764.657275,0.192125727176176
+2020,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",7.664117,0.0019256653927582
+2020,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",2.441303,0.000613395215696313
+2020,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",775.465344,0.194841333479661
+2021,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1145.225248,0.286996932665359
+2021,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0.296108,7.42055660107786e-05
+2021,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1253.572113,0.314148986790268
+2021,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",761.197837,0.190758494673448
+2021,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",7.433786,0.00186292939648034
+2021,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",2.369298,0.000593753289807116
+2021,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",820.280298,0.205564739218731
+2022,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1109.869176,0.276722083573533
+2022,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0.41413,0.000103254436602451
+2022,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1285.478818,0.320506582756563
+2022,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",763.492103,0.190360386703899
+2022,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",7.289848,0.00181756730533289
+2022,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",2.249293,0.000560812984977756
+2022,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",841.978744,0.209929347893076
+2023,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1116.084061,0.276622293537723
+2023,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0.545751,0.000135264805399372
+2023,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1314.846705,0.325885767835204
+2023,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",745.052738,0.184661894559679
+2023,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",7.305264,0.00181061530505861
+2023,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",2.14323,0.000531201205084546
+2023,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",848.708361,0.21035302050108
+2024,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1155.712108,0.284626550827217
+2024,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0.682008,0.000167963615967039
+2024,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1300.575539,0.320303237452816
+2024,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",738.863731,0.181965935833095
+2024,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",7.443528,0.00183317773168628
+2024,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",2.054259,0.000505918947831745
+2024,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",855.119619,0.210597211897216
+2025,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1170.769829,0.287099861899446
+2025,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0.808078,0.000198159430194866
+2025,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1314.091633,0.32224568571242
+2025,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",718.577075,0.176211731705471
+2025,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",7.355277,0.00180368417311869
+2025,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",1.890396,0.000463568856227559
+2025,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",864.426216,0.211977317051156
+2026,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1188.216004,0.289929243669866
+2026,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",0.947524,0.000231199475309412
+2026,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1318.580852,0.321738764543629
+2026,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",709.667564,0.173161596372132
+2026,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",6.907215,0.00168538684386812
+2026,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",1.725098,0.000420930501451484
+2026,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",872.252268,0.212832885181847
+2027,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1186.368093,0.287884140544023
+2027,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",1.097475,0.000266313338168605
+2027,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1336.461537,0.324305823141679
+2027,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",709.656202,0.172205209327478
+2027,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",6.563902,0.00159279678628815
+2027,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",1.546465,0.000375265273934178
+2027,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",879.297762,0.213370438727446
+2028,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1180.23417,0.284618783717773
+2028,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",1.252627,0.000302076640597555
+2028,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1363.557059,0.328827923752084
+2028,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",708.66927,0.170898785014471
+2028,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",6.278039,0.00151397736968821
+2028,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",1.40494,0.000338807606287529
+2028,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",885.323227,0.213499682072274
+2029,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1184.377569,0.283988566337603
+2029,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",1.414584,0.000339187175305337
+2029,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1377.715109,0.330346798915578
+2029,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",706.121855,0.169313011753855
+2029,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",6.249209,0.0014984274872349
+2029,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",1.311223,0.000314403404510011
+2029,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",893.321849,0.214199591258526
+2030,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1184.145352,0.283120769805179
+2030,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",1.570168,0.000375416051866121
+2030,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1384.173013,0.330945967336039
+2030,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",695.88851,0.166382015786335
+2030,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",6.156896,0.00147207024220995
+2030,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",1.213853,0.000290223658109098
+2030,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",909.326475,0.217413522057409
+2031,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1172.650725,0.279290596873196
+2031,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",1.752543,0.000417403724809825
+2031,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1399.818737,0.333395274685063
+2031,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",688.672105,0.164021254713649
+2031,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.829821,0.00138849032541543
+2031,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",1.094792,0.000260746959527953
+2031,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",928.857161,0.221226206043263
+2032,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1165.157102,0.276503099180389
+2032,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",1.926332,0.000457137296881323
+2032,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1400.98998,0.332468532119603
+2032,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",689.552447,0.16363749430497
+2032,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.807409,0.00137815457156101
+2032,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.996126,0.000236390376629369
+2032,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",949.473054,0.225319179335242
+2033,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1160.585938,0.274177636413683
+2033,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",2.110671,0.000498626398165877
+2033,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1403.951966,0.33167059764619
+2033,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",686.973142,0.162291017137278
+2033,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.792424,0.00136840631049063
+2033,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.924058,0.000218300110361285
+2033,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",972.632762,0.229775446222641
+2034,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1157.924594,0.272043185479579
+2034,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",2.314161,0.00054368974751443
+2034,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1420.279029,0.333680822845537
+2034,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",671.147968,0.1576797246461
+2034,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.798057,0.00136219742118387
+2034,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.865609,0.000203366463550383
+2034,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",998.070553,0.234487024438731
+2035,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1155.317341,0.269815509862192
+2035,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",2.533211,0.000591612012818833
+2035,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1421.608976,0.33200588017843
+2035,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",668.583709,0.156142600762183
+2035,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.807695,0.00135634265317333
+2035,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.822122,0.000192000291804609
+2035,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1027.205883,0.239896060778584
+2036,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1157.76907,0.268728892876909
+2036,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",2.613907,0.000606711953527316
+2036,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1437.601666,0.33368062259789
+2036,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",661.016943,0.153428136809069
+2036,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.86498,0.00136131601973545
+2036,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.790959,0.000183588888223648
+2036,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1042.658872,0.242010752905022
+2037,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1155.331555,0.26637282985391
+2037,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",2.765552,0.000637624679391831
+2037,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1454.875752,0.335435632714174
+2037,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",660.053469,0.152181691594514
+2037,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.848145,0.0013483462182819
+2037,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.760686,0.00017538349192778
+2037,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1057.637561,0.243848537559729
+2038,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1156.032534,0.264818205906048
+2038,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",2.934172,0.00067214558587826
+2038,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1462.261489,0.334967617859867
+2038,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",661.287447,0.151484452342178
+2038,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.681391,0.00130146490468128
+2038,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.731489,0.000167565876325077
+2038,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1076.453304,0.246588590132981
+2039,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1157.278337,0.263450102249919
+2039,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",3.115233,0.00070917118738249
+2039,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1473.46406,0.335428604215359
+2039,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",663.459905,0.15103417580949
+2039,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.721596,0.00130250001494042
+2039,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.72549,0.000165155095857717
+2039,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1089.015673,0.247910361086812
+2040,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1152.466606,0.261052757521194
+2040,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",3.328796,0.000754027379623286
+2040,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1490.45086,0.337611784087422
+2040,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",665.718776,0.150796319219712
+2040,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.819723,0.00131826356551239
+2040,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.713302,0.00016157470687301
+2040,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1096.190642,0.248305320408588
+2041,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1151.129967,0.259329727211892
+2041,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",3.566573,0.000803487381691366
+2041,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1507.570758,0.339629689637612
+2041,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",665.787852,0.149990519741331
+2041,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.788698,0.00130409381762887
+2041,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.723985,0.000163101333418333
+2041,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1104.298414,0.24877938605793
+2042,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1142.065689,0.255907828124978
+2042,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",3.820927,0.000856172407079545
+2042,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1531.879155,0.343255095816101
+2042,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",664.10916,0.148809945356395
+2042,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.743934,0.00128706928943841
+2042,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.68662,0.000153854051163227
+2042,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1114.495352,0.24973001792518
+2043,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1140.877332,0.254130493670074
+2043,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",4.09574,0.000912326329001221
+2043,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1548.957757,0.345030432649967
+2043,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",662.431009,0.147556546718675
+2043,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.757739,0.0012825367052638
+2043,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.65348,0.000145562708930674
+2043,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1126.563584,0.250942105450341
+2044,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1151.342222,0.255002881532094
+2044,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",4.371815,0.000968283279482851
+2044,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1551.516187,0.343634664714561
+2044,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",661.057217,0.146413022967021
+2044,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.763677,0.00127655723479605
+2044,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.62057,0.000137445787332875
+2044,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1140.344782,0.252567134075005
+2045,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1151.617813,0.253514006346015
+2045,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",4.747016,0.0010449951631207
+2045,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1563.622284,0.344211547575937
+2045,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",655.429164,0.144284389635139
+2045,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.708754,0.00125670954499541
+2045,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.603727,0.000132902816178704
+2045,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1160.891241,0.255555433509005
+2046,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1145.066091,0.250321376662276
+2046,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",5.134944,0.00112254328485193
+2046,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1581.257493,0.345676599470013
+2046,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",649.926647,0.142079600719342
+2046,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.693077,0.00124455599837018
+2046,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.577416,0.000126228144526223
+2046,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1186.728361,0.259429110148793
+2047,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1144.633982,0.248652605955791
+2047,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",5.490558,0.0011927319792358
+2047,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1595.743562,0.346648624248583
+2047,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",647.092502,0.140570033256931
+2047,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.69188,0.00123646581968038
+2047,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.549408,0.00011934970748838
+2047,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1204.14417,0.261580199893955
+2048,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1143.067137,0.246735460400311
+2048,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",5.820481,0.00125637332471598
+2048,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1615.071355,0.348619395533614
+2048,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",645.884091,0.139416577906676
+2048,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.829845,0.00125839458031541
+2048,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.520794,0.000112415398189966
+2048,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1216.57021,0.262601382856178
+2049,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1152.128633,0.247245182264457
+2049,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",6.149829,0.00131974464347875
+2049,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1623.195911,0.34833555678684
+2049,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",645.884091,0.138605816422764
+2049,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.671599,0.0012171171589014
+2049,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.486397,0.000104380111276937
+2049,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1226.346514,0.26317223501667
+2050,"Electricity Generation","Coal","billion kilowatthours",2018,"REF",1154.824308,0.246170314877391
+2050,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"REF",6.545797,0.00139534723806098
+2050,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"REF",1653.447303,0.352460231736552
+2050,"Electricity Generation","Nuclear","billion kilowatthours",2018,"REF",634.918153,0.13534353283234
+2050,"Electricity Generation","Petroleum","billion kilowatthours",2018,"REF",5.660602,0.00120665296624116
+2050,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"REF",0.453556,9.66831253560088e-05
+2050,"Electricity Generation","Renewables","billion kilowatthours",2018,"REF",1235.310317,0.263327267706925
+2016,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1228.067362,0.314722919382171
+2016,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0,0
+2016,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1276.435461,0.327118452227742
+2016,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",804.239993,0.206106575512799
+2016,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",15.533867,0.00398094121121538
+2016,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",3.973703,0.00101836059455319
+2016,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",573.808508,0.147052754915644
+2017,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1251.675784,0.326993467240342
+2017,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0,0
+2017,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1143.985768,0.298860038305195
+2017,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",792.317544,0.206988634101363
+2017,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",11.571024,0.00302286686827937
+2017,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",2.715155,0.000709319425121154
+2017,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",625.565914,0.163425680852058
+2018,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1228.638754,0.316725827312647
+2018,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0,0
+2018,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1226.246188,0.316109057376583
+2018,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",797.014391,0.205459124211835
+2018,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",11.455184,0.00295298566613388
+2018,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",2.623536,0.000676310760489419
+2018,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",613.209146,0.158076711686185
+2019,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1158.892073,0.292474226637245
+2019,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.233772,5.89979744467904e-05
+2019,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1324.517048,0.334273663878661
+2019,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",788.091392,0.198893776016595
+2019,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",7.551158,0.00190571594000854
+2019,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",2.503949,0.000631931621913943
+2019,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",680.583986,0.171761702064074
+2020,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1136.793959,0.285235761290599
+2020,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.287381,7.21074717775253e-05
+2020,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1287.861217,0.323140417627459
+2020,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",764.671011,0.191865479432441
+2020,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",7.395591,0.00185564588233258
+2020,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",2.439379,0.000612070569721686
+2020,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",786.005255,0.197218506936433
+2021,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1042.997404,0.260176732517451
+2021,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.328295,8.18935119821416e-05
+2021,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1309.252783,0.326594399769301
+2021,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",761.216421,0.189886188014336
+2021,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",7.03352,0.00175451851047574
+2021,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",2.333603,0.000582119573073186
+2021,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",885.641589,0.220924169057264
+2022,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",997.493436,0.247126863063125
+2022,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.387712,9.6054817880456e-05
+2022,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1336.991587,0.331236803083182
+2022,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",763.619025,0.189184978479971
+2022,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",6.850785,0.00169726731572188
+2022,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",2.25109,0.000557702727752857
+2022,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",928.768204,0.230100333980837
+2023,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1000.063995,0.245942413120194
+2023,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.461398,0.000113470076011317
+2023,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1377.289128,0.338712135821395
+2023,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",740.656343,0.182147151783219
+2023,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",6.850345,0.00168468256874487
+2023,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",2.168923,0.000533396021813474
+2023,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",938.762489,0.230866737574508
+2024,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1027.909612,0.250812417414443
+2024,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.539333,0.000131598549076885
+2024,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1381.107934,0.336993657411977
+2024,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",734.467632,0.179211868576808
+2024,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",6.93453,0.00169204199730061
+2024,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",2.113377,0.000515669070597311
+2024,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",945.247882,0.230642756495891
+2025,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1045.676587,0.2537746894328
+2025,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.603736,0.000146520365669621
+2025,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1381.854011,0.335361407956047
+2025,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",726.806842,0.176388362232867
+2025,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",6.852577,0.00166304823270309
+2025,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",2.031016,0.000492906182505019
+2025,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",956.667266,0.232173065112029
+2026,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1067.948102,0.257756483268606
+2026,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.648145,0.000156434170850871
+2026,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1383.322692,0.33387426940301
+2026,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",717.897832,0.173269487698829
+2026,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",6.409348,0.00154693940410662
+2026,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",1.890422,0.000456266110404685
+2026,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",965.12801,0.232940160009413
+2027,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1073.858439,0.257710056923285
+2027,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.692173,0.000166111227283246
+2027,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1390.553168,0.333712082584969
+2027,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",717.887105,0.172282230110632
+2027,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",6.07924,0.00145892720078564
+2027,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",1.746982,0.000419249702114558
+2027,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",976.107772,0.234251350410425
+2028,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1076.961832,0.256699119117172
+2028,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.744311,0.000177410166611384
+2028,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1408.250564,0.335663408427143
+2028,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",716.900991,0.170876856928322
+2028,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.743403,0.00136896819091256
+2028,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",1.645122,0.000392122873524714
+2028,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",985.178487,0.234822110005926
+2029,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1099.823093,0.260355691414447
+2029,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.793973,0.000187953308759451
+2029,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1406.259478,0.332896864080312
+2029,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",714.354537,0.16910562305831
+2029,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.778134,0.00136782913745868
+2029,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",1.525128,0.000361036022486512
+2029,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",995.775524,0.235725024046757
+2030,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1107.757485,0.261062225363393
+2030,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.84521,0.000199188366124552
+2030,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1419.478789,0.334524746192506
+2030,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",704.474725,0.166021662603132
+2030,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.780661,0.00136231282132242
+2030,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",1.400124,0.000329963455155255
+2030,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1003.53286,0.236499888472331
+2031,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1120.667164,0.262844512183891
+2031,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.900714,0.000211256062060547
+2031,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1427.313882,0.334766318760086
+2031,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",697.235854,0.163531710224847
+2031,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.663861,0.00132841831138221
+2031,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",1.250489,0.000293293300415039
+2031,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1010.58066,0.237024505698977
+2032,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1118.064937,0.261143662570044
+2032,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",0.958931,0.000223975142413356
+2032,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1435.161761,0.335207183630707
+2032,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",698.061224,0.163044433915101
+2032,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.607436,0.0013097149603817
+2032,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",1.168205,0.000272854753097975
+2032,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1022.394721,0.238798206793438
+2033,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1120.412908,0.260453673000795
+2033,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",1.023865,0.000238009931876793
+2033,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1440.908672,0.334956830112759
+2033,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",695.525865,0.161683487322252
+2033,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.568095,0.00129437173029014
+2033,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",1.024858,0.000238240766862219
+2033,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1037.310037,0.24113539503888
+2034,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1132.179062,0.261732262895684
+2034,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",1.094494,0.00025302039311671
+2034,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1445.476945,0.334159113585859
+2034,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",689.00446,0.159281073563096
+2034,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.624205,0.00130017940716803
+2034,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.918839,0.000212413229301362
+2034,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1051.41654,0.243061932071086
+2035,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1130.893596,0.260010420634747
+2035,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",1.170741,0.000269171972448188
+2035,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1455.925853,0.334740505022307
+2035,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",686.427937,0.157820697956107
+2035,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.642768,0.0012973620917244
+2035,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.839114,0.000192925651778565
+2035,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1068.516459,0.245668924947861
+2036,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1128.672122,0.257994077125716
+2036,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",1.244057,0.000284368977802029
+2036,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1464.814195,0.334830088413997
+2036,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",685.277569,0.156642084572644
+2036,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.655209,0.0012926787137461
+2036,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.751223,0.000171716019934275
+2036,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1088.38429,0.248785005834208
+2037,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1131.407007,0.256909862685204
+2037,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",1.333299,0.000302753704802112
+2037,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1471.393056,0.334110877548173
+2037,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",684.314193,0.155387994125412
+2037,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.640997,0.00128090753876482
+2037,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.675193,0.000153316834563329
+2037,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1109.142689,0.251854278934378
+2038,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1128.76169,0.254602299419419
+2038,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",1.422522,0.000320862565928075
+2038,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1480.411029,0.333919954414176
+2038,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",685.342398,0.154585110361443
+2038,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.46827,0.00123341722896905
+2038,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.602354,0.000135866334606452
+2038,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1131.422499,0.255202468698477
+2039,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1150.251375,0.258042862467063
+2039,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",1.512315,0.000339266789880496
+2039,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1455.512177,0.326523868322911
+2039,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",687.67067,0.154269329277214
+2039,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.527378,0.0012399902074079
+2039,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.552783,0.000124009160730741
+2039,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1156.571202,0.259460627561564
+2040,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1138.785796,0.254251837432048
+2040,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",1.606813,0.000358746270891933
+2040,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1454.977984,0.324846715821855
+2040,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",689.980986,0.154049105722843
+2040,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.48815,0.00122531579380772
+2040,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.483986,0.000108057485633924
+2040,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1187.64393,0.265160184187544
+2041,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1142.727509,0.254027528909478
+2041,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",1.714285,0.000381084360853156
+2041,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1437.592704,0.319575856273024
+2041,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",690.051022,0.153397861309489
+2041,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.4885,0.00122008972518721
+2041,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.398199,8.85193602040303e-05
+2041,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1220.467387,0.271309049613697
+2042,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1130.983829,0.249934028793058
+2042,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",1.901992,0.000420317701370216
+2042,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1454.421711,0.321409969332393
+2042,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",688.373372,0.152122360874023
+2042,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.448115,0.00120396887768224
+2042,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.316945,7.0041090530761e-05
+2042,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1243.683299,0.274839276646909
+2043,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1131.028351,0.248407572547928
+2043,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",2.135848,0.00046909594842804
+2043,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1449.554598,0.318365440306162
+2043,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",684.859021,0.150415475256429
+2043,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.470882,0.00120156892275475
+2043,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.235602,5.17452288934152e-05
+2043,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1279.831008,0.281089075873084
+2044,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1136.187233,0.248130218753679
+2044,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",2.383419,0.000520511286058144
+2044,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1445.623255,0.315707485597627
+2044,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",681.555747,0.148843933186439
+2044,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.502735,0.00120173400970923
+2044,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.174802,3.81747455338468e-05
+2044,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1307.568546,0.28555792560504
+2045,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1145.440362,0.24869561736708
+2045,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",2.663499,0.000578293336027564
+2045,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1449.097812,0.314625088251103
+2045,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",675.927066,0.146755871846944
+2045,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.554379,0.00120595515953693
+2045,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.109058,2.3678445023067e-05
+2045,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1327.000181,0.288115505798827
+2046,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1137.413154,0.245278591273182
+2046,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",2.974673,0.000641476318761097
+2046,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1474.152464,0.31789507481976
+2046,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",670.424164,0.144574285889981
+2046,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.532706,0.0011931058901827
+2046,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",0.0425000000000001,9.16495478573499e-06
+2046,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1346.690134,0.290408333847185
+2047,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1137.02716,0.24357089161296
+2047,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",3.304056,0.000707785965164763
+2047,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1484.412783,0.317986902860777
+2047,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",667.589049,0.143009125565635
+2047,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.542948,0.0011873953710343
+2047,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",-0.040223,-8.61646257715435e-06
+2047,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1370.321141,0.293546499020708
+2048,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1135.433652,0.241704969668289
+2048,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",3.626518,0.000771993521283711
+2048,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1492.81641,0.317782676657336
+2048,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",666.379737,0.141855311259655
+2048,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.467642,0.00116392203229067
+2048,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",-0.123424,-2.62738330185927e-05
+2048,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1394.00104,0.296747395585174
+2049,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1136.548356,0.240410330674137
+2049,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",3.988145,0.000843599177425943
+2049,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1499.430356,0.317169565030632
+2049,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",666.378709,0.1409568936853
+2049,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.465225,0.00115604104525981
+2049,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",-0.200698,-4.24529869678841e-05
+2049,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1415.925238,0.299506002433069
+2050,"Electricity Generation","Coal","billion kilowatthours",2018,"HOP",1136.583706,0.238860528895415
+2050,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"HOP",4.369784,0.000918338800643269
+2050,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"HOP",1511.301417,0.317609916347868
+2050,"Electricity Generation","Nuclear","billion kilowatthours",2018,"HOP",655.397118,0.137736007841389
+2050,"Electricity Generation","Petroleum","billion kilowatthours",2018,"HOP",5.424002,0.00113988963558993
+2050,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"HOP",-0.264537,-5.55941875629936e-05
+2050,"Electricity Generation","Renewables","billion kilowatthours",2018,"HOP",1445.545599,0.303790899426794
+2016,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1228.067362,0.314722916962502
+2016,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0,0
+2016,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1276.435452,0.3271184474063
+2016,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",804.239993,0.2061065739282
+2016,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",15.533867,0.00398094118060892
+2016,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",3.973703,0.00101836058672378
+2016,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",573.808508,0.147052753785066
+2017,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1246.347215,0.325601429787088
+2017,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0,0
+2017,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1149.453973,0.300288597414043
+2017,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",792.317533,0.206988645287083
+2017,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",11.550937,0.00301761945412665
+2017,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",2.715154,0.000709319212056113
+2017,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",625.44603,0.163394372909685
+2018,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1228.111468,0.317267636010677
+2018,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0,0
+2018,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1218.442051,0.314769659928598
+2018,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",797.014339,0.205898944672294
+2018,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",11.475429,0.00296453728012771
+2018,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",2.623524,0.000677755463722512
+2018,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",613.233626,0.158421436419056
+2019,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1147.395649,0.289368979452567
+2019,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0.168061,4.23843685464226e-05
+2019,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1337.818998,0.337393050497366
+2019,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",788.091392,0.198753762067292
+2019,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",7.579678,0.00191156702515879
+2019,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",2.505621,0.00063190843742246
+2019,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",681.605328,0.171898366814176
+2020,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1151.605676,0.28968999020254
+2020,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0.228136,5.73883204834487e-05
+2020,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1281.780579,0.322435891999125
+2020,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",764.671627,0.192355526505576
+2020,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",7.940429,0.00199743961596622
+2020,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",2.451781,0.000616753137528625
+2020,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",766.625424,0.192847010218781
+2021,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1133.821291,0.284231458315782
+2021,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0.308285,7.72822805696289e-05
+2021,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1284.133602,0.321912429468356
+2021,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",761.212689,0.190824245761097
+2021,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.219768,0.00231125321492413
+2021,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",2.382762,0.000597321573915857
+2021,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",797.99908,0.200046024927796
+2022,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1124.419821,0.280588118319435
+2022,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0.42275,0.000105493183955125
+2022,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1300.390646,0.324499939992907
+2022,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",763.611175,0.190551801666384
+2022,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",11.64629,0.0029062193101472
+2022,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",2.279382,0.00056879778741573
+2022,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",804.597955,0.200779657189195
+2023,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1133.169461,0.281250267247076
+2023,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0.550711,0.000136685307234824
+2023,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1342.15483,0.333119994507559
+2023,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",729.680109,0.181105062150211
+2023,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",11.555844,0.00286813607772079
+2023,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",2.158393,0.000535708584608793
+2023,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",809.773863,0.200984162754848
+2024,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1166.009228,0.287646409611795
+2024,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0.683406,0.000168591532113636
+2024,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1342.612505,0.331213216232923
+2024,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",716.619396,0.176785047122777
+2024,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",11.705377,0.00288763552324346
+2024,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",2.051179,0.000506011668392312
+2024,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",813.93887,0.200793088062062
+2025,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1183.763339,0.29078860259655
+2025,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0.808045,0.000198494300882492
+2025,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1345.698668,0.330567624703031
+2025,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",708.957966,0.17415381051333
+2025,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",11.611051,0.00285222660960214
+2025,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.917009,0.00047090862667357
+2025,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",818.116529,0.200968347634434
+2026,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1197.923432,0.292917828783928
+2026,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",0.953138,0.000233062569804925
+2026,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1356.134701,0.331603858430462
+2026,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",700.047859,0.171176632350169
+2026,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",11.178818,0.00273345942608683
+2026,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.819235,0.000444841758674046
+2026,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",821.565757,0.200890350180298
+2027,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1199.087169,0.291811083893414
+2027,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",1.102824,0.00026838438030494
+2027,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1368.52859,0.33304652198061
+2027,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",700.036014,0.170361482710324
+2027,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.848033,0.00263998844260965
+2027,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.657258,0.000403312007478441
+2027,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",827.861724,0.201469278664519
+2028,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1198.272266,0.290069982926327
+2028,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",1.255832,0.000304003670229597
+2028,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1381.407128,0.334402083235119
+2028,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",699.048695,0.169221176836718
+2028,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.625539,0.00257216160614455
+2028,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.565767,0.000379030726024169
+2028,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",838.801374,0.203051599489126
+2029,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1205.442977,0.290505435975919
+2029,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",1.415777,0.000341194832503204
+2029,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1388.383931,0.334593246526596
+2029,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",696.500803,0.16785304099299
+2029,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.646347,0.00256571379633656
+2029,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.460607,0.000351998627409548
+2029,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",845.617635,0.203789415519238
+2030,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1205.938536,0.289909810367836
+2030,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",1.578624,0.000379504071575763
+2030,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1397.619105,0.335990166663862
+2030,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",686.266994,0.164979829529425
+2030,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.552161,0.002536758635003
+2030,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.380172,0.00033179585099103
+2030,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",856.366745,0.20587211805318
+2031,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1200.566732,0.287659228838811
+2031,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",1.75506,0.000420517404580093
+2031,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1412.537851,0.338448116288709
+2031,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",679.050172,0.162702366818858
+2031,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.234358,0.00245218150017863
+2031,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.312336,0.000314439465691783
+2031,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",868.116393,0.208003175081075
+2032,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1198.219277,0.286269210063188
+2032,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",1.925262,0.00045996859046082
+2032,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1412.717852,0.337515537679172
+2032,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",679.930089,0.162443597104825
+2032,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.159802,0.0024273007026062
+2032,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.208845,0.000288807824979463
+2032,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",881.476809,0.210595568478281
+2033,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1194.359595,0.28411440788968
+2033,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",1.993529,0.000474220924600104
+2033,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1423.8046,0.338694814001643
+2033,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",677.350695,0.161128266938391
+2033,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.126916,0.00240899202814085
+2033,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.123548,0.000267269736930137
+2033,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",895.039186,0.212912032048816
+2034,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1193.496122,0.28240982648248
+2034,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",2.072313,0.000490358991503609
+2034,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1437.687057,0.340191262308498
+2034,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",670.854006,0.158740158377772
+2034,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.146871,0.00240099320444219
+2034,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.074069,0.00025415050315531
+2034,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",910.783721,0.215513287282116
+2035,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1193.259661,0.280708156499507
+2035,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",2.213468,0.000520706885565832
+2035,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1447.488473,0.340514168114593
+2035,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",668.289661,0.15721168231714
+2035,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.104756,0.00237709152613123
+2035,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.03395,0.000243231383661653
+2035,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",928.500756,0.218424995031453
+2036,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1192.223668,0.278734525003561
+2036,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",2.360402,0.000551847399063257
+2036,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1456.94705,0.340625215584203
+2036,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",667.135858,0.155972240346828
+2036,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.116282,0.00236512420760974
+2036,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.029061,0.00024058810165702
+2036,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",947.460536,0.221510417507984
+2037,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1194.404329,0.277557569593677
+2037,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",2.510732,0.000583447878495651
+2037,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1459.726375,0.339213526843127
+2037,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",666.172251,0.15480616272809
+2037,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",10.096915,0.00234633709854374
+2037,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.023275,0.000237790265097046
+2037,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",969.33312,0.225255165592971
+2038,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1195.001625,0.275804781656494
+2038,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",2.690325,0.000620923422769411
+2038,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1472.743449,0.339907224299781
+2038,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",658.077719,0.151883460076298
+2038,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.996251,0.00230712140198011
+2038,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.008656,0.000232796459876373
+2038,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",993.262441,0.229243646984665
+2039,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1190.361737,0.273028629527555
+2039,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",2.882829,0.000661223245478271
+2039,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1473.468038,0.337963617750085
+2039,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",660.250184,0.151439009907319
+2039,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.836402,0.00225613716743829
+2039,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",1.000941,0.000229581933771398
+2039,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1022.042083,0.234421806890604
+2040,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1188.607764,0.271331071187662
+2040,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",3.102678,0.000708268085392038
+2040,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1476.954056,0.337153717354855
+2040,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",656.095872,0.149771187050367
+2040,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.987118,0.00227982308974517
+2040,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.978755,0.000223426643021894
+2040,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1044.928796,0.238532557266312
+2041,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1189.074559,0.27003568614862
+2041,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",3.334437,0.000757241820034891
+2041,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1489.45025,0.33825021080363
+2041,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",656.164866,0.149013304906583
+2041,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.998104,0.002270542964182
+2041,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.97251,0.000220854447812969
+2041,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1054.402912,0.239452111445791
+2042,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1187.925109,0.268423405292464
+2042,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",3.571222,0.000806952865153527
+2042,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1510.96832,0.341418207823599
+2042,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",654.486133,0.147887602682668
+2042,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.981085,0.00225532468664532
+2042,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.948643,0.000214355250627891
+2042,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1057.68405,0.238994152302681
+2043,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1184.811499,0.266136280970034
+2043,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",3.873582,0.000870096811503401
+2043,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1539.294816,0.345761497075656
+2043,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",652.808027,0.146635900005867
+2043,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.924736,0.00222932705403242
+2043,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.897818,0.000201670851194156
+2043,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1060.287227,0.238165226782467
+2044,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1184.436418,0.264426395609768
+2044,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",4.168357,0.000930589097375039
+2044,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1558.861502,0.348017100761494
+2044,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",651.131888,0.145365724655068
+2044,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.918509,0.0022143152176304
+2044,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.867181,0.000193598864984641
+2044,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1069.883214,0.238852299458267
+2045,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1189.455905,0.263885756945787
+2045,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",4.469327,0.00099153884854037
+2045,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1570.296812,0.348376901676045
+2045,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",645.503334,0.143207608779427
+2045,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.910912,0.00219877719228531
+2045,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.84008,0.000186375254234428
+2045,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1086.988868,0.241153017121576
+2046,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1196.690951,0.263707223573441
+2046,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",4.746585,0.00104597494512628
+2046,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1585.87929,0.349470198750187
+2046,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",640.000466,0.141032858845916
+2046,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.81687,0.00216328161395231
+2046,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.82445,0.00018167883720809
+2046,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1099.994296,0.242398792689444
+2047,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1193.840344,0.261580856231675
+2047,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",5.017975,0.00109948219093619
+2047,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1604.272645,0.351510161486178
+2047,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",637.165516,0.139608534821451
+2047,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.796411,0.00214647929286045
+2047,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.790636,0.000173235259544543
+2047,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1113.060473,0.243881280297035
+2048,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1193.550378,0.259669541485007
+2048,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",5.357071,0.00116548760396993
+2048,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1619.844284,0.352414301278357
+2048,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",636.261276,0.138425387691164
+2048,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.397727,0.00204457516504701
+2048,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.765436,0.000166528718703248
+2048,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1131.244201,0.246114171966056
+2049,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1193.540976,0.257912902663149
+2049,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",5.773013,0.00124749344168481
+2049,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1633.673046,0.353021275154283
+2049,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",636.261264,0.137490034066802
+2049,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.602268,0.0020749591860091
+2049,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.735263,0.000158883371718287
+2049,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1148.104232,0.248094452548536
+2050,"Electricity Generation","Coal","billion kilowatthours",2018,"LOP",1193.252549,0.256031646296139
+2050,"Electricity Generation","Distributed Generation","billion kilowatthours",2018,"LOP",6.173463,0.00132461639957351
+2050,"Electricity Generation","Natural Gas","billion kilowatthours",2018,"LOP",1655.143881,0.35513790694564
+2050,"Electricity Generation","Nuclear","billion kilowatthours",2018,"LOP",625.295328,0.134167232563879
+2050,"Electricity Generation","Petroleum","billion kilowatthours",2018,"LOP",9.111851,0.00195509510060566
+2050,"Electricity Generation","Pumped Storage/Other","billion kilowatthours",2018,"LOP",0.702475,0.000150727380287272
+2050,"Electricity Generation","Renewables","billion kilowatthours",2018,"LOP",1170.887191,0.251232796770494

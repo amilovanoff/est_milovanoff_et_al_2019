@@ -1,9 +1,11 @@
 ---
-title: "Paper's figure: A dynamic fleet model of U.S light-duty vehicle lightweighting and associated greenhouse gas emissions from 2016-2050"
+title: 'Paper''s figure: A dynamic fleet model of U.S light-duty vehicle lightweighting
+  and associated greenhouse gas emissions from 2016-2050'
 output:
   word_document:
     reference_docx: reference_style_rmarkedown.docx
-fig_caption: TRUE
+  pdf_document: default
+fig_caption: yes
 ---
 *Alexandre Milovanoff^a^, Hyung Chul Kim^b^, Robert De Kleine^b^, Timothy J. Wallington^b^, I. Daniel Posen^a^, Heather L. MacLean^a,c^  
 ^a^: Department of Civil & Mineral Engineering, University of Toronto, 35 St. George Street, Toronto, Ontario, M5S 1A4 Canada  
@@ -306,7 +308,7 @@ ggplot()+
         plot.margin=unit(c(1,1,1,1),"mm"))
 
 ggsave("outputs/plots/paper_fig2a.png",width=3.5,height=3.5,units=c("in"),dpi=300)
-
+write.csv(plot_line,"reports/paper_raw_data/figure2a.csv",row.names = FALSE)
 #Numerical results
 #subset(plot_line,LWscen=="Baseline with technological changes")[which.min(subset(plot_line,LWscen=="Baseline with technological changes")[,"GWP100"]),]
 #View(subset(plot_line,Year==2025))
@@ -408,7 +410,7 @@ ggplot(data=plot_ribbon)+
         legend.key.width=unit(0.5, "cm"))
 
 ggsave("outputs/plots/paper_fig2b.png",width=3.5,height=3.5,units=c("in"),dpi=300)
-
+write.csv(plot_ribbon,"reports/paper_raw_data/figure2b.csv",row.names = FALSE)
 
 #Fleet GHG emissions in baseline without changes  
 #(subset(plot_line,LWscen=="Baseline without technological changes"&Year==2025,GWP100)-subset(plot_line,LWscen=="Baseline without technological changes"&Year==2015,GWP100))/10^9
@@ -482,7 +484,7 @@ ggplot()+
         axis.title.x = element_text(margin = margin(0.2,0,0,0,unit="cm")))
 
 ggsave("outputs/plots/paper_fig2c.png",width=6.5,height=2,units=c("in"),dpi=300)
-
+write.csv(plot_col,"reports/paper_raw_data/figure2c.csv",row.names = FALSE)
 #Numerical values
 #min(plot_point[,"delta_GWP100"])/plot_point[,"delta_GWP100"]
 #subset(plot_col,LWscen=="Aluminum Maximum")
@@ -661,6 +663,8 @@ plot_legend<-get_legend(plot_temp)
 plot_legend_b<-get_legend(plot_temp+guides(shape="none",colour=guide_legend(title=NULL,reverse=TRUE))+theme(legend.position = "bottom",legend.box = "horizontal",legend.direction = "horizontal",legend.key.width=unit(0.1,"cm"),legend.spacing.x =unit(0.2,"cm")))
 ggsave(paste0("outputs/plots/paper_fig3a_legend_botton.png"),plot=plot_legend_b,width=4,height=0.255,units=c("in"),dpi=300)                    
 
+write.csv(plot_bar,"reports/paper_raw_data/figure3a-1.csv",row.names = FALSE)
+write.csv(plot_point,"reports/paper_raw_data/figure3a-2.csv",row.names = FALSE)
 ```
 
 ###Panels (b) and (c)
@@ -758,6 +762,8 @@ for (r in 1:length(sim_tbc)){
   }
   plot_legend<-get_legend(plot_tmp)
   ggsave(paste0("outputs/plots/paper_fig3_",r,"_legend.png"),plot=plot_legend,width=5.5,height=0.8,units=c("in"),dpi=300)
+  
+  write.csv(plot_ribbon,paste0("reports/paper_raw_data/figure3-",switch(r,"1"="b","2"="c"),".csv"),row.names = FALSE)
 }
   
   
@@ -841,8 +847,8 @@ ggdraw(legend)
 ggsave("outputs/plots/paper_fig4a_legend.png",legend,width=5,height=0.7,units=c("in"),dpi=300)
 
 ggsave("outputs/plots/paper_fig4a.png",plota+theme(legend.position = "none"),width=3,height=2.5,units=c("in"),dpi=300)
-
-
+write.csv(plot_bar,"reports/paper_raw_data/figure4a-1.csv",row.names = FALSE)
+write.csv(plot_point,"reports/paper_raw_data/figure4a-2.csv",row.names = FALSE)
 #Numerical values
 #subset(plot_point, LWscen=="Aluminum Maximum")
 ```
@@ -922,7 +928,8 @@ ggdraw(legend)
 ggsave("outputs/plots/paper_fig4b_legend.png",legend,width=5,height=0.7,units=c("in"),dpi=300)
 
 ggsave("outputs/plots/paper_fig4b.png",plotb+theme(legend.position = "none"),width=3,height=2.5,units=c("in"),dpi=300)
-
+write.csv(plot_bar,"reports/paper_raw_data/figure4b-1.csv",row.names = FALSE)
+write.csv(plot_point,"reports/paper_raw_data/figure4b-2.csv",row.names = FALSE)
 #Numerical results
 #subset(plot_point,LWscen=="Aluminum Maximum")
 

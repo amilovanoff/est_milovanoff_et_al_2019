@@ -1,0 +1,320 @@
+"Technology","Size","Fuel type","Unit","Year","Value"
+"ICEV-G","Car","E10","L/100km",1980,9.924330994
+"ICEV-G","Car","E10","L/100km",1981,9.924330994
+"ICEV-G","Car","E10","L/100km",1982,9.924330994
+"ICEV-G","Car","E10","L/100km",1983,9.924330994
+"ICEV-G","Car","E10","L/100km",1984,9.924330994
+"ICEV-G","Car","E10","L/100km",1985,9.924330994
+"ICEV-G","Car","E10","L/100km",1986,9.924330994
+"ICEV-G","Car","E10","L/100km",1987,9.882046536
+"ICEV-G","Car","E10","L/100km",1988,9.740447286
+"ICEV-G","Car","E10","L/100km",1989,9.922097288
+"ICEV-G","Car","E10","L/100km",1990,10.08119431
+"ICEV-G","Car","E10","L/100km",1991,10.0423233
+"ICEV-G","Car","E10","L/100km",1992,10.19655593
+"ICEV-G","Car","E10","L/100km",1993,10.02656442
+"ICEV-G","Car","E10","L/100km",1994,10.10674609
+"ICEV-G","Car","E10","L/100km",1995,10.03415256
+"ICEV-G","Car","E10","L/100km",1996,10.08320667
+"ICEV-G","Car","E10","L/100km",1997,10.06599687
+"ICEV-G","Car","E10","L/100km",1998,10.07268094
+"ICEV-G","Car","E10","L/100km",1999,10.36728148
+"ICEV-G","Car","E10","L/100km",2000,10.45692136
+"ICEV-G","Car","E10","L/100km",2001,10.40242681
+"ICEV-G","Car","E10","L/100km",2002,10.33913956
+"ICEV-G","Car","E10","L/100km",2003,10.23480394
+"ICEV-G","Car","E10","L/100km",2004,10.30039473
+"ICEV-G","Car","E10","L/100km",2005,10.17299585
+"ICEV-G","Car","E10","L/100km",2006,10.23417051
+"ICEV-G","Car","E10","L/100km",2007,9.924456607
+"ICEV-G","Car","E10","L/100km",2008,9.850778201
+"ICEV-G","Car","E10","L/100km",2009,9.434663016
+"ICEV-G","Car","E10","L/100km",2010,9.172934252
+"ICEV-G","Car","E10","L/100km",2011,9.214936899
+"ICEV-G","Car","E10","L/100km",2012,8.727961445
+"ICEV-G","Car","E10","L/100km",2013,8.518479318
+"ICEV-G","Car","E10","L/100km",2014,8.504007758
+"ICEV-G","Car","E10","L/100km",2015,8.317105541
+"ICEV-G","Light truck","E10","L/100km",1980,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1981,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1982,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1983,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1984,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1985,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1986,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1987,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1988,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1989,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1990,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1991,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1992,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1993,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1994,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1995,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1996,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1997,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1998,14.15055287
+"ICEV-G","Light truck","E10","L/100km",1999,14.15055287
+"ICEV-G","Light truck","E10","L/100km",2000,13.96791039
+"ICEV-G","Light truck","E10","L/100km",2001,14.24472782
+"ICEV-G","Light truck","E10","L/100km",2002,14.27245766
+"ICEV-G","Light truck","E10","L/100km",2003,14.09961572
+"ICEV-G","Light truck","E10","L/100km",2004,14.24734879
+"ICEV-G","Light truck","E10","L/100km",2005,13.92313657
+"ICEV-G","Light truck","E10","L/100km",2006,13.70261778
+"ICEV-G","Light truck","E10","L/100km",2007,13.5590503
+"ICEV-G","Light truck","E10","L/100km",2008,13.21422173
+"ICEV-G","Light truck","E10","L/100km",2009,12.70196219
+"ICEV-G","Light truck","E10","L/100km",2010,12.5392759
+"ICEV-G","Light truck","E10","L/100km",2011,12.3289214
+"ICEV-G","Light truck","E10","L/100km",2012,12.21237316
+"ICEV-G","Light truck","E10","L/100km",2013,11.90788887
+"ICEV-G","Light truck","E10","L/100km",2014,11.5626447
+"ICEV-G","Light truck","E10","L/100km",2015,11.16244947
+"BEV100","Car","Electricity","kWh/100km",1998,18.30877499
+"BEV100","Car","Electricity","kWh/100km",1999,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2000,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2001,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2002,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2003,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2004,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2005,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2006,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2007,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2008,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2009,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2010,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2011,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2012,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2013,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2014,18.30877499
+"BEV100","Car","Electricity","kWh/100km",2015,18.30877499
+"BEV100","Light truck","Electricity","kWh/100km",1995,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",1996,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",1997,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",1998,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",1999,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2000,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2001,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2002,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2003,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2004,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2005,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2006,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2007,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2008,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2009,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2010,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2011,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2012,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2013,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2014,22.54498227
+"BEV100","Light truck","Electricity","kWh/100km",2015,22.54498227
+"BEV300","Car","Electricity","kWh/100km",2013,23.6121053
+"BEV300","Car","Electricity","kWh/100km",2014,23.6121053
+"BEV300","Car","Electricity","kWh/100km",2015,23.6121053
+"BEV300","Light truck","Electricity","kWh/100km",2015,29.89328948
+"FFV","Car","E85","L/100km",1995,15.2383775589309
+"FFV","Car","E85","L/100km",1996,15.2383775589309
+"FFV","Car","E85","L/100km",1997,15.2383775589309
+"FFV","Car","E85","L/100km",1998,15.2383775589309
+"FFV","Car","E85","L/100km",1999,15.2383775589309
+"FFV","Car","E85","L/100km",2000,15.2383775589309
+"FFV","Car","E85","L/100km",2001,15.134826352343
+"FFV","Car","E85","L/100km",2002,15.0273346879087
+"FFV","Car","E85","L/100km",2003,14.8741562323905
+"FFV","Car","E85","L/100km",2004,14.8689298949933
+"FFV","Car","E85","L/100km",2005,14.5719609094873
+"FFV","Car","E85","L/100km",2006,14.7116920437862
+"FFV","Car","E85","L/100km",2007,14.1776042135209
+"FFV","Car","E85","L/100km",2008,13.9019491916914
+"FFV","Car","E85","L/100km",2009,13.4285098829415
+"FFV","Car","E85","L/100km",2010,12.1886735569138
+"FFV","Car","E85","L/100km",2011,12.0090014017513
+"FFV","Car","E85","L/100km",2012,11.998163537631
+"FFV","Car","E85","L/100km",2013,11.96282779662
+"FFV","Car","E85","L/100km",2014,12.4608793996722
+"FFV","Car","E85","L/100km",2015,11.7709462876716
+"FFV","Light truck","E85","L/100km",1995,21.0810781409149
+"FFV","Light truck","E85","L/100km",1996,20.777024129267
+"FFV","Light truck","E85","L/100km",1997,20.9787428101337
+"FFV","Light truck","E85","L/100km",1998,20.5791477089883
+"FFV","Light truck","E85","L/100km",1999,20.6776125305624
+"FFV","Light truck","E85","L/100km",2000,21.0297859799881
+"FFV","Light truck","E85","L/100km",2001,21.2469076641472
+"FFV","Light truck","E85","L/100km",2002,21.0297859799881
+"FFV","Light truck","E85","L/100km",2003,20.4816162032585
+"FFV","Light truck","E85","L/100km",2004,20.6479742899548
+"FFV","Light truck","E85","L/100km",2005,20.0818820580276
+"FFV","Light truck","E85","L/100km",2006,19.4104249399361
+"FFV","Light truck","E85","L/100km",2007,18.5101037937138
+"FFV","Light truck","E85","L/100km",2008,17.7552219346243
+"FFV","Light truck","E85","L/100km",2009,17.8301002979008
+"FFV","Light truck","E85","L/100km",2010,16.0515557107564
+"FFV","Light truck","E85","L/100km",2011,15.819269599907
+"FFV","Light truck","E85","L/100km",2012,15.7056849021863
+"FFV","Light truck","E85","L/100km",2013,15.6408869634281
+"FFV","Light truck","E85","L/100km",2014,16.5668924856518
+"FFV","Light truck","E85","L/100km",2015,16.1900395510206
+"ICEV-D","Car","Diesel","L/100km",1980,5.98984873672737
+"ICEV-D","Car","Diesel","L/100km",1981,5.98984873672737
+"ICEV-D","Car","Diesel","L/100km",1982,5.98984873672737
+"ICEV-D","Car","Diesel","L/100km",1983,5.98984873672737
+"ICEV-D","Car","Diesel","L/100km",1984,5.98984873672737
+"ICEV-D","Car","Diesel","L/100km",1985,5.98984873672737
+"ICEV-D","Car","Diesel","L/100km",1986,5.98984873672737
+"ICEV-D","Car","Diesel","L/100km",1987,7.99946973193387
+"ICEV-D","Car","Diesel","L/100km",1988,6.55752447339265
+"ICEV-D","Car","Diesel","L/100km",1989,5.42066174242949
+"ICEV-D","Car","Diesel","L/100km",1990,6.74149762219772
+"ICEV-D","Car","Diesel","L/100km",1991,7.04106623873989
+"ICEV-D","Car","Diesel","L/100km",1992,7.70407611009524
+"ICEV-D","Car","Diesel","L/100km",1993,8.93473329022568
+"ICEV-D","Car","Diesel","L/100km",1994,8.93473329022568
+"ICEV-D","Car","Diesel","L/100km",1995,7.41969141168153
+"ICEV-D","Car","Diesel","L/100km",1996,5.98956758561827
+"ICEV-D","Car","Diesel","L/100km",1997,6.16945320087928
+"ICEV-D","Car","Diesel","L/100km",1998,5.56878184347217
+"ICEV-D","Car","Diesel","L/100km",1999,5.82828020850322
+"ICEV-D","Car","Diesel","L/100km",2000,5.28148479256251
+"ICEV-D","Car","Diesel","L/100km",2001,5.37834232397076
+"ICEV-D","Car","Diesel","L/100km",2002,5.53780432954728
+"ICEV-D","Car","Diesel","L/100km",2003,5.36727021581063
+"ICEV-D","Car","Diesel","L/100km",2004,5.98382287561061
+"ICEV-D","Car","Diesel","L/100km",2005,6.54631648049384
+"ICEV-D","Car","Diesel","L/100km",2006,6.20357979868438
+"ICEV-D","Car","Diesel","L/100km",2007,8.11905627473793
+"ICEV-D","Car","Diesel","L/100km",2008,8.01904394190348
+"ICEV-D","Car","Diesel","L/100km",2009,6.04284757816521
+"ICEV-D","Car","Diesel","L/100km",2010,5.88404784975818
+"ICEV-D","Car","Diesel","L/100km",2011,6.07170217495145
+"ICEV-D","Car","Diesel","L/100km",2012,5.92418174805489
+"ICEV-D","Car","Diesel","L/100km",2013,5.92907317066096
+"ICEV-D","Car","Diesel","L/100km",2014,5.89505768068848
+"ICEV-D","Car","Diesel","L/100km",2015,5.6688412058737
+"ICEV-D","Light truck","Diesel","L/100km",1980,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1981,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1982,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1983,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1984,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1985,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1986,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1987,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1988,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1989,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1990,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1991,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1992,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1993,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1994,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1995,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1996,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1997,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1998,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",1999,13.2925670438183
+"ICEV-D","Light truck","Diesel","L/100km",2000,11.1434657980408
+"ICEV-D","Light truck","Diesel","L/100km",2001,11.1434657980408
+"ICEV-D","Light truck","Diesel","L/100km",2002,11.1434657980408
+"ICEV-D","Light truck","Diesel","L/100km",2003,11.1434657980408
+"ICEV-D","Light truck","Diesel","L/100km",2004,11.1434657980408
+"ICEV-D","Light truck","Diesel","L/100km",2005,9.29478872628061
+"ICEV-D","Light truck","Diesel","L/100km",2006,9.82764159975453
+"ICEV-D","Light truck","Diesel","L/100km",2007,9.91561844762706
+"ICEV-D","Light truck","Diesel","L/100km",2008,10.0243752124132
+"ICEV-D","Light truck","Diesel","L/100km",2009,9.83548461245483
+"ICEV-D","Light truck","Diesel","L/100km",2010,9.72304348059979
+"ICEV-D","Light truck","Diesel","L/100km",2011,9.52318990983056
+"ICEV-D","Light truck","Diesel","L/100km",2012,9.39768840411648
+"ICEV-D","Light truck","Diesel","L/100km",2013,8.75847136582138
+"ICEV-D","Light truck","Diesel","L/100km",2014,8.23499100100573
+"ICEV-D","Light truck","Diesel","L/100km",2015,8.49400092025817
+"CNG","Car","CNG & LPG","L/100km",1998,12.8456113366435
+"CNG","Car","CNG & LPG","L/100km",1999,12.8456113366435
+"CNG","Car","CNG & LPG","L/100km",2000,12.8456113366435
+"CNG","Car","CNG & LPG","L/100km",2001,12.7551189387671
+"CNG","Car","CNG & LPG","L/100km",2002,12.665892590428
+"CNG","Car","CNG & LPG","L/100km",2003,12.5405704341903
+"CNG","Car","CNG & LPG","L/100km",2004,12.4136498715197
+"CNG","Car","CNG & LPG","L/100km",2005,12.3251246536353
+"CNG","Car","CNG & LPG","L/100km",2006,12.4433107797714
+"CNG","Car","CNG & LPG","L/100km",2007,11.9915734258828
+"CNG","Car","CNG & LPG","L/100km",2008,12.4089117738607
+"CNG","Car","CNG & LPG","L/100km",2009,12.039209128775
+"CNG","Car","CNG & LPG","L/100km",2010,11.2364322940663
+"CNG","Car","CNG & LPG","L/100km",2011,11.1272239540023
+"CNG","Car","CNG & LPG","L/100km",2012,11.0696176060396
+"CNG","Car","CNG & LPG","L/100km",2013,11.1186664949559
+"CNG","Car","CNG & LPG","L/100km",2014,9.23336803216728
+"CNG","Car","CNG & LPG","L/100km",2015,10.5958652495418
+"CNG","Light truck","CNG & LPG","L/100km",1995,19.8319706381715
+"CNG","Light truck","CNG & LPG","L/100km",1996,19.8319706381715
+"CNG","Light truck","CNG & LPG","L/100km",1997,19.8319706381715
+"CNG","Light truck","CNG & LPG","L/100km",1998,19.8319706381715
+"CNG","Light truck","CNG & LPG","L/100km",1999,19.8319706381715
+"CNG","Light truck","CNG & LPG","L/100km",2000,19.8319706381715
+"CNG","Light truck","CNG & LPG","L/100km",2001,19.4836921773907
+"CNG","Light truck","CNG & LPG","L/100km",2002,18.7589364780385
+"CNG","Light truck","CNG & LPG","L/100km",2003,18.0525330123383
+"CNG","Light truck","CNG & LPG","L/100km",2004,18.3338047731538
+"CNG","Light truck","CNG & LPG","L/100km",2005,18.0777460472718
+"CNG","Light truck","CNG & LPG","L/100km",2006,17.4732991565679
+"CNG","Light truck","CNG & LPG","L/100km",2007,16.6628284542404
+"CNG","Light truck","CNG & LPG","L/100km",2008,16.1655815673995
+"CNG","Light truck","CNG & LPG","L/100km",2009,16.1325461364849
+"CNG","Light truck","CNG & LPG","L/100km",2010,14.7444018949658
+"CNG","Light truck","CNG & LPG","L/100km",2011,14.540329016897
+"CNG","Light truck","CNG & LPG","L/100km",2012,14.4479587860795
+"CNG","Light truck","CNG & LPG","L/100km",2013,14.365733734035
+"CNG","Light truck","CNG & LPG","L/100km",2014,15.3211984300739
+"CNG","Light truck","CNG & LPG","L/100km",2015,14.6559700443464
+"HEV","Car","E10","L/100km",1999,6.36730284854203
+"HEV","Car","E10","L/100km",2000,6.36730284854203
+"HEV","Car","E10","L/100km",2001,6.14121131375137
+"HEV","Car","E10","L/100km",2002,6.12489999552095
+"HEV","Car","E10","L/100km",2003,6.06051208492415
+"HEV","Car","E10","L/100km",2004,6.0618396888858
+"HEV","Car","E10","L/100km",2005,6.12896969651466
+"HEV","Car","E10","L/100km",2006,6.13253010495138
+"HEV","Car","E10","L/100km",2007,5.38371559917581
+"HEV","Car","E10","L/100km",2008,5.22407419324276
+"HEV","Car","E10","L/100km",2009,5.46456986392962
+"HEV","Car","E10","L/100km",2010,5.49499622158815
+"HEV","Car","E10","L/100km",2011,5.45396048809891
+"HEV","Car","E10","L/100km",2012,5.44946273090007
+"HEV","Car","E10","L/100km",2013,5.43751472959034
+"HEV","Car","E10","L/100km",2014,5.4376691255185
+"HEV","Car","E10","L/100km",2015,5.18132158559159
+"HEV","Light truck","E10","L/100km",2004,9.13277167648966
+"HEV","Light truck","E10","L/100km",2005,9.13277167648966
+"HEV","Light truck","E10","L/100km",2006,9.0491491758547
+"HEV","Light truck","E10","L/100km",2007,7.58145155609964
+"HEV","Light truck","E10","L/100km",2008,6.51266137438542
+"HEV","Light truck","E10","L/100km",2009,6.77338024154498
+"HEV","Light truck","E10","L/100km",2010,7.02905238710206
+"HEV","Light truck","E10","L/100km",2011,6.95613189031945
+"HEV","Light truck","E10","L/100km",2012,6.92504928145096
+"HEV","Light truck","E10","L/100km",2013,6.909549715241
+"HEV","Light truck","E10","L/100km",2014,7.62142750943336
+"HEV","Light truck","E10","L/100km",2015,7.11365159085871
+"PHEV20 (CS)","Car","E10","L/100km",2012,6.23393461
+"PHEV20 (CS)","Car","E10","L/100km",2013,6.23393461
+"PHEV20 (CS)","Car","E10","L/100km",2014,6.23393461
+"PHEV20 (CS)","Car","E10","L/100km",2015,6.23393461
+"PHEV20 (CD)","Car","Electricity","kWh/100km",2012,22.72589714
+"PHEV20 (CD)","Car","Electricity","kWh/100km",2013,22.72589714
+"PHEV20 (CD)","Car","Electricity","kWh/100km",2014,22.72589714
+"PHEV20 (CD)","Car","Electricity","kWh/100km",2015,22.72589714
+"PHEV20 (CS)","Light truck","E10","L/100km",2015,9.807238973
+"PHEV20 (CD)","Light truck","Electricity","kWh/100km",2015,16.20962926
+"PHEV40 (CS)","Car","E10","L/100km",2011,6.405212999
+"PHEV40 (CS)","Car","E10","L/100km",2012,6.405212999
+"PHEV40 (CS)","Car","E10","L/100km",2013,6.405212999
+"PHEV40 (CS)","Car","E10","L/100km",2014,6.405212999
+"PHEV40 (CS)","Car","E10","L/100km",2015,6.405212999
+"PHEV40 (CD)","Car","Electricity","kWh/100km",2011,21.98053753
+"PHEV40 (CD)","Car","Electricity","kWh/100km",2012,21.98053753
+"PHEV40 (CD)","Car","Electricity","kWh/100km",2013,21.98053753
+"PHEV40 (CD)","Car","Electricity","kWh/100km",2014,21.98053753
+"PHEV40 (CD)","Car","Electricity","kWh/100km",2015,21.98053753
+"PHEV40 (CS)","Light truck","E10","L/100km",2015,10.36829782
+"PHEV40 (CD)","Light truck","Electricity","kWh/100km",2015,24.82570147

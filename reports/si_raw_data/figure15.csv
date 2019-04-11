@@ -1,0 +1,1801 @@
+"Scenario","Size","Technology","Subcomponent","bat_impro","fc_impro","frv_impro","Case","Year","value"
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2015,0
+"BAU","Car","FFV","Body","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Body","n","n","n","No improvements",2015,0
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2015,0
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2015,0
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2015,0
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2015,0
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2015,0
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2015,0
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2015,0
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2015,0
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2015,0
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2015,0
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2015,0
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2015,0
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2015,0
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2015,0
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2015,0
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2015,0
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2015,0
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2015,0
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2015,0
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2015,0
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2015,0
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2015,0
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2015,0
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2015,0
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2015,0
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2015,0
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2015,0
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2016,0.607933559606124
+"BAU","Car","FFV","Body","n","n","n","No improvements",2016,0.636073400910846
+"BAU","Car","HEV","Body","n","n","n","No improvements",2016,0.644404186322163
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2016,0.636048110730655
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2016,0.64237608469449
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2016,0.779260290040668
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2016,0.8153304502585
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2016,0.826009002467458
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2016,0.815298032845647
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2016,0.823409344926631
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2016,0.113529010420464
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2016,0.0325421901053531
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2016,0.0372104138054539
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2016,0.373524745034985
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2016,0.281636084478322
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2016,0.373412678126272
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2016,0.289325603403938
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2016,0.0980509437726838
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2016,0.0442133497895441
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2016,0.0462598837026178
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2016,0.0468657590052501
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2016,0.0462580444167813
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2016,0.046718260705056
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2016,0.100051270991514
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2016,0.100021253069535
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2016,0.0655799764680722
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2016,0.100779369972621
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2016,3.19948003702646
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2016,3.20408473833086
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2016,3.20544795776178
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2016,3.20408059993773
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2016,3.20511608658637
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2016,0.0967167026646294
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2016,0.101193495599453
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2016,0.10251884782398
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2016,0.101189472161693
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2016,0.102196195292311
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2016,0.201952260821685
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2016,0.04257068833099
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2016,0.0816702522838142
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2016,0.386866810658503
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2016,0.404773982397813
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2016,0.410075391295926
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2016,0.404757888646785
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2016,0.408784781169274
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2016,0.0967167026646294
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2016,0.101193495599453
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2016,0.102518847823983
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2016,0.101189472161696
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2016,0.102196195292315
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2017,1.21582259981125
+"BAU","Car","FFV","Body","n","n","n","No improvements",2017,1.27203157136671
+"BAU","Car","HEV","Body","n","n","n","No improvements",2017,1.28867833583502
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2017,1.27198085430598
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2017,1.28465923541484
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2017,1.55846351430358
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2017,1.63051319602465
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2017,1.65185132138845
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2017,1.63044818597405
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2017,1.64669956539541
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2017,0.226968013408339
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2017,0.0650398773283385
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2017,0.0743826569859962
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2017,0.746538876038244
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2017,0.562887019171228
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2017,0.746314136468669
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2017,0.578354415185458
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2017,0.195948870586392
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2017,0.0884234618044673
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2017,0.0925113870084928
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2017,0.0937220607879965
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2017,0.092507698494984
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2017,0.0934297625756244
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2017,0.199965770367392
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2017,0.199905572268392
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2017,0.131070269421635
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2017,0.201455359973451
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2017,6.39895278906002
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2017,6.40815062076911
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2017,6.41087463677297
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2017,6.40814232161367
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2017,6.41021696579514
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2017,0.193426322697253
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2017,0.202368659081067
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2017,0.205017007973744
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2017,0.202360590457772
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2017,0.204377605634185
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2017,0.403744410985865
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2017,0.0850831593653254
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2017,0.163256726822432
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2017,0.773705290788996
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2017,0.809474636324268
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2017,0.820068031894984
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2017,0.809442361831088
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2017,0.81751042253677
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2017,0.193426322697256
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2017,0.202368659081067
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2017,0.205017007973748
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2017,0.202360590457772
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2017,0.204377605634185
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2018,1.82366728906919
+"BAU","Car","FFV","Body","n","n","n","No improvements",2018,1.90787518675688
+"BAU","Car","HEV","Body","n","n","n","No improvements",2018,1.93282321362102
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2018,1.90779890772222
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2018,1.92684989062042
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2018,2.33760988871609
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2018,2.4455491030248
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2018,2.47752793745957
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2018,2.44545132717116
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2018,2.4698712234316
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2018,0.340317349536861
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2018,0.0974933231281767
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2018,0.111516909629387
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2018,1.11904538582348
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2018,0.843755066875076
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2018,1.11870737496139
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2018,0.867087835597658
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2018,0.293694685624949
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2018,0.132630348295955
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2018,0.138754559036876
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2018,0.140568960990613
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2018,0.138749011470715
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2018,0.140134537499669
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2018,0.29974429977414
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2018,0.299653761150367
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2018,0.196471405760988
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2018,0.302028457745784
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2018,9.59841828366589
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2018,9.61219775783294
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2018,9.61628016222883
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2018,9.61218527580905
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2018,9.61530270937422
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2018,0.290128886897381
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2018,0.303525597893142
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2018,0.307494602166969
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2018,0.303513462592171
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2018,0.306544300780523
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2018,0.605377056324784
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2018,0.12753775513589
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2018,0.244759818876503
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2018,1.16051554758951
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2018,1.21410239157257
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2018,1.22997840866789
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2018,1.21405385036869
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2018,1.22617720312212
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2018,0.290128886897385
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2018,0.303525597893142
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2018,0.307494602166972
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2018,0.303513462592175
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2018,0.306544300780523
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2019,2.43146779478832
+"BAU","Car","FFV","Body","n","n","n","No improvements",2019,2.54360491593388
+"BAU","Car","HEV","Body","n","n","n","No improvements",2019,2.57683957732598
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2019,2.54350294141551
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2019,2.56894848537343
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2019,3.11669962786505
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2019,3.2604390286063
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2019,3.303039821845
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2019,3.26030831581443
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2019,3.29292487670585
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2019,0.453577357264749
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2019,0.129902786426079
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2019,0.148613350428015
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2019,1.49104723823822
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2019,1.12424246842113
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2019,1.49059536446947
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2019,1.15552725404422
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2019,0.391289285229242
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2019,0.176834021439156
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2019,0.184989448431566
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2019,0.187406514714603
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2019,0.184982032102958
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2019,0.186832617118064
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2019,0.399387653099531
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2019,0.399266615482887
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2019,0.261783907271756
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2019,0.402499147253799
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2019,12.7978765482381
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2019,12.816226258971
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2019,12.8216646581078
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2019,12.8162095722316
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2019,12.8203733885156
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2019,0.386824421898147
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2019,0.404664418444032
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2019,0.409951750938205
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2019,0.404648195225199
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2019,0.408696349945764
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2019,0.806850798909267
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2019,0.169934814355422
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2019,0.326179920644122
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2019,1.54729768759258
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2019,1.61865767377613
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2019,1.63980700375282
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2019,1.61859278090081
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2019,1.6347853997831
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2019,0.386824421898151
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2019,0.404664418444028
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2019,0.409951750938209
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2019,0.404648195225203
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2019,0.408696349945764
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2020,3.03922428333971
+"BAU","Car","FFV","Body","n","n","n","No improvements",2020,3.17922142130237
+"BAU","Car","HEV","Body","n","n","n","No improvements",2020,3.22072817725996
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2020,3.17909361935074
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2020,3.21095545137496
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2020,3.89573294500809
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2020,4.07518382185134
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2020,4.1283879363059
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2020,4.07502000298592
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2020,4.11586107858056
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2020,0.566748372954251
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2020,0.162268523639753
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2020,0.18567215669389
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2020,1.8625473685573
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2020,1.40435144297399
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2020,1.86198104718162
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2020,1.44367404919572
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2020,0.488733557017881
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2020,0.221034493333804
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2020,0.231216103367458
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2020,0.234234776527998
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2020,0.231206808680064
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2020,0.233524032827269
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2020,0.498896616577845
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2020,0.498744923352213
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2020,0.327008290694415
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2020,0.502867908723069
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2020,15.9973276100011
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2020,16.0202362325768
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2020,16.0270282471879
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2020,16.0202153195301
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2020,16.0254290738613
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2020,0.483512954167679
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2020,0.505785226116295
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2020,0.512388573654988
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2020,0.505764893987617
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2020,0.510833821809648
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2020,1.00816623708087
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2020,0.212274672461639
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2020,0.407517421293655
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2020,1.9340518166707
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2020,2.02314090446518
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2020,2.04955429461995
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2020,2.02305957595047
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2020,2.04333528723862
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2020,0.483512954167683
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2020,0.505785226116288
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2020,0.512388573654992
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2020,0.505764893987621
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2020,0.510833821809644
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2021,3.64693692006648
+"BAU","Car","FFV","Body","n","n","n","No improvements",2021,3.81472535890498
+"BAU","Car","HEV","Body","n","n","n","No improvements",2021,3.86448975649643
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2021,3.8145715991086
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2021,3.8528712170006
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2021,4.67471005208517
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2021,4.88978432368737
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2021,4.95357323332718
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2021,4.8895872315847
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2021,4.93868037815525
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2021,0.679830730889179
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2021,0.194590788717015
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2021,0.222693504372913
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2021,2.23354868386488
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2021,1.6840841883228
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2021,2.23286733699732
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2021,1.73152958910077
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2021,0.586028380005018
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2021,0.265231776004846
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2021,0.277434571556746
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2021,0.281053800472471
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2021,0.27742338902609
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2021,0.280208815781862
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2021,0.598271968892369
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2021,0.598089465267144
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2021,0.392145067792072
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2021,0.603135218679242
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2021,19.1967714960109
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2021,19.2242277860026
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2021,19.232371051063
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2021,19.2242026253086
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2021,19.2304698355091
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2021,0.580194510010582
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2021,0.606888125280342
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2021,0.614805188533516
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2021,0.606863663494551
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2021,0.612956784522808
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2021,1.20932396548366
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2021,0.254557661661245
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2021,0.488772706995135
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2021,2.3207780400423
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2021,2.4275525011214
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2021,2.45922075413407
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2021,2.42745465397822
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2021,2.45182713809129
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2021,0.580194510010589
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2021,0.606888125280339
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2021,0.614805188533516
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2021,0.606863663494554
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2021,0.612956784522805
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2022,4.25460586929273
+"BAU","Car","FFV","Body","n","n","n","No improvements",2022,4.45011737850854
+"BAU","Car","HEV","Body","n","n","n","No improvements",2022,4.50812505096934
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2022,4.4499375319715
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2022,4.49469620733953
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2022,5.45363115972981
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2022,5.70424136699739
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2022,5.77859665624243
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2022,5.70401083643628
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2022,5.76138332031707
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2022,0.792824763292899
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2022,0.22686983316909
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2022,0.259677568061392
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2022,2.60405406343457
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2022,1.96344288116904
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2022,2.60325711990632
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2022,2.01909523131434
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2022,0.683174624716749
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2022,0.309425881403122
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2022,0.323644900255182
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2022,0.327863640070497
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2022,0.323631820507025
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2022,0.326886996897422
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2022,0.697514481277118
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2022,0.697301014260631
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2022,0.457194745417517
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2022,0.703301549992808
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2022,22.396208233157
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2022,22.4282010255741
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2022,22.4376931901585
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2022,22.4281715961407
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2022,22.4354957430191
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2022,0.676869115569314
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2022,0.707973219308183
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2022,0.717201712654209
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2022,0.707944607359106
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2022,0.715065305713097
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2022,1.41032457509678
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2022,0.296784110973448
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2022,0.569946160956441
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2022,2.70747646227721
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2022,2.83189287723273
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2022,2.86880685061683
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2022,2.83177842943643
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2022,2.86026122285244
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2022,0.676869115569321
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2022,0.707973219308176
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2022,0.717201712654209
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2022,0.70794460735911
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2022,0.715065305713093
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2023,4.86223129433216
+"BAU","Car","FFV","Body","n","n","n","No improvements",2023,5.08539812368713
+"BAU","Car","HEV","Body","n","n","n","No improvements",2023,5.15163478956924
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2023,5.08519206300718
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2023,5.13643084422631
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2023,6.23249647728045
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2023,6.51855577672626
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2023,6.60345913935686
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2023,6.51829164440022
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2023,6.58397044578106
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2023,0.905730800346149
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2023,0.259105906103315
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2023,0.296624521018693
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2023,2.97406635909894
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2023,2.24242967740992
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2023,2.9731532543602
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2023,2.30637232299617
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2023,0.780173153305519
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2023,0.353616821405993
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2023,0.369847136268163
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2023,0.37466434833231
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2023,0.369832150036899
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2023,0.373558606852832
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2023,0.796624917615787
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2023,0.79638033598934
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2023,0.522157825579164
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2023,0.803367371913318
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2023,25.5956378481635
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2023,25.6321560566033
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2023,25.6429947837476
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2023,25.6321223375829
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2023,25.6405068654188
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2023,0.773536796825596
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2023,0.809040610586589
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2023,0.819578261976915
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2023,0.809007828205701
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2023,0.817159452490536
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2023,1.61116865326562
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2023,0.338954346272772
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2023,0.651038163451155
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2023,3.09414718730234
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2023,3.23616244234636
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2023,3.27831304790767
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2023,3.23603131282279
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2023,3.26863780996221
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2023,0.773536796825603
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2023,0.809040610586582
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2023,0.819578261976918
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2023,0.809007828205701
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2023,0.817159452490532
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2024,5.46981335749706
+"BAU","Car","FFV","Body","n","n","n","No improvements",2024,5.72056823190474
+"BAU","Car","HEV","Body","n","n","n","No improvements",2024,5.79501969423706
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2024,5.72033583115228
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2024,5.77807554627634
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2024,7.01130621279185
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2024,7.33272836998691
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2024,7.42816160806746
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2024,7.33243047447718
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2024,7.40644229113616
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2024,1.01854917020476
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2024,0.291299254255108
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2024,0.333534535182146
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2024,3.34358839561546
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2024,2.52104671241483
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2024,3.34255857164138
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2024,2.59336220102657
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2024,0.87702481966209
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2024,0.397804607817989
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2024,0.416041325956712
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2024,0.421455977762697
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2024,0.416024424083822
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2024,0.420223676092832
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2024,0.895604034539851
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2024,0.895328188832522
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2024,0.587034805505475
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2024,0.903333150109738
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2024,28.7950603675905
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2024,28.8360929834026
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2024,28.8482759499659
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2024,28.8360549541885
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2024,28.8455032712088
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2024,0.870197579601832
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2024,0.910090400530297
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2024,0.92193495135589
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2024,0.910053427683337
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2024,0.919239291453042
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2024,1.81185678373359
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2024,0.381068690330871
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2024,0.73204909185116
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2024,3.48079031840729
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2024,3.64036160212119
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2024,3.68773980542358
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2024,3.64021371073333
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2024,3.67695716581225
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2024,0.870197579601836
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2024,0.91009040053029
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2024,0.921934951355894
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2024,0.910053427683337
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2024,0.919239291453039
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2025,6.07735222010632
+"BAU","Car","FFV","Body","n","n","n","No improvements",2025,6.35562833459619
+"BAU","Car","HEV","Body","n","n","n","No improvements",2025,6.43828048005662
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2025,6.35536946929284
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2025,6.41963072892094
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2025,7.79006057304548
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2025,8.1467599561642
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2025,8.25270497898168
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2025,8.14642813791193
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2025,8.22879938888963
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2025,1.13128019901654
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2025,0.323450122019469
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2025,0.370407781181129
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2025,3.71262297102476
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2025,2.79929610129807
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2025,3.71147587622119
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2025,2.88006619211609
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2025,0.973730469525727
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2025,0.441989252371386
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2025,0.46222751524337
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2025,0.468238580367753
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2025,0.462208688675858
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2025,0.466882234830621
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2025,0.994452581524484
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2025,0.99414532398783
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2025,0.651826177708422
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2025,1.00319934670866
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2025,31.9944758178356
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2025,32.0400119092976
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2025,32.0535368058273
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2025,32.0399695495206
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2025,32.0504850283688
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2025,0.966851489562387
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2025,1.01112268959485
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2025,1.02427189455446
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2025,1.01108150647843
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2025,1.02130488869196
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2025,2.01238954667215
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2025,0.423127462857757
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2025,0.812979320657647
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2025,3.86740595824953
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2025,4.0444907583794
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2025,4.09708757821787
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2025,4.04432602591369
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2025,4.08521955476792
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2025,0.966851489562394
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2025,1.01112268959484
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2025,1.02427189455447
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2025,1.01108150647843
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2025,1.02130488869195
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2026,6.68484804249448
+"BAU","Car","FFV","Body","n","n","n","No improvements",2026,6.99057905724686
+"BAU","Car","HEV","Body","n","n","n","No improvements",2026,7.08141785534553
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2026,6.99029360434474
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2026,7.06109680444047
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2026,8.56875976356122
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2026,8.96065133701637
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2026,9.07709016003383
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2026,8.96028543829669
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2026,9.05104226751007
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2026,1.24392421093906
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2026,0.355558751482025
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2026,0.407244428350921
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2026,4.08117285700342
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2026,3.07717993918754
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2026,4.07990794611601
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2026,3.16648561291319
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2026,1.07029094059281
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2026,0.486170766726893
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2026,0.508405749617964
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2026,0.515012207661492
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2026,0.508384989406906
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2026,0.513534313050222
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2026,1.09317130098306
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2026,1.0928324855668
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2026,0.716532430046087
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2026,1.10296642033179
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2026,35.1938842251355
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2026,35.2439129366404
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2026,35.2587774672382
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2026,35.2438662261655
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2026,35.2554522043629
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2026,1.06349855221505
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2026,1.11213757728927
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2026,1.12658920425952
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2026,1.1120921643276
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2026,1.12335630979732
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2026,2.2127675187123
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2026,0.465130980542376
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2026,0.893829221531512
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2026,4.25399420886018
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2026,4.44855030915707
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2026,4.50635681703808
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2026,4.44836865731038
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2026,4.49342523918939
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2026,1.06349855221506
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2026,1.11213757728926
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2026,1.12658920425952
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2026,1.1120921643276
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2026,1.12335630979732
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2027,7.2923009840199
+"BAU","Car","FFV","Body","n","n","n","No improvements",2027,7.62542101947071
+"BAU","Car","HEV","Body","n","n","n","No improvements",2027,7.72443252174446
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2027,7.62510885733235
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2027,7.70247418199801
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2027,9.34740398860743
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2027,9.77440330677598
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2027,9.90131805059968
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2027,9.77400317167172
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2027,9.87317145147017
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2027,1.35648152815614
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2027,0.3876253824495
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2027,0.444044644746477
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2027,4.44924079921125
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2027,3.35470030148818
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2027,4.44785753323447
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2027,3.45262177011119
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2027,1.16670706262332
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2027,0.530349162474188
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2027,0.554576074143341
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2027,0.561776910672315
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2027,0.554553371442367
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2027,0.560179940508952
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2027,1.19176092836015
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2027,1.19139041068782
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2027,0.781154045783985
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2027,1.20263482613319
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2027,38.3932856155669
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2027,38.4477961668224
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2027,38.4639980490126
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2027,38.4477450857453
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2027,38.4604048661451
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2027,1.16013879291227
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2027,1.21313516218851
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2027,1.22888699209571
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2027,1.21308550003018
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2027,1.22539361986329
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2027,2.41299127297404
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2027,0.50707955709246
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2027,0.974599163323546
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2027,4.64055517164905
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2027,4.85254064875404
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2027,4.91554796838284
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2027,4.85234200012069
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2027,4.90157447945329
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2027,1.16013879291228
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2027,1.2131351621885
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2027,1.22888699209571
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2027,1.21308550003018
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2027,1.22539361986329
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2028,7.89971120307268
+"BAU","Car","FFV","Body","n","n","n","No improvements",2028,8.26015483508718
+"BAU","Car","HEV","Body","n","n","n","No improvements",2028,8.36732517430505
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2028,8.25981584346528
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2028,8.34376326767222
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2028,10.1259934512114
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2028,10.588016652248
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2028,10.7253895416092
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2028,10.5875821266239
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2028,10.6951874612888
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2028,1.46895247089438
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2028,0.419650252479645
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2028,0.480808597155807
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2028,4.81682951763065
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2028,3.63185924414137
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2028,4.81532736371946
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2028,3.73847596055245
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2028,1.26297965754574
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2028,0.574524451132575
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2028,0.600738533460905
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2028,0.608532739949446
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2028,0.600713879524768
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2028,0.606819146739802
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2028,1.29022219222249
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2028,1.28981982956772
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2028,0.845691503655466
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2028,1.30220501583564
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2028,41.5926800150482
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2028,41.6516617002869
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2028,41.6691986648861
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2028,41.6516062289306
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2028,41.6653430801645
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2028,1.25677223685248
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2028,1.31411554194568
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2028,1.33116536863943
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2028,1.31406161146041
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2028,1.32741688349327
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2028,2.61306137909588
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2028,0.548973503273714
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2028,1.0552895121038
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2028,5.02708894740989
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2028,5.2564621677827
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2028,5.32466147455777
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2028,5.25624644584163
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2028,5.30966753397321
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2028,1.25677223685249
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2028,1.31411554194567
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2028,1.33116536863944
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2028,1.31406161146041
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2028,1.32741688349327
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2029,8.50707885708357
+"BAU","Car","FFV","Body","n","n","n","No improvements",2029,8.89478111219711
+"BAU","Car","HEV","Body","n","n","n","No improvements",2029,9.01009650157613
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2029,8.89441517221519
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2029,8.98496446449008
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2029,10.9045283531709
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2029,11.4014921529071
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2029,11.5493055156567
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2029,11.4010230843852
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2029,11.5170908135734
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2029,1.58133735744059
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2029,0.451633596910646
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2029,0.517536451113529
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2029,5.18394170690317
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2029,3.90865880387935
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2029,5.18232013828751
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2029,4.02404947133374
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2029,1.35910953955982
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2029,0.618696644151555
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2029,0.646893171796165
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2029,0.655279745569167
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2029,0.646866557979308
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2029,0.653451961053825
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2029,1.38855581434904
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2029,1.38812146561273
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2029,0.910145277920982
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2029,1.40167743776724
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2029,44.7920674493409
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2029,44.8555096365413
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2029,44.8743794275305
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2029,44.8554497554533
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2029,44.870266912371
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2029,1.35339890908149
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2029,1.41507881330406
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2029,1.43342444343257
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2029,1.41502059557972
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2029,1.4294261648052
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2029,2.81297840326559
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2029,0.590813126948312
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2029,1.1359006311914
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2029,5.41359563632597
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2029,5.66031525321625
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2029,5.7336977737303
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2029,5.66008238231885
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2029,5.7177046592209
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2029,1.35339890908151
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2029,1.41507881330406
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2029,1.43342444343258
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2029,1.41502059557972
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2029,1.42942616480519
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2030,9.11440410253186
+"BAU","Car","FFV","Body","n","n","n","No improvements",2030,9.52930045325661
+"BAU","Car","HEV","Body","n","n","n","No improvements",2030,9.65274718568884
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2030,9.5289074473896
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2030,9.62607817245839
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2030,11.6830088950636
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2030,12.2148305809923
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2030,12.3730668471102
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2030,12.2143268189269
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2030,12.3388820210602
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2030,1.69363650415772
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2030,0.483575648890124
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2030,0.554228370913847
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2030,5.55058003665818
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2030,4.18510099847603
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2030,5.54883853255566
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2030,4.30934357990719
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2030,1.45509751523797
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2030,0.662865752911422
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2030,0.693040032964127
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2030,0.702017977141004
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2030,0.693011450719254
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2030,0.700078412542432
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2030,1.48676250981914
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2030,1.48629603550599
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2030,0.97451583842642
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2030,1.50105253689662
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2030,47.9914479440506
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2030,48.0593400741691
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2030,48.0795404485671
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2030,48.0592757641182
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2030,48.0751764282204
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2030,1.45001883449371
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2030,1.51602507210899
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2030,1.53566432499596
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2030,1.51596254844837
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2030,1.53142152743652
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2030,3.01274290824873
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2030,0.632598733112765
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2030,1.21643288118293
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2030,5.80007533797482
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2030,6.06410028843594
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2030,6.14265729998385
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2030,6.06385019379344
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2030,6.12568610974623
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2030,1.45001883449372
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2030,1.51602507210898
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2030,1.53566432499596
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2030,1.51596254844837
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2030,1.53142152743652
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2031,9.72168709495321
+"BAU","Car","FFV","Body","n","n","n","No improvements",2031,10.1637134551507
+"BAU","Car","HEV","Body","n","n","n","No improvements",2031,10.2952779024399
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2031,10.1632932672061
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2031,10.2671047885955
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2031,12.4614352762583
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2031,13.0280327016022
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2031,13.1966744022184
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2031,13.0274940970554
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2031,13.1605615926539
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2031,1.80585022550125
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2031,0.515476639403566
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2031,0.590884519623437
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2031,5.91674715183797
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2031,4.46118782699315
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2031,5.91488519737126
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2031,4.59435955418027
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2031,1.55094438362478
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2031,0.707031788723889
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2031,0.739179160374611
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2031,0.748747483813808
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2031,0.739148601251365
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2031,0.746698530079669
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2031,1.58484298709946
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2031,1.58434424929588
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2031,1.03880365066054
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2031,1.60033075486779
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2031,51.1908215246287
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2031,51.2631531108428
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2031,51.2846818385809
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2031,51.2630843528155
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2031,51.2800716926792
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2031,1.54663203783347
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2031,1.61695441331943
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2031,1.63788512084271
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2031,1.61688756523736
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2031,1.63340303454923
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2031,3.21235545341764
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2031,0.674330623935148
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2031,1.2968866199808
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2031,6.18652815133383
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2031,6.46781765327771
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2031,6.55154048337087
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2031,6.46755026094941
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2031,6.53361213819706
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2031,1.54663203783348
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2031,1.61695441331942
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2031,1.63788512084272
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2031,1.61688756523736
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2031,1.63340303454923
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2032,10.3289279889477
+"BAU","Car","FFV","Body","n","n","n","No improvements",2032,10.7980207092652
+"BAU","Car","HEV","Body","n","n","n","No improvements",2032,10.9376893213736
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2032,10.7975732243641
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2032,10.9080447069629
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2032,13.2398076949239
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2032,13.8410992727852
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2032,14.0201290392154
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2032,13.8405256785033
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2032,13.9821300334704
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2032,1.91797883403517
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2032,0.54733679730235
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2032,0.627505059094638
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2032,6.28244567301499
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2032,4.73692127002283
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2032,6.28046275912834
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2032,4.87909865261861
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2032,1.64665093633497
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2032,0.751194762832569
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2032,0.78531059703748
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2032,0.79546831428172
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2032,0.785278052681043
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2032,0.793312342324576
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2032,1.682797948129
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2032,1.68226681048081
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2032,1.10300917581134
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2032,1.69951253003591
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2032,54.3901882163732
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2032,54.4669488433342
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2032,54.4898037071336
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2032,54.4668756185322
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2032,54.4849527702302
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2032,1.64323854369623
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2032,1.71786693101945
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2032,1.74008693749126
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2032,1.71779574023977
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2032,1.73537074883496
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2032,3.41181659478005
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2032,0.71600909879178
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2032,1.37726220282217
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2032,6.57295417478488
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2032,6.87146772407779
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2032,6.96034774996509
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2032,6.87118296095902
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2032,6.94148299533997
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2032,1.64323854369624
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2032,1.71786693101944
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2032,1.74008693749128
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2032,1.71779574023977
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2032,1.73537074883496
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2033,10.9361269381878
+"BAU","Car","FFV","Body","n","n","n","No improvements",2033,11.4322228015567
+"BAU","Car","HEV","Body","n","n","n","No improvements",2033,11.5799821058629
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2033,11.4317479061161
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2033,11.5488983186954
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2033,14.0181263480408
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2033,14.6540310456317
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2033,14.8434316084244
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2033,14.6534223160216
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2033,14.8035878448731
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2033,2.03002264044788
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2033,0.5791563493312
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2033,0.664090149977568
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2033,6.64767819670584
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2033,5.01230328992534
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2033,6.64557382008493
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2033,5.16356212434005
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2033,1.74221795764953
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2033,0.795354686413667
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2033,0.831434385567775
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2033,0.84218051679003
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2033,0.831399847717542
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2033,0.839919877723311
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2033,1.78062808840334
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2033,1.78006441609418
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2033,1.16713287082145
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2033,1.79859829750009
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2033,57.5895480444307
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2033,57.6707273675273
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2033,57.6949061627774
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2033,57.6706496573644
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2033,57.6898197248773
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2033,1.73983837652988
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2033,1.81876271842947
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2033,1.8422698804782
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2033,1.81868716688212
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2033,1.83732473251968
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2033,3.61112688500728
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2033,0.757634454303094
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2033,1.45755998230553
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2033,6.9593535061195
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2033,7.27505087371787
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2033,7.36907952191284
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2033,7.27474866752843
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2033,7.34929893007887
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2033,1.7398383765299
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2033,1.81876271842946
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2033,1.84226988047821
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2033,1.81868716688212
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2033,1.83732473251968
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2034,11.543284095426
+"BAU","Car","FFV","Body","n","n","n","No improvements",2034,12.0663203126232
+"BAU","Car","HEV","Body","n","n","n","No improvements",2034,12.2221569131886
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2034,12.0658178943371
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2034,12.1896660120319
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2034,14.7963914314097
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2034,15.4668287643623
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2034,15.66658295236
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2034,15.4661847554686
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2034,15.6249355245135
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2034,2.14198195356772
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2034,0.610935520155362
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2034,0.700639951732981
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2034,7.01244729568018
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2034,5.28733583106384
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2034,7.01022095867083
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2034,5.44775120921474
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2034,1.83764622461058
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2034,0.839511570576448
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2034,0.877550568190799
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2034,0.888884139140984
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2034,0.877514028679073
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2034,0.886521164511421
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2034,1.87833409705717
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2034,1.87773775678684
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2034,1.23117518844288
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2034,1.89758848913818
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2034,60.7889010337969
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2034,60.8744887784291
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2034,60.899989313067
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2034,60.8744065645278
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2034,60.8946726201506
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2034,1.83643156063596
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2034,1.91964186791732
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2034,1.94443405437092
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2034,1.91956193773547
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2034,1.93926504736868
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2034,3.81028687346179
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2034,0.799206984369242
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2034,1.53778030841894
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2034,7.34572624254382
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2034,7.67856747166928
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2034,7.77773621748371
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2034,7.67824775094185
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2034,7.75706018947487
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2034,1.83643156063597
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2034,1.91964186791732
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2034,1.94443405437093
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2034,1.91956193773547
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2034,1.93926504736868
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2035,12.1503996125027
+"BAU","Car","FFV","Body","n","n","n","No improvements",2035,12.7003138177715
+"BAU","Car","HEV","Body","n","n","n","No improvements",2035,12.8642143946171
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2035,12.6997837655944
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2035,12.8303481723454
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2035,15.5746031396624
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2035,16.279493166416
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2035,16.4895839058274
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2035,16.2788137358986
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2035,16.4461735663698
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2035,2.25385708037923
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2035,0.642674532387119
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2035,0.737154622644475
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2035,7.37675551926182
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2035,5.56202082003432
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2035,7.37440672979446
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2035,5.73166713795979
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2035,1.93293650711421
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2035,0.883665426363841
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2035,0.923659186747038
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2035,0.935579228699417
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2035,0.923620637497791
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2035,0.933116230716038
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2035,1.9759166569451
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2035,1.97528751690924
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2035,1.29513657729041
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2035,1.9964835336399
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2035,63.9882472093185
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2035,64.0782331701807
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2035,64.1050532645735
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2035,64.0781464343699
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2035,64.0995115191109
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2035,1.93301812017087
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2035,2.0205044710091
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2035,2.04657956277999
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2035,2.02042014452642
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2035,2.04119175469127
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2035,4.00929710622626
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2035,0.840726980204728
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2035,1.61792352856673
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2035,7.73207248068346
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2035,8.08201788403639
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2035,8.18631825111999
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2035,8.08168057810563
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2035,8.16476701876523
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2035,1.93301812017089
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2035,2.0205044710091
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2035,2.04657956278
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2035,2.02042014452642
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2035,2.04119175469127
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2036,12.7574736403534
+"BAU","Car","FFV","Body","n","n","n","No improvements",2036,13.3342038870854
+"BAU","Car","HEV","Body","n","n","n","No improvements",2036,13.5061551954777
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2036,13.3336460912141
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2036,13.4709451821718
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2036,16.3527616662711
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2036,17.0920249825366
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2036,17.3124352960215
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2036,17.0913099896474
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2036,17.2673024607836
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2036,2.36564832603757
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2036,0.674373606612114
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2036,0.773634319830528
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2036,7.74060539363018
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2036,5.83636016589318
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2036,7.73813366513969
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2036,6.01531113223331
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2036,2.02808956800242
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2036,0.92781626475297
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2036,0.969760282697138
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2036,0.982265832398376
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2036,0.969719715724679
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2036,0.979705104157958
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2036,2.07337644472235
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2036,2.07271437459099
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2036,1.3590174818947
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2036,2.0952838565394
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2036,67.1875865956941
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2036,67.2819606360684
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2036,67.3100981228962
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2036,67.2818693603804
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2036,67.3043364843552
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2036,2.02959807914712
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2036,2.12135061839995
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2036,2.14870650837145
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2036,2.12126187814773
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2036,2.14310491534547
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2036,4.20815812612906
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2036,0.882194730372881
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2036,1.69798998759617
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2036,8.11839231658843
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2036,8.48540247359981
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2036,8.59482603348586
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2036,8.48504751259088
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2036,8.57241966138203
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2036,2.02959807914713
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2036,2.12135061839995
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2036,2.14870650837146
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2036,2.12126187814773
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2036,2.14310491534547
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2037,13.364506329017
+"BAU","Car","FFV","Body","n","n","n","No improvements",2037,13.9679910854913
+"BAU","Car","HEV","Body","n","n","n","No improvements",2037,14.1479799552378
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2037,13.967405437348
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2037,14.1114574212399
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2037,17.1308672035582
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2037,17.9044249368569
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2037,18.135137942623
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2037,17.9036742424192
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2037,18.0883226944982
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2037,2.47735599388506
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2037,0.706032961414849
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2037,0.810079199256506
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2037,8.1039994221106
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2037,6.11035576037796
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2037,8.10140427346295
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2037,6.29868440472725
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2037,2.12310616315249
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2037,0.971964096655789
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2037,1.01585389712666
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2037,1.02894399674457
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2037,1.01581130453442
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2037,1.02628781245384
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2037,2.17071413092245
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2037,2.17001900182044
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2037,1.42281834275366
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2037,2.19398988024775
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2037,70.3869192174755
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2037,70.4856712685348
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2037,70.5151239926751
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2037,70.4855754352023
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2037,70.5091475780209
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2037,2.12617146143453
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2037,2.22218039996453
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2037,2.25081499287874
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2037,2.22208722866905
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2037,2.24500458974268
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2037,4.40687047277387
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2037,0.923610520819196
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2037,1.77798002782347
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2037,8.50468584573807
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2037,8.88872159985812
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2037,9.00325997151498
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2037,8.88834891467616
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2037,8.98001835897085
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2037,2.12617146143454
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2037,2.22218039996453
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2037,2.25081499287875
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2037,2.22208722866905
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2037,2.24500458974267
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2038,13.9714978276425
+"BAU","Car","FFV","Body","n","n","n","No improvements",2038,14.6016759728233
+"BAU","Car","HEV","Body","n","n","n","No improvements",2038,14.7896893075774
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2038,14.6010623650391
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2038,14.7518852664998
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2038,17.9089199427053
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2038,18.7166937469825
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2038,18.9576926578947
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2038,18.7159072133686
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2038,18.909234750695
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2038,2.58898038546428
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2038,0.73765281340436
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2038,0.84648941574649
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2038,8.46694008546348
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2038,6.38400947812966
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2038,8.46422104088055
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2038,6.58178815925976
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2038,2.21798704156651
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2038,1.01610893291945
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2038,1.06194007075081
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2038,1.0756137678238
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2038,1.06189544473013
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2038,1.07286438301819
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2038,2.26793038003483
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2038,2.26720206452158
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2038,1.4865395963842
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2038,2.29260202408501
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2038,73.5862450990687
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2038,73.6893651591891
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2038,73.7201309776034
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2038,73.6892647506427
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2038,73.7139448617908
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2038,2.2227382907613
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2038,2.32299390476735
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2038,2.35290511711458
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2038,2.32289628534716
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2038,2.3468908378522
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2038,4.6054346825629
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2038,0.964974634904941
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2038,1.85789398906001
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2038,8.89095316304514
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2038,9.2919756190694
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2038,9.41162046845837
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2038,9.29158514138862
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2038,9.38756335140897
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2038,2.22273829076131
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2038,2.32299390476735
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2038,2.35290511711459
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2038,2.32289628534717
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2038,2.3468908378522
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2039,14.5784482844965
+"BAU","Car","FFV","Body","n","n","n","No improvements",2039,15.2352591038877
+"BAU","Car","HEV","Body","n","n","n","No improvements",2039,15.4312838804621
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2039,15.2346174302857
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2039,15.3922290921512
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2039,18.6869200737636
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2039,19.5288321240742
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2039,19.780100246774
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2039,19.5280096151847
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2039,19.7300391090301
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2039,2.70052180053483
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2039,0.76923337723893
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2039,0.882865122995014
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2039,8.8294298421701
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2039,6.65732317690635
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2039,8.82658643115624
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2039,6.8646235908663
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2039,2.31273294545786
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2039,1.06025078432701
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2039,1.10801884391913
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2039,1.12227519130633
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2039,1.10797217674806
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2039,1.11943484306557
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2039,2.36502585058123
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2039,2.36426422263115
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2039,1.55018167537196
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2039,2.39112070431204
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2039,76.7855642647357
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2039,76.8930423988178
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2039,76.925119180439
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2039,76.8929373976831
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2039,76.9187283968973
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2039,2.31929859071534
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2039,2.42379122107305
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2039,2.45497698098259
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2039,2.42368913663639
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2039,2.44876371920584
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2039,4.80385128872652
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2039,1.00628735343944
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2039,1.93773220863802
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2039,9.27719436286131
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2039,9.69516488429223
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2039,9.81990792393042
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2039,9.69475654654552
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2039,9.79505487682354
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2039,2.31929859071535
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2039,2.42379122107305
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2039,2.4549769809826
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2039,2.42368913663639
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2039,2.44876371920584
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2040,15.1853578469709
+"BAU","Car","FFV","Body","n","n","n","No improvements",2040,15.8687410285257
+"BAU","Car","HEV","Body","n","n","n","No improvements",2040,16.072764296215
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2040,15.8680711841049
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2040,16.0324892696716
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2040,19.4648677856625
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2040,20.3408407729285
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2040,20.6023615069664
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2040,20.3399821541711
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2040,20.5507362456699
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2040,2.81198053708719
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2040,0.800774865650666
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2040,0.91920647357837
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2040,9.19147112870959
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2040,6.9302986977961
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2040,9.18850288598037
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2040,7.14719188588757
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2040,2.40734461033716
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2040,1.10438966159788
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2040,1.15409025662007
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2040,1.168928312452
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2040,1.1540415406622
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2040,1.16599921961251
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2040,2.46200119519003
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2040,2.46120613017332
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2040,1.61374500842095
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2040,2.48954633416107
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2040,79.9848767385951
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2040,80.0967030773949
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2040,80.1300887030168
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2040,80.0965934664899
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2040,80.123498244128
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2040,2.41585238474535
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2040,2.52457243635638
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2040,2.55703068348873
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2040,2.52446587019855
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2040,2.55062329290228
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2040,5.00212082134826
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2040,1.04754895471228
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2040,2.01749502143537
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2040,9.66340953898136
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2040,10.0982897454255
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2040,10.228122733955
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2040,10.0978634807942
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2040,10.2024931716093
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2040,2.41585238474536
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2040,2.52457243635638
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2040,2.55703068348875
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2040,2.52446587019855
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2040,2.55062329290228
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2041,15.79222666159
+"BAU","Car","FFV","Body","n","n","n","No improvements",2041,16.5021222916756
+"BAU","Car","HEV","Body","n","n","n","No improvements",2041,16.7141311715878
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2041,16.501424172595
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2041,16.6726661678441
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2041,20.2427632662196
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2041,21.1527203920569
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2041,21.424477229035
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2041,21.1518255303266
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2041,21.3713266333272
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2041,2.92335689135804
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2041,0.832277489469689
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2041,0.955513618966222
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2041,9.55306635983521
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2041,7.20293786542626
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2041,9.54997282524602
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2041,7.42949422205982
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2041,2.50182276509676
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2041,1.14852557538835
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2041,1.20015434848551
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2041,1.21557317611546
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2041,1.20010357618875
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2041,1.2125575394796
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2041,2.55885706067011
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2041,2.55802843533377
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2041,1.6772300204022
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2041,2.58787932386719
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2041,83.1841825446237
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2041,83.3003472840922
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2041,83.3350396462596
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2041,83.3002330464246
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2041,83.328254463829
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2041,2.51239969616201
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2041,2.62533763731204
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2041,2.65906632275257
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2041,2.62522657291288
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2041,2.65246961761153
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2041,5.20024380739176
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2041,1.0887597145249
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2041,2.0971827599011
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2041,10.049598784648
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2041,10.5013505492482
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2041,10.6362652910103
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2041,10.5009062916515
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2041,10.6098784704463
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2041,2.51239969616202
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2041,2.62533763731204
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2041,2.65906632275258
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2041,2.62522657291288
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2041,2.65246961761153
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2042,16.399054874017
+"BAU","Car","FFV","Body","n","n","n","No improvements",2042,17.1354034334336
+"BAU","Car","HEV","Body","n","n","n","No improvements",2042,17.3553851178294
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2042,17.1346769369965
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2042,17.312760152784
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2042,21.0206067021488
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2042,21.964471673765
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2042,22.2464481964902
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2042,21.9635404374231
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2042,22.1918107412957
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2042,3.03465115784307
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2042,0.863741457647762
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2042,0.991786709532683
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2042,9.91421792884435
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2042,7.47524248816785
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2042,9.91099864732112
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2042,7.71153176860085
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2042,2.59616813209342
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2042,1.19265853629214
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2042,1.24621115879518
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2042,1.26220982675122
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2042,1.24615832269068
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2042,1.25910982929341
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2042,2.65559408808328
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2042,2.65473178053247
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2042,1.74063713240142
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2042,2.68612008069834
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2042,86.3834817066572
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2042,86.5039751072889
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2042,86.53997211019
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2042,86.5038562260539
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2042,86.5329971159101
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2042,2.60894054813903
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2042,2.72608690986445
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2042,2.76108399601828
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2042,2.72597133088585
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2042,2.75430275157926
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2042,5.39822077072384
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2042,1.12991990622155
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2042,2.17679575407968
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2042,10.4357621925561
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2042,10.9043476394579
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2042,11.0443359840732
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2042,10.9038853235433
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2042,11.0172110063172
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2042,2.60894054813904
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2042,2.72608690986445
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2042,2.7610839960183
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2042,2.72597133088585
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2042,2.75430275157925
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2043,17.005842629062
+"BAU","Car","FFV","Body","n","n","n","No improvements",2043,17.768584989114
+"BAU","Car","HEV","Body","n","n","n","No improvements",2043,17.9965267407558
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2043,17.7678300137528
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2043,17.9527715879666
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2043,21.79839827907
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2043,22.7760953042281
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2043,23.0682751858777
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2043,22.7751275630834
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2043,23.0121890354843
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2043,3.1458636293131
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2043,0.895166977281697
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2043,1.02802589456728
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2043,10.274928207844
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2043,7.74721435833848
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2043,10.271582729316
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2043,7.99330568629546
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2043,2.6903814272301
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2043,1.23678855484086
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2043,1.29226072648103
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2043,1.30883830841859
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2043,1.29220581918204
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2043,1.30565611548851
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2043,2.75221291281532
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2043,2.75131680249535
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2043,1.80396676176623
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2043,2.78426900898497
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2043,89.5827742483918
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2043,89.707586634582
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2043,89.7448861939416
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2043,89.7074630931594
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2043,89.737726259849
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2043,2.70547496371436
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2043,2.82682033917724
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2043,2.86308379966566
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2043,2.8267002294607
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2043,2.85612275263103
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2043,5.59605223214285
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2043,1.17102980071989
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2043,2.25633433163511
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2043,10.8218998548574
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2043,11.307281356709
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2043,11.4523351986627
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2043,11.3068009178428
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2043,11.4244910105243
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2043,2.70547496371437
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2043,2.82682033917724
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2043,2.86308379966567
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2043,2.8267002294607
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2043,2.85612275263103
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2044,17.6125900706883
+"BAU","Car","FFV","Body","n","n","n","No improvements",2044,18.4016674893084
+"BAU","Car","HEV","Body","n","n","n","No improvements",2044,18.6375566408164
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2044,18.4008839345687
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2044,18.5927008342533
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2044,22.5761381815183
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2044,23.5875919635682
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2044,23.8899589668646
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2044,23.5865875888566
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2044,23.8324619784519
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2044,3.25699459682713
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2044,0.926554253636429
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2044,1.06423132228608
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2044,10.6351995480138
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2044,8.01885525240152
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2044,10.631727427344
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2044,8.27481712758194
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2044,2.78446336003652
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2044,1.28091564150461
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2044,1.33830309013153
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2044,1.35545866478665
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2044,1.33824610433228
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2044,1.35219642430936
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2044,2.84871416464652
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2044,2.84778413232429
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2044,1.86721932215249
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2044,2.8823265101503
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2044,92.7820601933852
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2044,92.9111819527957
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2044,92.9497819957697
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2044,92.9110537347475
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2044,92.9424419546959
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2044,2.80200296579128
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2044,2.9275380096627
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2044,2.96506582922076
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2044,2.92741335322687
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2044,2.95792967817665
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2044,5.79373870940216
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2044,1.21208966654117
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2044,2.33579881787536
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2044,11.2080118631651
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2044,11.7101520386509
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2044,11.8602633168831
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2044,11.7096534129074
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2044,11.8317187127068
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2044,2.80200296579129
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2044,2.9275380096627
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2044,2.96506582922078
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2044,2.92741335322687
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2044,2.95792967817665
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2045,18.2192973420196
+"BAU","Car","FFV","Body","n","n","n","No improvements",2045,19.0346514599437
+"BAU","Car","HEV","Body","n","n","n","No improvements",2045,19.2784754131612
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2045,19.0338392264703
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2045,19.2325482499179
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2045,23.3538265929521
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2045,24.3989623259279
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2045,24.7115003023247
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2045,24.3979211902941
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2045,24.6526300294401
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2045,3.36804434974655
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2045,0.957903490167574
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2045,1.10040313984233
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2045,10.9950342798634
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2045,8.29016693116176
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2045,10.9914350767847
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2045,8.55606723663456
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2045,2.87841463374809
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2045,1.32503980669235
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2045,1.38433828799592
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2045,1.40207093913899
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2045,1.38427921647058
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2045,1.39873078181224
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2045,2.94509846782051
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2045,2.94413439556732
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2045,1.93039522356997
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2045,2.9802929827389
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2045,95.9813395650576
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2045,96.1147611479905
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2045,96.1546596130625
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2045,96.1146282370586
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2045,96.1471442590774
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2045,2.89852457713945
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2045,3.02824000499104
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2045,3.06703017936653
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2045,3.02811078602939
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2045,3.0597235852142
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2045,5.99128071723527
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2045,1.25309976983973
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2045,2.41518953577565
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2045,11.5940983085578
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2045,12.1129600199643
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2045,12.2681207174662
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2045,12.1124431441176
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2045,12.238894340857
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2045,2.89852457713947
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2045,3.02824000499104
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2045,3.06703017936654
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2045,3.0281107860294
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2045,3.0597235852142
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2046,18.8259645853471
+"BAU","Car","FFV","Body","n","n","n","No improvements",2046,19.6675374223393
+"BAU","Car","HEV","Body","n","n","n","No improvements",2046,19.919283647705
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2046,19.6666964118612
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2046,19.8723141906728
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2046,24.1314636957629
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2046,25.2102070595441
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2046,25.5328999484219
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2046,25.2091290370225
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2046,25.4726936444078
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2046,3.47901317574944
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2046,0.989214888543586
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2046,1.13654149333715
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2046,11.3544347134852
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2046,8.56115113995702
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2046,11.3507079925346
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2046,8.83705714944711
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2046,2.97223594538335
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2046,1.36916106075252
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2046,1.43036635798832
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2046,1.44867517437854
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2046,1.43030519358992
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2046,1.44525921386715
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2046,3.04136644111207
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2046,3.04036821228605
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2046,1.99349487242686
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2046,3.07816882244597
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2046,99.1806123866931
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2046,99.3183243054734
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2046,99.3595191423514
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2046,99.3181866855771
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2046,99.3518332312009
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2046,2.99503982039611
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2046,3.12892640809943
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2046,3.16897694395306
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2046,3.12879261097795
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2046,3.16150453033429
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2046,6.18867876738133
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2046,1.29406037443204
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2046,2.49450680600204
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2046,11.9801592815844
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2046,12.5157056323978
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2046,12.6759077758123
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2046,12.5151704439118
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2046,12.6460181213373
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2046,2.99503982039612
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2046,3.12892640809943
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2046,3.16897694395307
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2046,3.12879261097795
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2046,3.16150453033429
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2047,19.4325919421358
+"BAU","Car","FFV","Body","n","n","n","No improvements",2047,20.3003258932637
+"BAU","Car","HEV","Body","n","n","n","No improvements",2047,20.559981929193
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2047,20.2994560085794
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2047,20.511999009694
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2047,24.909049671283
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2047,26.0213268268199
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2047,26.3541586546928
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2047,26.0202117928159
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2047,26.2926532760622
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2047,3.5899013608439
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2047,1.0204886486679
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2047,1.17264652783002
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2047,11.7134031388056
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2047,8.83180960884968
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2047,11.70954846926
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2047,9.11778799391396
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2047,3.06592798582124
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2047,1.41327941397353
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2047,1.47638733769192
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2047,1.49527141303221
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2047,1.47632407335125
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2047,1.4917817461596
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2047,3.13751869789433
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2047,3.13648619712323
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2047,2.0565186715744
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2047,3.17595442214542
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2047,102.37987868144
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2047,102.521871509806
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2047,102.564360679322
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2047,102.52172916504
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2047,102.556508928859
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2047,3.09154871806704
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2047,3.22959730120104
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2047,3.27090621600796
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2047,3.22945891045585
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2047,3.26327256972403
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2047,6.38593336860876
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2047,1.33497174182558
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2047,2.57375094693433
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2047,12.3661948722681
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2047,12.9183892048043
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2047,13.0836248640319
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2047,12.9178356418234
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2047,13.0530902788963
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2047,3.09154871806705
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2047,3.22959730120104
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2047,3.27090621600798
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2047,3.22945891045585
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2047,3.26327256972402
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2048,20.0391795530311
+"BAU","Car","FFV","Body","n","n","n","No improvements",2048,20.9330173849899
+"BAU","Car","HEV","Body","n","n","n","No improvements",2048,21.2005708372628
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2048,20.9321185299532
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2048,21.1516030576467
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2048,25.6865846997942
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2048,26.8323222843964
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2048,27.1752771641276
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2048,26.8311701156677
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2048,27.1125093738925
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2048,3.70070918938086
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2048,1.05172496870031
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2048,1.2087183873491
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2048,12.0719418258302
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2048,9.10214405281184
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2048,12.0679587816419
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2048,9.39826088991097
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2048,3.15949143987596
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2048,1.45739487658409
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2048,1.52240126436292
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2048,1.54185969725545
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2048,1.52233589308752
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2048,1.53829840419251
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2048,3.23355584620448
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2048,3.23248895936837
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2048,2.11946702035003
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2048,3.27365017191807
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2048,105.579138472314
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2048,105.725402844816
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2048,105.769184318825
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2048,105.725255759447
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2048,105.761171409433
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2048,3.18805129252765
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2048,3.33025276579385
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2048,3.37281808774632
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2048,3.33010976612895
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2048,3.36502775917105
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2048,6.58304502673823
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2048,1.37583413124687
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2048,2.65292227468876
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2048,12.7522051701106
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2048,13.3210110631755
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2048,13.4912723509853
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2048,13.3204390645158
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2048,13.4601110366844
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2048,3.18805129252766
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2048,3.33025276579385
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2048,3.37281808774634
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2048,3.33010976612895
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2048,3.36502775917104
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2049,20.6457275578662
+"BAU","Car","FFV","Body","n","n","n","No improvements",2049,21.5656124053496
+"BAU","Car","HEV","Body","n","n","n","No improvements",2049,21.8410509465072
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2049,21.5646844848561
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2049,21.7911266827105
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2049,26.4640689605372
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2049,27.6431940832211
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2049,27.9962562132501
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2049,27.6420046578613
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2049,27.9322623842014
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2049,3.8114369440688
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2049,1.08292404507833
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2049,1.24475721490164
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2049,12.4300530248836
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2049,9.37215617191015
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2049,12.4259411846223
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2049,9.67847694937547
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2049,3.25292698637147
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2049,1.50150745875391
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2049,1.56840817493453
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2049,1.58844006883688
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2049,1.56834068980773
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2049,1.58480921328806
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2049,3.32947848880811
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2049,3.32837710302383
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2049,2.1823403146204
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2049,3.37125645907965
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2049,108.778391782196
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2049,108.928918393602
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2049,108.973990154883
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2049,108.928766552067
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2049,108.965820729898
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2049,3.28454756602413
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2049,3.43089288266926
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2049,3.47471265058068
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2049,3.4307452589544
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2049,3.46677015406755
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2049,6.78001424466871
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2049,1.41664779966943
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2049,2.73202110314083
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2049,13.1381902640965
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2049,13.7235715306771
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2049,13.8988506023228
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2049,13.7229810358176
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2049,13.8670806162704
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2049,3.28454756602414
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2049,3.43089288266926
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2049,3.47471265058069
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2049,3.4307452589544
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2049,3.46677015406754
+"BAU","Car","BEV300","Body","n","n","n","No improvements",2050,21.2522360956677
+"BAU","Car","FFV","Body","n","n","n","No improvements",2050,22.1981114577874
+"BAU","Car","HEV","Body","n","n","n","No improvements",2050,22.4814228265361
+"BAU","Car","ICEV-G","Body","n","n","n","No improvements",2050,22.1971543777603
+"BAU","Car","PHEV40","Body","n","n","n","No improvements",2050,22.4305702306032
+"BAU","Car","BEV300","Chassis","n","n","n","No improvements",2050,27.2415026317192
+"BAU","Car","FFV","Chassis","n","n","n","No improvements",2050,28.4539428686186
+"BAU","Car","HEV","Chassis","n","n","n","No improvements",2050,28.8170965321963
+"BAU","Car","ICEV-G","Chassis","n","n","n","No improvements",2050,28.4527160660386
+"BAU","Car","PHEV40","Chassis","n","n","n","No improvements",2050,28.7519127501368
+"BAU","Car","BEV300","Electronic Controller","n","n","n","No improvements",2050,3.92208490598648
+"BAU","Car","HEV","Electronic Controller","n","n","n","No improvements",2050,1.11408607253803
+"BAU","Car","PHEV40","Electronic Controller","n","n","n","No improvements",2050,1.28076315248384
+"BAU","Car","FFV","Engine","n","n","n","No improvements",2050,12.7877389668512
+"BAU","Car","HEV","Engine","n","n","n","No improvements",2050,9.6418476514863
+"BAU","Car","ICEV-G","Engine","n","n","n","No improvements",2050,12.7834979136401
+"BAU","Car","PHEV40","Engine","n","n","n","No improvements",2050,9.95843727638385
+"BAU","Car","HEV","EV Battery","n","n","n","No improvements",2050,3.34623529821437
+"BAU","Car","BEV300","Exterior","n","n","n","No improvements",2050,1.54561717059401
+"BAU","Car","FFV","Exterior","n","n","n","No improvements",2050,1.61440810602092
+"BAU","Car","HEV","Exterior","n","n","n","No improvements",2050,1.63501256920262
+"BAU","Car","ICEV-G","Exterior","n","n","n","No improvements",2050,1.61433850020076
+"BAU","Car","PHEV40","Exterior","n","n","n","No improvements",2050,1.63131419858935
+"BAU","Car","FFV","Fuel storage system","n","n","n","No improvements",2050,3.42528722326369
+"BAU","Car","ICEV-G","Fuel storage system","n","n","n","No improvements",2050,3.42415122686788
+"BAU","Car","HEV","Generator","n","n","n","No improvements",2050,2.24513894682337
+"BAU","Car","PHEV40","Generator","n","n","n","No improvements",2050,3.46877366820768
+"BAU","Car","BEV300","Interior","n","n","n","No improvements",2050,111.977638633836
+"BAU","Car","FFV","Interior","n","n","n","No improvements",2050,112.132418238547
+"BAU","Car","HEV","Interior","n","n","n","No improvements",2050,112.178778280706
+"BAU","Car","ICEV-G","Interior","n","n","n","No improvements",2050,112.132261625452
+"BAU","Car","PHEV40","Interior","n","n","n","No improvements",2050,112.170456946826
+"BAU","Car","BEV300","Tires","n","n","n","No improvements",2050,3.38103756067437
+"BAU","Car","FFV","Tires","n","n","n","No improvements",2050,3.53151773192072
+"BAU","Car","HEV","Tires","n","n","n","No improvements",2050,3.57658999513074
+"BAU","Car","ICEV-G","Tires","n","n","n","No improvements",2050,3.53136546918915
+"BAU","Car","PHEV40","Tires","n","n","n","No improvements",2050,3.56849980941413
+"BAU","Car","BEV300","Traction Motor","n","n","n","No improvements",2050,6.97684152239995
+"BAU","Car","HEV","Traction Motor","n","n","n","No improvements",2050,1.45741300184095
+"BAU","Car","PHEV40","Traction Motor","n","n","n","No improvements",2050,2.81104774394701
+"BAU","Car","BEV300","Transmission","n","n","n","No improvements",2050,13.5241502426974
+"BAU","Car","FFV","Transmission","n","n","n","No improvements",2050,14.126070927683
+"BAU","Car","HEV","Transmission","n","n","n","No improvements",2050,14.306359980523
+"BAU","Car","ICEV-G","Transmission","n","n","n","No improvements",2050,14.1254618767566
+"BAU","Car","PHEV40","Transmission","n","n","n","No improvements",2050,14.2739992376567
+"BAU","Car","BEV300","Wheels","n","n","n","No improvements",2050,3.38103756067438
+"BAU","Car","FFV","Wheels","n","n","n","No improvements",2050,3.53151773192072
+"BAU","Car","HEV","Wheels","n","n","n","No improvements",2050,3.57658999513075
+"BAU","Car","ICEV-G","Wheels","n","n","n","No improvements",2050,3.53136546918916
+"BAU","Car","PHEV40","Wheels","n","n","n","No improvements",2050,3.56849980941412

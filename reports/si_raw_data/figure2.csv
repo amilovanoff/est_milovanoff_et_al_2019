@@ -1,0 +1,179 @@
+"Source","Technology","Size","Data","Year","value"
+"EPA","ICEV-G","Car","curb weight (lbs)",1975,1841.04931282811
+"EPA","ICEV-D","Car","curb weight (lbs)",1975,1587.573295
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1975,1847.26331783025
+"EPA","ICEV-G","Car","curb weight (lbs)",1976,1841.44130916864
+"EPA","ICEV-D","Car","curb weight (lbs)",1976,1695.49081414461
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1976,1884.82455809847
+"EPA","ICEV-G","Car","curb weight (lbs)",1977,1790.53926594008
+"EPA","ICEV-D","Car","curb weight (lbs)",1977,1428.50269102247
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1977,1876.0587853043
+"EPA","ICEV-G","Car","curb weight (lbs)",1978,1627.95433850274
+"EPA","ICEV-D","Car","curb weight (lbs)",1978,1582.1233917463
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1978,1882.49920683463
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1978,1985.0265286356
+"EPA","ICEV-G","Car","curb weight (lbs)",1979,1576.8102552104
+"EPA","ICEV-D","Car","curb weight (lbs)",1979,1754.18608412759
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1979,1924.90287722861
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1979,2257.54962081732
+"EPA","ICEV-G","Car","curb weight (lbs)",1980,1398.72101893524
+"EPA","ICEV-D","Car","curb weight (lbs)",1980,1581.53692312024
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1980,1745.53385638985
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1980,2012.54187815566
+"EPA","ICEV-G","Car","curb weight (lbs)",1981,1380.54454936495
+"EPA","ICEV-D","Car","curb weight (lbs)",1981,1627.49349999463
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1981,1742.23049511259
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1981,1457.22782809237
+"EPA","ICEV-G","Car","curb weight (lbs)",1982,1372.84363455453
+"EPA","ICEV-D","Car","curb weight (lbs)",1982,1632.66648964237
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1982,1711.95451529704
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1982,1901.59388752184
+"EPA","ICEV-G","Car","curb weight (lbs)",1983,1406.54918772429
+"EPA","ICEV-D","Car","curb weight (lbs)",1983,1652.34532654173
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1983,1697.24296980232
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1983,1988.61409184103
+"EPA","ICEV-G","Car","curb weight (lbs)",1984,1405.61968714688
+"EPA","ICEV-D","Car","curb weight (lbs)",1984,1449.96955956087
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1984,1712.17870287232
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1984,1947.52016624028
+"EPA","ICEV-G","Car","curb weight (lbs)",1985,1403.57538851938
+"EPA","ICEV-D","Car","curb weight (lbs)",1985,1485.86209428123
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1985,1721.23221198639
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1985,2077.69811059945
+"EPA","ICEV-G","Car","curb weight (lbs)",1986,1380.50018712398
+"EPA","ICEV-D","Car","curb weight (lbs)",1986,1314.49131306192
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1986,1694.21403780561
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1986,2056.84154288382
+"EPA","ICEV-G","Car","curb weight (lbs)",1987,1376.02859053312
+"EPA","ICEV-D","Car","curb weight (lbs)",1987,1635.63142066286
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1987,1685.17046055007
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1987,2129.39431151406
+"EPA","ICEV-G","Car","curb weight (lbs)",1988,1383.93333251811
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1988,1744.92448452426
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1988,2423.8755418008
+"EPA","ICEV-G","Car","curb weight (lbs)",1989,1407.78277708015
+"EPA","ICEV-D","Car","curb weight (lbs)",1989,1247.3790175
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1989,1782.39517278687
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1989,2441.36218673401
+"EPA","ICEV-G","Car","curb weight (lbs)",1990,1441.71269109749
+"EPA","ICEV-D","Car","curb weight (lbs)",1990,1424.99022275545
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1990,1819.57656890775
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1990,2433.28455484205
+"EPA","ICEV-G","Car","curb weight (lbs)",1991,1437.060621896
+"EPA","ICEV-D","Car","curb weight (lbs)",1991,1543.67167572022
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1991,1795.66581226506
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1991,2479.41929282033
+"EPA","ICEV-G","Car","curb weight (lbs)",1992,1475.7026557551
+"EPA","ICEV-D","Car","curb weight (lbs)",1992,1651.77975582335
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1992,1849.10932855321
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1992,2341.30431659612
+"EPA","ICEV-G","Car","curb weight (lbs)",1993,1470.12463306852
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1993,1859.01141237638
+"EPA","ICEV-G","Car","curb weight (lbs)",1994,1482.32628914037
+"EPA","ICEV-D","Car","curb weight (lbs)",1994,2267.96185
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1994,1881.85098705051
+"EPA","ICEV-G","Car","curb weight (lbs)",1995,1484.89270297642
+"EPA","ICEV-D","Car","curb weight (lbs)",1995,1848.91706480893
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1995,1905.58622249689
+"EPA","ICEV-G","Car","curb weight (lbs)",1996,1495.23422844843
+"EPA","ICEV-D","Car","curb weight (lbs)",1996,1645.92547043587
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1996,1929.52190177235
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1996,2474.75645896472
+"EPA","ICEV-G","Car","curb weight (lbs)",1997,1490.16618283859
+"EPA","ICEV-D","Car","curb weight (lbs)",1997,1610.41299940155
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1997,1992.84338347017
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1997,2653.08610191754
+"EPA","ICEV-G","Car","curb weight (lbs)",1998,1512.32204911517
+"EPA","ICEV-D","Car","curb weight (lbs)",1998,1470.32177565234
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1998,1957.99404905866
+"EPA","ICEV-D","Light truck","curb weight (lbs)",1998,2658.77916288662
+"EPA","ICEV-G","Car","curb weight (lbs)",1999,1537.83997061451
+"EPA","ICEV-D","Car","curb weight (lbs)",1999,1514.07607357345
+"EPA","ICEV-G","Light truck","curb weight (lbs)",1999,2021.55850340617
+"EPA","ICEV-G","Car","curb weight (lbs)",2000,1543.37824681607
+"EPA","ICEV-D","Car","curb weight (lbs)",2000,1360.77711
+"EPA","HEV","Car","curb weight (lbs)",2000,907.18474
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2000,2005.31827678182
+"EPA","ICEV-G","Car","curb weight (lbs)",2001,1548.07184738854
+"EPA","ICEV-D","Car","curb weight (lbs)",2001,1405.47723827745
+"EPA","HEV","Car","curb weight (lbs)",2001,1290.80700605965
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2001,2060.54268153636
+"EPA","ICEV-G","Car","curb weight (lbs)",2002,1550.07350379734
+"EPA","ICEV-D","Car","curb weight (lbs)",2002,1457.05717621015
+"EPA","HEV","Car","curb weight (lbs)",2002,1329.63079165985
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2002,2092.06171264461
+"EPA","ICEV-G","Car","curb weight (lbs)",2003,1560.59566426603
+"EPA","ICEV-D","Car","curb weight (lbs)",2003,1453.84935101145
+"EPA","HEV","Car","curb weight (lbs)",2003,1352.6793209167
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2003,2111.27469339706
+"EPA","ICEV-G","Car","curb weight (lbs)",2004,1586.2725789629
+"EPA","ICEV-D","Car","curb weight (lbs)",2004,1513.41637563441
+"EPA","HEV","Car","curb weight (lbs)",2004,1357.93544860276
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2004,2169.32591619213
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2004,2721.55422
+"EPA","ICEV-G","Car","curb weight (lbs)",2005,1590.37542173987
+"EPA","ICEV-D","Car","curb weight (lbs)",2005,1617.74717661617
+"EPA","HEV","Car","curb weight (lbs)",2005,1396.46103350707
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2005,2160.85989492617
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2005,2041.165665
+"EPA","HEV","Light truck","curb weight (lbs)",2005,1903.21614657178
+"EPA","ICEV-G","Car","curb weight (lbs)",2006,1619.75696775053
+"EPA","ICEV-D","Car","curb weight (lbs)",2006,1600.70681622629
+"EPA","HEV","Car","curb weight (lbs)",2006,1401.64699317504
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2006,2160.45167131861
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2006,2099.15646158032
+"EPA","HEV","Light truck","curb weight (lbs)",2006,2020.20942308262
+"EPA","ICEV-G","Car","curb weight (lbs)",2007,1613.96954006402
+"EPA","ICEV-D","Car","curb weight (lbs)",2007,2090.50342871613
+"EPA","HEV","Car","curb weight (lbs)",2007,1505.14246389132
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2007,2210.85980053703
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2007,2377.37498565844
+"EPA","HEV","Light truck","curb weight (lbs)",2007,2009.52344954387
+"EPA","ICEV-G","Car","curb weight (lbs)",2008,1623.65410956285
+"EPA","ICEV-D","Car","curb weight (lbs)",2008,1945.88429805846
+"EPA","HEV","Car","curb weight (lbs)",2008,1471.67058654202
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2008,2194.09457113509
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2008,2455.37368089808
+"EPA","HEV","Light truck","curb weight (lbs)",2008,2144.33312991936
+"EPA","ICEV-G","Car","curb weight (lbs)",2009,1589.29928881059
+"EPA","ICEV-D","Car","curb weight (lbs)",2009,1610.46254438894
+"EPA","HEV","Car","curb weight (lbs)",2009,1551.37501180672
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2009,2153.60540255115
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2009,2498.77456731362
+"EPA","HEV","Light truck","curb weight (lbs)",2009,2286.69544757389
+"EPA","ICEV-G","Car","curb weight (lbs)",2010,1603.61592272662
+"EPA","ICEV-D","Car","curb weight (lbs)",2010,1592.66058653409
+"EPA","HEV","Car","curb weight (lbs)",2010,1613.717122714
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2010,2168.38729931526
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2010,2534.07230771998
+"EPA","HEV","Light truck","curb weight (lbs)",2010,2229.40035872368
+"EPA","ICEV-G","Car","curb weight (lbs)",2011,1641.61891433601
+"EPA","ICEV-D","Car","curb weight (lbs)",2011,1634.8942328177
+"EPA","HEV","Car","curb weight (lbs)",2011,1607.98125668655
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2011,2186.16391405722
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2011,2521.67364695641
+"EPA","HEV","Light truck","curb weight (lbs)",2011,2287.09684824502
+"EPA","ICEV-G","Car","curb weight (lbs)",2012,1595.69384580202
+"EPA","ICEV-D","Car","curb weight (lbs)",2012,1606.3539273811
+"EPA","HEV","Car","curb weight (lbs)",2012,1607.55107013644
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2012,2178.44237258735
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2012,2525.37895865876
+"EPA","HEV","Light truck","curb weight (lbs)",2012,2297.54567053855
+"EPA","ICEV-G","Car","curb weight (lbs)",2013,1603.69544563374
+"EPA","ICEV-D","Car","curb weight (lbs)",2013,1596.03496676873
+"EPA","HEV","Car","curb weight (lbs)",2013,1662.02696764823
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2013,2186.11451966249
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2013,2464.68773346948
+"EPA","HEV","Light truck","curb weight (lbs)",2013,2308.88372075734
+"EPA","ICEV-G","Car","curb weight (lbs)",2014,1611.53065508356
+"EPA","ICEV-D","Car","curb weight (lbs)",2014,1655.57149773743
+"EPA","HEV","Car","curb weight (lbs)",2014,1661.00612672167
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2014,2172.2491334975
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2014,2344.17905394899
+"EPA","HEV","Light truck","curb weight (lbs)",2014,1987.1918053377
+"EPA","ICEV-G","Car","curb weight (lbs)",2015,1610.90092689959
+"EPA","ICEV-D","Car","curb weight (lbs)",2015,1684.63394877328
+"EPA","HEV","Car","curb weight (lbs)",2015,1643.49873991656
+"EPA","ICEV-G","Light truck","curb weight (lbs)",2015,2118.7921255579
+"EPA","ICEV-D","Light truck","curb weight (lbs)",2015,2501.75650260488
+"EPA","HEV","Light truck","curb weight (lbs)",2015,2123.75591659023

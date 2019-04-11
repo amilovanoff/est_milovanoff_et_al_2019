@@ -1,0 +1,37 @@
+"LWscen","i_year","Size","Technology","LCIA","vh_lca_yrs","Case","Payback","Final changes"
+"Aluminum Intensive","2016","Car","BEV100","GWP100","2016","Curent Lightweighting",2.38620267925834,-1219.15683576886
+"Aluminum Maximum","2016","Car","BEV100","GWP100","2016","Curent Lightweighting",6.89094909775928,-684.160793492676
+"Steel Intensive","2016","Car","BEV100","GWP100","2016","Curent Lightweighting",0,-1203.28716914829
+"Aluminum Intensive","2016","Light truck","BEV100","GWP100","2016","Curent Lightweighting",1.23802296564687,-2054.65600356238
+"Aluminum Maximum","2016","Light truck","BEV100","GWP100","2016","Curent Lightweighting",4.357642706662,-1786.4929305718
+"Steel Intensive","2016","Light truck","BEV100","GWP100","2016","Curent Lightweighting",0,-1715.35559862783
+"Aluminum Intensive","2016","Car","BEV300","GWP100","2016","Curent Lightweighting",0,-3127.21145882923
+"Aluminum Maximum","2016","Car","BEV300","GWP100","2016","Curent Lightweighting",2.74178564965197,-3803.67770308024
+"Steel Intensive","2016","Car","BEV300","GWP100","2016","Curent Lightweighting",0,-2102.26080652862
+"Aluminum Intensive","2016","Light truck","BEV300","GWP100","2016","Curent Lightweighting",0,-4847.18509077512
+"Aluminum Maximum","2016","Light truck","BEV300","GWP100","2016","Curent Lightweighting",1.29391452951536,-6349.91240768976
+"Steel Intensive","2016","Light truck","BEV300","GWP100","2016","Curent Lightweighting",0,-3036.64630248248
+"Aluminum Intensive","2016","Car","HEV","GWP100","2016","Curent Lightweighting",1.49505039802457,-3479.4962061276
+"Aluminum Maximum","2016","Car","HEV","GWP100","2016","Curent Lightweighting",3.72101618015348,-4519.14681412944
+"Steel Intensive","2016","Car","HEV","GWP100","2016","Curent Lightweighting",0,-2198.27832133174
+"Aluminum Intensive","2016","Light truck","HEV","GWP100","2016","Curent Lightweighting",1.22212397178438,-5259.87778741383
+"Aluminum Maximum","2016","Light truck","HEV","GWP100","2016","Curent Lightweighting",3.06680269277448,-6983.03974392181
+"Steel Intensive","2016","Light truck","HEV","GWP100","2016","Curent Lightweighting",0,-3232.44316974386
+"Aluminum Intensive","2016","Car","ICEV-G","GWP100","2016","Curent Lightweighting",1.105803673731,-5317.05139857673
+"Aluminum Maximum","2016","Car","ICEV-G","GWP100","2016","Curent Lightweighting",2.69127094620353,-7416.72658754615
+"Steel Intensive","2016","Car","ICEV-G","GWP100","2016","Curent Lightweighting",0,-3090.82448388335
+"Aluminum Intensive","2016","Light truck","ICEV-G","GWP100","2016","Curent Lightweighting",0.915024241312205,-8043.45006428851
+"Aluminum Maximum","2016","Light truck","ICEV-G","GWP100","2016","Curent Lightweighting",2.25032280913121,-11344.5179072634
+"Steel Intensive","2016","Light truck","ICEV-G","GWP100","2016","Curent Lightweighting",0,-4595.82874334005
+"Aluminum Intensive","2016","Car","PHEV20","GWP100","2016","Curent Lightweighting",1.86466218352906,-3302.79834283555
+"Aluminum Maximum","2016","Car","PHEV20","GWP100","2016","Curent Lightweighting",4.58700409591449,-4012.35219561078
+"Steel Intensive","2016","Car","PHEV20","GWP100","2016","Curent Lightweighting",0,-2212.7647240915
+"Aluminum Intensive","2016","Light truck","PHEV20","GWP100","2016","Curent Lightweighting",1.47856856960722,-4124.28049881105
+"Aluminum Maximum","2016","Light truck","PHEV20","GWP100","2016","Curent Lightweighting",3.85578602626253,-5082.70954755123
+"Steel Intensive","2016","Light truck","PHEV20","GWP100","2016","Curent Lightweighting",0,-2720.77428007013
+"Aluminum Intensive","2016","Car","PHEV40","GWP100","2016","Curent Lightweighting",1.70056833301821,-3176.08070206644
+"Aluminum Maximum","2016","Car","PHEV40","GWP100","2016","Curent Lightweighting",4.49169211249878,-3841.92379186941
+"Steel Intensive","2016","Car","PHEV40","GWP100","2016","Curent Lightweighting",0,-2161.91818373925
+"Aluminum Intensive","2016","Light truck","PHEV40","GWP100","2016","Curent Lightweighting",1.15394757234136,-4148.30010901174
+"Aluminum Maximum","2016","Light truck","PHEV40","GWP100","2016","Curent Lightweighting",3.49599219483759,-5166.77450629189
+"Steel Intensive","2016","Light truck","PHEV40","GWP100","2016","Curent Lightweighting",0,-2745.30936499764

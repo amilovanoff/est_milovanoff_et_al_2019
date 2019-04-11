@@ -1,0 +1,17 @@
+"Unit","Subcomponent","Technology","Data","Battery type","2015","2030","2050","default"
+"kW/kg","EV Battery","FCV,HEV","Energy density","Ni_MH",0.8,1.6,NA,NA
+"kW/kg","EV Battery","FCV,HEV","Energy density","Li_ion LMO",1.428571429,2.857142858,NA,"yes"
+"kW/kg","EV Battery","FCV,HEV","Energy density","Li_ion NMC",1.304347826,2.608695652,NA,NA
+"kW/kg","EV Battery","FCV,HEV","Energy density","Li_ion LFP",1.25,2.5,NA,NA
+"kWh/kg","EV Battery","PHEV","Energy density","Ni_MH",0.053,0.106,NA,NA
+"kWh/kg","EV Battery","PHEV","Energy density","Li_ion LMO",0.118,0.236,NA,"yes"
+"kWh/kg","EV Battery","PHEV","Energy density","Li_ion NMC",0.132,0.264,NA,NA
+"kWh/kg","EV Battery","PHEV","Energy density","Li_ion LFP",0.107,0.214,NA,NA
+"kWh/kg","EV Battery","BEV","Energy density","Ni_MH",0.065,0.13,NA,NA
+"kWh/kg","EV Battery","BEV","Energy density","Li_ion LMO",0.133,0.266,NA,"yes"
+"kWh/kg","EV Battery","BEV","Energy density","Li_ion NMC",0.165,0.33,NA,NA
+"kWh/kg","EV Battery","BEV","Energy density","Li_ion LFP",0.122,0.244,NA,NA
+"kWh/kg","EV Battery","BEV","Energy density","Li_ion LCO",0.175,0.35,NA,NA
+"kWh/kg","EV Battery","BEV","Energy density","Li_ion LMR_NMC: Gr",0.175,0.35,NA,NA
+"kWh/kg","EV Battery","BEV","Energy density","Li_ion LMR_NMC: Gr-SI",0.2,0.4,NA,NA
+"kWh/kg","EV Battery","BEV","Energy density","Li_ion NCA",0.163,0.326,NA,NA

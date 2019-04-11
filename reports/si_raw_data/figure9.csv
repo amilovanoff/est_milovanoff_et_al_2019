@@ -1,0 +1,79 @@
+"Replaced material","Replacing material","Component","Source","Substitution ratio"
+"Cast Iron","Cast Aluminum","General","DOE Report",0.4
+"Cast Iron","Cast Aluminum","General","DOE Report",0.7
+"Steel","Cast Aluminum","General","DOE Report",0.4
+"Steel","Cast Aluminum","General","DOE Report",0.7
+"Steel","Wrought Aluminum","General","DOE Report",0.4
+"Steel","Wrought Aluminum","General","DOE Report",0.7
+"Cast Iron","Cast Aluminum","Powertrain","NHTSA and EPA",0.56
+"Cast Iron","Cast Aluminum","Transmission","NHTSA and EPA",0.46
+"Cast Iron","Cast Aluminum","Transmission","NHTSA and EPA",0.75
+"Cast Iron","Cast Aluminum","Chassis","NHTSA and EPA",0.46
+"Cast Iron","Cast Aluminum","Chassis","NHTSA and EPA",0.49
+"Cast Iron","Cast Aluminum","Chassis","NHTSA and EPA",0.43
+"Cast Iron","Cast Aluminum","Chassis","NHTSA and EPA",0.33
+"Cast Iron","Cast Aluminum","Chassis","NHTSA and EPA",0.37
+"Cast Iron","Cast Aluminum","Body","Malen",0.55
+"Cast Iron","Cast Aluminum","Body","Malen",0.22
+"Cast Iron","Cast Aluminum","Body","Malen",0.43
+"Cast Iron","Cast Aluminum","Body","Malen",0.47
+"Cast Iron","Cast Aluminum","Body","Malen",0.46
+"Cast Iron","Cast Aluminum","Body","Malen",0.43
+"Cast Iron","Cast Aluminum","General","Sullivan",0.55
+"Steel","Cast Aluminum","Body","Malen",0.99
+"Steel","Cast Aluminum","Body","Malen",0.29
+"Steel","Cast Aluminum","Body","Malen",0.49
+"Steel","Cast Aluminum","Body","Malen",0.62
+"Steel","Cast Aluminum","Body","Malen",0.58
+"Steel","Cast Aluminum","Body","Malen",0.49
+"Steel","Cast Aluminum","General","Expert",0.5
+"Steel","Cast Aluminum","General","Expert",0.6
+"Steel","Cast Aluminum","General","Expert",0.52
+"Steel","Cast Aluminum","General","Expert",0.6
+"Steel","Cast Aluminum","General","Expert",0.65
+"Steel","Cast Aluminum","General","Geyer",0.6
+"Steel","Cast Aluminum","General","Sullivan",0.55
+"Steel","Cast Aluminum","Powertrain","NHTSA and EPA",0.62
+"Steel","Cast Aluminum","Transmission","NHTSA and EPA",0.5
+"Steel","Wrought Aluminum","Body","NHTSA and EPA",0.7
+"Steel","Wrought Aluminum","Body","NHTSA and EPA",0.7
+"Steel","Wrought Aluminum","Body","NHTSA and EPA",0.57
+"Steel","Wrought Aluminum","Body","NHTSA and EPA",0.51
+"Steel","Wrought Aluminum","Body","NHTSA and EPA",0.72
+"Steel","Wrought Aluminum","Body","NHTSA and EPA",0.52
+"Steel","Wrought Aluminum","Body","NHTSA and EPA",0.56
+"Steel","Wrought Aluminum","Body","NHTSA and EPA",0.49
+"Steel","Wrought Aluminum","Body","NHTSA and EPA",0.48
+"Steel","Wrought Aluminum","Body","NHTSA and EPA",0.56
+"Steel","Wrought Aluminum","Body","Malen",0.99
+"Steel","Wrought Aluminum","Body","Malen",0.29
+"Steel","Wrought Aluminum","Body","Malen",0.49
+"Steel","Wrought Aluminum","Body","Malen",0.62
+"Steel","Wrought Aluminum","Body","Malen",0.58
+"Steel","Wrought Aluminum","Body","Malen",0.49
+"Steel","Wrought Aluminum","General","Expert",0.5
+"Steel","Wrought Aluminum","General","Expert",0.6
+"Steel","Wrought Aluminum","General","Expert",0.52
+"Steel","Wrought Aluminum","General","Expert",0.6
+"Steel","Wrought Aluminum","General","Expert",0.65
+"Steel","Wrought Aluminum","General","Geyer",0.6
+"Steel","Wrought Aluminum","General","Sullivan",0.55
+"Steel","HSS/AHSS","Body","Modaresi",0.72
+"Steel","HSS/AHSS","Chassis","Modaresi",0.72
+"Steel","HSS/AHSS","Powertrain","Modaresi",1
+"Steel","HSS/AHSS","Interior","Modaresi",1
+"Cast Iron","Cast Aluminum","Chassis","Modaresi",0.53
+"Cast Iron","Cast Aluminum","Powertrain","Modaresi",0.53
+"Steel","Cast Aluminum","Body","Modaresi",0.85
+"Steel","Cast Aluminum","Chassis","Modaresi",0.64
+"Steel","Cast Aluminum","Interior","Modaresi",0.73
+"Steel","Wrought Aluminum","Body","Modaresi",0.58
+"Steel","Wrought Aluminum","Chassis","Modaresi",0.64
+"Steel","Wrought Aluminum","Powertrain","Modaresi",0.65
+"Steel","Wrought Aluminum","Interior","Modaresi",0.73
+"HSS/AHSS","Wrought Aluminum","Body","Modaresi",0.81
+"HSS/AHSS","Wrought Aluminum","Chassis","Modaresi",0.89
+"Steel","Cast Aluminum","Chassis","EPA",0.65
+"Steel","Wrought Aluminum","Chassis","EPA",0.55
+"Steel","Cast Aluminum","Chassis","Singh",0.5
+"Steel","Wrought Aluminum","Chassis","Singh",0.5

@@ -1,0 +1,46 @@
+"Year","Region","Source","value"
+2015,"CA-QC","hydro",1
+2015,"CN","hydro",0.0999992582391091
+2015,"IAI Area 1","hydro",0.565870834764686
+2015,"IAI Area 2, without Quebec","hydro",0.264660167038415
+2015,"IAI Area 3","hydro",0.721801942505735
+2015,"IAI Area 4&5 without China","hydro",0.144942077898385
+2015,"IAI Area 8","hydro",0
+2015,"UN-EUROPE","hydro",0.823263306917482
+2015,"UN-OCEANIA","hydro",0.272370864571153
+2015,"CA-QC","coal",0
+2015,"CN","coal",0.900000741760891
+2015,"IAI Area 1","coal",0.434129165235314
+2015,"IAI Area 2, without Quebec","coal",0.683658226659803
+2015,"IAI Area 3","coal",0.00248914051442237
+2015,"IAI Area 4&5 without China","coal",0.855057922101615
+2015,"IAI Area 8","coal",0
+2015,"UN-EUROPE","coal",0.0576700893365662
+2015,"UN-OCEANIA","coal",0.727629135428847
+2015,"CA-QC","oil",0
+2015,"CN","oil",0
+2015,"IAI Area 1","oil",0
+2015,"IAI Area 2, without Quebec","oil",4.19834332264679e-05
+2015,"IAI Area 3","oil",0
+2015,"IAI Area 4&5 without China","oil",0
+2015,"IAI Area 8","oil",0.000110628210193599
+2015,"UN-EUROPE","oil",0.0020503474199795
+2015,"UN-OCEANIA","oil",0
+2015,"CA-QC","nuclear",0
+2015,"CN","nuclear",0
+2015,"IAI Area 1","nuclear",0
+2015,"IAI Area 2, without Quebec","nuclear",0.0272052647307512
+2015,"IAI Area 3","nuclear",0.00468544096832447
+2015,"IAI Area 4&5 without China","nuclear",0
+2015,"IAI Area 8","nuclear",0
+2015,"UN-EUROPE","nuclear",0.0921598620083641
+2015,"UN-OCEANIA","nuclear",0
+2015,"CA-QC","natural gas",0
+2015,"CN","natural gas",0
+2015,"IAI Area 1","natural gas",0
+2015,"IAI Area 2, without Quebec","natural gas",0.0244343581378043
+2015,"IAI Area 3","natural gas",0.271023476011518
+2015,"IAI Area 4&5 without China","natural gas",0
+2015,"IAI Area 8","natural gas",0.999889371789806
+2015,"UN-EUROPE","natural gas",0.0248563943176086
+2015,"UN-OCEANIA","natural gas",0

@@ -1,0 +1,25 @@
+"LWscen","Year","GWP100","fc_impro","frv_impro","aeo_scen","Case","Simulation","y_start","y_end","delta_y","rel_delta_y"
+"BAU",2050,60187105172965.3,"n","n","REF_BAU","No Change","Alt. vehicle -> fuel cons. imp. -> Lightweighting",NA,NA,NA,NA
+"BAU",2050,58123601514876.3,"n","n","REF","Alternative powertrain/fuel penetration","Alt. vehicle -> fuel cons. imp. -> Lightweighting",60187105172965.3,58123601514876.3,-2063503658089.03,-0.0342848132030764
+"BAU",2050,52143101231943.6,"Med","Med","REF","Fuel consumption improvements","Alt. vehicle -> fuel cons. imp. -> Lightweighting",58123601514876.3,52143101231943.6,-5980500282932.66,-0.102892803044939
+"Aluminum Maximum",2050,49245848178136.6,"Med","Med","REF","Lightweighting","Alt. vehicle -> fuel cons. imp. -> Lightweighting",52143101231943.6,49245848178136.6,-2897253053807.02,-0.0555634970946476
+"BAU",2050,60187105172965.3,"n","n","REF_BAU","No Change","fuel cons. imp.. -> Alt. vehicle -> Lightweighting",NA,NA,NA,NA
+"BAU",2050,53733546075877.9,"Med","Med","REF_BAU","Fuel consumption improvements","fuel cons. imp.. -> Alt. vehicle -> Lightweighting",60187105172965.3,53733546075877.9,-6453559097087.41,-0.107224945917256
+"BAU",2050,52143101231943.6,"Med","Med","REF","Alternative powertrain/fuel penetration","fuel cons. imp.. -> Alt. vehicle -> Lightweighting",53733546075877.9,52143101231943.6,-1590444843934.28,-0.029598732264727
+"Aluminum Maximum",2050,49245848178136.6,"Med","Med","REF","Lightweighting","fuel cons. imp.. -> Alt. vehicle -> Lightweighting",52143101231943.6,49245848178136.6,-2897253053807.02,-0.0555634970946476
+"BAU",2050,60187105172965.3,"n","n","REF_BAU","No Change","Alt. vehicle -> Lightweighting -> fuel cons. imp.",NA,NA,NA,NA
+"BAU",2050,58123601514876.3,"n","n","REF","Alternative powertrain/fuel penetration","Alt. vehicle -> Lightweighting -> fuel cons. imp.",60187105172965.3,58123601514876.3,-2063503658089.03,-0.0342848132030764
+"Aluminum Maximum",2050,54701756236596.6,"n","n","REF","Lightweighting","Alt. vehicle -> Lightweighting -> fuel cons. imp.",58123601514876.3,54701756236596.6,-3421845278279.69,-0.0588718728553648
+"Aluminum Maximum",2050,49245848178136.6,"Med","Med","REF","Fuel consumption improvements","Alt. vehicle -> Lightweighting -> fuel cons. imp.",54701756236596.6,49245848178136.6,-5455908058459.99,-0.0997391753723964
+"BAU",2050,60187105172965.3,"n","n","REF_BAU","No Change","Lightweighting -> Alt. vehicle -> fuel cons. imp.",NA,NA,NA,NA
+"Aluminum Maximum",2050,56523851892429.3,"n","n","REF_BAU","Lightweighting","Lightweighting -> Alt. vehicle -> fuel cons. imp.",60187105172965.3,56523851892429.3,-3663253280536.06,-0.060864420543381
+"Aluminum Maximum",2050,54701756236596.6,"n","n","REF","Alternative powertrain/fuel penetration","Lightweighting -> Alt. vehicle -> fuel cons. imp.",56523851892429.3,54701756236596.6,-1822095655832.66,-0.0322358720226692
+"Aluminum Maximum",2050,49245848178136.6,"Med","Med","REF","Fuel consumption improvements","Lightweighting -> Alt. vehicle -> fuel cons. imp.",54701756236596.6,49245848178136.6,-5455908058459.99,-0.0997391753723964
+"BAU",2050,60187105172965.3,"n","n","REF_BAU","No Change","Lightweighting -> fuel cons. imp. -> Alt. vehicle",NA,NA,NA,NA
+"Aluminum Maximum",2050,56523851892429.3,"n","n","REF_BAU","Lightweighting","Lightweighting -> fuel cons. imp. -> Alt. vehicle",60187105172965.3,56523851892429.3,-3663253280536.06,-0.060864420543381
+"Aluminum Maximum",2050,50642176362618.5,"Med","Med","REF_BAU","Fuel consumption improvements","Lightweighting -> fuel cons. imp. -> Alt. vehicle",56523851892429.3,50642176362618.5,-5881675529810.8,-0.104056523624827
+"Aluminum Maximum",2050,49245848178136.6,"Med","Med","REF","Alternative powertrain/fuel penetration","Lightweighting -> fuel cons. imp. -> Alt. vehicle",50642176362618.5,49245848178136.6,-1396328184481.85,-0.0275724363519367
+"BAU",2050,60187105172965.3,"n","n","REF_BAU","No Change","fuel cons. imp. -> Lightweighting -> Alt. vehicle",NA,NA,NA,NA
+"BAU",2050,53733546075877.9,"Med","Med","REF_BAU","Fuel consumption improvements","fuel cons. imp. -> Lightweighting -> Alt. vehicle",60187105172965.3,53733546075877.9,-6453559097087.41,-0.107224945917256
+"Aluminum Maximum",2050,50642176362618.5,"Med","Med","REF_BAU","Lightweighting","fuel cons. imp. -> Lightweighting -> Alt. vehicle",53733546075877.9,50642176362618.5,-3091369713259.45,-0.0575314666352762
+"Aluminum Maximum",2050,49245848178136.6,"Med","Med","REF","Alternative powertrain/fuel penetration","fuel cons. imp. -> Lightweighting -> Alt. vehicle",50642176362618.5,49245848178136.6,-1396328184481.85,-0.0275724363519367

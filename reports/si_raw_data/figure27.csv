@@ -1,0 +1,497 @@
+"Year","Age","Technology","Size","Value"
+"2015",0,"BEV","Car",125787
+"2015",1,"BEV","Car",92967
+"2015",2,"BEV","Car",14540
+"2015",3,"BEV","Car",12341
+"2015",4,"BEV","Car",6792
+"2015",5,"BEV","Car",482
+"2015",6,"BEV","Car",79
+"2015",7,"BEV","Car",39
+"2015",8,"BEV","Car",45
+"2015",9,"BEV","Car",17
+"2015",10,"BEV","Car",8
+"2015",11,"BEV","Car",17
+"2015",12,"BEV","Car",39
+"2015",13,"BEV","Car",45
+"2015",14,"BEV","Car",147
+"2015",15,"BEV","Car",277
+"2015",16,"BEV","Car",338
+"2015",17,"BEV","Car",360
+"2015",18,"BEV","Car",0
+"2015",19,"BEV","Car",0
+"2015",20,"BEV","Car",0
+"2015",21,"BEV","Car",0
+"2015",22,"BEV","Car",0
+"2015",23,"BEV","Car",0
+"2015",24,"BEV","Car",0
+"2015",25,"BEV","Car",0
+"2015",26,"BEV","Car",0
+"2015",27,"BEV","Car",0
+"2015",28,"BEV","Car",0
+"2015",29,"BEV","Car",0
+"2015",30,"BEV","Car",0
+"2015",0,"CNG","Car",40051
+"2015",1,"CNG","Car",26066
+"2015",2,"CNG","Car",9195
+"2015",3,"CNG","Car",7381
+"2015",4,"CNG","Car",6341
+"2015",5,"CNG","Car",5016
+"2015",6,"CNG","Car",4556
+"2015",7,"CNG","Car",2146
+"2015",8,"CNG","Car",4731
+"2015",9,"CNG","Car",668
+"2015",10,"CNG","Car",682
+"2015",11,"CNG","Car",950
+"2015",12,"CNG","Car",2092
+"2015",13,"CNG","Car",3586
+"2015",14,"CNG","Car",4180
+"2015",15,"CNG","Car",2381
+"2015",16,"CNG","Car",815
+"2015",17,"CNG","Car",195
+"2015",18,"CNG","Car",0
+"2015",19,"CNG","Car",0
+"2015",20,"CNG","Car",0
+"2015",21,"CNG","Car",0
+"2015",22,"CNG","Car",0
+"2015",23,"CNG","Car",0
+"2015",24,"CNG","Car",0
+"2015",25,"CNG","Car",0
+"2015",26,"CNG","Car",0
+"2015",27,"CNG","Car",0
+"2015",28,"CNG","Car",0
+"2015",29,"CNG","Car",0
+"2015",30,"CNG","Car",0
+"2015",0,"FCV","Car",1613
+"2015",1,"FCV","Car",0
+"2015",2,"FCV","Car",0
+"2015",3,"FCV","Car",0
+"2015",4,"FCV","Car",0
+"2015",5,"FCV","Car",0
+"2015",6,"FCV","Car",0
+"2015",7,"FCV","Car",0
+"2015",8,"FCV","Car",0
+"2015",9,"FCV","Car",0
+"2015",10,"FCV","Car",0
+"2015",11,"FCV","Car",0
+"2015",12,"FCV","Car",0
+"2015",13,"FCV","Car",0
+"2015",14,"FCV","Car",0
+"2015",15,"FCV","Car",0
+"2015",16,"FCV","Car",0
+"2015",17,"FCV","Car",0
+"2015",18,"FCV","Car",0
+"2015",19,"FCV","Car",0
+"2015",20,"FCV","Car",0
+"2015",21,"FCV","Car",0
+"2015",22,"FCV","Car",0
+"2015",23,"FCV","Car",0
+"2015",24,"FCV","Car",0
+"2015",25,"FCV","Car",0
+"2015",26,"FCV","Car",0
+"2015",27,"FCV","Car",0
+"2015",28,"FCV","Car",0
+"2015",29,"FCV","Car",0
+"2015",30,"FCV","Car",0
+"2015",0,"FFV","Car",268636
+"2015",1,"FFV","Car",310660
+"2015",2,"FFV","Car",334837
+"2015",3,"FFV","Car",312549
+"2015",4,"FFV","Car",368789
+"2015",5,"FFV","Car",167475
+"2015",6,"FFV","Car",253307
+"2015",7,"FFV","Car",358522
+"2015",8,"FFV","Car",217546
+"2015",9,"FFV","Car",109268
+"2015",10,"FFV","Car",87198
+"2015",11,"FFV","Car",66383
+"2015",12,"FFV","Car",50355
+"2015",13,"FFV","Car",47696
+"2015",14,"FFV","Car",41883
+"2015",15,"FFV","Car",36503
+"2015",16,"FFV","Car",32609
+"2015",17,"FFV","Car",14242
+"2015",18,"FFV","Car",4292
+"2015",19,"FFV","Car",1103
+"2015",20,"FFV","Car",918
+"2015",21,"FFV","Car",0
+"2015",22,"FFV","Car",0
+"2015",23,"FFV","Car",0
+"2015",24,"FFV","Car",0
+"2015",25,"FFV","Car",0
+"2015",26,"FFV","Car",0
+"2015",27,"FFV","Car",0
+"2015",28,"FFV","Car",0
+"2015",29,"FFV","Car",0
+"2015",30,"FFV","Car",0
+"2015",0,"HEV","Car",361529
+"2015",1,"HEV","Car",471245
+"2015",2,"HEV","Car",385497
+"2015",3,"HEV","Car",374326
+"2015",4,"HEV","Car",222157
+"2015",5,"HEV","Car",229114
+"2015",6,"HEV","Car",245247
+"2015",7,"HEV","Car",236564
+"2015",8,"HEV","Car",253926
+"2015",9,"HEV","Car",117628
+"2015",10,"HEV","Car",102923
+"2015",11,"HEV","Car",53916
+"2015",12,"HEV","Car",29362
+"2015",13,"HEV","Car",20391
+"2015",14,"HEV","Car",10506
+"2015",15,"HEV","Car",4039
+"2015",16,"HEV","Car",7
+"2015",17,"HEV","Car",0
+"2015",18,"HEV","Car",0
+"2015",19,"HEV","Car",0
+"2015",20,"HEV","Car",0
+"2015",21,"HEV","Car",0
+"2015",22,"HEV","Car",0
+"2015",23,"HEV","Car",0
+"2015",24,"HEV","Car",0
+"2015",25,"HEV","Car",0
+"2015",26,"HEV","Car",0
+"2015",27,"HEV","Car",0
+"2015",28,"HEV","Car",0
+"2015",29,"HEV","Car",0
+"2015",30,"HEV","Car",0
+"2015",0,"ICEV-D","Car",169444
+"2015",1,"ICEV-D","Car",207035
+"2015",2,"ICEV-D","Car",112981
+"2015",3,"ICEV-D","Car",107637
+"2015",4,"ICEV-D","Car",47971
+"2015",5,"ICEV-D","Car",72447
+"2015",6,"ICEV-D","Car",97961
+"2015",7,"ICEV-D","Car",3724
+"2015",8,"ICEV-D","Car",3985
+"2015",9,"ICEV-D","Car",21581
+"2015",10,"ICEV-D","Car",14269
+"2015",11,"ICEV-D","Car",9851
+"2015",12,"ICEV-D","Car",12723
+"2015",13,"ICEV-D","Car",12670
+"2015",14,"ICEV-D","Car",5368
+"2015",15,"ICEV-D","Car",7770
+"2015",16,"ICEV-D","Car",4321
+"2015",17,"ICEV-D","Car",2579
+"2015",18,"ICEV-D","Car",1550
+"2015",19,"ICEV-D","Car",1476
+"2015",20,"ICEV-D","Car",5076
+"2015",21,"ICEV-D","Car",451
+"2015",22,"ICEV-D","Car",276
+"2015",23,"ICEV-D","Car",458
+"2015",24,"ICEV-D","Car",638
+"2015",25,"ICEV-D","Car",484
+"2015",26,"ICEV-D","Car",609
+"2015",27,"ICEV-D","Car",88
+"2015",28,"ICEV-D","Car",597
+"2015",29,"ICEV-D","Car",1330
+"2015",30,"ICEV-D","Car",2380
+"2015",0,"ICEV-G","Car",6572323
+"2015",1,"ICEV-G","Car",7466999
+"2015",2,"ICEV-G","Car",6704410
+"2015",3,"ICEV-G","Car",6491830
+"2015",4,"ICEV-G","Car",5838978
+"2015",5,"ICEV-G","Car",4914762
+"2015",6,"ICEV-G","Car",4050177
+"2015",7,"ICEV-G","Car",5251904
+"2015",8,"ICEV-G","Car",6040486
+"2015",9,"ICEV-G","Car",5736828
+"2015",10,"ICEV-G","Car",5720017
+"2015",11,"ICEV-G","Car",5251094
+"2015",12,"ICEV-G","Car",4896554
+"2015",13,"ICEV-G","Car",4752311
+"2015",14,"ICEV-G","Car",4462885
+"2015",15,"ICEV-G","Car",4291970
+"2015",16,"ICEV-G","Car",4137754
+"2015",17,"ICEV-G","Car",3074037
+"2015",18,"ICEV-G","Car",2819071
+"2015",19,"ICEV-G","Car",2556087
+"2015",20,"ICEV-G","Car",2178242
+"2015",21,"ICEV-G","Car",1965772
+"2015",22,"ICEV-G","Car",1581030
+"2015",23,"ICEV-G","Car",1274665
+"2015",24,"ICEV-G","Car",1005735
+"2015",25,"ICEV-G","Car",879814
+"2015",26,"ICEV-G","Car",734581
+"2015",27,"ICEV-G","Car",631821
+"2015",28,"ICEV-G","Car",490675
+"2015",29,"ICEV-G","Car",436874
+"2015",30,"ICEV-G","Car",334398
+"2015",0,"PHEV","Car",83118
+"2015",1,"PHEV","Car",68583
+"2015",2,"PHEV","Car",39889
+"2015",3,"PHEV","Car",32349
+"2015",4,"PHEV","Car",4239
+"2015",5,"PHEV","Car",0
+"2015",6,"PHEV","Car",0
+"2015",7,"PHEV","Car",0
+"2015",8,"PHEV","Car",0
+"2015",9,"PHEV","Car",0
+"2015",10,"PHEV","Car",0
+"2015",11,"PHEV","Car",0
+"2015",12,"PHEV","Car",0
+"2015",13,"PHEV","Car",0
+"2015",14,"PHEV","Car",0
+"2015",15,"PHEV","Car",0
+"2015",16,"PHEV","Car",0
+"2015",17,"PHEV","Car",0
+"2015",18,"PHEV","Car",0
+"2015",19,"PHEV","Car",0
+"2015",20,"PHEV","Car",0
+"2015",21,"PHEV","Car",0
+"2015",22,"PHEV","Car",0
+"2015",23,"PHEV","Car",0
+"2015",24,"PHEV","Car",0
+"2015",25,"PHEV","Car",0
+"2015",26,"PHEV","Car",0
+"2015",27,"PHEV","Car",0
+"2015",28,"PHEV","Car",0
+"2015",29,"PHEV","Car",0
+"2015",30,"PHEV","Car",0
+"2015",0,"BEV","Light truck",12514
+"2015",1,"BEV","Light truck",1123
+"2015",2,"BEV","Light truck",506
+"2015",3,"BEV","Light truck",440
+"2015",4,"BEV","Light truck",320
+"2015",5,"BEV","Light truck",386
+"2015",6,"BEV","Light truck",140
+"2015",7,"BEV","Light truck",20
+"2015",8,"BEV","Light truck",26
+"2015",9,"BEV","Light truck",29
+"2015",10,"BEV","Light truck",22
+"2015",11,"BEV","Light truck",22
+"2015",12,"BEV","Light truck",23
+"2015",13,"BEV","Light truck",96
+"2015",14,"BEV","Light truck",70
+"2015",15,"BEV","Light truck",80
+"2015",16,"BEV","Light truck",70
+"2015",17,"BEV","Light truck",74
+"2015",18,"BEV","Light truck",14
+"2015",19,"BEV","Light truck",10
+"2015",20,"BEV","Light truck",9
+"2015",21,"BEV","Light truck",0
+"2015",22,"BEV","Light truck",0
+"2015",23,"BEV","Light truck",0
+"2015",24,"BEV","Light truck",0
+"2015",25,"BEV","Light truck",0
+"2015",26,"BEV","Light truck",0
+"2015",27,"BEV","Light truck",0
+"2015",28,"BEV","Light truck",0
+"2015",29,"BEV","Light truck",0
+"2015",30,"BEV","Light truck",0
+"2015",0,"CNG","Light truck",77847
+"2015",1,"CNG","Light truck",42758
+"2015",2,"CNG","Light truck",14280
+"2015",3,"CNG","Light truck",11711
+"2015",4,"CNG","Light truck",10472
+"2015",5,"CNG","Light truck",8518
+"2015",6,"CNG","Light truck",13526
+"2015",7,"CNG","Light truck",1221
+"2015",8,"CNG","Light truck",2468
+"2015",9,"CNG","Light truck",1989
+"2015",10,"CNG","Light truck",1873
+"2015",11,"CNG","Light truck",1669
+"2015",12,"CNG","Light truck",1394
+"2015",13,"CNG","Light truck",454
+"2015",14,"CNG","Light truck",502
+"2015",15,"CNG","Light truck",479
+"2015",16,"CNG","Light truck",423
+"2015",17,"CNG","Light truck",399
+"2015",18,"CNG","Light truck",371
+"2015",19,"CNG","Light truck",183
+"2015",20,"CNG","Light truck",168
+"2015",21,"CNG","Light truck",0
+"2015",22,"CNG","Light truck",0
+"2015",23,"CNG","Light truck",0
+"2015",24,"CNG","Light truck",0
+"2015",25,"CNG","Light truck",0
+"2015",26,"CNG","Light truck",0
+"2015",27,"CNG","Light truck",0
+"2015",28,"CNG","Light truck",0
+"2015",29,"CNG","Light truck",0
+"2015",30,"CNG","Light truck",0
+"2015",0,"FCV","Light truck",1612
+"2015",1,"FCV","Light truck",0
+"2015",2,"FCV","Light truck",0
+"2015",3,"FCV","Light truck",0
+"2015",4,"FCV","Light truck",0
+"2015",5,"FCV","Light truck",0
+"2015",6,"FCV","Light truck",0
+"2015",7,"FCV","Light truck",0
+"2015",8,"FCV","Light truck",0
+"2015",9,"FCV","Light truck",0
+"2015",10,"FCV","Light truck",0
+"2015",11,"FCV","Light truck",0
+"2015",12,"FCV","Light truck",0
+"2015",13,"FCV","Light truck",0
+"2015",14,"FCV","Light truck",0
+"2015",15,"FCV","Light truck",0
+"2015",16,"FCV","Light truck",0
+"2015",17,"FCV","Light truck",0
+"2015",18,"FCV","Light truck",0
+"2015",19,"FCV","Light truck",0
+"2015",20,"FCV","Light truck",0
+"2015",21,"FCV","Light truck",0
+"2015",22,"FCV","Light truck",0
+"2015",23,"FCV","Light truck",0
+"2015",24,"FCV","Light truck",0
+"2015",25,"FCV","Light truck",0
+"2015",26,"FCV","Light truck",0
+"2015",27,"FCV","Light truck",0
+"2015",28,"FCV","Light truck",0
+"2015",29,"FCV","Light truck",0
+"2015",30,"FCV","Light truck",0
+"2015",0,"FFV","Light truck",1675798
+"2015",1,"FFV","Light truck",1466910
+"2015",2,"FFV","Light truck",1366945
+"2015",3,"FFV","Light truck",1247478
+"2015",4,"FFV","Light truck",1246037
+"2015",5,"FFV","Light truck",771310
+"2015",6,"FFV","Light truck",575468
+"2015",7,"FFV","Light truck",823702
+"2015",8,"FFV","Light truck",939648
+"2015",9,"FFV","Light truck",588825
+"2015",10,"FFV","Light truck",473908
+"2015",11,"FFV","Light truck",586963
+"2015",12,"FFV","Light truck",469230
+"2015",13,"FFV","Light truck",352034
+"2015",14,"FFV","Light truck",359466
+"2015",15,"FFV","Light truck",366259
+"2015",16,"FFV","Light truck",260964
+"2015",17,"FFV","Light truck",150758
+"2015",18,"FFV","Light truck",90921
+"2015",19,"FFV","Light truck",61045
+"2015",20,"FFV","Light truck",26880
+"2015",21,"FFV","Light truck",0
+"2015",22,"FFV","Light truck",0
+"2015",23,"FFV","Light truck",0
+"2015",24,"FFV","Light truck",0
+"2015",25,"FFV","Light truck",0
+"2015",26,"FFV","Light truck",0
+"2015",27,"FFV","Light truck",0
+"2015",28,"FFV","Light truck",0
+"2015",29,"FFV","Light truck",0
+"2015",30,"FFV","Light truck",0
+"2015",0,"HEV","Light truck",21994
+"2015",1,"HEV","Light truck",25646
+"2015",2,"HEV","Light truck",23062
+"2015",3,"HEV","Light truck",21607
+"2015",4,"HEV","Light truck",27797
+"2015",5,"HEV","Light truck",38121
+"2015",6,"HEV","Light truck",46715
+"2015",7,"HEV","Light truck",54487
+"2015",8,"HEV","Light truck",59524
+"2015",9,"HEV","Light truck",61307
+"2015",10,"HEV","Light truck",43621
+"2015",11,"HEV","Light truck",2317
+"2015",12,"HEV","Light truck",0
+"2015",13,"HEV","Light truck",0
+"2015",14,"HEV","Light truck",0
+"2015",15,"HEV","Light truck",0
+"2015",16,"HEV","Light truck",0
+"2015",17,"HEV","Light truck",0
+"2015",18,"HEV","Light truck",0
+"2015",19,"HEV","Light truck",0
+"2015",20,"HEV","Light truck",0
+"2015",21,"HEV","Light truck",0
+"2015",22,"HEV","Light truck",0
+"2015",23,"HEV","Light truck",0
+"2015",24,"HEV","Light truck",0
+"2015",25,"HEV","Light truck",0
+"2015",26,"HEV","Light truck",0
+"2015",27,"HEV","Light truck",0
+"2015",28,"HEV","Light truck",0
+"2015",29,"HEV","Light truck",0
+"2015",30,"HEV","Light truck",0
+"2015",0,"ICEV-D","Light truck",51820
+"2015",1,"ICEV-D","Light truck",79572
+"2015",2,"ICEV-D","Light truck",31658
+"2015",3,"ICEV-D","Light truck",25696
+"2015",4,"ICEV-D","Light truck",33774
+"2015",5,"ICEV-D","Light truck",19178
+"2015",6,"ICEV-D","Light truck",11328
+"2015",7,"ICEV-D","Light truck",23
+"2015",8,"ICEV-D","Light truck",36
+"2015",9,"ICEV-D","Light truck",5340
+"2015",10,"ICEV-D","Light truck",7579
+"2015",11,"ICEV-D","Light truck",7617
+"2015",12,"ICEV-D","Light truck",7640
+"2015",13,"ICEV-D","Light truck",6008
+"2015",14,"ICEV-D","Light truck",6358
+"2015",15,"ICEV-D","Light truck",5499
+"2015",16,"ICEV-D","Light truck",5767
+"2015",17,"ICEV-D","Light truck",1502
+"2015",18,"ICEV-D","Light truck",3782
+"2015",19,"ICEV-D","Light truck",2490
+"2015",20,"ICEV-D","Light truck",2464
+"2015",21,"ICEV-D","Light truck",2133
+"2015",22,"ICEV-D","Light truck",1577
+"2015",23,"ICEV-D","Light truck",1121
+"2015",24,"ICEV-D","Light truck",872
+"2015",25,"ICEV-D","Light truck",843
+"2015",26,"ICEV-D","Light truck",720
+"2015",27,"ICEV-D","Light truck",530
+"2015",28,"ICEV-D","Light truck",467
+"2015",29,"ICEV-D","Light truck",731
+"2015",30,"ICEV-D","Light truck",724
+"2015",0,"ICEV-G","Light truck",6798411
+"2015",1,"ICEV-G","Light truck",4967346
+"2015",2,"ICEV-G","Light truck",5157055
+"2015",3,"ICEV-G","Light truck",4821808
+"2015",4,"ICEV-G","Light truck",4173303
+"2015",5,"ICEV-G","Light truck",4124561
+"2015",6,"ICEV-G","Light truck",3786470
+"2015",7,"ICEV-G","Light truck",4496180
+"2015",8,"ICEV-G","Light truck",5679383
+"2015",9,"ICEV-G","Light truck",6368022
+"2015",10,"ICEV-G","Light truck",6428858
+"2015",11,"ICEV-G","Light truck",6125314
+"2015",12,"ICEV-G","Light truck",5608168
+"2015",13,"ICEV-G","Light truck",5192407
+"2015",14,"ICEV-G","Light truck",4623765
+"2015",15,"ICEV-G","Light truck",4018276
+"2015",16,"ICEV-G","Light truck",3076329
+"2015",17,"ICEV-G","Light truck",2957510
+"2015",18,"ICEV-G","Light truck",2336041
+"2015",19,"ICEV-G","Light truck",2007337
+"2015",20,"ICEV-G","Light truck",1611872
+"2015",21,"ICEV-G","Light truck",1397456
+"2015",22,"ICEV-G","Light truck",1078694
+"2015",23,"ICEV-G","Light truck",894147
+"2015",24,"ICEV-G","Light truck",772826
+"2015",25,"ICEV-G","Light truck",832001
+"2015",26,"ICEV-G","Light truck",826407
+"2015",27,"ICEV-G","Light truck",843329
+"2015",28,"ICEV-G","Light truck",780900
+"2015",29,"ICEV-G","Light truck",753406
+"2015",30,"ICEV-G","Light truck",721164
+"2015",0,"PHEV","Light truck",19595
+"2015",1,"PHEV","Light truck",0
+"2015",2,"PHEV","Light truck",0
+"2015",3,"PHEV","Light truck",0
+"2015",4,"PHEV","Light truck",0
+"2015",5,"PHEV","Light truck",0
+"2015",6,"PHEV","Light truck",0
+"2015",7,"PHEV","Light truck",0
+"2015",8,"PHEV","Light truck",0
+"2015",9,"PHEV","Light truck",0
+"2015",10,"PHEV","Light truck",0
+"2015",11,"PHEV","Light truck",0
+"2015",12,"PHEV","Light truck",0
+"2015",13,"PHEV","Light truck",0
+"2015",14,"PHEV","Light truck",0
+"2015",15,"PHEV","Light truck",0
+"2015",16,"PHEV","Light truck",0
+"2015",17,"PHEV","Light truck",0
+"2015",18,"PHEV","Light truck",0
+"2015",19,"PHEV","Light truck",0
+"2015",20,"PHEV","Light truck",0
+"2015",21,"PHEV","Light truck",0
+"2015",22,"PHEV","Light truck",0
+"2015",23,"PHEV","Light truck",0
+"2015",24,"PHEV","Light truck",0
+"2015",25,"PHEV","Light truck",0
+"2015",26,"PHEV","Light truck",0
+"2015",27,"PHEV","Light truck",0
+"2015",28,"PHEV","Light truck",0
+"2015",29,"PHEV","Light truck",0
+"2015",30,"PHEV","Light truck",0

@@ -1,0 +1,125 @@
+"Data","Size","Age","value"
+"Survival rate","Car",0,1
+"Survival rate","Car",1,1
+"Survival rate","Car",2,1
+"Survival rate","Car",3,1
+"Survival rate","Car",4,0.988
+"Survival rate","Car",5,0.963
+"Survival rate","Car",6,0.957
+"Survival rate","Car",7,0.951
+"Survival rate","Car",8,0.946
+"Survival rate","Car",9,0.94
+"Survival rate","Car",10,0.934
+"Survival rate","Car",11,0.927
+"Survival rate","Car",12,0.921
+"Survival rate","Car",13,0.914
+"Survival rate","Car",14,0.91
+"Survival rate","Car",15,0.9
+"Survival rate","Car",16,0.9
+"Survival rate","Car",17,0.89
+"Survival rate","Car",18,0.88
+"Survival rate","Car",19,0.87
+"Survival rate","Car",20,0.87
+"Survival rate","Car",21,0.858
+"Survival rate","Car",22,0.854
+"Survival rate","Car",23,0.841
+"Survival rate","Car",24,0.813
+"Survival rate","Car",25,0.813
+"Survival rate","Car",26,0.813
+"Survival rate","Car",27,0.813
+"Survival rate","Car",28,0.813
+"Survival rate","Car",29,0.813
+"Survival rate","Car",30,0.813
+"Survival rate","Light truck",0,1
+"Survival rate","Light truck",1,1
+"Survival rate","Light truck",2,0.99
+"Survival rate","Light truck",3,0.973
+"Survival rate","Light truck",4,0.968
+"Survival rate","Light truck",5,0.961
+"Survival rate","Light truck",6,0.955
+"Survival rate","Light truck",7,0.949
+"Survival rate","Light truck",8,0.943
+"Survival rate","Light truck",9,0.936
+"Survival rate","Light truck",10,0.929
+"Survival rate","Light truck",11,0.923
+"Survival rate","Light truck",12,0.914
+"Survival rate","Light truck",13,0.908
+"Survival rate","Light truck",14,0.901
+"Survival rate","Light truck",15,0.89
+"Survival rate","Light truck",16,0.88
+"Survival rate","Light truck",17,0.88
+"Survival rate","Light truck",18,0.87
+"Survival rate","Light truck",19,0.86
+"Survival rate","Light truck",20,0.85
+"Survival rate","Light truck",21,0.843
+"Survival rate","Light truck",22,0.837
+"Survival rate","Light truck",23,0.918
+"Survival rate","Light truck",24,0.931
+"Survival rate","Light truck",25,0.931
+"Survival rate","Light truck",26,0.931
+"Survival rate","Light truck",27,0.931
+"Survival rate","Light truck",28,0.931
+"Survival rate","Light truck",29,0.931
+"Survival rate","Light truck",30,0.931
+"Cumulative Survival rate","Car",0,1
+"Cumulative Survival rate","Car",1,1
+"Cumulative Survival rate","Car",2,1
+"Cumulative Survival rate","Car",3,1
+"Cumulative Survival rate","Car",4,0.988
+"Cumulative Survival rate","Car",5,0.951444
+"Cumulative Survival rate","Car",6,0.910531908
+"Cumulative Survival rate","Car",7,0.865915844508
+"Cumulative Survival rate","Car",8,0.819156388904568
+"Cumulative Survival rate","Car",9,0.770007005570294
+"Cumulative Survival rate","Car",10,0.719186543202654
+"Cumulative Survival rate","Car",11,0.666685925548861
+"Cumulative Survival rate","Car",12,0.614017737430501
+"Cumulative Survival rate","Car",13,0.561212212011478
+"Cumulative Survival rate","Car",14,0.510703112930445
+"Cumulative Survival rate","Car",15,0.4596328016374
+"Cumulative Survival rate","Car",16,0.41366952147366
+"Cumulative Survival rate","Car",17,0.368165874111557
+"Cumulative Survival rate","Car",18,0.323985969218171
+"Cumulative Survival rate","Car",19,0.281867793219808
+"Cumulative Survival rate","Car",20,0.245224980101233
+"Cumulative Survival rate","Car",21,0.210403032926858
+"Cumulative Survival rate","Car",22,0.179684190119537
+"Cumulative Survival rate","Car",23,0.151114403890531
+"Cumulative Survival rate","Car",24,0.122856010363001
+"Cumulative Survival rate","Car",25,0.0998819364251201
+"Cumulative Survival rate","Car",26,0.0812040143136226
+"Cumulative Survival rate","Car",27,0.0660188636369752
+"Cumulative Survival rate","Car",28,0.0536733361368608
+"Cumulative Survival rate","Car",29,0.0436364222792678
+"Cumulative Survival rate","Car",30,0.0354764113130447
+"Cumulative Survival rate","Light truck",0,1
+"Cumulative Survival rate","Light truck",1,1
+"Cumulative Survival rate","Light truck",2,0.99
+"Cumulative Survival rate","Light truck",3,0.96327
+"Cumulative Survival rate","Light truck",4,0.93244536
+"Cumulative Survival rate","Light truck",5,0.89607999096
+"Cumulative Survival rate","Light truck",6,0.8557563913668
+"Cumulative Survival rate","Light truck",7,0.812112815407093
+"Cumulative Survival rate","Light truck",8,0.765822384928889
+"Cumulative Survival rate","Light truck",9,0.71680975229344
+"Cumulative Survival rate","Light truck",10,0.665916259880606
+"Cumulative Survival rate","Light truck",11,0.614640707869799
+"Cumulative Survival rate","Light truck",12,0.561781606992996
+"Cumulative Survival rate","Light truck",13,0.510097699149641
+"Cumulative Survival rate","Light truck",14,0.459598026933826
+"Cumulative Survival rate","Light truck",15,0.409042243971105
+"Cumulative Survival rate","Light truck",16,0.359957174694573
+"Cumulative Survival rate","Light truck",17,0.316762313731224
+"Cumulative Survival rate","Light truck",18,0.275583212946165
+"Cumulative Survival rate","Light truck",19,0.237001563133702
+"Cumulative Survival rate","Light truck",20,0.201451328663647
+"Cumulative Survival rate","Light truck",21,0.169823470063454
+"Cumulative Survival rate","Light truck",22,0.142142244443111
+"Cumulative Survival rate","Light truck",23,0.130486580398776
+"Cumulative Survival rate","Light truck",24,0.12148300635126
+"Cumulative Survival rate","Light truck",25,0.113100678913023
+"Cumulative Survival rate","Light truck",26,0.105296732068025
+"Cumulative Survival rate","Light truck",27,0.0980312575553311
+"Cumulative Survival rate","Light truck",28,0.0912671007840133
+"Cumulative Survival rate","Light truck",29,0.0849696708299164
+"Cumulative Survival rate","Light truck",30,0.0791067635426521

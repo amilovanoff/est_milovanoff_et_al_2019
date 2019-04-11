@@ -1,0 +1,17 @@
+"LWscen","Year","Phase","GWP100","Case","delta_GWP100"
+"Aluminum Intensive",2030,"Primary Material Production",718647615500.013,"Closed loop",-117089940722.645
+"Aluminum Maximum",2030,"Primary Material Production",958351443030.462,"Closed loop",-118884722887.377
+"No Lightweighting",2030,"Primary Material Production",624542971721.092,"Closed loop",-117703178872.917
+"Steel Intensive",2030,"Primary Material Production",594057267015.396,"Closed loop",-118304988555.262
+"Aluminum Intensive",2050,"Primary Material Production",1222157811203.95,"Closed loop",-753393376565.917
+"Aluminum Maximum",2050,"Primary Material Production",1809031084842.01,"Closed loop",-995444590550.052
+"No Lightweighting",2050,"Primary Material Production",999299113567.9,"Closed loop",-697430932740.439
+"Steel Intensive",2050,"Primary Material Production",920157444948.68,"Closed loop",-674337686619.18
+"Aluminum Intensive",2030,"Secondary Material Production",162812767424.413,"Closed loop",29213754656.4848
+"Aluminum Maximum",2030,"Secondary Material Production",171054387838.487,"Closed loop",29068181743.9092
+"No Lightweighting",2030,"Secondary Material Production",159092333301.154,"Closed loop",29588400542.7864
+"Steel Intensive",2030,"Secondary Material Production",155778660454.549,"Closed loop",29638920470.5392
+"Aluminum Intensive",2050,"Secondary Material Production",502843185426.151,"Closed loop",167929091586.096
+"Aluminum Maximum",2050,"Secondary Material Production",558976837503.325,"Closed loop",189701311264.656
+"No Lightweighting",2050,"Secondary Material Production",480254307662.407,"Closed loop",169669380040.385
+"Steel Intensive",2050,"Secondary Material Production",460867069680.071,"Closed loop",163871405104.747

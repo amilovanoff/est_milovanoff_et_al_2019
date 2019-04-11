@@ -1,0 +1,225 @@
+"Scenario","Size","Technology","Subcomponent","2030"
+"Steel Intensive","Car","ICEV-G","Engine",-5.88775512227178
+"Steel Intensive","Car","ICEV-G","Fuel storage system",-1.57707726489424
+"Steel Intensive","Car","BEV100","Electronic Controller",-4.23365852036156
+"Steel Intensive","Car","BEV100","Traction Motor",-5.17844744042867
+"Steel Intensive","Car","BEV300","Electronic Controller",-3.62048994450871
+"Steel Intensive","Car","BEV300","Traction Motor",-6.44034618876448
+"Steel Intensive","Car","FFV","Engine",-5.89769647783925
+"Steel Intensive","Car","FFV","Fuel storage system",-1.57974012799264
+"Steel Intensive","Car","ICEV-D","Engine",-6.30579145943238
+"Steel Intensive","Car","ICEV-D","Fuel storage system",-1.68905128377656
+"Steel Intensive","Car","CNG","Engine",-5.89769647783925
+"Steel Intensive","Car","CNG","Fuel storage system",-1.57974012799264
+"Steel Intensive","Car","HEV","Electronic Controller",-0.486804235923763
+"Steel Intensive","Car","HEV","Engine",-4.21304277521637
+"Steel Intensive","Car","HEV","EV Battery",-1.46482532255757
+"Steel Intensive","Car","HEV","Generator",-0.981022181761304
+"Steel Intensive","Car","HEV","Traction Motor",-0.636822270985178
+"Steel Intensive","Car","PHEV20","Electronic Controller",-0.955247491557216
+"Steel Intensive","Car","PHEV20","Engine",-7.26579305612199
+"Steel Intensive","Car","PHEV20","Generator",-1.79616449745397
+"Steel Intensive","Car","PHEV20","Traction Motor",-1.27217196402858
+"Steel Intensive","Car","PHEV40","Electronic Controller",-1.13453996013338
+"Steel Intensive","Car","PHEV40","Engine",-8.82149444151992
+"Steel Intensive","Car","PHEV40","Generator",-3.07274794063827
+"Steel Intensive","Car","PHEV40","Traction Motor",-2.49011379595501
+"Steel Intensive","Car","FCV","Electronic Controller",-2.07098800249231
+"Steel Intensive","Car","FCV","Fuel cell stack",-5.97904676445236
+"Steel Intensive","Car","FCV","Traction Motor",-2.3417229380612
+"Steel Intensive","Light truck","ICEV-G","Engine",-9.88528488040669
+"Steel Intensive","Light truck","ICEV-G","Fuel storage system",-2.64784416439466
+"Steel Intensive","Light truck","BEV100","Electronic Controller",-5.16719978184251
+"Steel Intensive","Light truck","BEV100","Traction Motor",-6.48126550212513
+"Steel Intensive","Light truck","BEV300","Electronic Controller",-4.17751361909048
+"Steel Intensive","Light truck","BEV300","Traction Motor",-7.82207942777015
+"Steel Intensive","Light truck","FFV","Engine",-9.91910509987727
+"Steel Intensive","Light truck","FFV","Fuel storage system",-2.65690315175275
+"Steel Intensive","Light truck","ICEV-D","Engine",-13.0061311258476
+"Steel Intensive","Light truck","ICEV-D","Fuel storage system",-3.48378512299483
+"Steel Intensive","Light truck","CNG","Engine",-9.91910509987727
+"Steel Intensive","Light truck","CNG","Fuel storage system",-2.65690315175275
+"Steel Intensive","Light truck","HEV","Electronic Controller",-0.94209371488224
+"Steel Intensive","Light truck","HEV","Engine",-6.62301811953083
+"Steel Intensive","Light truck","HEV","EV Battery",-2.22233538616901
+"Steel Intensive","Light truck","HEV","Generator",-1.6964420337705
+"Steel Intensive","Light truck","HEV","Traction Motor",-1.25348268845904
+"Steel Intensive","Light truck","PHEV20","Electronic Controller",-1.38944533120397
+"Steel Intensive","Light truck","PHEV20","Engine",-9.2226348820723
+"Steel Intensive","Light truck","PHEV20","Generator",-2.56021463949988
+"Steel Intensive","Light truck","PHEV20","Traction Motor",-1.94730235317359
+"Steel Intensive","Light truck","PHEV40","Electronic Controller",-1.53058254637306
+"Steel Intensive","Light truck","PHEV40","Engine",-10.4703206682542
+"Steel Intensive","Light truck","PHEV40","Generator",-4.2132971074665
+"Steel Intensive","Light truck","PHEV40","Traction Motor",-3.58279519725896
+"Steel Intensive","Light truck","FCV","Electronic Controller",-2.72207400748511
+"Steel Intensive","Light truck","FCV","Fuel cell stack",-7.77920663617616
+"Steel Intensive","Light truck","FCV","Traction Motor",-3.07066020960897
+"Aluminum Intensive","Car","ICEV-G","Engine",-17.2848945603091
+"Aluminum Intensive","Car","ICEV-G","Fuel storage system",-4.62988247151139
+"Aluminum Intensive","Car","BEV100","Electronic Controller",-8.75609067574074
+"Aluminum Intensive","Car","BEV100","Traction Motor",-10.7101116280106
+"Aluminum Intensive","Car","BEV300","Electronic Controller",-7.44075904151175
+"Aluminum Intensive","Car","BEV300","Traction Motor",-13.2360716005296
+"Aluminum Intensive","Car","FFV","Engine",-17.3199428345256
+"Aluminum Intensive","Car","FFV","Fuel storage system",-4.63927040210506
+"Aluminum Intensive","Car","ICEV-D","Engine",-18.5631106894889
+"Aluminum Intensive","Car","ICEV-D","Fuel storage system",-4.97226179182741
+"Aluminum Intensive","Car","CNG","Engine",-17.3199428345256
+"Aluminum Intensive","Car","CNG","Fuel storage system",-4.63927040210506
+"Aluminum Intensive","Car","HEV","Electronic Controller",-1.41877095054764
+"Aluminum Intensive","Car","HEV","Engine",-12.2787401213726
+"Aluminum Intensive","Car","HEV","EV Battery",-4.28063654190505
+"Aluminum Intensive","Car","HEV","Generator",-2.85914885412723
+"Aluminum Intensive","Car","HEV","Traction Motor",-1.85599235187639
+"Aluminum Intensive","Car","PHEV20","Electronic Controller",-2.16584352043359
+"Aluminum Intensive","Car","PHEV20","Engine",-16.473815372977
+"Aluminum Intensive","Car","PHEV20","Generator",-4.07246422819885
+"Aluminum Intensive","Car","PHEV20","Traction Motor",-2.8844099874859
+"Aluminum Intensive","Car","PHEV40","Electronic Controller",-2.3994189526344
+"Aluminum Intensive","Car","PHEV40","Engine",-18.6564261262808
+"Aluminum Intensive","Car","PHEV40","Generator",-6.49850151119331
+"Aluminum Intensive","Car","PHEV40","Traction Motor",-5.26629862867797
+"Aluminum Intensive","Car","FCV","Electronic Controller",-5.47909140891038
+"Aluminum Intensive","Car","FCV","Fuel cell stack",-15.8184131058023
+"Aluminum Intensive","Car","FCV","Traction Motor",-6.19535893811968
+"Aluminum Intensive","Light truck","ICEV-G","Engine",-25.2098418643355
+"Aluminum Intensive","Light truck","ICEV-G","Fuel storage system",-6.75263621366133
+"Aluminum Intensive","Light truck","BEV100","Electronic Controller",-10.5731193043532
+"Aluminum Intensive","Light truck","BEV100","Traction Motor",-13.2619593378139
+"Aluminum Intensive","Light truck","BEV300","Electronic Controller",-8.57872151050634
+"Aluminum Intensive","Light truck","BEV300","Traction Motor",-16.0630095225185
+"Aluminum Intensive","Light truck","FFV","Engine",-25.2838464276453
+"Aluminum Intensive","Light truck","FFV","Fuel storage system",-6.77245886454786
+"Aluminum Intensive","Light truck","ICEV-D","Engine",-32.0207758356105
+"Aluminum Intensive","Light truck","ICEV-D","Fuel storage system",-8.57699352739569
+"Aluminum Intensive","Light truck","CNG","Engine",-25.2838464276453
+"Aluminum Intensive","Light truck","CNG","Fuel storage system",-6.77245886454786
+"Aluminum Intensive","Light truck","HEV","Electronic Controller",-2.45908127545687
+"Aluminum Intensive","Light truck","HEV","Engine",-17.2876005725032
+"Aluminum Intensive","Light truck","HEV","EV Battery",-5.81802964448657
+"Aluminum Intensive","Light truck","HEV","Generator",-4.42810388631496
+"Aluminum Intensive","Light truck","HEV","Traction Motor",-3.271878115315
+"Aluminum Intensive","Light truck","PHEV20","Electronic Controller",-2.96670936063959
+"Aluminum Intensive","Light truck","PHEV20","Engine",-19.6919422592155
+"Aluminum Intensive","Light truck","PHEV20","Generator",-5.4665070770861
+"Aluminum Intensive","Light truck","PHEV20","Traction Motor",-4.15783189839473
+"Aluminum Intensive","Light truck","PHEV40","Electronic Controller",-3.14388807246291
+"Aluminum Intensive","Light truck","PHEV40","Engine",-21.5065279176149
+"Aluminum Intensive","Light truck","PHEV40","Generator",-8.65430914085312
+"Aluminum Intensive","Light truck","PHEV40","Traction Motor",-7.35922875471917
+"Aluminum Intensive","Light truck","FCV","Electronic Controller",-6.89562431088733
+"Aluminum Intensive","Light truck","FCV","Fuel cell stack",-19.7064761106151
+"Aluminum Intensive","Light truck","FCV","Traction Motor",-7.77867138572613
+"Aluminum Maximum","Car","ICEV-G","Engine",-11.2004072814259
+"Aluminum Maximum","Car","ICEV-G","Fuel storage system",-8.5856534339827
+"Aluminum Maximum","Car","BEV100","Electronic Controller",-13.6751211734533
+"Aluminum Maximum","Car","BEV100","Traction Motor",-16.7268795765259
+"Aluminum Maximum","Car","BEV300","Electronic Controller",-11.62109684362
+"Aluminum Maximum","Car","BEV300","Traction Motor",-20.6723089728747
+"Aluminum Maximum","Car","FFV","Engine",-11.2323768245001
+"Aluminum Maximum","Car","FFV","Fuel storage system",-8.60156964981866
+"Aluminum Maximum","Car","ICEV-D","Engine",-12.3705945204962
+"Aluminum Maximum","Car","ICEV-D","Fuel storage system",-9.16564268387964
+"Aluminum Maximum","Car","CNG","Engine",-11.2323768245001
+"Aluminum Maximum","Car","CNG","Fuel storage system",-8.60156964981866
+"Aluminum Maximum","Car","HEV","Electronic Controller",-2.61121697977182
+"Aluminum Maximum","Car","HEV","Engine",-6.63683367881109
+"Aluminum Maximum","Car","HEV","EV Battery",-7.90704271077154
+"Aluminum Maximum","Car","HEV","Generator",-5.26220108517893
+"Aluminum Maximum","Car","HEV","Traction Motor",-3.41591342963111
+"Aluminum Maximum","Car","PHEV20","Electronic Controller",-3.68047277677598
+"Aluminum Maximum","Car","PHEV20","Engine",-10.3098679553504
+"Aluminum Maximum","Car","PHEV20","Generator",-6.92044165927511
+"Aluminum Maximum","Car","PHEV20","Traction Motor",-4.90155098272157
+"Aluminum Maximum","Car","PHEV40","Electronic Controller",-4.00062261901581
+"Aluminum Maximum","Car","PHEV40","Engine",-12.1639912018331
+"Aluminum Maximum","Car","PHEV40","Generator",-10.8351449449228
+"Aluminum Maximum","Car","PHEV40","Traction Motor",-8.78065641235756
+"Aluminum Maximum","Car","FCV","Electronic Controller",-9.20744604342023
+"Aluminum Maximum","Car","FCV","Fuel cell stack",-26.5823608869426
+"Aluminum Maximum","Car","FCV","Traction Motor",-10.4111117857223
+"Aluminum Maximum","Light truck","ICEV-G","Engine",-18.8847057974151
+"Aluminum Maximum","Light truck","ICEV-G","Fuel storage system",-12.0228927280705
+"Aluminum Maximum","Light truck","BEV100","Electronic Controller",-16.4956538501443
+"Aluminum Maximum","Light truck","BEV100","Traction Motor",-20.6906480778287
+"Aluminum Maximum","Light truck","BEV300","Electronic Controller",-13.3426797995336
+"Aluminum Maximum","Light truck","BEV300","Traction Motor",-24.983162399355
+"Aluminum Maximum","Light truck","FFV","Engine",-18.9549433150761
+"Aluminum Maximum","Light truck","FFV","Fuel storage system",-12.0559840126296
+"Aluminum Maximum","Light truck","ICEV-D","Engine",-25.4215897887557
+"Aluminum Maximum","Light truck","ICEV-D","Fuel storage system",-15.0611651849955
+"Aluminum Maximum","Light truck","CNG","Engine",-18.9549433150761
+"Aluminum Maximum","Light truck","CNG","Fuel storage system",-12.0559840126296
+"Aluminum Maximum","Light truck","HEV","Electronic Controller",-4.34771089453848
+"Aluminum Maximum","Light truck","HEV","Engine",-11.3055008079646
+"Aluminum Maximum","Light truck","HEV","EV Battery",-10.3265305313553
+"Aluminum Maximum","Light truck","HEV","Generator",-7.82898706961311
+"Aluminum Maximum","Light truck","HEV","Traction Motor",-5.78475395243464
+"Aluminum Maximum","Light truck","PHEV20","Electronic Controller",-4.91668375195163
+"Aluminum Maximum","Light truck","PHEV20","Engine",-13.726466210465
+"Aluminum Maximum","Light truck","PHEV20","Generator",-9.05956170915336
+"Aluminum Maximum","Light truck","PHEV20","Traction Motor",-6.89071359985736
+"Aluminum Maximum","Light truck","PHEV40","Electronic Controller",-5.15241832753764
+"Aluminum Maximum","Light truck","PHEV40","Engine",-15.19789112994
+"Aluminum Maximum","Light truck","PHEV40","Generator",-14.1832724326525
+"Aluminum Maximum","Light truck","PHEV40","Traction Motor",-12.0608063132007
+"Aluminum Maximum","Light truck","FCV","Electronic Controller",-11.4343621246568
+"Aluminum Maximum","Light truck","FCV","Fuel cell stack",-32.6773869762462
+"Aluminum Maximum","Light truck","FCV","Traction Motor",-12.8986356366121
+NA,"Car","ICEV-G","Engine",0
+NA,"Car","ICEV-G","Fuel storage system",0
+NA,"Car","BEV100","Electronic Controller",0
+NA,"Car","BEV100","Traction Motor",0
+NA,"Car","BEV300","Electronic Controller",0
+NA,"Car","BEV300","Traction Motor",0
+NA,"Car","FFV","Engine",0
+NA,"Car","FFV","Fuel storage system",0
+NA,"Car","ICEV-D","Engine",0
+NA,"Car","ICEV-D","Fuel storage system",0
+NA,"Car","CNG","Engine",0
+NA,"Car","CNG","Fuel storage system",0
+NA,"Car","HEV","Electronic Controller",0
+NA,"Car","HEV","Engine",0
+NA,"Car","HEV","EV Battery",0
+NA,"Car","HEV","Generator",0
+NA,"Car","HEV","Traction Motor",0
+NA,"Car","PHEV20","Electronic Controller",0
+NA,"Car","PHEV20","Engine",0
+NA,"Car","PHEV20","Generator",0
+NA,"Car","PHEV20","Traction Motor",0
+NA,"Car","PHEV40","Electronic Controller",0
+NA,"Car","PHEV40","Engine",0
+NA,"Car","PHEV40","Generator",0
+NA,"Car","PHEV40","Traction Motor",0
+NA,"Car","FCV","Electronic Controller",0
+NA,"Car","FCV","Fuel cell stack",0
+NA,"Car","FCV","Traction Motor",0
+NA,"Light truck","ICEV-G","Engine",0
+NA,"Light truck","ICEV-G","Fuel storage system",0
+NA,"Light truck","BEV100","Electronic Controller",0
+NA,"Light truck","BEV100","Traction Motor",0
+NA,"Light truck","BEV300","Electronic Controller",0
+NA,"Light truck","BEV300","Traction Motor",0
+NA,"Light truck","FFV","Engine",0
+NA,"Light truck","FFV","Fuel storage system",0
+NA,"Light truck","ICEV-D","Engine",0
+NA,"Light truck","ICEV-D","Fuel storage system",0
+NA,"Light truck","CNG","Engine",0
+NA,"Light truck","CNG","Fuel storage system",0
+NA,"Light truck","HEV","Electronic Controller",0
+NA,"Light truck","HEV","Engine",0
+NA,"Light truck","HEV","EV Battery",0
+NA,"Light truck","HEV","Generator",0
+NA,"Light truck","HEV","Traction Motor",0
+NA,"Light truck","PHEV20","Electronic Controller",0
+NA,"Light truck","PHEV20","Engine",0
+NA,"Light truck","PHEV20","Generator",0
+NA,"Light truck","PHEV20","Traction Motor",0
+NA,"Light truck","PHEV40","Electronic Controller",0
+NA,"Light truck","PHEV40","Engine",0
+NA,"Light truck","PHEV40","Generator",0
+NA,"Light truck","PHEV40","Traction Motor",0
+NA,"Light truck","FCV","Electronic Controller",0
+NA,"Light truck","FCV","Fuel cell stack",0
+NA,"Light truck","FCV","Traction Motor",0
