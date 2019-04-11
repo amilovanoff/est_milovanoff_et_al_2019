@@ -6,10 +6,13 @@ This repository contains the input data, R codes and results of the model develo
 
 # How to use this repository
 This repository will not be updated but can be cloned and can serve new researches in the field. Feel free me to contact if you have any questions via email (alexandre.milovanoff@mail.utoronto.ca) or by GitHub @amilovanoff.
+There are two ways to use this repository:
+* Install the model and play with it: Read the following sections on how to set up and run the model.
+* Extract the raw data of the study's result: [Manuscript's raw data](https://github.com/amilovanoff/est_milovanoff_et_al_2019/tree/master/reports/paper_raw_data) and [Supplementary information's raw data](https://github.com/amilovanoff/est_milovanoff_et_al_2019/tree/master/reports/si_raw_data).
 
 # How to set up the model the first time
 * Download the model from this repository on your local computer.
-* The model was developed using R and RStudio. Install RStudio: https://www.rstudio.com/products/rstudio/. I use the RStudio Desktop Open Source License (free).
+* The model was developed using R and RStudio. [Install](https://www.rstudio.com/products/rstudio/) RStudio. I use the RStudio Desktop Open Source License (free).
 * Once R and Rstudio are operationals, open the repository on your computer and open the file 'model_setup.RProj' in the main folder. It opens RStudio and sets up the working directory to the repository folder.
 * Open and run "architecture/library_dependencies.R". It installs all the packages used at some point in the model (i.e., in the functions or to create the plots). The model is operational.
 
